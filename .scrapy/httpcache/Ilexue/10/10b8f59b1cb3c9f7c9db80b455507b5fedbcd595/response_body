@@ -1,0 +1,1927 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1">
+ <title>视频播放 - 用友网络科技股份有限公司</title>
+ <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+ <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+ <meta name="keywords" content="" />
+ <meta name="description" content="" />
+   <script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/tingyun-rum.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery-1.9.1.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery-ui-1.9.2.custom.min.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.livequery.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.validate_new.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.mCustomScrollbar.concat.min.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/dist/common.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/functions.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/plugin/layer/layer.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/languages/jquery.i18n.properties-1.0.9.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/languages/main.js?v=9.9.235"></script><script type="text/javascript">currentSkinName="elearning30";var lecaiAPiUrl="https://api-qidatestin.yunxuetang.cn/v1/";</script><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/modified.min.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/normalize.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/elearning.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/uc/ui.core.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/style.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/Zebra_DatePicker.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="/CSS/iconfonts/iconfont.css?v=9.9.235" rel="stylesheet" type="text/css" /><link href="/CSS/cfont/iconfont.css?v=9.9.235" rel="stylesheet" type="text/css" /><link href="/CSS/navfont/iconfont.css?v=9.9.235" rel="stylesheet" type="text/css" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/font-awesome/4.4.0/css/font-awesome.css?v=9.9.235" type="text/css" rel="stylesheet" />
+ 
+ <!--[if lte IE 8]>
+ <link rel="stylesheet" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/IE8.css" />
+<script src='https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/IE8.js' type="text/javascript"></script>
+ <![endif]-->
+
+</head>
+
+<body lang="zh" class="mainbg kng_videoplayer_body">
+ <div class="kng_videoplayer_layout">
+ <div class="topnotice" style="background-color:#444444;">
+ <div class="noticemsg" style="width:1000px; color:#F0F0F0;"><span class="content"></span></div>
+ </div>
+
+ <div class="bg-greydark pr clearfix">
+  <form method="post" action="/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_8899595b14a74007aa095a8f55fb72ac.html" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'btn')" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="PMBuhNBWn6MM4knq/4xmcvfcZ0sm2+yfa6QsoHlQGuCeFybkSjcDKSe2B9PXCKmy0U3JCnnDJP32ZX6nOiQUXIrTH2FRK/lR3K9yvFk2qVJzDC4Ii3NkORxugoTwr5mWscJImJAHXIEPpHGmh/vsYnWG6Eusj4IA/Swb15tdOj6qRKE8xMntjYX63fe8TvJHXg1WzCaX4hNErIOI6xxu00Y5XOUFsxBMImMbFtHEozkeNqEptwI2WtQmbLTATFes/xI+TC+r+iiny1X/EnXF6P8OOB6Sg/KwLXRFgfYa/18XehkQy4phdBB/LtE2/lX81F0QLSRy9MJFFjW02F9vtPc+hiYidiXvyRUiYfOoiW76ihkGpByfL+2sBwF6USwNwaKrwlJhhb+eUwz8Q8VGjG4Kj6sPVTeSnZazuTCpyypgZ7hAnoujca9WckWwPnA/OSqC9xhzXYac+/DcfQ71zFgAXj0kkq278mV2bUiSASZTvIrN91lO3MnvOeLzB0hb+el83uDJ6D4w2YMszxLOQYBZZivPKgy4dNuD0gaaNAImw3j6LDA1sGVMagY0eSqIkG/QvktlLB8x5uHh3/R0tqEq2GKwaLAHBE3tiR8LngdSAd8ppiy17LU29coj/12Wee6mygZPP1Cx446aAnGu9zffFgB6jkNIKyYx7zujZZbhV27NOm1ZEyi1Mx9UHf22tzA06oDCxtp3Y+V8zTCxVMwyWfpiB1Y9oSTnRbW9dGRwxNIMl3c4oAqrtT7ms7O7A+hkQ0V983xGjt9I5a88s3mhXtTyuMBcbf6d5D9NGFARQtkfnywIs+YygPdrYbGruRgSn2ECNhF9B+OcT9UcP08iVi938ypnr3wI+qeKG2xNnIT1x+UGg6D0UJ3HNRYBXM3PjkvhsevVPr2KNsGV10yDJrMuqh+vjULYAXrwHWrSgS564Pml1VVCBPU4D13wV0DkaPoJB/uPzgoe3pE4WZMzL60Bv2a97nzzGoGSrogn1c93N56GuZyV8eRBjuULSHogPIwl4yDNGv2ln9MJ36eTdD8Xiy1Nu+KIAaSm3Uv1qFhzHYW2YQ6OWBkRpVCMOSoo0ifd/KO46k6s56gYqH10gwqdYr1muLdgXOs8ZWJDmnf3ZHBjwTiz1Zvn5YKE9KvLREiTXCC3ppPvrMAITVThc7zwDkw1WvJMTJEBDTAYVOwocmGhqAFoFOIY5mSoxoQq4CHVceptqgvtsjF5G+LZAFHNb5c6WBrV5UFOT5JzDRIgsvsKZRdggwx2GunnU39waW63WrZS+G9sdZc1p8yB5r2SR46lLgI2ZyiGBCU20svjFWdjf28GE3C8dmjOwM2DDljYyBvv9R3uWvoijJq/qq1/RRfFC4YR4+pSMpwjk57GBn164GQkkT9fiqh6AYru3SNl6IXGCpdOGVZ0uFhjC3PP6gMuHBN6rhID63Phd7kBwWLJRO73klOdRE58o3ubUWZtj4SIHtGy2Io7BpD7e4xHVeo/ZmprXBjnqHmZrqLjxuPtcy9vPDvLekRCHJoDS9j8hyNdrmYXH4x1oAJfi0q/ZtP+mc5Z1LU0uLu4BaZs/KZxmzCkDvgOGcqureiCxmxesI8GaGNRfLMuiV1wxH5QbepU+SqpJk+XMA4xfEJQi/fHLkPzJND4HLxE3/jTbB6StO+/+1XBe0BPEhwungxi0mfKhDPCHSKhDWOpnNagJ2ARVqzy8k5/sbaubCYQiI0l6ef+4bwgWflN3/4BFwocETzUup1zig==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=Ac9eIvTF3wgLUR8jOWXkLAk4W5fQhG-DBIEe_sDtj3UtMYrGpN7ozJXBs0Bpwz_GzfayC7jCqbZgh36O0&amp;t=636765175280000000" type="text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=2oQfqCM9ugfAfMriaP0IzRVX86t9k6G4oaBU_M31mAuHYCfYkbD0Y2AXwbS3WG8A12nzDjMf6NDCBiSf0&amp;t=636765175280000000" type="text/javascript"></script>
+
+    <style type="text/css">
+        .jw-skin-bce .jw-slider-horizontal .jw-knob
+        {
+            top: 0 !important;
+        }
+        
+        .el-video-play
+        {
+            background-color: #fff !important;
+        }
+        
+        .pt50
+        {
+            padding-top: 0px;
+        }
+        
+        .el-three-catalog
+        {
+            top: 181px !important;
+        }
+        
+        .el-three-video-left
+        {
+            width: 370px;
+        }
+        
+        .el-three-video-right
+        {
+            width: 830px;
+            padding-left: 5px;
+        }
+    </style>
+
+    
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/knowledge.css" />
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/comment.css" />
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/kng.css" />
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/kng01.css" />
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/kngIssue.css" />
+    <div class="bg-white clearfix">
+        <input type="submit" name="btn" value="" onclick="return false;" id="btn" class="hiddenelement" />
+        <div class="el-play-top-bar" id="anchor_link">
+            <div class="span-10 ellipsis">
+                <span id="divGoBack" style="display:;" class="iconfont hand icon-fanhui d-in-block font-size-16" onclick="GoBack();"></span><span class="font-size-16 ml20 text-white">
+                        <span id="lblTitle">营销云基础服务</span></span>
+            </div>            
+            <div id="divDownLoad" class="clearfix pull-right hidden" style="height: 60px;line-height: 60px;">
+                <!--文件下载-->
+                <div class="el-download ml25 hand hide" id="el-download">
+                    <span class="el-icon-download v-mid el-icon-wrap"></span>
+                    <span id="hidDownCount" class="icon-download-count"></span><i id="hidAddIcon" class="el-adds hide">+</i>
+                </div>
+                <!--下载列表-->
+                <div id="doc-download" class="doc-download hide">
+                    <div class="el-download-title ph13">
+                        <span class="download-manager font-size-14 font-bold text-normal"  data-localize="lbl_msg_downloadmgmt"></span>   
+                        <span id="spNoMsg" class="text-info font-size-13 ml10" onclick="DeleteAllFiles()" data-localize="lbl_msg_clearall"></span>  
+                    </div>
+                    <div id="divNoMsg" style="height: 528px;" class="text-center hide">
+                        <div class="no-data-img clearfix">
+                            <span class="font-size-14 text-grey nodata" data-localize="common_msg_nodata"></span>  
+                        </div>
+                    </div>
+                    <ul id="ulKngDownList" class="doc-lists ph13">
+                    </ul>
+                </div>
+            </div>
+            <div id="divHead2" class="pull-right font-size-12">
+                <span id="divexpiredTime" style="display: none;"><span class="el-icon-info v-mid mr5">
+                </span><span class="text-white v-mid font-size-12 mr40"><span data-localize="common_lbl_course">
+                </span><span id="showExpireTime">2014-3-14</span><span data-localize="opt_lbl_expired"></span></span></span>
+                <div id="divProcessArea" class="el-course-progress v-mid" style="display:;">
+                    <div id="divScheduleWidth" class="el-course-progress-inner" style="width: 0%">
+                    </div>
+                </div>
+                <span id="ScheduleText" class="v-mid ml5" style="display:;">0%</span>
+                <span id="divCheat" style="display: none;"><span class="sighmark">&nbsp;</span><span
+                    data-localizeph="kng_lbl_studytrackanticheating"><span id="spanstudytitle"><span id="lbTitle"></span></span></span><input id="btnStudy" type="button"
+                            class="btnfinished" value='我要学习此视频'
+                            onclick="StartCurStudy();" />
+                </span><span id="divNotStartArea" style="display:none;"><span data-localize="kng_lbl_studyCountdownview">
+                </span><span class="font-size-14 text-white" id="spanCountdown">15<span data-localize="kng_tip_seconds"></span></span><span
+                    data-localize="kng_lbl_studyCountdownaddprogress"></span>
+                </span><span id="divStartArea" style="display:;"><span class="ml25"
+                    data-localize="kng_lbl_studysurplusone"></span><span class="font-size-14 text-white"
+                        id="spanLeavTimes">0<span data-localize="kng_tip_seconds"></span></span><span data-localize="kng_lbl_studysurplustwo"></span>
+                    <span style="display: none;"><span id="spanStudyScroeShow" style="display:;" class="ml25"><span data-localize="common_lbl_gotscore"></span>：<span
+                            class="text-white"><span id="spanobscore">0.0</span>/<span id="spantalscore">3.25</span></span></span></span>
+                    <span id="spanCmp" class="ml10"></span>
+                </span><span id="divCompletedArea" style="display:none;"><span id="spanFinishContent"
+                    class="ml25">
+                    恭喜您已完成本视频的学习</span> <span style="display: none;">
+                        <span id="spanFinishScroeShow" style="display: none;" class="ml25"><span
+                            data-localize="common_lbl_gotscore"></span>：<span class="text-white"><span id="spanActCmpScore">0</span>/<span id="spanTalCmpScore">0</span></span>
+                        </span></span></span>
+            </div>
+        </div>
+        <div id="divPlay" class="el-video-play">
+            <div class="el-play-area">
+                <div class="playgoon" id="dvCantPlay2" style="display: none;">
+                    <div class="el-playgoon-shadow">
+                    </div>
+                    <div class="playgoonbg">
+                    </div>
+                    <div class="playgooncontent" id="ordermsg">
+                        <span data-localize="kng_lbl_cannotbelearned"></span>
+                    </div>
+                    <input type="button" class="btnok" value='我知道了'
+                        onclick="closeCantPlay2();" /></div>
+                <div id="divoverduebox" class="overduebox" style="display: none;">
+                    <div class="container">
+                        <p class="color11 fontsize2">
+                            <span data-localize="kng_lbl_exceeddeadlineofcource"></span>
+                        </p>
+                        <p class="color4" style="margin-top: 15px;">
+                            <span data-localize="kng_lbl_contactadmin"></span>
+                        </p>
+                    </div>
+                </div>
+                <input type="hidden" name="hidViewSchedule" id="hidViewSchedule" value="240" />
+                <div id="lcPlayMain_divLabelHtmlContents" style="height:100%;"> 
+ 
+
+
+<script type="text/javascript">
+ //重新上传
+ function videoDetail(id) {
+ if ('' == "1") {
+ if ('0' == "1") {
+ ShowIFrameDialog("知识编辑", 964, 760, "/kng/Upload/KnowledgeEditLocal.aspx?id=" + id + "&OP=Edit");
+ }
+ else {
+ ShowIFrameDialog("知识编辑", 964, 550, "/kng/Upload/KnowledgeEdit.aspx?id=" + id + "&OP=Edit");
+ }
+ }
+ else {
+ if ('0' == "1") {
+ ShowIFrameDialog("知识编辑", 964, 550, "/kng/Upload/ShareEditMix.aspx?id=" + id + "&OP=Edit");
+ }
+ else {
+ ShowIFrameDialog("知识编辑", 964, 550, "/kng/Upload/ShareEdit.aspx?id=" + id + "&OP=Edit");
+ }
+ }
+ return false;
+ }
+</script>
+<!-- 视频文档区 -->
+<div id="playervideocontainer">
+</div>
+<script type="text/javascript" src="https://streamex.yxt.com/v2/1.2.0/common/yxt.common.js?v=9.9.235"></script>
+<script type="text/javascript" src="https://streamex.yxt.com/v2/1.2.0/player/video/yxt.videoplayer.js?v=9.9.235"></script>
+<script type="text/javascript">
+ var CookieName;
+ var player = null;
+
+ yxtCommon.videoLoad(function () {
+
+ var fontfamily='微软雅黑';
+ if('方正黑体'!=''){fontfamily='方正黑体';};
+ var fontsize1='18';
+ var fontsize2='24';
+
+ if('20'!=''){
+ fontsize1='20';fontsize2='20';
+ };
+
+ var fontcolor='#fef318';
+ if('rgba(169,169,169,1.00)'!=''){
+ fontcolor='rgba(169,169,169,1.00)';
+ };
+
+ var MasterType="";
+ var fileId = "47d77005-9a86-44c8-a1ec-39a372839985";
+ CookieName = "Video"+MasterType + fileId;
+ var str = '{"isNewModel":true,"newPlayListItem":{"videoItems":[{"fileFullUrl":"https://streamobd.yunxuetang.cn/knowledgefiles/13601042801/videos/202002/16f884d72ea9451b8fccd96ad4f4f27b_4420204044_480p_enc.m3u8","videoKeyId":"job-kbvr47izu1pcq48h","resolution":"480p","videoLength":"3950","width":"854","height":"480","label":"标清"},{"fileFullUrl":"https://streamobd.yunxuetang.cn/knowledgefiles/13601042801/videos/202002/16f884d72ea9451b8fccd96ad4f4f27b_3210432014_720p_enc.m3u8","videoKeyId":"job-kbvr0hqtdtm3xdhd","resolution":"720p","videoLength":"3950","width":"1280","height":"720","label":"高清"}],"docItems":null,"imageList":null,"imageWidth":"0","imageHeight":"0","docItem":null,"audioFullPath":null,"imageFullPath":null,"zipFullPath":null,"isEnabledLocalMedia":false,"mp4FullPath":null},"fileType":"0","flvFullUrl":null,"mp4FullUrl":null,"m3u8FullUrl":null,"swfFullUrl":null,"pdfFullUrl":null,"mp3FullUrl":null,"imageFullUrl":null,"hasWatermark":null,"watermark":null,"watermarkConfig":{"type":"0","value":null,"isEnable":"0","wordColor":"#A9A9A9","wordAlpha":"100","otherColor":"#A9A9A9","otherAlpha":"100","wordFontSize":"20","otherFontSize":"20","userName":"0000067301","cnName":"李杭燃","deptName":"非银金融客户事业本部－西南非银ABU－开发部","wordColorRGBA":"rgba(169,169,169,1.00)","otherColorRGBA":"rgba(169,169,169,1.00)","showDepartment":"1","watermarkContent":"李杭燃（0000067301）非银金融客户"}}';
+ var videoObject = eval('(' + str + ')');
+ var previousTime = jQuery("#hidViewSchedule").val();
+
+ if(previousTime==""){
+ previousTime=getCookie(CookieName);
+ if(previousTime==""){
+ CookieName = "Video" + fileId;
+ previousTime = getCookie(CookieName);
+ CookieName = "Video"+MasterType + fileId;
+ }
+ }
+
+ var isNeedMobile=$("#hidNeedMobile").val();
+ if("1"==isNeedMobile)
+ {
+ ShowBindPhone();
+ return ;
+ }
+
+ player = new YxtVideoPlayer({
+ containerId: 'playervideocontainer',
+ videoObjects: videoObject.newPlayListItem.videoItems,
+ source: '501',
+ token: 'ucloud--cluster--AAAAALY_NtkJZNZ1zDqoTPo8pU4xtPzSPloLyAd4_Le4aBpKvpIHglUWyQvoIyqFFgS77HncPODfJGztk_Hsd8ZjhcfnjfEJwAcmLa8ePzEH0-PrpSqaCu2W6eKKt3-k-5YI1K8EoAjmTYEGgslK28iD8Nw',
+ file: videoObject.newPlayListItem.mp4FullPath,
+ bceDecrypt: true,
+ playRate:true,
+ width: '100%',
+ height: '100%',
+ volume: 100,
+ starttime:previousTime,
+ minBufferLength: 100,
+ marquee: {
+ show: false,
+ text: '李杭燃（0000067301）非银金融客户',
+ fontFamily:fontfamily,
+ fontSize: parseInt(fontsize1),
+ color: fontcolor
+ },
+watermark: {
+ show: false,
+ text: '李杭燃（0000067301）非银金融客户',
+ fontSize: parseInt(fontsize2),
+ fontFamily: fontfamily,
+ color: fontcolor,
+ multiple: true,
+ spacing: ""
+ },
+ ie8Callback: function () {
+ //在这里可以作对应的业务操作，作相关的浏览器版本过低的提示！
+ layer.open({
+ type: 1 //Page层类型
+ ,title: false
+ ,area: ['320px', '300px']
+ ,shade: 0.6 //遮罩透明度
+ ,anim: 1 //0-6的动画形式，-1不开启
+ ,closeBtn: 0 //不显示关闭按钮
+ ,content: '<div class="window-overlay"></div><div class="el-white-notice-container"><div class="el-white-notice text-center pt45"><img class="mb30" src="http://stream1.qida.yunxuetang.com.cn/yxt/SystemFiles/Themes/elearning30/new/images/icons/warning_tip.png" width="100" height="100" /><div class="text-left text-color6 mb40 lh24 ph55">IE8及以下版本浏览器不支持，请升级至新版，推荐使用chrome！</div><button type="button" class="btn btn-primary w-120 btn-nm btn-radius-lg" onclick="window.opener=null;window.open(\'\',\'_self\'); window.close();">知道了</button></div></div>'
+}); 
+
+}
+});
+//设置是否显示下载按钮
+var orgid="35a1eb12-7592-48a2-9688-1563ccb6d2f5";
+var m = getQueryString("m");
+ if (m == 1&&orgid=="b399d1fc-6014-4e89-ad19-dd5a2ea7fe1f") {
+ $("#btndownload").addClass("hiddenelement"); 
+ }
+
+
+ //判断是否首次播放
+ var isFirstLoad = true;
+ var firstComplete=false;
+ //var myPlayer = null;
+ if(videoObject.newPlayListItem.isEnabledLocalMedia) {
+ //视频
+ myPlayer=player.setupOpen();
+ }else if(videoObject.newPlayListItem.videoItems != null) {
+ //视频
+ myPlayer=player.setupEncrypt();
+ }
+ //=============================================
+ //设置播放器播放前事件监听函数。
+ player.onBeforePlay = function (event) {
+ console.log("onBeforePlay " + event.file);
+ };
+
+ //设置播放器播放事件监听函数。
+ player.onPlay = function (event) {
+ console.log("onPlay");
+
+ 
+ var context="";
+ var nowTime=parseInt(player.bdPlayer.getPosition());
+ var vediolength=parseInt(player.bdPlayer.getDuration());
+ context += "开始播放时间："+nowTime+"，用户开始播放事件，(vediolength)视频总时长："+vediolength;
+ CreateActionLog("play",context);
+
+ vediolength=parseInt(player.bdPlayer.getDuration());
+ if(vediolength<15)
+ {
+ completedLaveTimeStudy();
+ }
+
+
+ if (isFirstLoad) {
+ isFirstLoad = false;
+ TimerStartLoad();
+ }else{
+ ResetTimer();
+ }
+ //加载完播放器之后，在检查是否防作弊
+ if (jQuery("#hfTipBytitle").val() != "") {
+ showSingleTrack(jQuery("#hfTipBytitle").val());
+ jQuery("#hfTipBytitle").val('');
+ }
+ };
+
+ //设置播放器暂停事件监听函数。
+ player.onPause = function (event) {
+
+ var context="";
+ var vediolength=parseInt(player.bdPlayer.getDuration());
+ var nowTime=parseInt(player.bdPlayer.getPosition());
+ context += "用户暂停时间："+nowTime+"，用户暂停事件，(vediolength)视频总时长："+vediolength;
+ CreateActionLog("pause",context);
+
+ console.log("onPause");
+ if (timer) {
+ clearInterval(timer);
+ }
+ };
+
+ player.onError = function (event) {
+ console.log("Error");
+ };
+
+ //设置播放器就绪事件监听函数。
+ player.onReady = function (event) {
+ console.log("onReady");
+ };
+
+ //设置播放器窗口大小变化监听函数。
+ player.onResize = function (event) {
+ console.log("onResize");
+ };
+
+ //设置播放器拖动事件监听函数。
+ player.onSeek = function (event) {
+
+ var context="";
+ var vediolength=parseInt(player.bdPlayer.getDuration());
+ context += "(源播放时间)sourceTime：" + parseInt(event.position) + "，(目标播放时间)targesTime："+parseInt(event.offset)+"，(视频时长)VideoLength："+vediolength;
+ CreateActionLog("seek",context); 
+
+ console.log("onSeek");
+ };
+ var lastShowTime = 0;
+ //设置播放器播放进度变化事件监听函数。
+ player.onTime = function (event) {
+ console.log("onTime "+ myPlayer.getPosition());
+ jQuery("#hidViewSchedule").val(myPlayer.getPosition());
+ var curPosition = myPlayer.getPosition();
+ };
+
+ //设置播放器全屏状态变化监听函数。
+ player.onFullscreen = function (event) {
+ console.log("onFullscreen");
+ };
+
+ //设置播放器完成事件监听函数。
+ player.onComplete = function (event) {
+ 
+ if(!firstComplete)
+ {
+
+ jQuery("#hidViewSchedule").val("0");
+ delCookie(CookieName);
+
+var sTime=standardStudyHours-actualStudyHours;
+
+ if(sTime>120) {
+	//StopTimer();
+	setTimeout(StopTimer, 1000);
+ }
+
+ if("1"=="0")
+ {
+ return;
+ }
+
+ if(""=="1")
+ {
+ 
+ firstComplete=true;
+ window.open("/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_31cae177fd8d4406aa767dc35feffc5b.html?1=1",'_self')
+
+ }else{
+
+ var schedule=$("#ScheduleText").text();
+ var vediolength=parseInt(player.bdPlayer.getDuration());
+ if(vediolength<15 && schedule.indexOf('100')==-1)
+ {
+ completedLaveTimeStudy();
+ }
+
+ 
+ //如果倒计时小于60s（备注：断点续播时，视频播放时间小于120秒，导致播放完成不能提交进度）
+ try {
+ var laveTime=standardStudyHours-actualStudyHours;
+ if(laveTime<120 && schedule.indexOf('100')==-1)
+ {
+ completedLaveTimeStudy();
+ }
+ } catch(ex) {
+ console.log("进度100%");
+ }
+
+ if("False".toLowerCase()=="true")
+ {
+ //控制学习顺序，到100%时自动续播
+ if(schedule.indexOf('100')>-1)
+ {
+ firstComplete=true;
+ window.open("/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_31cae177fd8d4406aa767dc35feffc5b.html?1=1",'_self');
+ }
+ }else{
+ firstComplete=true;
+ window.open("/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_31cae177fd8d4406aa767dc35feffc5b.html?1=1",'_self');
+ }
+
+ }
+
+ }
+
+ };
+
+ //设置切换码率时事件监听函数。
+ player.onQualityChange = function (event) {
+ console.log("onQualityChange");
+ };
+
+//用户通过F12删除跑马灯或者广告后触发,count是用户删除或者编辑DOM的次数，可根据具体业务进行控制
+player.DOMModified = function (count) {
+var userid="49b04dcc-4796-437d-ba87-4a8eebf9a22c";
+if(getCookie("DelCount_"+userid)=="2"){
+//第二次删除直接锁定退出
+ delCookie("DelCount_"+userid);
+ jQuery("#btnLockOut").click();
+}else{
+ CookieName = "DelCount_" + userid;
+ var delCount=getCookie("DelCount_" + userid)==""?"0":getCookie("DelCount_" + userid);
+ var delSum = parseInt(delCount)+1;
+ setCookie(delSum.toString());
+ CookieName = "Video"+MasterType + fileId;
+layer.open({
+ type: 1 //Page层类型
+ ,title: false
+ ,area: ['320px', '300px']
+ ,shade: 0.6 //遮罩透明度
+ ,anim: 1 //0-6的动画形式，-1不开启
+ ,closeBtn: 0 //不显示关闭按钮
+ ,content: '<div class="window-overlay"></div><div class="el-white-notice-container"><div class="el-white-notice text-center pt45"><img class="mb30" src="http://stream1.qida.yunxuetang.com.cn/yxt/SystemFiles/Themes/elearning30/new/images/icons/warning_tip.png" width="100" height="100" /><div class="text-left text-color6 mb40 lh24 ph55">不允许修改或去除跑马灯，请不要再次尝试，否则账号将会被锁定！</div><button type="button" class="btn btn-primary w-120 btn-nm btn-radius-lg" onclick="window.location.reload();">知道了</button></div></div>'
+}); 
+}
+};
+
+//由于跑马灯和水印不支持ie8，所以如果是IE8浏览器，可以在下面的方法中进行提醒
+ //=============================================
+ })
+
+</script>
+<script type="text/javascript">
+ //设置cookie
+ function setCookie(cvalue) {
+ var d = new Date();
+ d.setTime(d.getTime() + (30 * 24 * 60 * 60 * 1000));
+ var expires = "expires=" + d.toUTCString();
+ document.cookie = CookieName + "=" + cvalue + "; " + expires;
+ }
+
+ //获取cookie
+ function getCookie(cname) {
+ var name = cname + "=";
+ var ca = document.cookie.split(';');
+ for (var i = 0; i < ca.length; i++) {
+ var c = ca[i];
+ while (c.charAt(0) == ' ') c = c.substring(1);
+ if (c.indexOf(name) != -1) return c.substring(name.length, c.length);
+ }
+ return "";
+ }
+
+ //删除cookies
+ function delCookie(name) {
+ var exp = new Date();
+ exp.setTime(exp.getTime() - 1);
+ var cval = getCookie(name);
+ if (cval != null)
+ document.cookie = name + "=" + cval + ";expires=" + exp.toGMTString();
+ } 
+
+ //播放视频的行为日志 创建者：hhb 时间：2019-11-19 20:00:37（己亥 十月二十三）
+ function CreateActionLog(type, context) {
+
+ var methodName = 'CreateActionLog';
+ var kngId = $("#hidKnowledgeID").val();
+ var bachNo = $("#hidBachNo").val();
+
+ var arr = '{"kngId":"' + kngId + '","bachNo":"' + bachNo+ '","type":"' + type + '","context":"' + context + '"}';
+ AjaxAsyncCallMethodWithKng(methodName, arr,
+ function (result) {
+ console.log("客户操作视频播放器，写入日志成功！");
+ }, true, true, true);
+ }
+
+</script>
+ </div>
+
+            </div>
+            <div class="el-play-area-right"  style="z-index:9; background-color: #000;">
+                <ul class="el-play-page-bar">
+                    <li id="li1" style="display:;"><span class="el-icon-chapter"></span>
+                        <div>
+                            <span data-localize="sty_lbl_chapter"></span>
+                        </div>
+                    </li>
+                    <li id="lisummary"><span onclick="showInstroduction()"><span class="el-icon-kng-summary">
+                    </span>
+                        <div>
+                            <span data-localize="common_lbl_introduction"></span>
+                        </div>
+                    </span></li>
+                    <li id="liFavorite"><span onclick="CheckAddToFavorite('35a1eb12-7592-48a2-9688-1563ccb6d2f5','49b04dcc-4796-437d-ba87-4a8eebf9a22c','8899595b-14a7-4007-aa09-5a8f55fb72ac','80d50286-9c08-42e5-b15e-3c9a8d2a2589','','','',true);">
+                        <span class="el-icon-collect"></span>
+                        <div>
+                            <span data-localize="common_lbl_collect"></span>
+                        </div>
+                    </span></li>
+                    <li id="liSupport" class="pr"><span onclick='supportKng("8899595b-14a7-4007-aa09-5a8f55fb72ac",2);'>
+                        <span id='praiseNum' class='hidden'>0</span>
+                        <span class="el-icon-praise"></span>
+                        <div>
+                            <span data-localize="kng_lbl_like"></span>
+                        </div>
+                    </span></li>
+                    <li id="btndownload" style="display: none"><span onclick="return DownloadVideo();">
+                        <span class="el-icon-download"></span>
+                        <div>
+                            <span data-localize="opt_lbl_download"></span>
+                        </div>
+                    </span></li>
+                    <li><span onclick="shwoReward()"><span class="el-icon-shang"></span>
+                        <div>
+                            <span data-localize="kng_lbl_reward"></span>
+                        </div>
+                    </span></li>
+                    <li>
+                        <div class="el-bar-bg">
+                            <span class="el-icon-kng-more"></span>
+                            <div>
+                                <span data-localize="common_lbl_more"></span>
+                            </div>
+                        </div>
+                        <ul class="el-bar-more">
+                            <li><span onclick="hashAction('liNote')"><span class="el-icon-editnote"></span>
+                                <div>
+                                    <span data-localize="kng_lbl_note"></span>
+                                </div>
+                            </span></li>
+                            
+                            <li><span onclick="hashAction('liQuestion')"><span class="el-icon-askquestion"></span>
+                                <div>
+                                    <span data-localize="kng_lbl_ask"></span>
+                                </div>
+                            </span></li>
+                            >
+                            <li><span onclick="hashAction('liComment')"><span class="el-icon-editcomment"></span>
+                                <div>
+                                    <span data-localize="comment_title_comment"></span>
+                                </div>
+                            </span></li>
+                        </ul>
+                    </li>
+                    
+                </ul>
+                <div id="lcKnowledgeChapterView_divLabelHtmlContents" style="height:100%;">
+
+
+
+
+
+
+<script type="text/javascript">
+ var iscurfinish;
+
+ function showCantPlay2(type, nextID) {
+ var orderMsg = $("#ordermsg");
+ if (!checkNextKng(nextID)) {
+ if (type == 0) {
+ orderMsg.html("暂无法学习此知识。此知识受学习顺序控制，您需要在完成前面知识的学习后才可以学习此知识。");
+ } else {
+ orderMsg.html("暂无法学习此知识。此知识受学习顺序控制，您需要在通过之前的测评后才可以学习此知识。");
+ }
+ $("#dvCantPlay2").show();
+ return false;
+ }
+ return true;
+ }
+
+ function closeCantPlay2() {
+ $("#dvCantPlay2").hide();
+ }
+
+ //单击学习行数据
+ function StudyRowClick(url, type, examstatus, allowview, iscanstudy, iscanexam, nextID) {
+ var m = getQueryString("m");
+ if (m == 1) {
+ if (url.indexOf("?") == -1) {
+ url = url + "?m=1";
+ }
+ else {
+ url = url + "&m=1";
+ }
+
+ }
+ if (url.indexOf("plan") > -1) {
+ var studyPhaseId = $("#" + nextID).attr("phaseid");
+
+ var arr = '{"studyPlanId":"","studyPlanPhaseId":"' + studyPhaseId + '","knowledgeId":"' + nextID + '"}';
+
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/kng/services/KngComService.svc/CheckStyControlSequence",
+ data: arr,
+ dataType: 'json',
+ cache: false,
+ success: function (result) {
+ var result = eval('(' + result + ')');
+ if (result.Status != "OK") {
+ //需要控制顺序
+ showWarningMsg(result.Data);
+ return false;
+ }
+ else {
+ StudyRowClickOthers(url, type, examstatus, allowview, iscanstudy, iscanexam, nextID);
+ }
+ }
+ });
+ }
+ else {
+ StudyRowClickOthers(url, type, examstatus, allowview, iscanstudy, iscanexam, nextID);
+ }
+
+
+ }
+
+ function checkNextKng(kngId) {
+ var schedule = $("#ScheduleText").text();
+ if (schedule != "100%") {
+ return false;
+ }
+ var sourceId = $(".select").attr("id");
+ var nextId = $("#" + sourceId).next().attr("id");
+ if (!nextId) {
+ nextId = $("#" + sourceId).next().next().attr("id");
+ }
+
+ if (nextId != kngId) {
+ return false;
+ }
+ return true;
+ }
+
+ function StudyRowClickOthers(url, type, examstatus, allowview, iscanstudy, iscanexam, nextID) {
+ var m = getQueryString("m");
+ var st = getQueryString("st");
+ var masterId = getQueryString("MasterID");
+ var objectId = getQueryString("objectId");
+ url += url.indexOf("?") < 0 ? "?" : "&";
+ console.log(url);
+ if (st) {
+ url += "st=" + st;
+ }
+
+ if (masterId && url.indexOf("MasterID") < 0) {
+ url += "&MasterID=" + masterId
+ }
+
+ if (objectId && url.indexOf("objectId") < 0) {
+ url += "&objectId=" + objectId;
+ }
+
+ if (url.indexOf("package") > -1 && url.indexOf("kng/course/package") < 0 && url.indexOf("packageid") < 0) {
+ url = url.replace("package", "kng/course/package");
+ }
+
+ var ispass = 0;
+ //学习跟踪 判断是否从未完成到已完成
+ if (iscurfinish != undefined && iscurfinish == 1) {
+ //同步当前单击就是当前知识的下一个知识
+ if ($("input[name=hfNext]").val() == nextID) {
+ ispass = 1;
+ }
+ }
+ if (ispass != 1) {
+ if (iscanexam == "False") {
+ if (!showCantPlay2(1, nextID)) {
+ return false;
+ };
+ } else if (iscanstudy == "False") {
+ //判断当前的控制学习
+ if (!showCantPlay2(0, nextID)) {
+ return false;
+ };
+ }
+ }
+ if (type == "OteExam") {
+ if (m == 1) {
+ showWarningMsg("当前预览状态，不能参加考试。");
+ }
+ else {
+ if (examstatus == "Marking" || examstatus == "Assessment") {
+ showWarningMsg("当前测评正在批阅中……");
+ } else if (examstatus == "Done" && allowview == "False") {
+ showWarningMsg("当前测评已完成，暂不支持查看试卷结果。");
+ } else {
+ openURL(url);
+ }
+ }
+ } else {
+ var arr = '{"userID":"49b04dcc-4796-437d-ba87-4a8eebf9a22c"}';
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/Services/StyService.svc/RemoveUserTrackKnowledgeID",
+ data: arr,
+ dataType: 'json',
+ cache: false,
+ success: function (result) {
+ }
+ });
+ window.location.href = url;
+ }
+ }
+</script>
+
+<div class="el-play-course-catalog" style="padding-top: 40px;">
+  <dl class="el-play-catalog-list">
+  
+ 
+ 		 
+   <dt class="clearfix">
+			 <div class="el-course-catalog-left">章节</div>
+			 <div class="el-course-catalog-num">1</div>
+			 <div class="el-course-catalog-right" title="财务云产品解决方案篇">财务云产品解决方案篇</div>
+		 </dt>
+ 
+    <dd id='53f95bd5-7eee-4f1b-ab8b-401b89dd414e'>
+  <div class="el-course-catalog-left" >课时1</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='53f95bd5-7eee-4f1b-ab8b-401b89dd414e' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_53f95bd57eee4f1bab8b401b89dd414e.html','VideoKnowledge','','False', 'True','True','53f95bd5-7eee-4f1b-ab8b-401b89dd414e');" title='财务云产品整体解决方案'>财务云产品整体解决...</span></div>
+		    <dd id='d1e48b2b-db60-4cf8-befa-9ecbc0637e8c'>
+  <div class="el-course-catalog-left" >课时2</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='d1e48b2b-db60-4cf8-befa-9ecbc0637e8c' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_d1e48b2bdb604cf8befa9ecbc0637e8c.html','VideoKnowledge','','False', 'True','True','d1e48b2b-db60-4cf8-befa-9ecbc0637e8c');" title='财务云税务服务（上）'>财务云税务服务（上）</span></div>
+		    <dd id='1d40bfc9-6eec-47c6-a446-974ddd30bd60'>
+  <div class="el-course-catalog-left" >课时3</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='1d40bfc9-6eec-47c6-a446-974ddd30bd60' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_1d40bfc96eec47c6a446974ddd30bd60.html','VideoKnowledge','','False', 'True','True','1d40bfc9-6eec-47c6-a446-974ddd30bd60');" title='财务云税务服务（下）'>财务云税务服务（下）</span></div>
+		    <dd id='4af8f8f2-3a8c-4342-b2fd-d0a09eb725d5'>
+  <div class="el-course-catalog-left" >课时4</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='4af8f8f2-3a8c-4342-b2fd-d0a09eb725d5' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_4af8f8f23a8c4342b2fdd0a09eb725d5.html','VideoKnowledge','','False', 'True','True','4af8f8f2-3a8c-4342-b2fd-d0a09eb725d5');" title='财务云友报账服务解决方案（上）'>财务云友报账服务解...</span></div>
+		    <dd id='9b75f1e3-9960-4248-a07e-6b2682288f51'>
+  <div class="el-course-catalog-left" >课时5</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='9b75f1e3-9960-4248-a07e-6b2682288f51' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_9b75f1e399604248a07e6b2682288f51.html','VideoKnowledge','','False', 'True','True','9b75f1e3-9960-4248-a07e-6b2682288f51');" title='财务云友报账服务解决方案（下）'>财务云友报账服务解...</span></div>
+		    <dd id='66586029-e82d-4910-9d70-2a59b821014d'>
+  <div class="el-course-catalog-left" >课时6</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='66586029-e82d-4910-9d70-2a59b821014d' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_66586029e82d49109d702a59b821014d.html','VideoKnowledge','','False', 'True','True','66586029-e82d-4910-9d70-2a59b821014d');" title='财务云电子会计档案'>财务云电子会计档案</span></div>
+		    <dd id='ff90f7d8-78d0-4740-97a3-ad21dbafe0c8'>
+  <div class="el-course-catalog-left" >课时7</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='ff90f7d8-78d0-4740-97a3-ad21dbafe0c8' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_ff90f7d878d0474097a3ad21dbafe0c8.html','VideoKnowledge','','False', 'True','True','ff90f7d8-78d0-4740-97a3-ad21dbafe0c8');" title='财务云电子档案操作演示'>财务云电子档案操作...</span></div>
+		   </dd>
+  <dt class="clearfix">
+			 <div class="el-course-catalog-left">章节</div>
+			 <div class="el-course-catalog-num">2</div>
+			 <div class="el-course-catalog-right" title="采购云产品解决方案篇">采购云产品解决方案篇</div>
+		 </dt>
+ 
+    <dd id='311d6e60-b690-418b-8b6b-d706fd8e721f'>
+  <div class="el-course-catalog-left" >课时1</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='311d6e60-b690-418b-8b6b-d706fd8e721f' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_311d6e60b690418b8b6bd706fd8e721f.html','VideoKnowledge','','False', 'True','True','311d6e60-b690-418b-8b6b-d706fd8e721f');" title='采购云'>采购云</span></div>
+		   </dd>
+  <dt class="clearfix">
+			 <div class="el-course-catalog-left">章节</div>
+			 <div class="el-course-catalog-num">3</div>
+			 <div class="el-course-catalog-right" title="营销云产品解决方案篇">营销云产品解决方案篇</div>
+		 </dt>
+ 
+    <dd id='6541a48d-0767-4be7-82e4-ce61c280222f'>
+  <div class="el-course-catalog-left" >课时1</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='6541a48d-0767-4be7-82e4-ce61c280222f' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_6541a48d07674be782e4ce61c280222f.html','VideoKnowledge','','False', 'True','True','6541a48d-0767-4be7-82e4-ce61c280222f');" title='在线社会化营销解决方案'>在线社会化营销解决...</span></div>
+		    <dd class="active select" id='8899595b-14a7-4007-aa09-5a8f55fb72ac'>
+  <div class="el-course-catalog-left" >课时2</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='8899595b-14a7-4007-aa09-5a8f55fb72ac' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_8899595b14a74007aa095a8f55fb72ac.html','VideoKnowledge','','False', 'True','True','8899595b-14a7-4007-aa09-5a8f55fb72ac');" title='营销云基础服务'>营销云基础服务</span></div>
+		    <dd id='31cae177-fd8d-4406-aa76-7dc35feffc5b'>
+  <div class="el-course-catalog-left" >课时3</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='31cae177-fd8d-4406-aa76-7dc35feffc5b' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_31cae177fd8d4406aa767dc35feffc5b.html','VideoKnowledge','','False', 'True','True','31cae177-fd8d-4406-aa76-7dc35feffc5b');" title='B2B定价、促销、返利（上）'>B2B定价、促销、返...</span></div>
+		    <dd id='261e469c-06a0-4c4d-af7b-3189a7a0d90d'>
+  <div class="el-course-catalog-left" >课时4</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='261e469c-06a0-4c4d-af7b-3189a7a0d90d' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_261e469c06a04c4daf7b3189a7a0d90d.html','VideoKnowledge','','False', 'True','True','261e469c-06a0-4c4d-af7b-3189a7a0d90d');" title='B2B定价、促销、返利（下）'>B2B定价、促销、返...</span></div>
+		    <dd id='f9afe9d4-ea1f-4e43-8456-1c7010919cd5'>
+  <div class="el-course-catalog-left" >课时5</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='f9afe9d4-ea1f-4e43-8456-1c7010919cd5' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_f9afe9d4ea1f4e4384561c7010919cd5.html','VideoKnowledge','','False', 'True','True','f9afe9d4-ea1f-4e43-8456-1c7010919cd5');" title='B2C定价和促销（上）'>B2C定价和促销（上...</span></div>
+		    <dd id='b8063a31-4df2-497a-b09d-5963b711bd72'>
+  <div class="el-course-catalog-left" >课时6</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='b8063a31-4df2-497a-b09d-5963b711bd72' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_b8063a314df2497ab09d5963b711bd72.html','VideoKnowledge','','False', 'True','True','b8063a31-4df2-497a-b09d-5963b711bd72');" title='B2C定价和促销（下）'>B2C定价和促销（下...</span></div>
+		    <dd id='6c8ebe40-51e8-45f9-a137-55a9194196dd'>
+  <div class="el-course-catalog-left" >课时7</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='6c8ebe40-51e8-45f9-a137-55a9194196dd' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_6c8ebe4051e845f9a13755a9194196dd.html','VideoKnowledge','','False', 'True','True','6c8ebe40-51e8-45f9-a137-55a9194196dd');" title='会员运营解决方案（U会员）'>会员运营解决方案（...</span></div>
+		    <dd id='694a465b-cb42-43f9-97db-f0aade8123e3'>
+  <div class="el-course-catalog-left" >课时8</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='694a465b-cb42-43f9-97db-f0aade8123e3' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_694a465bcb4243f997dbf0aade8123e3.html','VideoKnowledge','','False', 'True','True','694a465b-cb42-43f9-97db-f0aade8123e3');" title='订货与渠道分销解决方案（U订货）'>订货与渠道分销解决...</span></div>
+		    <dd id='59eb96a3-a2c3-48ee-958a-de06bc36308d'>
+  <div class="el-course-catalog-left" >课时9</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='59eb96a3-a2c3-48ee-958a-de06bc36308d' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_59eb96a3a2c348ee958ade06bc36308d.html','VideoKnowledge','','False', 'True','True','59eb96a3-a2c3-48ee-958a-de06bc36308d');" title='新零售解决方案（友零售）'>新零售解决方案（友...</span></div>
+		    <dd id='222b54c7-6250-40e7-a002-8a6a0c4029ed'>
+  <div class="el-course-catalog-left" >课时10</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='222b54c7-6250-40e7-a002-8a6a0c4029ed' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_222b54c7625040e7a0028a6a0c4029ed.html','VideoKnowledge','','False', 'True','True','222b54c7-6250-40e7-a002-8a6a0c4029ed');" title='营销云-电商之B2C订单中心（电商通）'>营销云-电商之B2C订...</span></div>
+		   </dd>
+  <dt class="clearfix">
+			 <div class="el-course-catalog-left">章节</div>
+			 <div class="el-course-catalog-num">4</div>
+			 <div class="el-course-catalog-right" title="协同云产品解决方案篇">协同云产品解决方案篇</div>
+		 </dt>
+ 
+    <dd id='b1c3ea88-b564-465f-81ea-6319a445dfa0'>
+  <div class="el-course-catalog-left" >课时1</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='b1c3ea88-b564-465f-81ea-6319a445dfa0' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_b1c3ea88b564465f81ea6319a445dfa0.html','VideoKnowledge','','False', 'True','True','b1c3ea88-b564-465f-81ea-6319a445dfa0');" title='友空间-产品总体介绍及助力疫情防控解决方案'>友空间-产品总体介...</span></div>
+		    <dd id='a67bffb5-34af-485c-919e-5a0a80d7eaca'>
+  <div class="el-course-catalog-left" >课时2</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='a67bffb5-34af-485c-919e-5a0a80d7eaca' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_a67bffb534af485c919e5a0a80d7eaca.html','VideoKnowledge','','False', 'True','True','a67bffb5-34af-485c-919e-5a0a80d7eaca');" title='协同云-业务协同'>协同云-业务协同</span></div>
+		    <dd id='b5f0957c-8ff9-408d-9b7f-c588d9c6116e'>
+  <div class="el-course-catalog-left" >课时3</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='b5f0957c-8ff9-408d-9b7f-c588d9c6116e' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_b5f0957c8ff9408d9b7fc588d9c6116e.html','VideoKnowledge','','False', 'True','True','b5f0957c-8ff9-408d-9b7f-c588d9c6116e');" title='协同云-社交沟通与团队协作'>协同云-社交沟通与...</span></div>
+		   </dd>
+  <dt class="clearfix">
+			 <div class="el-course-catalog-left">章节</div>
+			 <div class="el-course-catalog-num">5</div>
+			 <div class="el-course-catalog-right" title="人力云解决方案篇">人力云解决方案篇</div>
+		 </dt>
+ 
+    <dd id='dcd7875d-db22-43ca-9f3c-710e8ae04e5b'>
+  <div class="el-course-catalog-left" >课时1</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='dcd7875d-db22-43ca-9f3c-710e8ae04e5b' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_dcd7875ddb2243ca9f3c710e8ae04e5b.html','VideoKnowledge','','False', 'True','True','dcd7875d-db22-43ca-9f3c-710e8ae04e5b');" title='人力云-整体方案介绍'>人力云-整体方案介绍</span></div>
+		    <dd id='96903d1e-bac6-45dc-b0cb-0d92e06a5837'>
+  <div class="el-course-catalog-left" >课时2</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='96903d1e-bac6-45dc-b0cb-0d92e06a5837' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_96903d1ebac645dcb0cb0d92e06a5837.html','VideoKnowledge','','False', 'True','True','96903d1e-bac6-45dc-b0cb-0d92e06a5837');" title='人力云-组织与员工管理'>人力云-组织与员工...</span></div>
+		    <dd id='abe58653-4c8b-42c2-b4d7-8ea56a5670bb'>
+  <div class="el-course-catalog-left" >课时3</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='abe58653-4c8b-42c2-b4d7-8ea56a5670bb' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_abe586534c8b42c2b4d78ea56a5670bb.html','VideoKnowledge','','False', 'True','True','abe58653-4c8b-42c2-b4d7-8ea56a5670bb');" title='人才与组织发展解决方案'>人才与组织发展解决...</span></div>
+		    <dd id='e2c2fb47-a60c-4ae6-9d06-0eabd9234c6e'>
+  <div class="el-course-catalog-left" >课时4</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='e2c2fb47-a60c-4ae6-9d06-0eabd9234c6e' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_e2c2fb47a60c4ae69d060eabd9234c6e.html','VideoKnowledge','','False', 'True','True','e2c2fb47-a60c-4ae6-9d06-0eabd9234c6e');" title='人力云-持续绩效'>人力云-持续绩效</span></div>
+		    <dd id='7ce64904-830f-4584-b65d-715c4dd2fb77'>
+  <div class="el-course-catalog-left" >课时5</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='7ce64904-830f-4584-b65d-715c4dd2fb77' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_7ce64904830f4584b65d715c4dd2fb77.html','VideoKnowledge','','False', 'True','True','7ce64904-830f-4584-b65d-715c4dd2fb77');" title='人力云-薪资核算'>人力云-薪资核算</span></div>
+		    <dd id='82911d4b-5606-403f-acf7-b4c1d8ced0d5'>
+  <div class="el-course-catalog-left" >课时6</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='82911d4b-5606-403f-acf7-b4c1d8ced0d5' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_82911d4b5606403facf7b4c1d8ced0d5.html','VideoKnowledge','','False', 'True','True','82911d4b-5606-403f-acf7-b4c1d8ced0d5');" title='人力云-合同管'>人力云-合同管</span></div>
+		    <dd id='b3fc8dd6-fac8-4c18-b02f-5d59dc08aac8'>
+  <div class="el-course-catalog-left" >课时7</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='b3fc8dd6-fac8-4c18-b02f-5d59dc08aac8' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_b3fc8dd6fac84c18b02f5d59dc08aac8.html','VideoKnowledge','','False', 'True','True','b3fc8dd6-fac8-4c18-b02f-5d59dc08aac8');" title='人力云-员工服务'>人力云-员工服务</span></div>
+		    <dd id='eb03cc99-48f6-4b6a-9f66-39d1f8c64f52'>
+  <div class="el-course-catalog-left" >课时8</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='eb03cc99-48f6-4b6a-9f66-39d1f8c64f52' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_eb03cc9948f64b6a9f6639d1f8c64f52.html','VideoKnowledge','','False', 'True','True','eb03cc99-48f6-4b6a-9f66-39d1f8c64f52');" title='人力云-假勤管理'>人力云-假勤管理</span></div>
+		   </dd>
+  <dt class="clearfix">
+			 <div class="el-course-catalog-left">章节</div>
+			 <div class="el-course-catalog-num">6</div>
+			 <div class="el-course-catalog-right" title="云平台解决方案篇">云平台解决方案篇</div>
+		 </dt>
+ 
+    <dd id='7dd7644d-a442-4e47-9331-16af7fd18815'>
+  <div class="el-course-catalog-left" >课时1</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='7dd7644d-a442-4e47-9331-16af7fd18815' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_7dd7644da4424e47933116af7fd18815.html','VideoKnowledge','','False', 'True','True','7dd7644d-a442-4e47-9331-16af7fd18815');" title='iuap云平台整体解决方案'>iuap云平台整体解决...</span></div>
+		    <dd id='eaec3831-6001-4c13-8bc5-ea3d653689f0'>
+  <div class="el-course-catalog-left" >课时2</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='eaec3831-6001-4c13-8bc5-ea3d653689f0' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_eaec383160014c138bc5ea3d653689f0.html','VideoKnowledge','','False', 'True','True','eaec3831-6001-4c13-8bc5-ea3d653689f0');" title='业务中台-企业企业群、组织、基础数据、实施工具'>业务中台-企业企业...</span></div>
+		    <dd id='7223c279-786b-4838-96ed-6f0f700c0730'>
+  <div class="el-course-catalog-left" >课时3</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='7223c279-786b-4838-96ed-6f0f700c0730' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_7223c279786b483896ed6f0f700c0730.html','VideoKnowledge','','False', 'True','True','7223c279-786b-4838-96ed-6f0f700c0730');" title='云平台-业务中台2入口、权限、支撑服务'>云平台-业务中台2入...</span></div>
+		    <dd id='9cfba59b-ee7c-43ad-915d-45b37c004ff8'>
+  <div class="el-course-catalog-left" >课时4</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='9cfba59b-ee7c-43ad-915d-45b37c004ff8' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_9cfba59bee7c43ad915d45b37c004ff8.html','VideoKnowledge','','False', 'True','True','9cfba59b-ee7c-43ad-915d-45b37c004ff8');" title='云平台-技术中台解决方案'>云平台-技术中台解...</span></div>
+		    <dd id='30f52b10-2c17-45a4-8069-abe776925a89'>
+  <div class="el-course-catalog-left" >课时5</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='30f52b10-2c17-45a4-8069-abe776925a89' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_30f52b102c1745a48069abe776925a89.html','VideoKnowledge','','False', 'True','True','30f52b10-2c17-45a4-8069-abe776925a89');" title='iPaaS：友企联、开放平台'>iPaaS：友企联、开...</span></div>
+		    <dd id='9af2434f-3ce8-4497-9150-9b84c90aade8'>
+  <div class="el-course-catalog-left" >课时6</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='9af2434f-3ce8-4497-9150-9b84c90aade8' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_9af2434f3ce8449791509b84c90aade8.html','VideoKnowledge','','False', 'True','True','9af2434f-3ce8-4497-9150-9b84c90aade8');" title='iPaaS：集成平台'>iPaaS：集成平台</span></div>
+		    <dd id='a6230787-d077-4e14-9215-01b733d61c4d'>
+  <div class="el-course-catalog-left" >课时7</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='a6230787-d077-4e14-9215-01b733d61c4d' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_a6230787d0774e14921501b733d61c4d.html','VideoKnowledge','','False', 'True','True','a6230787-d077-4e14-9215-01b733d61c4d');" title='云平台-应用建模'>云平台-应用建模</span></div>
+		   </dd>
+  <dt class="clearfix">
+			 <div class="el-course-catalog-left">章节</div>
+			 <div class="el-course-catalog-num">7</div>
+			 <div class="el-course-catalog-right" title="数据服务解决方案篇">数据服务解决方案篇</div>
+		 </dt>
+ 
+    <dd id='b44ef726-3593-4676-9b79-82a5367f21a9'>
+  <div class="el-course-catalog-left" >课时1</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='b44ef726-3593-4676-9b79-82a5367f21a9' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_b44ef726359346769b7982a5367f21a9.html','VideoKnowledge','','False', 'True','True','b44ef726-3593-4676-9b79-82a5367f21a9');" title='金服桥-企业金融数据服务产品解决方案'>金服桥-企业金融数...</span></div>
+		    <dd id='86274d7f-fe57-4421-9864-3488b7909f52'>
+  <div class="el-course-catalog-left" >课时2</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='86274d7f-fe57-4421-9864-3488b7909f52' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_86274d7ffe57442198643488b7909f52.html','VideoKnowledge','','False', 'True','True','86274d7f-fe57-4421-9864-3488b7909f52');" title='数据服务产品-整体解决方案（上）'>数据服务产品-整体...</span></div>
+		    <dd id='caf125d8-3c80-45f5-9b2c-1028933f7c81'>
+  <div class="el-course-catalog-left" >课时3</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='caf125d8-3c80-45f5-9b2c-1028933f7c81' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_caf125d83c8045f59b2c1028933f7c81.html','VideoKnowledge','','False', 'True','True','caf125d8-3c80-45f5-9b2c-1028933f7c81');" title='数据服务产品-整体解决方案（下）'>数据服务产品-整体...</span></div>
+		    <dd id='b7efef5c-ff98-4e76-aa10-3ef3db0b77c0'>
+  <div class="el-course-catalog-left" >课时4</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='b7efef5c-ff98-4e76-aa10-3ef3db0b77c0' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_b7efef5cff984e76aa103ef3db0b77c0.html','VideoKnowledge','','False', 'True','True','b7efef5c-ff98-4e76-aa10-3ef3db0b77c0');" title='数据战役-数据工厂'>数据战役-数据工厂</span></div>
+		    <dd id='d012e0cf-9ccb-4800-9221-2912ddaf98e6'>
+  <div class="el-course-catalog-left" >课时5</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='d012e0cf-9ccb-4800-9221-2912ddaf98e6' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_d012e0cf9ccb480092212912ddaf98e6.html','VideoKnowledge','','False', 'True','True','d012e0cf-9ccb-4800-9221-2912ddaf98e6');" title='数据中台抗疫情数采及分析解决方案（上）'>数据中台抗疫情数采...</span></div>
+		    <dd id='d53a3180-2f5a-434f-8005-5d36ba6037ba'>
+  <div class="el-course-catalog-left" >课时6</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='d53a3180-2f5a-434f-8005-5d36ba6037ba' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_d53a31802f5a434f80055d36ba6037ba.html','VideoKnowledge','','False', 'True','True','d53a3180-2f5a-434f-8005-5d36ba6037ba');" title='数据中台抗疫情数采及分析解决方案（中）'>数据中台抗疫情数采...</span></div>
+		    <dd id='79cba8c6-fec2-476e-9d83-75ac7b19de99'>
+  <div class="el-course-catalog-left" >课时7</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='79cba8c6-fec2-476e-9d83-75ac7b19de99' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_79cba8c6fec2476e9d8375ac7b19de99.html','VideoKnowledge','','False', 'True','True','79cba8c6-fec2-476e-9d83-75ac7b19de99');" title='数据中台抗疫情数采及分析解决方案（下）'>数据中台抗疫情数采...</span></div>
+		   </dd>
+  <dt class="clearfix">
+			 <div class="el-course-catalog-left">章节</div>
+			 <div class="el-course-catalog-num">8</div>
+			 <div class="el-course-catalog-right" title="YonSuite解决方案篇">YonSuite解决方案篇</div>
+		 </dt>
+ 
+    <dd id='7a5bdc06-af7f-4ad2-a89c-ef504bda41fe'>
+  <div class="el-course-catalog-left" >课时1</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='7a5bdc06-af7f-4ad2-a89c-ef504bda41fe' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_7a5bdc06af7f4ad2a89cef504bda41fe.html','VideoKnowledge','','False', 'True','True','7a5bdc06-af7f-4ad2-a89c-ef504bda41fe');" title='YonSuite-成长型企业云服务整体解决方案'>YonSuite-成长型企...</span></div>
+		    <dd id='cd0c96f4-338b-419d-bdc7-a48aa3506d03'>
+  <div class="el-course-catalog-left" >课时2</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='cd0c96f4-338b-419d-bdc7-a48aa3506d03' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_cd0c96f4338b419dbdc7a48aa3506d03.html','VideoKnowledge','','False', 'True','True','cd0c96f4-338b-419d-bdc7-a48aa3506d03');" title='YonSuite-业财一体化解决方案'>YonSuite-业财一体...</span></div>
+		    <dd id='a393a39f-f0c4-47c7-90f2-7e4e3a28976b'>
+  <div class="el-course-catalog-left" >课时3</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='a393a39f-f0c4-47c7-90f2-7e4e3a28976b' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_a393a39ff0c447c790f27e4e3a28976b.html','VideoKnowledge','','False', 'True','True','a393a39f-f0c4-47c7-90f2-7e4e3a28976b');" title='YonSuite-营销一体化解决方案'>YonSuite-营销一体...</span></div>
+		    <dd id='d348f9e1-187e-4457-a6a6-743a08385f37'>
+  <div class="el-course-catalog-left" >课时4</div>
+			 <div class="el-course-catalog-num"></div>
+			 <div class="el-course-catalog-right ellipsis"><span class="text-color6" id='d348f9e1-187e-4457-a6a6-743a08385f37' onclick="return StudyRowClick('/package/video/80d502869c0842e5b15e3c9a8d2a2589_d348f9e1187e4457a6a6743a08385f37.html','VideoKnowledge','','False', 'True','True','d348f9e1-187e-4457-a6a6-743a08385f37');" title='YonSuite -财务核算解决方案'>YonSuite -财务核算...</span></div>
+		   </dd>
+   	</dl>
+</div>
+</div>
+
+            </div>
+        </div>
+        <div class='y-container1 clearfix '>
+            <div class="el-course-detail-left">
+                <ul class="el-course-detail-tab clearfix">
+                    <li id="liComment" class="active" onclick="changeContentTab(this,0)"><span data-localize="comment_title_comment">
+                    </span></li>
+                    
+                    <li id="liQuestion" onclick="changeContentTab(this,1)"><span data-localize="common_lbl_q&a">
+                    </span></li>
+                    
+                    <li id="liNote" onclick="changeContentTab(this,2)"><span data-localize="kng_lbl_note">
+                    </span></li>
+                </ul>
+                <div id="divComment">
+                </div>
+                <div id="divAskQuestion">
+                </div>
+                <div id="divKngNote">
+                </div>
+            </div>
+            <div class="el-course-detail-right">
+                
+                <div id="lcKonwledgeIntro_divLabelHtmlContents" style="height:100%;">
+	
+
+<script type = "text/javascript" >
+
+ //个人主页
+ function openPersonal(id) {
+ 	openURL("/myhome.htm" + "?userID=" + id);
+ }
+	
+</script >
+
+<div class="media hand mt50">
+		<div class="span-24" onclick="openPersonal('dff421e5-891e-4359-bf81-d2515b71f677')">
+			<div class="span-7">
+				<img src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/79.png?imageview2/0/w/100/h/100/format/jpg/interlace/1?r=88000058" class="circle-img" alt="" width="60" height="60" />
+			</div>
+			<div class="span-17">
+				<div class="mt7">
+					<span class="text-normal font-bold font-size-16 v-mid" title="徐红星">徐红星</span>
+									</div>
+				<div class="text-color6 mt7"> 产品-产品管理-产品管理</div>
+			</div>
+		</div>
+		</div>
+</div>
+
+                
+                <div id="lcRelatedKnowledge_divLabelHtmlContents" style="height:100%;"></div>
+
+                
+                
+            </div>
+            <div id="divReward" style="display: none">
+                <div id="lcReward_divLabelHtmlContents" style="height:100%;">
+
+
+<script type = "text/javascript" >
+ //打赏
+ function changeReward(){
+	var points=$("div#divRewardOne li.active").html();
+	var availiablePoints= $("#availablePoints").html();
+	var knowledgeId=$("#hidKnowledgeID").val();
+	if(parseInt(points)>parseInt(availiablePoints)){
+		 showWarningMsg(jQuery.i18n.map["sty_msg_insufficientpointsavailable"]);
+		 return false;
+	}
+	var arr='{"knowledgeId":"'+knowledgeId+'","points":"'+points+'"}';
+	jQuery.ajax({
+		 type: "POST",
+		 contentType: "text/json",
+		 url: "/kng/services/KngComService.svc/KnowledgeReward",
+		 data: arr,
+		 dataType: 'json',
+		 cache: false,
+		 success: function (result) {		 
+		 result = eval('(' + result + ')');
+		 if (result.Status == "Ok") {
+		 	$("#divRewardOne").hide();
+					$("#divRewardTwo").show();	 
+		 } else {
+ showWarningMsg(result.Data);		 
+ $("#divRewardOne").hide();
+					$("#divRewardFail").show();
+		 }
+		 },
+		 error: function (data) {
+		 
+		 }
+		});	
+ }
+ 
+ 
+ //关闭
+ function closeDiv(id) {
+ 	$("#divReward").hide();
+ } 
+ 
+ //积分
+ function checkLi(obj){
+		$(obj).addClass("active");
+		$("li").each(function(i,e){
+			if(obj!=e){
+				$(e).removeClass("active");
+			}
+		});
+	}		
+	
+</script >
+
+	
+<div id="divNoContributors" class="el-white-dialog-container" style="display:none">
+ 		<div class="el-white-dialog">
+ 			<div class="el-white-dialog-close iconfont icon-guanbi" onclick="closeDiv()"></div>
+ 			<div class="text-center pt40">
+ 				<div class="el-tip-warning mt45"></div>
+ 				<div class="text-color6 mt15 mb20 ph100 mh20" data-localize="sty_lbl_knowledgenocontributors"></div>
+ 				<button type="button" class="btn btn-warning btn-lmd w-100" data-localize="sys_btn_gotit" onclick="closeDiv()">></button>
+ 			</div>
+ 		</div>
+</div>
+
+
+<div id="divRewardOne" class="el-white-dialog-container" style="display:none">
+ 		<div class="el-white-dialog">
+ 			<div class="el-white-dialog-close iconfont icon-guanbi" onclick="closeDiv()"></div>
+ 			<div class="text-center pt10">
+ 				<img id="contributorImg" class="circle-img" width="50" height="50" alt="" />
+ 				<div id="divContributors" class="font-bold mt8"></div>
+ 				<div class="text-color6 mt5" data-localize="sty_lbl_praiseispleasure"></div>
+ 				<ul class="el-kng-reward-list mt35 mb10">
+ 					<li onclick="checkLi(this)" class="active hand">10</li>
+ 					<li onclick="checkLi(this)" class="hand">20</li>
+ 					<li onclick="checkLi(this)" class="hand">30</li>
+ 					<li onclick="checkLi(this)" class="hand">50</li>
+ 					<li onclick="checkLi(this)" class="hand">80</li>
+ 					<li onclick="checkLi(this)" class="hand">100</li>
+ 					<li onclick="checkLi(this)" class="hand">150</li>
+ 					<li onclick="checkLi(this)" class="hand">200</li>
+ 				</ul>
+ 				<button type="button" class="btn btn-warning btn-lmd w-100" data-localize="sty_lbl_reward2" onclick="changeReward()"></button>
+ 				<div class="mt20">
+ 					<span class="text-color6"><span data-localize="sty_lbl_rewardpoints"></span><span id="availablePoints" class="text-warning"></span></span>
+ 				</div>
+ 			</div>
+ 		</div>
+</div>
+<input type="hidden" id="contributeUserId" runat="server" />
+
+<div id="divRewardTwo" class="el-white-dialog-container" style="display:none">
+ 		<div class="el-white-dialog">
+ 			<div class="el-white-dialog-close iconfont icon-guanbi" onclick="closeDiv()"></div>
+ 			<div class="text-center pt40">
+ 				<div class="el-xuanye-saved mt45"></div>
+ 				<div class="text-color6 mt15 mb40" data-localize="sty_lbl_thankyouforreward"></div>
+ 				<button type="button" class="btn btn-warning btn-lmd w-100" data-localize="sys_btn_gotit" onclick="closeDiv()">></button>
+ 			</div>
+ 		</div>
+ 	</div>
+	
+<div id="divRewardFail" class="el-white-dialog-container" style="display:none">
+ 		<div class="el-white-dialog">
+ 			<div class="el-white-dialog-close iconfont icon-guanbi" onclick="closeDiv()"></div>
+ 			<div class="text-center pt40">
+ 				<div class="el-tip-error mt45"></div>
+ 				<div class="text-color6 mt15 mb40" data-localize="sty_lbl_rewardfail"></div>
+ 				<button type="button" class="btn btn-warning btn-lmd w-100" data-localize="sys_btn_gotit" onclick="closeDiv()">></button>
+ 			</div>
+ 		</div>
+</div></div>
+
+            </div>
+            <div id="divMask">
+            </div>
+            <div id="divGuide">
+                <div class="el-kng-pop" style="display: none">
+                    <div class="el-kng-pop-text" data-localize="kng_lbl_knowledgeinstroduction">
+                    </div>
+                    <button class="el-i-know" type="button" onclick="iKnow()">
+                        <span data-localize="sys_btn_gotit"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="el-kng-detail-dialog" style="display: none">
+            <span class="iconfont icon-guanbi text-grey hand" onclick="closeInstroduction()">
+            </span>
+            <div class="pt20 ph45 border-b pb25">
+                <h2 class="font-size-24 font-normal">
+                    营销云基础服务</h2>
+                <div class="mt10">
+                    <span class="text-grey"><span data-localize="sty_lbl_hours"></span>：</span>65<span
+                        data-localize="kng_lbl_minutes"></span> <span class="text-grey ml30"><span data-localize="kng_lbl_leancount">
+                        </span>：</span>3.25
+                </div>
+                <div class="mt10">
+                    <span class="text-grey"><span data-localize="sty_lbl_commentscore"></span>：</span><span
+                        class="iconstar0"></span><span
+                            class="text-grey ml5"></span>
+                </div>
+            </div>
+            <div class="clearfix el-kng-detail-body">
+                <div class="span-17 ph45 border-r">
+                    <div class="font-size-18 pt25" data-localize="common_lbl_coursedescription">
+                    </div>
+                    <div class="lh28 mt10 text-grey">                                    
+                        暂无简介
+                    </div>
+                </div>
+                
+                <div class="span-7 ph20 pt20">
+                    <div class="media mt10">
+                        <div class="media-left">
+                            <img width="60" height="60" src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/79.png?imageView2/0/w/100/h/100/format/jpg/interlace/1"
+                                class="circle-img" />
+                        </div>
+                        <div class="media-body pt5">
+                            <span class="font-bold font-size-16 v-mid">
+                                徐红星
+                            </span>
+                            
+                            <div class="mt7">
+                                产品-产品管理-产品管理</div>
+                        </div>
+                    </div>
+                    <div class="lh28 mt30">
+                        </div>
+                </div>
+                
+            </div>
+        </div>
+        <div id="divValidateKey" style="display: none;">431aa22d-6195-4020-ab20-9d027cb96da8</div>
+    </div>
+    <input name="hidIsExistsUserKnowledge" type="hidden" id="hidIsExistsUserKnowledge" value="1" />
+    <input name="hidKnowledgeID" type="hidden" id="hidKnowledgeID" value="8899595b-14a7-4007-aa09-5a8f55fb72ac" />
+    <input name="hidBachNo" type="hidden" id="hidBachNo" value="20200306014310_15" />
+    <input name="hidStandardStudyHours" type="hidden" id="hidStandardStudyHours" value="65" />
+    <input name="hidStandardStudyScore" type="hidden" id="hidStandardStudyScore" value="3.25" />
+    <input name="hidUserActualStudyHours" type="hidden" id="hidUserActualStudyHours" value="4" />
+    <input name="hidUserActualStudyScore" type="hidden" id="hidUserActualStudyScore" value="0.0" />
+    <input name="hidStudySchedule" type="hidden" id="hidStudySchedule" value="6.15" />
+    <input name="hidKngDownType" type="hidden" id="hidKngDownType" value="0" />
+    <input name="hidNeedMobile" type="hidden" id="hidNeedMobile" value="0" />
+    <input type="hidden" name="hfStyGrade" id="hfStyGrade" />
+    <input type="hidden" name="hfHomeURL" id="hfHomeURL" value="/kng/view/package/d58a6f25dde94bbcb0a549b1e7527311.html" />
+    <input type="hidden" name="hfIsFavorite" id="hfIsFavorite" value="0" />
+    <input type="hidden" name="hfIsSupport" id="hfIsSupport" value="0" />
+    <input type="hidden" name="hfUserKngID" id="hfUserKngID" value="ad1948cb-7cb6-442c-98e8-434e0bb99c7f" />
+    <input type="hidden" name="hidUserName" id="hidUserName" value="0000001192" />
+    <input type="hidden" name="hidUserName1" id="hidUserName1" />
+    <input type="hidden" name="hidIsShowStar" id="hidIsShowStar" value="1" />
+    <input type="hidden" name="hfId" id="hfId" />
+    <input type="hidden" name="hfCatalogId" id="hfCatalogId" />
+    <input type="hidden" name="hidUserPhoto" id="hidUserPhoto" value="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/118.png" />
+    <input type="hidden" name="hidAvgStar" id="hidAvgStar" />
+    <input type="hidden" name="hidTitle" id="hidTitle" value="营销云基础服务" />
+    <input type="hidden" name="hfTip" id="hfTip" value="还在吗？【爱乐学】温馨提示您：学习计时中，请不要走开喔。点击“我在”继续学习，否则我们认为您已临时走开，在您离开的这段时间我们不会计入您的学习时间及相应学分。" />
+    <input type="hidden" name="hfTipBytitle" id="hfTipBytitle" />
+    <input type="hidden" name="hfLectureknowledgeID" id="hfLectureknowledgeID" />
+    <input type="hidden" name="hidRelateCourseKey" id="hidRelateCourseKey" />
+    <input type="hidden" name="hidDownKey" id="hidDownKey" />
+    <input type="hidden" name="hisIsVideo" id="hisIsVideo" value="1" />
+    <input type="hidden" name="hidCheckComments" id="hidCheckComments" value="0" />
+
+    <script type='text/javascript'>var bindimmediately="立即绑定";var needphone="您还未绑定手机号";var bindingmobile="绑定手机号后方可学习该知识噢！";var daytime="天";var hourtime="小时";var minutetime="分钟";var secondtime="秒";var iheretitle="继续学习";var iknow="我知道了";var iwantstudy="我要学习此知识";var ifinishstudy="我已学完此知识";var planfiled="当前学习计划已被管理员归档，不再提交进度";var planupdated="当前学习计划正被管理员修改，请等待计划修改完成后再学习。";var trackanticheat1="防作弊提示：系统同时只记录一个知识的学习进度和学分，您正在学习另一个知识";var trackanticheat2=",此知识不产生学习进度及学分";var key="8899595b-14a7-4007-aa09-5a8f55fb72ac";var validtimeSpan=120;var phaseTrackIntervalTime=600;var studyRate=90;var trackToolTip=encodeURIComponent("还在吗？【爱乐学】温馨提示您：学习计时中，请不要走开喔。点击“我在”继续学习，否则我们认为您已临时走开，在您离开的这段时间我们不会计入您的学习时间及相应学分。");var standardStudyHours=3900;var actualStudyHours=240;var standardStudyScore=3.25;var actualStudyScore=0.0;var existsUserKnowledge=1;var initiativeCreditMode=0;var getCreditMode=0;var masterID="";var masterType="";var packageID="80d50286-9c08-42e5-b15e-3c9a8d2a2589";var orgID="35a1eb12-7592-48a2-9688-1563ccb6d2f5";var userID="49b04dcc-4796-437d-ba87-4a8eebf9a22c";var knowledgeType="VideoKnowledge";var fileType="Video";var knowledgeUrl="";var isHere=0;var isSingle="1";var curTitle="";var pageSize=1;var studySize=1;var pclang="zh";var videoLength="3950";var antionhook='1';</script><script type='text/javascript' src='https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/kng_studytrack_rw.js?v=9.9.235'></script><script type='text/javascript'> try{ InitFrist();} catch(e){}</script>
+    
+    <script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/KngUpload/Plugins/menuSelector.js"></script>
+    <script src="https://streamex.yxt.com/v2/1.2.0/nospread/yxt.prescreencap.js"></script>
+    <script type="text/javascript">
+        (function () {
+            var summary = $("#lisummary"),
+                offset = summary.offset();
+            $(".el-kng-pop").css({
+                "left": offset.left - 175,
+                "top": offset.top - 94
+            });
+        })();
+        //我知道了
+        function iKnow() {
+            document.cookie = "El_49b04dcc-4796-437d-ba87-4a8eebf9a22c=" + "49b04dcc-4796-437d-ba87-4a8eebf9a22c; expires=Fri, 31 Dec 9999 23:59:59 GMT;path=/";
+            $(".el-kng-summary-tip").hide();
+            $(".window-overlay").hide();
+        }
+
+        //显示简介
+        function showInstroduction() {
+            $(".window-overlay").show();
+            $(".el-kng-detail-dialog").show();
+        }
+
+        //关闭简介
+        function closeInstroduction() {
+            $(".window-overlay").hide();
+            $(".el-kng-detail-dialog").hide();
+        }
+
+        //下载视频
+        function DownloadVideo() {
+            var key = $("#hidDownKey").val();
+            //下载
+            DownloadAttachmentWithKng(key);
+            return false;
+        }
+    </script>
+    <script type="text/javascript">
+        $(function () {
+            var isShowStar = $("#hidIsShowStar").val();
+            var userPhoto = $("#hidUserPhoto").val();
+            SyncLoadHtmlContentWithKng('divComment', 'KngCommentNew', 'MasterID|MasterName|CommentType|UserID|UserPhoto|CommentedUserID|CommentedCName|SourceID|PackageID|OrgID|IsShowStar|IsApply', '8899595b-14a7-4007-aa09-5a8f55fb72ac|%e8%90%a5%e9%94%80%e4%ba%91%e5%9f%ba%e7%a1%80%e6%9c%8d%e5%8a%a1|VideoKnowledge|49b04dcc-4796-437d-ba87-4a8eebf9a22c|' + userPhoto + '|dff421e5-891e-4359-bf81-d2515b71f677|徐红星|8899595b-14a7-4007-aa09-5a8f55fb72ac|80d50286-9c08-42e5-b15e-3c9a8d2a2589|35a1eb12-7592-48a2-9688-1563ccb6d2f5|' + isShowStar + '|1');
+                 });
+        /*从未完成到已完成*/
+        var iscurfinish = undefined;
+        var isVideo = $("#hisIsVideo").val();
+        var videoDiv = isVideo == "1" ? "playervideocontainer" : "playeraudiocontainer";
+        //防录屏回调函数
+        screenCap(function () {
+            var screen = new YxtPreScreenCap({
+                playcontainer: videoDiv
+            });
+        });
+
+        //检查是否收藏
+        function CheckAddToFavorite(orgID, userID, knowledgeID, packageID, masterID, masterType, elementClientID, isInnerHtml) {
+            if ($('#hfIsFavorite').val() == "1") {
+                var arr = '{"knowledgeID":"' + knowledgeID + '"}';
+                jQuery.ajax({
+                    type: "POST",
+                    contentType: "text/json",
+                    url: "/kng/services/KngComService.svc/DeleteFavorite",
+                    data: arr,
+                    dataType: 'json',
+                    cache: false,
+                    success: function (result) {
+                        result = eval("(" + result + ")")
+                        if (result.Status == "OK") {
+                            $("#liFavorite").prop("class", "");
+                            $("#hfIsFavorite").val("0");
+                            showSuccessMsg(jQuery.i18n.map['kng_lbl_cancelcollectionsuccess']);
+                        }else {
+                            showWarningMsg(result.Data);
+                        }
+                    }
+                });
+            }
+            else {
+                var arr = '{"knowledgeID":"' + knowledgeID + '","packageID":"' + packageID + '","masterType":"' + masterType + '","masterID":"' + masterID + '"}';
+                jQuery.ajax({
+                    type: "POST",
+                    contentType: "text/json",
+                    url: "/kng/services/KngComService.svc/AddFavorite",
+                    data: arr,
+                    dataType: 'json',
+                    cache: false,
+                    success: function (result) {
+                        result = eval("(" + result + ")")
+                        if (result.Status == "OK") {
+                            $("#liFavorite").prop("class", "done");
+                            $("#hfIsFavorite").val("1");
+                            showSuccessMsg(jQuery.i18n.map['kng_lbl_collectionsuccess']);
+                        } else {
+                            showWarningMsg(result.Data);
+                        }
+                    }
+                });
+            }
+        }
+
+        //赞某对象
+        function supportKng(masterIDs, type) {
+            checkLogin2(function () {
+                var arr = '{"masterIDs":"' + masterIDs + '","type":' + type + ',"remark":"知识学习时的赞"}';
+                jQuery.ajax({
+                    type: "POST",
+                    contentType: "text/json",
+                    url: "/kng/services/KngComService.svc/SupportObject",
+                    data: arr,
+                    dataType: 'json',
+                    cache: false,
+                    success: function (result) {
+                        if (result == "1") {
+                            $("#liSupport").removeClass().addClass("done pr");
+                            $("#hfIsSupport").val("1");
+                            var num = $("#praiseNum").html();
+                            if (parseInt(num) < 99) {
+                                $("#praiseNum").html(parseInt(num) + 1);
+                                $("#praiseNum").removeClass().addClass("el-praise-num");
+                            } else if (parseInt(num) == 99) {
+                                $("#praiseNum").html("99+");
+                            }
+                            showSuccessMsg(jQuery.i18n.map['kng_lbl_successpraise']);
+                        } else if (result == "-888") {
+                            showWarningMsg(jQuery.i18n.map['kng_lbl_havepraised']);
+                        }
+                    }
+                });
+            });
+        }
+
+        //返回
+        function GoBack() {
+            var url = $('#hfHomeURL').val();
+            var m = getQueryString("m");
+            if (m == 1) {
+                if (url.indexOf("?") == -1) {
+                    url = url + "?m=1";
+                } else {
+                    url = url + "&m=1";
+                }
+            }
+            location.href = url;
+        }
+
+        ///立即开始当前的知识学习
+        function StartCurStudy() {
+            if (confirm(jQuery.i18n.map['kng_lbl_studytrackcomfirm'])) {
+                var id = $("#hidKnowledgeID").val();
+                var arr = '{"knowledgeID":"' + id + '","packageID":"80d50286-9c08-42e5-b15e-3c9a8d2a2589","masterID":"","masterType":""}';
+                jQuery.ajax({
+                    type: "POST",
+                    contentType: "text/json",
+                    url: "/kng/services/KngComService.svc/ChangeStudyKnowledge",
+                    data: arr,
+                    dataType: 'json',
+                    cache: false,
+                    success: function (result) {
+                        var url = window.location.href;
+                        if (url.indexOf("tmp=") < 0) {
+                            if (url.indexOf("?") > -1) {
+                                window.location.search += "&tmp=" + Date.parse(new Date());
+                            } else {
+                                window.location.search += "?tmp=" + Date.parse(new Date());
+                            }
+                        }
+                        else {
+                            var c = url.indexOf("tmp=");
+                            var v = url.substring(c + 4, c + 17);
+                            var v1 = v + 1;
+                            url = url.replace(v, v1);
+                            window.location.href = url;
+                        }
+                    }
+                });
+            }
+        }
+
+        //隐藏课程的提醒后记录当前隐藏的时间
+        function HideCourseWarm(obj) {
+            var kid = $("#hfUserKngID").val();
+            var arr = '{"userKngID":"' + kid + '"}';
+            jQuery.ajax({
+                type: "POST",
+                contentType: "text/json",
+                url: "/kng/services/KngComService.svc/AddExpiredTimeByUserKngID",
+                data: arr,
+                dataType: 'json',
+                cache: false,
+                success: function () {
+                }
+            });
+            $(obj).parent('.tipbox').hide();
+        }
+
+        function js_getSessionInfo() {
+            var kid = '8899595b-14a7-4007-aa09-5a8f55fb72ac';
+            var userid = '49b04dcc-4796-437d-ba87-4a8eebf9a22c';
+            var timestamp = new Date().valueOf();
+            return "" + userid + "|" + kid + "|" + timestamp + "";    //用户ID和视频ID或课程ID,时间戳
+        }
+
+        //0：评论  1:问答    2：笔记
+        function changeContentTab(obj, index) {
+            if ($(obj).hasClass("active")) {
+
+            } else {
+                if (index == 0) {
+                    $("#liComment").addClass("active");
+                    $("#liQuestion").removeClass("active");
+                    $("#liNote").removeClass("active");
+                    $("#divComment").show();
+                    $("#divAskQuestion").hide();
+                    $("#divKngNote").hide();
+                    var isShowStar = $("#hidIsShowStar").val();
+                    var userPhoto = $("#hidUserPhoto").val();
+                    SyncLoadHtmlContentWithKng('divComment', 'KngCommentNew', 'MasterID|MasterName|CommentType|UserID|UserPhoto|CommentedUserID|CommentedCName|SourceID|PackageID|OrgID|IsShowStar|IsApply', '8899595b-14a7-4007-aa09-5a8f55fb72ac|%e8%90%a5%e9%94%80%e4%ba%91%e5%9f%ba%e7%a1%80%e6%9c%8d%e5%8a%a1|VideoKnowledge|49b04dcc-4796-437d-ba87-4a8eebf9a22c|' + userPhoto + '|dff421e5-891e-4359-bf81-d2515b71f677|徐红星|8899595b-14a7-4007-aa09-5a8f55fb72ac|80d50286-9c08-42e5-b15e-3c9a8d2a2589|35a1eb12-7592-48a2-9688-1563ccb6d2f5|' + isShowStar + '|1');
+                    var key = "MasterID|SourceID|PackageID|UserID|PageIndex|PageSize";
+                    var value = "8899595b-14a7-4007-aa09-5a8f55fb72ac|8899595b-14a7-4007-aa09-5a8f55fb72ac|80d50286-9c08-42e5-b15e-3c9a8d2a2589|49b04dcc-4796-437d-ba87-4a8eebf9a22c|0|10";
+                    GetDataByLabelENameWithKng("dvCommentList", "KngCommentList30", 0, 0, key, value);
+
+                } else if (index == 1) {
+                    $("#liComment").removeClass("active");
+                    $("#liQuestion").addClass("active");
+                    $("#liNote").removeClass("active");
+                    $("#divComment").hide();
+                    $("#divAskQuestion").show();
+                    $("#divKngNote").hide();
+                    var title = $("#hidTitle").val();
+                    var hfimageurl = $("#hidUserPhoto").val();
+                    SyncLoadHtmlContentWithKng('divAskQuestion', 'KngViewQuestionInfo', 'imageUrl', hfimageurl);
+                    GetDataByLabelENameWithKng("divQuestionList", "KngQuestionList", 0, 0, "title", title);
+
+                } else if (index == 2) {
+                    $("#liComment").removeClass("active");
+                    $("#liQuestion").removeClass("active");
+                    $("#liNote").addClass("active");
+                    $("#divComment").hide();
+                    $("#divAskQuestion").hide();
+                    $("#divKngNote").show();
+                    var hfimageurl = $("#hidUserPhoto").val();
+                    SyncLoadHtmlContentWithKng('divKngNote', 'KngViewNoteInfo', 'KnowledgeID|KnowledgeType|ImageUrl', '8899595b-14a7-4007-aa09-5a8f55fb72ac|VideoKnowledge|' + hfimageurl);
+                    loadPropertiesForAsync("divKngNote");
+                }
+            }
+        }
+
+        //锚点移动
+        function hashAction(id) {
+            var t = $("#" + id).offset().top;
+            $(window).scrollTop(t);
+
+            $("#" + id).click();
+        }
+
+        //打赏
+        function shwoReward() {
+            //获取贡献者信息
+            var arr = '{"knowledgeId":"8899595b-14a7-4007-aa09-5a8f55fb72ac"}';
+            jQuery.ajax({
+                type: "POST",
+                contentType: "text/json",
+                url: "/kng/services/KngComService.svc/GetKngContributorView",
+                data: arr,
+                dataType: 'json',
+                cache: false,
+                success: function (result) {
+                    result = eval('(' + result + ')');
+                    if (result.Status == "Ok") {
+                        var msgData = eval('(' + result.Data + ')');
+                        if (msgData.userId == "" || msgData.userId == null) {
+                            $("#divRewardFail").hide();
+                            $("#divNoContributors").show();
+                        } else {
+                            $("#contributorImg").attr("src", msgData.headPictureUrl);
+                            $("#divContributors").html(msgData.cnName);
+                            $("#availablePoints").html(msgData.validPoints);
+                            $("#contributeUserId").val(msgData.userId);
+                            $("#divRewardFail").hide();
+                            $("#divRewardTwo").hide();
+                            $("#divRewardOne").show();
+                        }
+                    } else {
+                        $("#divRewardOne").hide();
+                        $("#divRewardTwo").hide();
+                        $("#divRewardFail").hide();
+                        $("#divNoContributors").show();
+                    }
+                    $("#divReward").show();
+                },
+                error: function (data) {
+
+                }
+            });
+        }
+    </script>
+    <script type="text/javascript">
+        (function ($) {
+            var wh = $(window).height();
+            $(".el-video-play").height(wh - 120);
+            //$(".el-video-play").find(".el-play-area").height(wh - 120);
+            if ($("#hfLectureknowledgeID").val() != "") {
+                $(".el-video-play").find(".el-play-area").find(".y-container1").height(wh - 120);
+            }
+        })(jQuery);
+
+        function testTransition() {
+            var _style = document.createElement("div").style;
+            return "transition" in _style || "mozTransition" in _style ||
+					"webkitTransition" in _style;
+        }
+
+        $("#li1").on("click", function () {
+            $(this).toggleClass("active");
+            var elem = $(".el-play-area");
+            if (testTransition()) {
+                elem.toggleClass("el-play-right-active");
+            } else {
+                if (!elem.hasClass("el-play-right-active")) {
+                    elem.animate({ "margin-right": "309px" }, 200, function () {
+                        elem.addClass("el-play-right-active");
+                    });
+
+                    $(".el-play-area-right").animate({ "width": "309px" }, 200);
+                } else {
+                    elem.animate({ "margin-right": "49px" }, 200, function () {
+                        elem.removeClass("el-play-right-active");
+                    });
+                    $(".el-play-area-right").animate({ "width": "49px" }, 200);
+                }
+            }
+        });
+
+        $(".el-area-left-tag").on("click", function () {
+            $(this).toggleClass("active");
+            var elem = $(".el-play-area-left"), target = $(".el-play-area");
+            if (testTransition()) {
+                $(".el-play-area-left").toggleClass("el-play-left-active");
+            } else {
+                if (!elem.hasClass("el-play-left-active")) {
+                    target.animate({ "margin-left": "260px" }, 200, function () {
+                        elem.addClass("el-play-left-active");
+                    });
+
+                    elem.animate({ "width": "260px" }, 200);
+                } else {
+                    target.animate({ "margin-left": "28px" }, 200, function () {
+                        elem.removeClass("el-play-left-active");
+                    });
+                    $(".el-play-area-left").animate({ "width": "28px" }, 200);
+                }
+            }
+
+        });
+
+        
+    </script>
+    <script type="text/javascript">
+
+        //下载列表的文件数量
+        var downFilesCount = 0;
+
+        //下载管理列表
+        function loadDownDocList(offset) {
+            var arr = '{"limit":"9","offset":"' + offset + '"}';
+            jQuery.ajax({
+                type: "POST",
+                contentType: "text/json",
+                url: "/kng/services/KngComService.svc/GetKngDownDocList",
+                data: arr,
+                dataType: 'json',
+                cache: false,
+                success: function (data) {
+                    if (data != "") {
+                        var result = data.datas;
+
+                        for (var i = 0; i < result.length; i++) {
+
+                            var html = '<li id=' + result[i].id + ' class="doc-line-list clearfix">';
+
+                            if (result[i].fileType == "PDF") {
+                                html += '<span class="icon-Knowledge-pdf pull-left">';
+                            } else if (result[i].fileType == "Image") {
+                                html += '<span class="icon-Knowledge-image pull-left">';
+                            }
+
+                            html += '</span><div class="list-body pull-left ml10 mr20"><div class="ellipsis text-normal hand font-size-13" title="' + result[i].knowledgeName + '">' + result[i].knowledgeName + '</div><div class="font-size-13 text-grey clearfix el-list-date">' + result[i].updateDate + '</div></div>';
+
+                            if (result[i].isDownload == "1") {    //是否已下载 0：未下载 1：已下载 
+                                html += '<div class="pull-left font-size-13 clearfix el-download-status zhclass"><div class="el-downloading"><a class="hand" onclick="RecordDownCount(\'' + result[i].id + '\',\'' + result[i].fileUrl + '\')">' + jQuery.i18n.map['opt_lbl_download'] + '</a></div><div class="text-grey el-have-downloaded">(' + jQuery.i18n.map['lbl_msg_download'] + ')</div></div>';    //已下载
+                            } else {
+                                if (result[i].status == "0") {    //状态 0：处理中 1：处理完成 2:处理失败
+                                    html += '<div class="text-grey font-size-13 pull-left clearfix being-processed zhclass">' + jQuery.i18n.map['lbl_msg_processing'] + '</div>';    //处理中
+                                } else if (result[i].status == "1") {
+                                    html += '<div class="text-grey font-size-13 pull-left el-downloading clearfix zhclass"><a class="hand" onclick="RecordDownCount(\'' + result[i].id + '\',\'' + result[i].fileUrl + '\')">' + jQuery.i18n.map['opt_lbl_download'] + '</a></div>';
+                                } else {
+                                    html += '<div class="font-size-13 pull-left clearfix text-red zhclass">' + jQuery.i18n.map['lbl_msg_processfailed'] + '</div>';   //处理失败
+                                }
+                            }
+
+                            html += '<div class="el-del pull-right mr10 hand" onclick="DeleteFile(\'' + result[i].id + '\')"></div></li>';
+
+                            $("#ulKngDownList").append(html);
+                        }
+
+                        //如果是中文状态，下载按钮等样式离右边近一点
+                        if ("zh" == "zh") {
+                            $(".zhclass").addClass("ml30");
+                        }
+
+                        var filesCount = data.paging;
+                        downFilesCount = filesCount.count;
+
+                        if (downFilesCount > 99) {
+                            $("#ulKngDownList").show();
+                            $("#divNoMsg").hide();
+                            $("#hidDownCount").show().html("99");     //超过99 只显示99
+                            $("#spNoMsg").removeClass("text-grey").addClass("text-info hand");
+                            $("#hidAddIcon").show();
+                        } else if (downFilesCount == 0) {
+                            $("#ulKngDownList").hide();
+                            $("#divNoMsg").show();
+                            $("#hidDownCount").hide().html(downFilesCount);
+                            $("#spNoMsg").removeClass("text-info hand").addClass("text-grey");     //置灰
+                            $("#hidAddIcon").hide();
+                        } else {
+                            $("#ulKngDownList").show();
+                            $("#divNoMsg").hide();
+                            $("#hidDownCount").show().html(downFilesCount);
+                            $("#spNoMsg").removeClass("text-grey").addClass("text-info hand");
+                            $("#hidAddIcon").hide();
+                        }
+                    }
+                }
+            });
+        }
+
+        //记录下载列表里的 知识是否已下载过
+        function RecordDownCount(id, url) {
+            window.location.href = url;
+            var arr = '{"fileID":"' + id + '"}';
+            jQuery.ajax({
+                type: "POST",
+                contentType: "text/json",
+                url: "/kng/services/KngComService.svc/RecordDownCount",
+                data: arr,
+                dataType: 'json',
+                cache: false,
+                success: function (data) {
+                    if (data) {     //成功则页面有已下载标识
+                        //console.log("记录次数");                       
+                    } else {
+                    }
+                }
+            });
+        }
+
+        //删除下载列表的文件
+        function DeleteFile(id) {
+            var arr = '{"fileID":"' + id + '"}';
+            jQuery.ajax({
+                type: "POST",
+                contentType: "text/json",
+                url: "/kng/services/KngComService.svc/DeleteKngDownFile",
+                data: arr,
+                dataType: 'json',
+                cache: false,
+                success: function (data) {
+                    if (data) {
+                        $("#" + id + "").remove();
+                        downFilesCount--;
+                        if (downFilesCount > 99) {
+                            $("#hidDownCount").html("99");
+                            $("#hidAddIcon").show();
+                        } else {
+                            $("#hidDownCount").html(downFilesCount);
+                            $("#hidAddIcon").hide();
+                        }
+
+                        if (downFilesCount == 0) {
+                            $("#hidDownCount").hide()
+                            $("#hidAddIcon").hide();
+                            $("#ulKngDownList").hide();
+                            $("#divNoMsg").show();
+                            $("#spNoMsg").removeClass("text-info hand").addClass("text-grey");
+                        }
+                    }
+                }
+            });
+        }
+
+        //清空下载列表
+        function DeleteAllFiles() {
+            jQuery.ajax({
+                type: "POST",
+                contentType: "text/json",
+                url: "/kng/services/KngComService.svc/DeleteAllKngDownFiles",
+                data: "",
+                dataType: 'json',
+                cache: false,
+                success: function (data) {
+                    if (data) {
+                        downFilesCount = 0;
+                        $("#hidDownCount").hide().html(downFilesCount);
+                        $("#hidAddIcon").hide();
+                        //显示 暂无数据
+                        $("#ulKngDownList").hide().empty();
+                        $("#divNoMsg").show();
+                        $("#spNoMsg").removeClass("text-info hand").addClass("text-grey");     //置灰
+                    }
+                }
+            });
+        }
+
+        //根据是否开启机构参显示右上角图标
+        function showDownLoad() {
+            if ($("#hidKngDownType").val() == "1") {
+                $("#divDownLoad").removeClass("hidden");
+                $("#el-download").show();
+            } else {
+                $("#el-download").hide();
+            }
+        }
+
+    </script>
+    <script type="text/javascript">
+
+        //下载列表刷新
+        var scrollCount = 0;
+
+        /*点击下载按钮下载列表页出现，点击其他区域，关闭列表页面*/
+        $(document).ready(function () {
+            //页面初始化时隐藏弹窗  
+            $('#doc-download').hide();
+
+            //窗口外点击事件  
+            $("#el-download").click(function (e) {
+                //先重新加载数据再显示
+                $("#ulKngDownList").empty();
+                scrollCount = 0;
+                loadDownDocList(1);
+
+                //阻止事件冒泡,防止波及本按钮  
+                e.stopPropagation();
+                //显示弹窗  
+                $('#doc-download').show();
+            });
+        });
+
+        $(document).click(function (e) {
+            var download = $("#doc-download");
+            //判断事件对象不是弹窗对象并且弹窗对象不包含事件对象  
+            if (!download.is(e.target) && download.has(e.target).length == 0) {
+                //则隐藏弹窗  
+                download.hide(100);
+            }
+        });
+
+        $("#el-download").click(function (e) {
+            //阻止事件冒泡，防止波及本按钮  
+            e.stopPropagation();
+            //隐藏弹窗  
+            $('#doc-download').hide(500);
+        });
+
+        $("#ulKngDownList").scroll(function () {
+            var scrollTop = $(this).scrollTop();
+            var divHeight = $(this).height();
+            var totalHeight = document.getElementById("ulKngDownList").scrollHeight;
+            if (scrollTop + divHeight + 50 > totalHeight) {
+                scrollCount++;    //滚动次数累加
+                var offs = scrollCount * 9 + 1;
+                loadDownDocList(offs);
+            }
+        });
+
+        //显示默认图
+        function showDefaultImg() {
+            $("#divDefaultImg").removeClass("hidden");
+        }
+
+        //有讲义的音频默认图样式
+        function shouwJYImgCss() {
+            $("#divDefaultImg").removeClass("jw-center-tu").addClass("jw-center-tu-packge");
+            $("#divDefaultImg img").addClass("jw-center-img").removeAttr("height").removeAttr("width");
+            showDefaultImg();
+        }
+
+     </script>
+    
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="84ED8139" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="or9sCMpW31li0aL0wNG+vSqqeoYTJoqjQGvfjKg1j5pwurukC/phDF0TrvQvvkomry9WWVNCDBCyVxM8cN/7ok3DaaoNNU4a1oCNZCeR8rf1DLFCSJ5xroZN9mLTAgn/uayrgLFRrbLh8k7eeGsLArrOh320HkfzsXIkHIcwCX6mm0I454+M3hloOnG2YMc33BsWPV7+qcozxckh1c6hrnPf6pwGPfSW4sOkE92I6re30Uopsmbab2J9yxWQUv7ufjjgpRF0p58nFOvVzDLp7PDpIwHQ259nqx0xmUYdWj63XSQUWollp5H1ZTjv77v91F9L48N6l6z+3noWsdyAAmCyEiyjN28Yelod+aKdgDkQ/JUCjQQNwYoeESmcrlRIFFmIrXjYaTDQnQgt7/puXMTPvXPp7y02+M2PaafRyiMziLNuio4SyUzrvi68Jj7P7UaaCkrddJgxzMx+BxfqWFn19G2pZDO2kuOkD/ZylYmkR/dE/8xkaNBTu2UBCig0+GSMqMWX5094dgMcK/T/e1Zi/G0ych3v4o0OaoeYRPr3ZT3mLBLXXDYakAD1iNd8zYu3qFrushS5oPfwT3DvCMfF7JRnzx+BQUtw0wusrIoRlU1UysG24u+57rCWX7S6e8Tj+y+JZ8yXK70CJjM/lEJAGfOVdAmnWujUcpRbGWaXqdR92bwC5nSW16oGrUIyxW7fSQP/HHA/ucFZMDugGOS/CTGPJ2Al9vaQAYJFeO8DXrT0ahBOXxYMHB+feU6c5KetY3t+dXbAaTgeu+2pRDwNS/7v1q/e63RoxhMtnUg3ts4ob2ClcQiqrJfRZ5tDMuCnSU5Z8POutCaZ" />
+</div>
+<script language='javascript'>try {loadProperties('zh','kng');  }catch (e) {}</script>
+<script type="text/javascript">
+//<![CDATA[
+WebForm_AutoFocus('btn');//]]>
+</script>
+</form>
+ </div>
+
+ 
+ <div class="pagefooter" id="divPageFooter">
+    
+ 
+<div style="margin:10px auto; text-align:center; color:#666666; line-height:24px;">
+   <div>
+ &copy; 2019 All Rights Reserved&nbsp;&nbsp;爱乐学 <span data-localize="home_lbl_copyright"></span>
+</div>
+ <!--<div>-->
+ <!--<a href="https://www.yonyoucloud.com/" target="_blank" data-localize="home_lbl_yunxuetang"></a> <span data-localize="home_lbl_technicalsupport"></span>-->
+ <!--&nbsp;&nbsp;<a href="http://elearning.yunxuetang.cn/registerprotocol.htm" target="_blank" data-localize="home_lbl_serviceagreement"></a>-->
+ <!--&nbsp;&nbsp;400-928-6900-->
+ <!--</div>-->
+</div>
+<script type="text/javascript">
+ loadPropertiesForAsync("divPageFooter");
+</script>
+ </div>
+ </div>
+ 
+ 
+</body>
+</html>

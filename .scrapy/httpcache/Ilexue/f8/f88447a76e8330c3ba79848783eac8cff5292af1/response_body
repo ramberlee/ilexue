@@ -1,0 +1,3622 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1">
+ <title>课程包明细 - 用友网络科技股份有限公司</title>
+ <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+ <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+ <meta name="keywords" content="" />
+ <meta name="description" content="" />
+  
+ <script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/tingyun-rum.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery-1.9.1.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery-ui-1.9.2.custom.min.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.livequery.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.validate_new.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.mCustomScrollbar.concat.min.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/dist/common.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/functions.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/plugin/layer/layer.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/languages/jquery.i18n.properties-1.0.9.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/languages/main.js?v=9.9.235"></script><script type="text/javascript">currentSkinName="elearning30";var lecaiAPiUrl="https://api-qidatestin.yunxuetang.cn/v1/";</script><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/modified.min.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/normalize.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/elearning.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/uc/ui.core.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/style.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/Zebra_DatePicker.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="/CSS/iconfonts/iconfont.css?v=9.9.235" rel="stylesheet" type="text/css" /><link href="/CSS/cfont/iconfont.css?v=9.9.235" rel="stylesheet" type="text/css" /><link href="/CSS/navfont/iconfont.css?v=9.9.235" rel="stylesheet" type="text/css" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/font-awesome/4.4.0/css/font-awesome.css?v=9.9.235" type="text/css" rel="stylesheet" />
+ 
+ <!--[if lte IE 8]>
+ <link rel="stylesheet" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/IE8.css" />
+<script src='https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/IE8.js' type="text/javascript"></script>
+ <![endif]-->
+
+</head>
+ 
+
+ 
+
+
+<script>
+
+function handleCenter(className){
+ var containHeight=document.documentElement.clientHeight-300;
+	var lstImg=jQuery(className);
+	for(var i=0,j=lstImg.length;i<j;i++){
+		//图片大小大于可以容纳的大小
+		if(lstImg.eq(i).height()>containHeight){
+			lstImg.eq(i).css("top","auto");
+			lstImg.eq(i).css("bottom",0);
+		}
+	}
+}
+jQuery(document).ready(function(){
+handleCenter(".floatwindow_LeftCenter");
+handleCenter(".floatwindow_RightCenter");
+});
+</script>
+ 
+ 
+
+
+  
+
+
+
+
+
+
+ <div class="onlineserviceall">
+ <div class="onlineservicebox" style="display: none;">
+ <div class="head hand" onclick="hidenOnlineService();">
+ <div class="close">
+ </div>
+ </div>
+ <!--在线客服内容-->
+ <div id="divEasemobConfig" class="body textcenter" style="min-height: 200px">
+ </div>
+ </div>
+ <div class="onlineserviceboxpic" style="display: block;" onclick="showOnlineService();"
+ onmouseover="this.className='onlineserviceboxpic filteropcity';" onmouseout="this.className='onlineserviceboxpic';">
+ </div>
+</div>
+<script type="text/javascript">
+ function showOnlineService() {
+ SyncLoadHtmlContent2('divEasemobConfig', 'EasemobConfig');
+ jQuery(".onlineserviceboxpic").hide();
+ jQuery(".onlineservicebox").show();
+ }
+ function hidenOnlineService() {
+ jQuery(".onlineserviceboxpic").show();
+ jQuery(".onlineservicebox").hide();
+ } 
+</script>
+
+ 
+
+ <body lang="zh" class="mainbg cou_coursepackageplayer_body">
+ <div class="cou_coursepackageplayer_layout">
+ 
+
+
+ 
+<div id="floatLbl" class="pagerightfix ie6needfixtobottom90" onmouseover="changeHoverStyle(this,'pagerightfix');">
+ <div class="row" onmouseover="this.className='rowselect';" style="display: none;"
+ onclick="window.open('/updateannouncement.htm');" onmouseout="this.className='row';">
+ <div class="iconversionhistory">
+ <span data-localize="sys-lbl-float3"></span></div>
+ </div>
+ <div class="splid" style="display: none;">
+ </div>
+ <div class="row" onmouseover="this.className='rowselect';" onmouseout="this.className='row';">
+ <div class="iconshowtalkpanel" onclick='ShowIFrameDialog(jQuery.i18n.map["sys-lbl-float2"],800,350,"/Portal/OnlineHelp/SuggestionSubmit.aspx");'>
+ <span data-localize="sys-lbl-float4"></span></div>
+ </div>
+ <div class="splid">
+ </div>
+  <div class="row" onmouseover="this.className='rowselect';" onmouseout="this.className='row';">
+ <div class="iconphone">
+ <a href='/mobileinstall.htm' data-localize="sys-lbl-float5"></a></div>
+ </div>
+ <div class="splid">
+ </div>
+  <div class="row" onmouseover="this.className='rowselect';" onmouseout="this.className='row';">
+ <div class="icongototop" onclick="window.scrollTo(0,0);">
+ <span data-localize="sys-lbl-float6"></span></div>
+ </div>
+</div>
+ <div class="topnotice" style="background-color:#444444;">
+ <div class="noticemsg" style="width:1000px; color:#F0F0F0;"><span class="content"></span></div>
+ </div>
+  
+ 
+<style type="text/css">
+ div.pageheader div.content{width:1200px!important;padding-top: 12px!important;}
+ div.pageheader div.content span.leftarea{width: 350px!important;height: 78px!important;}
+ div.pageheader31 div.headerbg .pageheader {
+ height: 105px!important;
+ width: 100%!important;
+ overflow: inherit!important;
+ border-bottom: solid #dddddd 1px;
+ }
+ div.pageheader31 div.headerbg .pagenav{background: #fff!important;}
+ div.pageheader31 div.headerbg div.navbar_default {
+ line-height: 40px!important;
+ height: 40px!important;
+ margin-top: 0px!important;
+ width: 100%!important;
+ background: none!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li.mouseover a {
+ background: none!important;
+ font-size: 16px!important;
+ display: block!important;
+ height: 38px!important;
+ line-height: 40px!important;
+ text-align: center!important;
+ color: #e60012!important;
+ border-bottom: 2px solid #e60012!important;
+ }
+ div.pageheader31 div.headerbg div.navbar_default ul li.leftround{width:20px!important;}
+ div.pageheader31 div.headerbg div.navbar_default ul li.mouseover {
+ background: none!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li {
+ padding-left: 0px!important;
+ height: 40px!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li a {
+ font-size: 16px!important;
+ color: #333!important;
+ height: 40px!important;
+ line-height: 40px!important;
+ text-align: center!important;
+ padding: 0px!important;
+ margin-top: 0px!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li:hover {
+ background: none!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li:hover > a {
+ background: none!important;
+ font-size: 16px!important;
+ display: block!important;
+ height: 38px!important;
+ line-height: 40px!important;
+ text-align: center!important;
+ color: #e60012!important;
+ border-bottom: 2px solid #e60012!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul {
+ height: 40px!important;
+ line-height: 40px!important;
+ width:1200px!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li.seperate {
+ width: 60px!important;
+ background: none!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li.morehover .blockmore .c_navmorediv1 a {
+ font-size: 14px!important;
+ color: #333!important;
+ line-height: 15px!important;
+ font-weight: bold!important;
+ height: 22px!important;
+ padding: 0px!important;
+ width: auto!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li.morehover {
+ width: 60px!important;
+ }
+
+ div.pageheader31 .headerbg .accounthover .accountpanel {
+ top: 46px!important;
+ }
+
+ div.pageheader31 .headerbg .accounthover .accountpanel div.creditstoday {
+ background-color: #e60012!important;
+ top: 40px!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li.morehover a.linkmore {
+ height: 38px!important;
+ line-height: 38px!important;
+ color: #FFF!important;
+ width: 60px!important;
+ border: 1px solid #e60012!important;
+ background-color: #e60012!important;
+ background-image: none!important;
+ }
+
+ div.pageheader31 div.navbar_default ul li.more a.linkmore {
+ width: 60px!important;
+ height: 35px!important;
+ background-position: right 13px!important;
+ }
+
+ div.pageheader31 .headerbg .pagenav .msgareahover .info {
+ height: 49px!important;
+ }
+ div.pageheader31 .headerbg .pagenav .account{height:40px!important;margin-top:5px!important;}
+ div.pageheader31 .headerbg .pagenav .msgarea,div.pageheader31 .headerbg .pagenav .stayarea{margin-top:5px!important;}
+ div.pageheader31 .headerbg .pagenav .msgareahover div.dvnumberbg {margin-top: 3px!important;margin-left:1px!important;}
+ div.pageheader31 .headerbg .pagenav .msgareahover .info .iconnotic_new,div.pageheader31 .headerbg .pagenav .msgareahover .info .iconnotic_new {margin-top: 10px!important;}
+ div.pageheader31 .headerbg .pagenav .msgareahover .noticpanel {
+ top: 49px!important;
+ }
+
+ div.pageheader31 .headerbg .accounthover .accountblick1 {
+ height: 48px!important;
+ font-size: 14px!important;
+ color: #FFF!important;
+ line-height: 44px!important;
+ background-image: none!important;
+ background-color: #e60012!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li.morehover .blockmore {
+ top: 40px!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li a.linkmore {
+ font-style: normal!important;
+ padding:0px!important;
+ }
+
+ div.dvnumberbg {
+ margin-top: 0px!important;
+ background: url(https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/Classic/fine/css/images/tallnew.png) no-repeat right -17px!important;
+ }
+
+ div.pageheader31 .headerbg .pagenav .msgarea div.dvnumberbg {
+ margin-top: 0px!important;
+ background: url(https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/Classic/fine/css/images/tallnew.png) no-repeat right -17px!important;
+ }
+ div.dvnumberbg span.number3,div.pageheader31 .headerbg .pagenav .msgarea div.dvnumberbg span.number,div.pageheader30 .headerbg .header .msgarea div.dvnumberbg span.number,div.dvnumberbg span.number1,div.pageheader31 .headerbg .pagenav .msgareahover div.dvnumberbg span.number {
+ background: url(https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/Classic/fine/css/images/tallnew.png) no-repeat 0 0!important;
+ margin-left: -5px;
+ }
+
+ .tips ul li {
+ cursor: pointer;
+ }
+
+ div.pageheader31 .headerbg div.pageheader div.content span.rightarea {width: 850px!important;float:left!important; overflow: inherit!important;}
+
+ .s-text-input {
+ width: 286px;
+ height: 50px;
+ line-height: 50px;
+ overflow: hidden;
+ float: left;
+ margin-top: 0px;
+ margin-left: 280px;
+ }
+ .s-search {
+ width: 250px;
+ height:38px;
+ float: left;
+ text-indent:20px;
+ border: solid #dddddd 1px;
+ border-right: none;
+ }
+ .search-btn{
+ display: block;
+ width: 35px;
+ height : 40px;
+ line-height: 50px;
+ overflow: hidden;
+ float: right;
+ background: #e60012;
+ border: none;
+ color: #fff;
+ font-size: 18px;
+ text-align: center;
+ cursor: pointer;
+ }
+ .icons-search {
+ display:block;
+ background: url('https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/Classic/13438978894/css/images/s-icon.png') no-repeat -54px -37px;
+ width: 21px;
+ height: 24px;
+ margin:8px auto;
+ }
+
+ .fl{float:left;}
+ div.pageheader31 div.headerbg div.navbar_default ul li.morehover a.linkmore{background: #e60012!important;}
+
+</style>
+ 
+<script type="text/javascript">
+ function showEventWaitHandlePanel(a) {
+ if (a == "1") {
+ 
+ //待办事项图标闪烁用
+ var txtType01 = 'SiteMessageForItemIco';
+ var arr01 = '{"key":"' + txtType01 + '"}';
+ //异步保存Session
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/Services/MyIndexService.svc/SaveSessionLoginStringForItemIco",
+ data: arr01,
+ dataType: 'json',
+ cache: false,
+ success: function (result) {
+ if (result == "ok") {
+ $("#sWait").attr("class", "iconnotic_new");
+ }
+ }
+ });
+ }
+ var Value = document.getElementById("WaitToDoMessage").value;
+
+ if (jQuery("#dvDaibanShiyi").is(":hidden")) {
+
+ var left = (jQuery(document).width() - 835) / 2;
+ var top = (jQuery(window).height() - 403) / 2;
+
+ jQuery("#dvDaibanShiyi").css("top", top + "px").css("left", left + "px").show();
+ var a = Value.indexOf("@");
+ var str;
+ if (a == -1) {
+ str = Value.split("|");
+ }
+ else {
+ var str1 = Value.substring(0, a);
+ str = str1.split("|");
+ }
+ if (str.length == 13) {
+ //2&管理员|1|1|5|0|上午好|1|0|0|0|0|0|0
+ //返回string类型以‘|’分割 目前包含需要13个数据
+ //前面数字表示获取内容的顺序，用Str[XX]获取时需要减1
+ //1：用户名（已过时，不用了） 2：用户上传的知识数（0为没有上传过）
+ //3：该用户30天内上传的知识数（0为没有上传）
+ //4：待审核的知识数（0为不需要审核）
+ //5：已延迟的学习任务数量 6:根据当前时间获取问候语（上午，下午，晚上好）
+ //7：是否上传过头像（0为未上传，1为上传）
+ //8：是否安装客户端（0为未安装）
+ //9：下属员工未完成的任务数量
+ //10：未指派过任务的下属员工数量
+ //11：下属员工30天未分享过知识的数量
+ //12：下属员工7天登入的个数
+ //13：下属员工未安装移动客户端的
+ jQuery("#WhatTimeNow").html(str[5]);
+ var isCount = 0; //判断时候需要显示全部完成的Li
+ var isShowCount = 1; //判断每一个Li前面显示的数字，所以此JS内顺序不能更换
+ //做一个有头有脸的人物，从头像做起。赶快上传自己的头像吧！6
+ if (str[1] != "0") {
+ jQuery("#FirstShareKNG").hide();
+ isCount = isCount + 1;
+ }
+ else {
+ jQuery("#FirstShareKNG").show();
+ jQuery("#markcount2").html(isShowCount);
+ isShowCount = isShowCount + 1;
+ }
+ if (str[4] == "0") {
+ jQuery("#StudyPlanKNG").hide();
+ isCount = isCount + 1;
+ }
+ else {
+ jQuery("#StudyPlanKNG").show();
+ jQuery("#PassStudyPlan").html(str[4]);
+ jQuery("#markcount3").html(isShowCount);
+ isShowCount = isShowCount + 1;
+ }
+ if (str[3] == "0") {
+ jQuery("#WaitCkeck").hide();
+ isCount = isCount + 1;
+ }
+ else {
+ jQuery("#WaitCheckCount").html(str[3]);
+ jQuery("#WaitCkeck").show();
+ jQuery("#markcount4").html(isShowCount);
+ isShowCount = isShowCount + 1;
+ }
+ //您已经一个月未分享过任何东东了，立即加入分享的队伍吧！2
+// if (str[7] == "0") {
+// jQuery("#InstallationApps").show();
+// jQuery("#markcount6").html(isShowCount);
+// isShowCount = isShowCount + 1;
+// }
+// else {
+// jQuery("#InstallationApps").hide();
+// isCount = isCount + 1;
+// }
+ //个学习任务未按时完成！8
+ //名员工从来没有指派学习任务，立即去指派！9
+ //名员工已超过30天没有分享任何知识！10
+ if (str[11] == "0") {
+ jQuery("#LeaderNotLoginIn").hide();
+ isCount = isCount + 1;
+ }
+ else {
+ jQuery("#LeaderNotLoginIn").show();
+ jQuery("#LeaderNotLoginInText").html(str[11]);
+ jQuery("#markcount10").html(isShowCount);
+ isShowCount = isShowCount + 1;
+ }
+// if (str[12] == "0") {
+// jQuery("#LeaderNotInstallationApps").hide();
+// isCount = isCount + 1;
+// }
+// else {
+// jQuery("#LeaderNotInstallationApps").show();
+// jQuery("#LeaderNotInstallationAppsText").html(str[12]);
+// jQuery("#markcount11").html(isShowCount);
+// isShowCount = isShowCount + 1;
+// }
+ if (isCount != 4) {
+ jQuery("#NoWaitPlanToDo").hide();
+ jQuery("#ShowAttention").show();
+ }
+ else {
+ jQuery("#NoWaitPlanToDo").show();
+ }
+ }
+ }
+ }
+ function closeDaibanShiyi() {
+ jQuery("#dvDaibanShiyi").hide();
+ }
+ function SearchUsersWithNew(a) {
+ if (a == "NotShareKnowledgeWithNew") {
+ addFilter("dvFilter1", "603");
+ jQuery("#spnotice01").html(jQuery.i18n.map['sys_lbl_sendmessageremind'])
+ jQuery("#sptitle01").html(jQuery.i18n.map['sys_lbl_reminder'])
+ jQuery("#txtPress01").val(jQuery.i18n.map['sys_lbl_immediatelyjoinshare'])
+ jQuery("#hidsendtype01").val("NotShareKnowledgeWithNew");
+ GetDataByLabelEName("pnl_employeenotloginInfo01", "WaitToDoRelatedPage", 0, 0, "type", "NotShareKnowledgeWithNew", null);
+ }
+ if (a == "WeekNotLoginWithNew") {
+ addFilter("dvFilter1", "603");
+ jQuery("#spnotice01").html(jQuery.i18n.map['sys_lbl_sendmessageremind'])
+ jQuery("#sptitle01").html(jQuery.i18n.map['sys_lbl_reminder'])
+ jQuery("#txtPress01").val(jQuery.i18n.map['sys_lbl_loginnow'])
+ jQuery("#hidsendtype01").val("WeekNotLoginWithNew");
+ GetDataByLabelEName("pnl_employeenotloginInfo01", "WaitToDoRelatedPage", 0, 0, "type", "WeekNotLoginWithNew", null);
+ }
+ if (a == "AppsNoInstallation") {
+ addFilter("dvFilter1", "603");
+ jQuery("#spnotice01").html(jQuery.i18n.map['sys_lbl_sendmessageremind'])
+ jQuery("#sptitle01").html(jQuery.i18n.map['sys_lbl_reminder'])
+ jQuery("#txtPress01").val(jQuery.i18n.map['sys_lbl_installedmobile'])
+ jQuery("#hidsendtype01").val("AppsNoInstallation");
+ GetDataByLabelEName("pnl_employeenotloginInfo01", "WaitToDoRelatedPage", 0, 0, "type", "AppsNoInstallation", null);
+ }
+ }
+ //发送消息
+ function sendMessageWithNewLj() {
+ var isself = false;
+ if (jQuery("#chbPressToMe01").prop("checked")) {
+ isself = true;
+ }
+ else {
+ isself = false;
+ }
+ var ShowMessage="";
+ var type = jQuery("#hidsendtype01").val();
+ if (type == "AppsNoInstallation") {
+ ShowMessage = jQuery.i18n.map['sys_lbl_promptsend']; 
+ }
+ else {
+ ShowMessage = jQuery.i18n.map['sys_lbl_remindermessagesend'];
+ }
+ var content = jQuery("#txtPress01").val();
+ var arr = '{"orgID":"$FunctionLabel.AppContext.CurrentOrgID","userID":"49b04dcc-4796-437d-ba87-4a8eebf9a22c","cnName":"李杭燃","content":"' + content + '","type":"' + type + '","isself":"' + isself + '"}';
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/Services/CommonService.svc/SendStatisticMessage",
+ data: arr,
+ dataType: 'json',
+ cache: false,
+ success: function (result) {
+ showMsgSuccessPanel(jQuery('#dvnotice01'), ShowMessage);
+ jQuery("#dvnotice01").hide();
+ },
+ error: function (XMLHttpRequest, textStatus, errorThrown) {
+ }
+ });
+ }
+ //关闭提醒窗口
+ function closeEmpPop3WithNewLj() {
+ jQuery("#dvnotice01").hide();
+ }
+ //打开提醒窗口
+ function openDivNoticeWithNew() {
+ var left = (jQuery(document).width() - 500) / 2;
+ var top = (jQuery(window).height() - 257) / 2;
+ jQuery("#dvnotice01").css("top", top + "px").css("left", left + "px").show();
+ addFilter("dvFilter1","603");
+ }
+</script>
+<div id="pnl_employeenotloginInfo01" class=""></div>
+<input type="hidden" id="hidsendtype01" /> 
+
+
+<div id="dvnotice01" class="sendmsgpanel" style="position: fixed; display: none;z-index:604;height:230px;">
+ <div class="buttonarea" style="width:490px;">
+ <div class="floatleft">
+ <input id="chbPressToMe01" class="checkboxsplit" type="checkbox" /><label id="lblCopyToMe" for="chbCopyToMe" data-localize="sys_lbl_samecopy"></label>
+ </div>
+ <div class="floatright">
+ <input type="button" class="btnselect" data-localize="common_btn_confirm" onclick="sendMessageWithNewLj();" />
+ <input type="button" class="btncancel" data-localize="common_btn_close" onclick="closeEmpPop3WithNewLj();" />
+ </div>
+ </div>
+ <div class="head"><span id="spnotice01">-</span></div>
+ <div class="row" ><span class="radstar">*</span><span id="sptitle01">-</span></div>
+ <div class="body datalistsection"><textarea id="txtPress01" class="textarea color4" style="font-size:12px;" rows="3"></textarea></div>
+</div>
+<div class="eventhandlepan" style="position:fixed; z-index:601">
+ <div class="backlog" id="dvDaibanShiyi" style="display:none;position:absolute; z-index:601;">
+ <input type="button" id="close" onclick="closeDaibanShiyi()" value=""></input>
+ <div class="backlogheader clearfix">
+ <label data-localize="sys_lbl_importanttodo" ></label> <span><span id="WhatTimeNow"></span>，<span id="WaitHandle_UserName">李杭燃</span><span id="ShowAttention" class="hiddenelement">，<label data-localize="sys_lbl_matterattend"></label></span>。</span></div>
+ <div id="dvBacklogContent" style="padding:0px 20px;">
+ <div class="backlogcontent">
+ <div class="backlogleft">
+ <ul> 
+ <!-- 学习使人有趣，分享令人快乐，去分享一个知识试试吧！ -->
+ <li id="FirstShareKNG" class="hiddenelement"><span id="markcount2" class="markcount">0</span> <p data-localize="sys_lbl_trytoshareaknowledge"></p><a class="btnshare" href="/kng/myshared.htm" data-localize="sys_btn_shareitnow"></a></li>
+ <!-- 您有{0}个学习任务，即将或已延迟，赶快去学习完成它们吧！ -->
+ <li id="StudyPlanKNG" class="hiddenelement"><span id="markcount3" class="markcount">0</span> <p data-localizeph="sys_lbl_learntocompletethemnow"><label><span class="colorye" id="PassStudyPlan">0</span></label></p><a class="btnshare" href="/sty/mystudytask.htm" data-localize="sys_btn_learnnow"></a></li>
+ <!-- 有{0}个知识等您审核哦！ -->
+ <li id="WaitCkeck" class="hiddenelement"><span id="markcount4" class="markcount">0</span> <p data-localizeph="sys_lbl_knowledgesh"><label><span class="colorye" id="WaitCheckCount">0</span></label></p><a class="btnshare" href="/kng/kngcheck.htm" data-localize="sys_btn_reviewnow"></a></li>
+ <!-- 安装移动客户端，可以随时随地的轻松观看视频、文档，赶快去安装吧 -->
+ <!-- <li id="InstallationApps" class="hiddenelement"><span id="markcount6" class="markcount">0</span> <p data-localize="sys_lbl_quicklygoinstallit"></p><a class="btnshare" href="/mobileinstall.htm" data-localize="sys_btn_installnow"></a></li>-->
+
+ <!-- 您部门中有17人已经7天未登入平台学习了！ -->
+ <li id="LeaderNotLoginIn" class="hiddenelement"><span id="markcount10" class="markcount">0</span> <p data-localizeph="sys_lbl_loggedinforthelast7days"><label><span class="colorye" id="LeaderNotLoginInText">0</span></label></p><a class="btnshare" onclick="SearchUsersWithNew('WeekNotLoginWithNew')" data-localize="sys_btn_seewho"></a></li>
+ <!-- 您部门中还有5人未安装客户端，请催促他们尽快安装。 -->
+ <!--<li id="LeaderNotInstallationApps" class="hiddenelement"><span id="markcount11" class="markcount">0</span> <p data-localizeph="sys_lbl_installtheclientassoonaspossible"><label><span class="colorye" id="LeaderNotInstallationAppsText">0</span></label></p><a class="btnshare" onclick="SearchUsersWithNew('AppsNoInstallation')" data-localize="sys_btn_urgednow"></a></li>-->
+ <li id="NoWaitPlanToDo" class="hiddenelement CompleteShow"><p data-localize="sys_lbl_everythingok"></p></li>
+ </ul>
+ </div>
+ </div>
+ </div>
+ </div>
+</div>
+
+
+
+<script type="text/javascript">
+ function redirectIndex() {
+ window.location = "/MyHome/MyIndex.ashx";
+ }
+</script>
+<script type="text/javascript">
+ function OpenUrl(url) {
+ window.open(url);
+ }
+
+ function LocationUrl(url) {
+ window.location.href = url;
+ }
+
+</script>
+
+<div class="eventhandlepan">
+ <div class="onlineremind" style="display: none; position: fixed;" id="ShowMessage">
+ <div class="header">
+ 在线消息提醒<input type="button" value="" onclick="CloseShowMessage()"></input></div>
+ <div class="onlinecontent" id="MsgTitle">
+ <span><a href="">亲，您有一个新消息到达！</a></span>
+ <p>
+ <a href="">陈晓祥浏览了您分享的课程【培训机构产品DEMO讲解及讨论】<span>点击查看>></span></a></p>
+ </div>
+ <div class="onlinefooter">
+ <input id="btn1" type="button" onclick="CloseShowMessage()" value="我知道了"></input>&nbsp;&nbsp;<input
+ type="checkbox" onclick="SetRemindTime(this)" />最近一周不要提醒我
+ </div>
+ </div>
+</div>
+
+<div class="pageheader31">
+ <div class="headerbg">
+ <div style="display: block;" id="divPageHeader" class="pageheader">
+ <script type="text/javascript">
+ function redirectIndex() {
+ window.location = "http://" + window.location.host;
+ }
+ </script>
+ <div class="content">
+ <span onclick="redirectIndex();" style="background-image: url('https://picobd.yunxuetang.cn/sys/13601042801/images/201811/bccb7d88ab1747bd8e3b854d254f27c7.png?r=22052981');
+ cursor: hand;" class="leftarea"></span>
+ <span class="rightarea clearfix">
+ <div class="s-text-input">
+ <input type="text" placeholder="请输入您需要搜索的知识" class="s-search" id="txtKeyword" onkeydown="enterToSearch(event);">
+ <div class="search-btn" id="btnKnowledgeSearch" onclick="doKnowledgeSearch();">
+ <i class="icons-search"></i>
+ </div>
+ </div>
+
+ <div class="pagenav clearfix" style="float: right;width: 250px;background: none!important;">
+
+  <div class="account" onmouseover="changeHoverStyleForHidDiv(this,'account')">
+ <div class="accountblick">
+ <span class="iconaccount">&nbsp;</span>
+ <span title='李杭燃'>李杭燃</span>
+ </div>
+ <div class="accountblick1">
+ <span title='李杭燃'>李杭燃</span>
+ <span class="downicon">&nbsp;</span>
+ </div>
+ <div class="accountpanel" id="divUserNameAreaInfo" style="min-height: 457px">
+ 
+
+
+
+<Style type="text/css">
+ div.pageheader31 .headerbg .accounthover .accountpanel div.creditstoday span.creditnumnew {
+ font-size: 15px;
+ color: #FFFF00;
+ }
+ div.pageheader30 .headerbg .accounthover .accountpanel div.creditstoday span.creditnumnew {
+ font-size: 15px;
+ color: #FFFF00;
+ }
+</Style>
+<div id="divUserNameAreaInfo">
+ <div class="row clearfix">
+ <div class="creditstoday clearfix">
+ <div style="width: 120px; height: 65px; float: left; margin-right: 10px;">
+ <div style="margin-bottom: 20px;">
+ <label data-localize="sty_lbl_today"></label>学分</div>
+  <a href='/study/mylearningpoingts.htm'>
+   <span id="UserDayScores1" class="creditnum">16</span><span id="UserDayScores2" class="creditnumdecimalpart">.60</span>
+  </a>
+ </div>
+ <div style="width: 150px; height: 65px; float: left;">
+ <div style="margin-bottom: 20px;">
+ <label data-localize="common_lbl_todayrank"></label>积分</div>
+  <a href='/study/mygradeintegral.htm'>
+   <span id="UserDayPoint1" class="creditnum">70</span><span id="UserDayPoint2" class="creditnumdecimalpart">.00</span>
+  </a>
+ </div>
+ <div class="topright" style="float: left;">
+ <div class="logout">
+ <a href="/Logout.ashx" data-localize="kng_btn_dropout"></a>
+ </div>
+ </div>
+ </div>
+ </div>
+<div class="row clearfix">
+ <div class="cumulativecredit">
+ <div class="cumulativetime clearfix">
+ <div class="timeitem"><label data-localizeph="common_lbl_thismonthpoint"><label>学分</label></label> </div>
+ <div class="timeitem"><label data-localizeph="common_lbl_thisyearpoint"><label>学分</label></label></div>
+ <div class="timeitem"><label data-localizeph="common_lbl_thisyearrequestpoint"><label>学分</label></label></div>
+ </div>
+ <div class="cumulativenum clearfix">
+ <div id="UserMonthScores" class="numitem">102.25</div>
+ <div id="UserTotalScores" class="numitem">174.65</div>
+ <div id="UserNeedScores" class="numitem yeartotal">0.00</div>
+ </div>
+ </div>
+</div>
+<div id="levInfoDiv" class="row btmborder clearfix" style="border:0;">
+  <div class="mycurrentcredit">
+ <label data-localizeph="sty_lbl_myrankpoint"><label>积分</label><label><span class="totaldegreecredit UserPoint">650.00</span></label></label>
+ </div>
+ <div class="memberdegree">
+ <div id="LevelNo" class="fontnumber degreenumber">
+ 1</div>
+ <div id="LevelName" class="degreename">
+ 录取通知书</div>
+ </div>
+ <div class="degreerate clearfix">
+ <div><label data-localize="sty_lbl_upgrade"></label>：<span id="LearnScores" class="creditremain">350.00</span><span>积分</span></div> 
+ <div class="progress">
+ <span class="progressbar" style=" width:65.00%">&nbsp;</span>
+ </div> 
+ </div>
+ <div class="nextdegree" >
+ <div id="UpLevel" class="nextdegreenum">2</div> 
+ <div id="UpLevelName" class="nextdegreename">入门新手</div>
+ </div> 
+ </div>
+
+<div class="row btmborder clearfix">
+ <div class="msglist clearfix">
+ <div class="msgitem studyhistory"><a href='/apps/sty/mystudyhistoylistinfo.htm'>学习历史</a></div>
+ <div class="msgitem mycollection"><a href='/sty/myselfknowledge.htm'>我的收藏</a></div>
+ <div class="msgitem mytask"><a href='/sty/mystudytask.htm'>学习计划</a></div>
+ </div>
+</div>
+<div class="row btmborder clearfix">
+ <div class="personalset clearfix">
+ <div class="setitem changedata"><a href='/udp/personal/baseinfo.htm'>基本资料</a></div>
+		<div class="setitem changepassword" style="width: 115px;"><a href='/udp/personal/accountsecurity.htm'>账号安全</a></div> 
+ </div>
+</div>
+</div>
+
+
+<script type="text/javascript">
+ $(function () {
+ loadPropertiesForAsync("divUserNameAreaInfo");
+ });
+</script>
+ </div>
+ </div>
+ <input type="hidden" id="WaitToDoMessage" value="" />
+ <div class="msgarea clearfix" onmouseover="showSiteMsgInfos(this,'msgarea')">
+ <div class="info">
+ <a href="/study/inbox.htm" target="_blank">
+ <span id="sMail" class="iconnotic_new">&nbsp;</span>
+ </a>
+ <div class="dvnumberbg hand">
+ <span class="number" id="lblSiteMessageCount">-</span>
+ </div>
+ </div>
+ <div class="noticpanel clearfix">
+ <div id="dvNewMsgTitle" class="row fontweightbold color4">
+ 最新未读消息：</div>
+ <div id="dvSiteMessageInfos">
+ <div class="row">
+ <div class="dataloading" style="height: 60px;">
+ <span class="loadingcontent" style="margin-top: 20px;">正在努力加载数据，请稍候...</span>
+ </div>
+ </div>
+ </div>
+ <div id="dvNewMsgBottom" class="clearfix">
+ <div class="showall" style="padding-right: 80px;">
+ <a href="/study/inbox.htm" target="_blank">
+ 查看全部>></a>
+ </div>
+ <span class="iconread">
+ <a href="#" onclick="UpdateIsReadByUserID();">全部标记为"已读"</a>
+ </span>
+  <div class="subscription" style="display:none;">
+ <a href="/usm/msgandattention/sysmsgsubscription.htm" target="_blank">订阅设置</a>
+ </div>
+ </div>
+ </div>
+ </div>
+ <script type="text/javascript">
+ $(function () {
+ $("#lblSiteMessageCount").text(0|0);
+ //加载站内信信息
+ InitMsgInfo();
+ //获取通知数量
+ var GetCountmethodName = 'GetWaitHandleMessage';
+ var arr = {};
+ AjaxAsyncCallMethod(GetCountmethodName, "",
+ function (result) {
+ var str = result.split("&");
+ if (str.length == 2) {
+ jQuery("#lblNoticCount").html(str[0]);
+ document.getElementById("WaitToDoMessage").value = str[1];
+
+ //控制待办事项闪烁
+ var isShiny = "False";
+ if (isShiny != "True") {
+ if (str[0] > 0) {
+ //待办图标闪烁
+ $("#sWait").attr("class", "iconnotic_active");
+ }
+ }
+ else {
+ if (str[0] > 0) {
+ var a = str[1].indexOf("@");
+ var str2 = str[1].substring(a + 1);
+ if (str2 > 0) {
+ var addCount = str[0] - str2;
+ if (addCount >= 1) {
+ $("#sWait").attr("class", "iconnotic_active");
+ }
+ }
+ }
+ }
+ //控制站内信图标闪烁
+ var isMail = "False";
+ if (isMail != "True") {
+ if (0|0 > 0) {
+ //站内信图标闪烁
+ $("#sMail").attr("class", "iconnotic_active");
+ }
+ }
+ else {
+ var s = "0|0";
+ var str = s.indexOf("|");
+ if (str != -1) {
+ var str2 = s.split("|");
+ $("#lblSiteMessageCount").text(str2[0]);
+ var addCount = str2[0] - str2[1];
+ if (addCount >= 1) {
+ $("#sMail").attr("class", "iconnotic_active");
+ }
+ else {
+ $("#lblSiteMessageCount").text(0|0);
+ }
+ }
+ }
+ }
+ }, true, true, false);
+ setTimeout("ShowPromptMessage() ", 5000);
+ });
+
+
+ //执行知识搜索
+ function doKnowledgeSearch() {
+ var txt = new RegExp("[\\`,\\~,\\!,\\@,\\$,\\%,\\^,\\+,\\*,\\&,\\,\\/,\\?,\\|,\\:,\\<,\\>,\\{,\\},\\(,\\),\\',\\;,\\=,\"]");
+ var url = "";
+ var kw = jQuery.trim(jQuery("#txtKeyword").val());
+ if (kw == "请输入关键字" || kw == "") {
+ showWarningMsg("请输入要查找的关键字。");
+ return false;
+ }
+ else if (kw.length < 2) {
+ showWarningMsg("输入的关键字需超过一个字，请确认您输入的查询关键字。");
+ return false;
+ }
+ else if (kw.length > 30) {
+ showWarningMsg("输入的关键字最多允许30个字符，请确认您输入的查询关键字。");
+ return false;
+ }
+ else if (txt.test(kw)) {
+ showWarningMsg("输入的关键字中包含非法字符:,`~!@$%^+&*\\/?|:<>{}()[]\"。");
+ return false;
+ }
+ else {
+ url = "/search/index.htm?kw=" + escape(kw);
+ }
+
+ window.location = url;
+ }
+
+ //回车后直接搜索
+ function enterToSearch(e) {
+ var ev=jQuery.event.fix(e);
+ if (ev.which == 13) {
+ document.getElementById("btnKnowledgeSearch").click();
+ //return false;
+ }
+ /*if (event.keyCode == 13) {
+ event.keyCode = 9;
+ document.getElementById("btnKnowledgeSearch").click();
+ return false;
+ }*/
+
+ }
+
+ function ShowPromptMessage() {
+ var arr = '{}';
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/Services/CommonService.svc/GetShowPromptMessage",
+ data: arr,
+ dataType: 'json',
+ cache: false,
+ success: function (result) {
+ if (result != null) {
+ var str = result.split("|");
+ if (str.length == 2) {
+ if (str[0] != "0") {
+ if (str[1] != "0") {
+ var vr = "<span><a href='" + str[1] + "'>亲，您有一个新消息到达！</a></span><p><a href='" + str[1] + "'>" + str[0] + "<span>点击查看>></span></a></p>"
+ jQuery("#MsgTitle").html(vr);
+ }
+ else {
+ var vr = "<span>亲，您有一个新消息到达！</span><p>" + str[0] + "<span></span></p>"
+ jQuery("#MsgTitle").html(vr);
+ }
+ jQuery("#ShowMessage").css("bottom", "0px").css("right", "0px").slideToggle("slow");
+ }
+ }
+ }
+ }
+ });
+ }
+
+ function SetRemindTime(sender) {
+ var flag = "y";
+ if (jQuery(sender).prop("checked")) {
+ //设置一周不提醒
+ } else {
+ //取消设置提醒
+ flag = "n";
+ }
+ var arr = '{"flag":"' + flag + '"}';
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/Services/MyIndexService.svc/SetRemindTime",
+ data: arr,
+ dataType: 'json',
+ cache: false,
+ success: function (result) {
+ if (result != "ok") {
+ ShowWarningMessage("设置失败。");
+ }
+ }
+ });
+
+
+
+ }
+
+ function CloseShowMessage() {
+ jQuery("#ShowMessage").hide();
+ setTimeout("ShowPromptMessage() ", 5000);
+ }
+
+ function InitMsgInfo() {
+ // 异步去取数据
+ var methodName = 'GetUserSiteMessage';
+ var txtType = 'SiteMessage';
+ var arr = '{"type":"' + txtType + '"}';
+ AjaxAsyncCallMethod(methodName, arr,
+ function (result) {
+ var obResult = eval("(" + result + ")");
+ var dvSiteMessageInfos = jQuery("#dvSiteMessageInfos");
+ if (dvSiteMessageInfos.html().indexOf("正在努力加载数据，请稍候...") >= 0) {
+ // 抓到数据后
+ loadNoticData(dvSiteMessageInfos, obResult);
+ }
+ }, true, true, true);
+ }
+
+
+ var tmrShowSiteMsgInfos = null;
+ function showSiteMsgInfos(sender, className) {
+ if (tmrShowSiteMsgInfos) {
+ window.clearTimeout(tmrShowSiteMsgInfos);
+ }
+ jQuery(sender).attr("class", className + "hover");
+
+ jQuery(sender).one("mouseout", function () {
+ tmrShowSiteMsgInfos = window.setTimeout(function () {
+ jQuery(sender).attr("class", className);
+ }, 500);
+ });
+
+
+ //站内信图标闪烁用
+ var txtType01 = 'SiteMessageForMailIco';
+ var arr01 = '{"key":"' + txtType01 + '"}';
+ //异步保存Session
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/Services/MyIndexService.svc/SaveSessionLoginStringForMailIco",
+ data: arr01,
+ dataType: 'json',
+ cache: false,
+ success: function (result) {
+ if (result == "ok") {
+ $("#sMail").attr("class", "iconnotic_new");
+ }
+ }
+ });
+ }
+
+
+ //鼠标移上去显示
+ function divMousehover(sender) {
+ jQuery(sender).find(".timer").hide();
+ jQuery(sender).find(".timer1").show();
+ jQuery(sender).one("mouseout", function () {
+ jQuery(this).find(".timer").show();
+ jQuery(this).find(".timer1").hide();
+ });
+ }
+
+ //异步把收件箱中未读的消息全部设置为已读
+ //创建人：张林
+ //时间：2014年5月27日12:54:05
+ function UpdateIsReadByUserID() {
+ var methodName = 'UpdateIsReadByUserID';
+ arr = {};
+ AjaxAsyncCallMethod(methodName, arr,
+ function (result) {
+ var obResult = "";
+ if (result > 0) {
+ clearAllMsg();
+ }
+ }, false, true, true);
+ }
+
+ //全部标记已读后清空JS
+ function clearAllMsg() {
+ var dvSiteMessageInfos = jQuery("#dvSiteMessageInfos");
+ var lblSiteMessageCount = jQuery("#lblSiteMessageCount");
+ var dvNewMsgTitle = jQuery("#dvNewMsgTitle");
+ divHtml = '<div class="emptyusermsg"></div><div class="emptyusertext">您暂时还没收到新的消息哦！</div>';
+ dvSiteMessageInfos.html(divHtml);
+ lblSiteMessageCount.html("0");
+ dvNewMsgTitle.html("");
+ }
+
+ //单个删除后数量减1JS
+ function clearOneMsg() {
+ divHtml = '<div class="emptyusermsg"></div><div class="emptyusertext">您暂时还没收到新的消息哦！</div>';
+ var dvSiteMessageInfos = jQuery("#dvSiteMessageInfos");
+ var dvNewMsgTitle = jQuery("#dvNewMsgTitle");
+ var lblSiteMessageCount = jQuery("#lblSiteMessageCount");
+ var msgCount = jQuery("#lblSiteMessageCount").html();
+ if (msgCount > 0) {
+ lblSiteMessageCount.html(msgCount - 1);
+ }
+ else {
+ dvSiteMessageInfos.html(divHtml);
+ lblSiteMessageCount.html("0");
+ dvNewMsgTitle.html("");
+ }
+ }
+
+ function loadMsgInfo1() {
+ // 异步去取数据
+ var methodName = 'GetUserSingSiteMessage';
+ var txtType = 'SiteMessage';
+ var arr = '{"type":"' + txtType + '"}';
+ AjaxAsyncCallMethod(methodName, arr,
+ function (result) {
+ if (result == "") {
+ loadNoticData1(dvSiteMessageInfos, "");
+ }
+ else {
+ var obResult = eval("(" + result + ")");
+ var dvSiteMessageInfos = jQuery("#dvSiteMessageInfos");
+ if (dvSiteMessageInfos.html().indexOf("正在努力加载数据，请稍候...") >= 0) {
+ // 抓到数据后
+
+ }
+ loadNoticData1(dvSiteMessageInfos, obResult[0]);
+ }
+ }, false, true, true);
+ }
+
+ //异步删除收件箱中的消息
+ //创建人：张林
+ //时间：2014年5月27日15:12:03
+ function DeleteInboxMsg1(key, divId) {
+ var methodName = 'DeleteInboxMsg';
+ var arr = '{"key":"' + key + '"}';
+ AjaxAsyncCallMethod(methodName, arr,
+ function (result) {
+ if (result > 0) {
+ jQuery('#' + divId).hide();
+ clearOneMsg();
+ loadMsgInfo1();
+ }
+ }, false, true, true);
+ }
+
+ function loadNoticData(dv, obResult) {
+ var divHtml = '';
+ for (var i = 0; i < obResult.length; i++) {
+ divHtml += "<div id='div_" + obResult[i].ID + "' class='row clearfix' onmouseover='divMousehover(this);'><div class='floatleft' title='" + obResult[i].Title + "'><span class='iconpointpp2'>&nbsp;</span><a href='javascript:ShowMessageDetails(\"" + obResult[i].ID + "\");' >" + subStr(obResult[i].Title, 26) + "</a></div><div class='floatright color5 timer'>" + obResult[i].CreateTime + "</div><div class='floatright timer1 hiddenelement'><a href='javascript:UpdateInboxMsgIsRead(\"" + obResult[i].ID + "\",\"div_" + obResult[i].ID + "\");'>标记为已读</a>&nbsp;&nbsp;&nbsp;<a href='javascript:DeleteInboxMsg1(\"" + obResult[i].ID + "\",\"div_" + obResult[i].ID + "\");'>删除</a></div></div>";
+ }
+ if (divHtml == '') {
+ jQuery("#dvNewMsgTitle").hide();
+ divHtml = '<div class="emptyusermsg"></div><div class="emptyusertext">您暂时还没收到新的消息哦！</div>';
+ } jQuery(dv).html(divHtml);
+ }
+
+ function loadNoticData1(dv, obResult) {
+ var divHtml = '';
+ if (obResult) {
+ divHtml += "<div id='div_" + obResult.ID + "' class='row clearfix' onmouseover='divMousehover(this);'><div class='floatleft' title='" + obResult.Title + "'><span class='iconpointpp2'>&nbsp;</span><a href='javascript:ShowMessageDetails(\"" + obResult.ID + "\");' >" + subStr(obResult.Title, 26) + "</a></div><div class='floatright color5 timer'>" + obResult.CreateTime + "</div><div class='floatright timer1 hiddenelement'><a href='javascript:UpdateInboxMsgIsRead(\"" + obResult.ID + "\",\"div_" + obResult.ID + "\");'>标记为已读</a>&nbsp;&nbsp;&nbsp;<a href='javascript:DeleteInboxMsg1(\"" + obResult.ID + "\",\"div_" + obResult.ID + "\");'>删除</a></div></div>";
+ if (divHtml == '') {
+ jQuery("#dvNewMsgTitle").hide();
+ divHtml = '<div class="emptyusermsg"></div><div class="emptyusertext">您暂时还没收到新的消息哦！</div>';
+ }
+ jQuery(dv).append(divHtml);
+ }
+ }
+
+ //更新收件箱消息为已读
+ //创建人：张林
+ //时间：2014年5月27日15:35:21
+ function UpdateInboxMsgIsRead(key, divId) {
+ var methodName = 'UpdateInboxMsgIsRead';
+ var arr = '{"key":"' + key + '"}';
+ AjaxAsyncCallMethod(methodName, arr,
+ function (result) {
+ if (result > 0) {
+ jQuery('#' + divId).hide();
+ clearOneMsg();
+ loadMsgInfo1();
+ }
+ }, false, true, true);
+ }
+
+ function subStr(txt, index) {
+ var txtSub = txt;
+ if (index > 0 && txt.length > 26) {
+ txtSub = txt.substring(0, 26) + "...";
+ }
+ return txtSub;
+ }
+
+ function ShowMessageDetails(id) {
+ var url = "/message/messagedetail.htm";
+ if (url.indexOf("?") > -1) {
+ url += "&";
+ }
+ else {
+ url += "?";
+ }
+ window.location.href = url + 'ID=' + id + '&OP=Edit&MsgSourceType=InBox';
+ }
+
+ //用户账号信息
+ function changeHoverStyleForHidDiv(sender, className) {
+ if (tmrShowSiteMsgInfos) {
+ window.clearTimeout(tmrShowSiteMsgInfos);
+ }
+ jQuery(".msgareahover").attr("class", "msgarea");
+ jQuery(sender).attr("class", className + "hover");
+ //异步去取用户账户相关信息
+ var methodName = 'GetUserClassLevelInfo';
+ arr = {};
+ AjaxAsyncCallMethod(methodName, arr,
+ function (result) {
+ var obResult = eval("(" + result + ")");
+ var dvAccountTeacher = jQuery("#dvAccountTeacher");
+ // 抓到数据后
+ loadTeacherData(dvAccountTeacher, obResult);
+ }, false, true, true);
+ jQuery(sender).one("mouseout", function () {
+ jQuery(this).attr("class", className);
+ });
+ }
+
+ //动态加载到页面
+ function loadTeacherData(dv, obResult) {
+ var divHtml = "";
+ if (obResult != null) {
+ divHtml = "<div class='pic'><img alt=" + obResult[0].CnName + " src=" + obResult[0].HeadPictureUrl + "></div><div class='info'><div class='row color3'>" + obResult[0].CnName + "<span class='color5'>&nbsp;" + obResult[0].UserName + "</span></div><div class='row color4 '><img alt=" + obResult[0].UserClassLevelName + " src=" + obResult[0].UserClassLevelImageUrl + " height='9'>&nbsp;&nbsp;" + obResult[0].UserClassLevelName + "</div><div class='row'><span class='color5'>" + obResult[0].AttentionCount + "</span>&nbsp;<span class='color4'>个关注</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style='color:#BBBBBB;'>|&nbsp;&nbsp;</span><span class='color5'>" + obResult[0].FansCount + "</span>&nbsp;<span class='color4'>个粉丝</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style='color:#BBBBBB;'>|&nbsp;&nbsp;</span><span class='color5'>" + obResult[0].TotalUserPoints + "</span>&nbsp;<span class='color4'>个积分</span></div></div>";
+ }
+ jQuery(dv).html(divHtml);
+ }
+
+ </script>
+ <div class="stayarea clearfix hidden">
+ <div class="info">
+ <span id="sWait" class="iconnotic_new" onclick="showEventWaitHandlePanel('1')">&nbsp;</span>
+ </div>
+ <div class="dvnumberbg hand" onclick="showEventWaitHandlePanel('1')">
+ <span class="number3" id="lblNoticCount">-</span>
+ </div>
+ </div>
+ </div>
+ </span>
+
+
+ </div>
+ </div>
+  
+    <div class="pagenav">
+ <div class="navbar_default clearfix">
+ <ul>
+ <li class="leftround"></li>
+       <li>
+  <a id="hylIndex0" href="/ilexuehome.htm" target="_self">首页</a>
+ </li>
+        <li class="seperate">&nbsp;</li>
+   <li>
+  <a id="hylIndex0" href="/sty/index.htm" target="_self">个人中心</a>
+ </li>
+        <li class="seperate">&nbsp;</li>
+   <li>
+  <a id="hylIndex0" href="/kng/kngindex.htm" target="_self">我要学习</a>
+ </li>
+        <li class="seperate">&nbsp;</li>
+   <li>
+  <a id="hylIndex0" href="/newbbs/#/index" target="_self">学习社区</a>
+ </li>
+        <li class="seperate">&nbsp;</li>
+   <li>
+  <a id="hylIndex0" href="/weikeindex.htm" target="_self">我要分享</a>
+ </li>
+           <li class="seperate">&nbsp;</li>
+   <li>
+  <a id="hylIndex0" href="/ymall/ymallcourseindex.htm" target="_blank">选课中心</a>
+ </li>
+        <li class="seperate">&nbsp;</li>
+   <li>
+  <a id="hylIndex0" href="/o2o/teacher/teachercenter.htm" target="_self">讲师中心</a>
+ </li>
+     
+
+ <li class="rightround"></li>
+ </ul>
+ </div>
+ <script type="text/javascript">
+ function showMoreMenu(sender) {
+ var l = jQuery(sender).find(".blockmore .c_navmorediv1").length;
+ var w = 0;
+ if (l == 1) {
+ r = 0;
+ }
+
+ if (l == 3 || l == 4 || l == 2) {
+ r = -270;
+ }
+
+ if (l > 4) {
+ w = 895;
+ r = -220;
+ }
+ else if (l == 1) {
+ r = -146;
+ w = l * 220;
+ }
+ else {
+ w = l * 222;
+ }
+
+ jQuery(sender).find(".blockmore").css("width", w + "px").css("right", r + "px");
+ jQuery(sender).attr('class', 'morehover');
+ }
+ function hideMoreMenu(sender) {
+ jQuery(sender).attr('class', 'more');
+ }
+ </script>
+ </div>
+ </div>
+</div>
+ 
+<script type="text/javascript">
+ $(function () {
+ var value = getCookie("XXTOWN_COOKIE_00014");
+ if (value == null || value == "undefined") {
+ value = "";
+ }
+ var isShow = value.indexOf("rolechangearea") < 0;
+ if (isShow) {
+ $("#rolechange").show();
+ }
+ else {
+ $("#rolechange").attr("class", "rolechange_hidden");
+ $("#rolechange").show();
+ }
+ });
+ function changeRoleChangeView(sender) {
+ var dvRoleChange = $(sender).parent();
+ if (dvRoleChange.attr("class") == "rolechange") {
+ // 隐藏
+ dvRoleChange.attr("class", "rolechange_hidden");
+ var value = getCookie("XXTOWN_COOKIE_00014");
+ if (value == null || value == "undefined") {
+ value = "";
+ }
+ value += "rolechangearea-";
+ addCookie("XXTOWN_COOKIE_00014", value, 9999);
+ }
+ else {
+ // 呈现
+ dvRoleChange.attr("class", "rolechange");
+ var value = getCookie("XXTOWN_COOKIE_00014");
+ if (value == null || value == "undefined") {
+ value = "";
+ }
+ value = value.replace("rolechangearea-", "");
+ addCookie("XXTOWN_COOKIE_00014", value, 9999);
+ }
+ }
+</script>
+ 
+
+ 
+ <div class="bg-greydark pr clearfix">
+  <form method="post" action="/kng/view/package/d58a6f25dde94bbcb0a549b1e7527311.html?m=1&amp;amp;h=1" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="YDHKtbYga8x4WSXh+uVAU7s68xvfguTQ1ahgALkkYL+WOjZujqCF9VKcNA03t5cMH7Dzb3h2jWAYSqwt+CrNgcXQr2CPE3jiroRWtFM2jmEhn8D3Ylvy8+zZqlnU/F1DL3zsgMRfbt3pkNbvv6f/Tq0xBK9DZE9P2fLaNxM/28yNYt0P8UJ71eG2CRWka9bxJlQEe3gWINIlYACQ78MuyY8bhRud65OpAfZOmo+I9JvMb0v0/MoIBI6Gqw6d9jNAlNykU/OfDoruBwD3isM1VbiRPsVbUf59/n61kEam0GIjAiKllvfWNWc6tY9eGDdKiwI12Bxfpj5bUozS7ujzjH9pgjRSzXZH/xrkUFY2PMgvaMExwaimNwZdFAmYI6WOskglGgNi+GQMAbqzWn8pwD5DPLXHe92CEbyLVL0y8VLduBhEF+4/GTtQInc44BB8N2HeYCxhAvTjFa2ucrxaKdhKH0QgoK5b1z0osxxwjFIZvaErw7DZmX+R3hwLVoB+4JxPmKEJwLLa4Dkk4EvHUyIulvb1PR/0vJgrIGcS/CEYKmMNhgeid+b19WTmwZSCyHdiaLiMzNo+4tC7hA1ri1lXKoRA62uKNaX3V494DyZ6XuA35hN88hg84zgc1omAQ1mdOhWFzeejf0WlzutwowV63M9Sb4fCGsS/xVCEe0i1oLGHwcnmDZxEBBFkPr8k7Rcfa1zFxGRMEPD3OLpmyzix3L8t+cN5e0cmOE9Uv4+F6aDC0EYmT1bpvt77s+e2Mwa9ES7bLICRtAi4HR+4hZRZVymyMKWoQx4FkL8KihS7ZIik4m4S1zpY9nGfdoZ0X6Bak07oCcmsNBqx+9XygNb80JFT0seoQY8Zh1+oO+TJmnpmrVulALDLRrRldnlqbOI0HeJSnE2DcrtPfHWsKuK4ktlBVigajEq/VT24I6auZav6TReurKbkm6F6YIjLZz/EuAvZ/kWfGJEa6OCC36unnkBpYS4LGvPHgCkXB72i1cazw40A2vtvwnaXYH45fmgeMgJcWSrfMyw3EC5qHVm4N24IZ6vX31BGi71Utguf+lVkOtMIn0OfYHOxtCaiFgG5lXpf/cX0DIpigC+Ml9WPaEIOKvAWmPese8FzDuL6CcDZ/1iSXtWFuuiGraiUs2bDyJKu72dlPqLZjcgywK5Ja5mirptoOp+ZFCkeUq/AfuHSx/dbK2OBAp7zVgVfPNU40t4hW0obvSIO7ncp1bP/psAqsI/0kUsg8vlbbndMbVJI39o4DWUC1dqofdVbdOnJ6ixqKqh9lZAIOaVwtqvJG1P2Cwaa6KdpgypTiBisYheNStvhplOQZ58+jtWh72SxK5n7CWZEmSPkxQK3R1Jcy9sDmRMkub+bJWC0SDPemqYSbDfkZrGmjQ0Ql1sESYoZZkggfL+gASoPglpmNyhxBrvFTG2W0ZQuChkdVTLAuJ2qZ5w052CDLkZTEk32zqsYFW8dLmvNI07LSkrkRSQG28ZuH4aTyAcuFAOD9GPVIX7PQyyuLSrS6NkNBv4GbABCbaWRUrrpNG5PzviNRsyO1zVjYpFjRQKEFBCDyddXCcceq0ragFCok51zqhS7cHK7wlJkzcTvCr6yZq6U3GHNgVw5g/ZdHJu7u8hKiMZpgcTFOToplvQvD3bD8a6/BC1Pqje+NQm1yGA8n1Ht0IZ21DSePc679OCSdK7aLkOuHrq5tblgXChEY3vKJjUz+tIfJ1ByFWHeK1fj4lureb/iuXfTIBjfJkWRoFPH8zh2UpK342zAW6CE5dwrWzu26m5PcZEoajHtD4kkn/5fMALUjwjGujLPbet0bntb/Xer6Q+yEYi2EhTFjjsbt3eQ8PTatMR9kEsbnGc1NeMU/KKIhXy+AC5jQPvdKpqJaL083xbo24qteyaE6hiXlCAYaTKPoBXEH3KwoFELl5kRQFwMShQQ3t1X1AI+5y+0nbUce9vXgHgCYo7FoEdmCN/QO0uRSA==" />
+</div>
+
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/knowledge.css" />
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/comment.css" />
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/kng.css" />
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/kngIssue.css" />
+    <div class="bg-white clearfix">
+    <div class="el-course-package-panel pt10">
+	    <div class="y-container1 clearfix">
+		    <div class="font-size-12 text-colorc mb15"><span class='fixtip'>当前位置：</span>&nbsp;<a href='/sty/index.htm'>个人中心</a>&nbsp;>&nbsp;课程包明细</div>
+		    <div class="clearfix pr">
+			    <img src="https://picobd.yunxuetang.cn/kng/13601042801/images/202002/211a89437daf492392f61e7b4cbd5d43.jpg" id="imageCourse" height="146" width="260" class="pull-left" />
+			    <div class="pull-left ml40">
+				    <div class="font-size-22 text-white font-bold"><span title='用友云产品深度进阶课系列2020'>用友云产品深度进阶课系列2020</span></div>
+                    
+                    <div >
+                        <div class="mt10 el-course-detail">
+					       <span><span data-localize="sty_lbl_catalog"></span>：</span><span id="lblCatalog1"><span title='产品知识课程/集团产品管理/用友云深度进阶课程'>产品知识课程/集团产品管理/用友云深度进阶课程</span></span>		      
+				        </div>
+                        <div class="mt10 el-course-detail">
+					        <span><span id="lblAuthor">徐红星</span>   <span data-localize="kng_lbl_toshare"></span> <span id="lblDate">2020-02-19</span></span><span class="pl50"><span data-localize="sty_lbl_hours"></span>：
+					        <span id="lblStudyMin">2907</span><span data-localize="sty_lbl_minute"></span></span>
+				        </div>
+				        <div class="mt10 el-course-detail">
+					        <span><span data-localize="sty_lbl_commentscore"></span>：</span><span id="spAvg" class="iconstar5"></span>
+					        <span class="pl10"><span data-localize="common_lbl_tag"></span>：<span id="lblCourseTag">暂无</span></span>
+				        </div>
+				        <div class="clearfix nowrap">
+					        <div class="mt25 clearfix pull-left">
+						        <div class="el-course-progress pull-left">
+							        <div class="el-course-progress-inner" style="width:0%;"></div>
+						        </div>
+						        <span class="text-orange-h pull-left pl10"><span id="lblStudySchedule">0</span>%</span>
+					        </div>
+                            <input type="submit" name="btnStartStudy" value="继续学习" id="btnStartStudy" class="btn el-continue-study ml25 pull-left mt20 font-size-16" />	
+                            <button id="liFavorite"  onclick="return CheckAddToFavorite();"><span class="iconfont icon-Collection2 mr5 "></span><span id="collect"></span></button>		    
+				        </div>
+                    </div>
+                    <div style="display:none">
+                        <div class="mt10 el-course-detail">
+					        <span><span data-localize="sty_lbl_catalog"></span>：<span id="lblCatalog2"><span title='产品知识课程/集团产品管理/用友云深度进阶课程'>产品知识课程/集团产品管理/用友云深度进阶课程</span></span>				      
+				        </div>
+                        <div class="mt10 el-course-detail">
+					        <span><span data-localize="sty_lbl_commentscore"></span>：</span><span id="spAvg2" class="iconstar5"></span>
+					        <span>(<span id="lblCommentCount2"></span>)</span>
+					        <span class="pl50"><span data-localize="sty_lbl_hours"></span>：
+					        <span id="lblStudyMin2"></span><span data-localize="sty_lbl_minute"></span></span>
+				        </div>
+                        <div class="mt10 el-course-detail">
+					        <span><span data-localize="sty_lbl_price"></span><span id="lblPrice" class="text-orange-h font-size-18 mh10"></span><span data-localize="sty_lbl_points"></span></span>
+				        </div> 
+                        <div class="clearfix nowrap">  
+                            <input type="button" id="btnBuy" data-localize="sty_lbl_ordernow" class="btn el-continue-study pull-left mt10 font-size-16" onclick="return shwoExchange();" />
+                            <button id="liFavorite2" class="el-btn-collection ml15 mt10"  onclick="return CheckAddToFavorite();"><span class="iconfont icon-Collection2 mr5 "></span><span id="collect2"></span></button>		    
+				        </div>
+                    </div>  
+                    
+			    </div>
+			    <div class="el-package-header-right clearfix ml80 mt40">
+				    <div class="border-r el-score-box">
+					    <div class="font-size-20 text-orange-h"><span id="lblgetStudysores">0</span></div>
+					    <div class="text-grey">已获学分</div>
+				    </div>
+				    <div class="border-r el-score-box">
+					    <div class="font-size-20 text-orange-h"><span id="lblTotalStudySores">145.35</span></div>
+					    <div class="text-grey">总学分</div>     
+				    </div>
+				    <div class="el-score-box">
+					    <div class="font-size-20 text-orange-h"><span id="lblStudyCount">60</span></div>
+					    <div class="text-grey"><span data-localize="common_lbl_learningpersonnum"></span></div>
+				    </div>
+			    </div>
+		    </div>
+            <div class="el-course-detail-left pt25">
+                <ul class="el-course-detail-tab clearfix">                                                                              
+                    <li id="cintroduction" class="active" onclick="changeExpertTab(2)"><span data-localize="common_lbl_Introduction"></span></li>
+                    <li id="cchapter" onclick="changeExpertTab(0)"><span data-localize="common_lbl_catalogate"></span></li>
+                    <li id="ccommet" onclick="changeExpertTab(1)" class=''><span data-localize="common_lbl_comment"></span></li>
+                </ul>
+                <div id="divIntroduction">
+                    <div class="mt20 lh30 text-color6 break-word">                                                                                 
+                        疫情当前&nbsp; ,&nbsp; 众志成城！<br>用友云产品齐上阵，与一线携手共克时艰。用友集团组织各领域云产品总监及核心产品经理，面向一线机构推出重量级权威培训课程《战疫情：云产品解决方案》特邀一线顾问参加，一起加速2020！
+                    </div>  
+                </div>   
+                <div id="courseTitle" class="el-course-title-bg lh50 font-size-16 mt30">
+                     <span class="ml15" data-localize="kng_lbl_coursecatalog"></span>
+                </div>
+                <div id="divcourselist">     
+                    
+
+
+<script type="text/javascript">
+
+ function showCantPlay2(type) {
+ addFilter("dvCantPlayFilter");
+ var left = ($(document).width() - 600) / 2;
+ //var top = $(document).scrollTop() + 180;
+ $("#dvCantPlay2").css("left", left + "px").css("top", 300 + "px");
+ var orderMsg = $("#ordermsg");
+ if (type == 0) {
+ orderMsg.html(jQuery.i18n.map['sty_msg_cannotlearn']);
+ } else {
+ orderMsg.html(jQuery.i18n.map['sty_msg_afterassessmentlearn']);
+ }
+ $("#dvCantPlay2").show();
+ }
+
+ function closeCantPlay2() {
+ $("#dvCantPlay2").hide();
+ closeFilter("dvCantPlayFilter");
+ }
+
+ //单击学习行数据
+ function StudyRowClick(url, type, examstatus, allowview, iscanstudy, iscanexam) {
+
+ if (type == "OteExam") {
+ if (url.indexOf('MasterType=PlanStudy') < 0) {
+ url = url.replace("MasterType=Plan", "MasterType=PlanStudy");
+ }
+ if (url.indexOf('MasterType=PositionStudy') < 0) {
+ url = url.replace("MasterType=Position", "MasterType=PositionStudy");
+ }
+ }
+
+ //知识是否已过期
+ var isexpired = $("#hidIsExpire").val();
+ if (isexpired == "true") {
+ showWarningMsg(jQuery.i18n.map['sys_msg_pageerrormsg21']);
+ return false;
+ }
+ //是否需要积分
+ var isneedpoint = $("#hidIsNeedPoint").val()
+ if (isneedpoint == "true") {
+ showWarningMsg(jQuery.i18n.map['sty_lbl_buythereartolearn']);
+ return false;
+ }
+
+ var m = getQueryString("m");
+ if (m == 1) {
+ if (url.indexOf("?") == -1) {
+ url = url + "?m=1";
+ }
+ else {
+ url = url + "&m=1";
+ }
+ }
+ var mh = getQueryString("mh");
+ if (mh == 1) {
+ if (url.indexOf("?") == -1) {
+ url = url + "?mh=1";
+ } else {
+ url = url + "&mh=1";
+ }
+ }
+
+ var taskId=getQueryString("taskId");
+ if (taskId !="") {
+ if (url.indexOf("?") == -1) {
+ url = url + "?taskId="+taskId;
+ } else {
+ url = url + "&taskId="+taskId;
+ }
+ }
+
+var st=getQueryString("st");
+ if (st!="") {
+ if (url.indexOf("?") == -1) {
+ url = url + "?st="+st;
+ } else {
+ url = url + "&st="+st;
+ }
+ }
+
+var objectId=getQueryString("objectId");
+ if (objectId!="") {
+ if (url.indexOf("?") == -1) {
+ url = url + "?objectId="+objectId;
+ } else {
+ url = url + "&objectId="+objectId;
+ }
+ }
+
+ if (iscanexam == "False") {
+ showCantPlay2(1);
+ return false;
+ } else if (iscanstudy == "False") {
+ showCantPlay2(0);
+ return false;
+ }
+ if (type == "OteExam") {
+ if (m == 1) {
+ showWarningMsg(jQuery.i18n.map['sty_lbl_cannotexam']);
+ }
+ else {
+ if (examstatus == "Marking" || examstatus == "Assessment") {
+ showWarningMsg(jQuery.i18n.map['sty_lbl_review']);
+ }
+ else {
+ openURL(url);
+ }
+ }
+ } else {
+ openURL(url);
+ }
+ }
+ //重新考试
+ function ResetExam(obj, url) {
+ openURL(url);
+ stopPropagation(obj);
+ }
+
+ //查看结果
+ function ViewExam(obj, id) {
+ var url = '/exam/examquestionpreview.htm?UserExamMapID=' + id;
+ openURL(url);
+ stopPropagation(obj);
+ }
+
+ //阻止冒泡
+ function stopPropagation(e) {
+ e = e || window.event;
+ if (e.stopPropagation) { //W3C阻止冒泡方法
+ e.stopPropagation();
+ } else {
+ e.cancelBubble = true; //IE阻止冒泡方法 
+ }
+ }
+</script>
+
+<div class="el-plancourselist pl5" style="background:none;">
+
+ 
+ 
+  <div class="mt10 font-size-14" style="padding-left:15px;justify-content: space-between;">
+ <p ><label data-localizeph="course_chapter_site"><label>1</label></label>&nbsp;&nbsp;<span title='财务云产品解决方案篇'>财务云产品解决方案篇</span></p>
+ </div>
+
+ <div class="el-plancourselist" style="background-position:68px;">
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>1</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_53f95bd57eee4f1bab8b401b89dd414e.html','VideoKnowledge','','False', 'True','True',''));" title='财务云产品整体解决方案'>财务云产品整体解决方案</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 244<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >12.2</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>2</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_d1e48b2bdb604cf8befa9ecbc0637e8c.html','VideoKnowledge','','False', 'True','True',''));" title='财务云税务服务（上）'>财务云税务服务（上）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 29<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >1.45</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>3</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_1d40bfc96eec47c6a446974ddd30bd60.html','VideoKnowledge','','False', 'True','True',''));" title='财务云税务服务（下）'>财务云税务服务（下）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 30<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >1.5</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>4</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_4af8f8f23a8c4342b2fdd0a09eb725d5.html','VideoKnowledge','','False', 'True','True',''));" title='财务云友报账服务解决方案（上）'>财务云友报账服务解决方案（上）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 30<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >1.5</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>5</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_9b75f1e399604248a07e6b2682288f51.html','VideoKnowledge','','False', 'True','True',''));" title='财务云友报账服务解决方案（下）'>财务云友报账服务解决方案（下）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 29<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >1.45</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>6</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_66586029e82d49109d702a59b821014d.html','VideoKnowledge','','False', 'True','True',''));" title='财务云电子会计档案'>财务云电子会计档案</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 41<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >2.05</span></div>
+ </div>
+   
+   
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>7</div>
+ <div class="picnostart  last">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_ff90f7d878d0474097a3ad21dbafe0c8.html','VideoKnowledge','','False', 'True','True',''));" title='财务云电子档案操作演示'>财务云电子档案操作演示</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 3<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >0.15</span></div>
+ </div>
+   </div>
+  <div class="mt10 font-size-14" style="padding-left:15px;justify-content: space-between;">
+ <p ><label data-localizeph="course_chapter_site"><label>2</label></label>&nbsp;&nbsp;<span title='采购云产品解决方案篇'>采购云产品解决方案篇</span></p>
+ </div>
+
+ <div class="el-plancourselist" style="background-position:68px;">
+   
+   
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>1</div>
+ <div class="picnostart  last">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_311d6e60b690418b8b6bd706fd8e721f.html','VideoKnowledge','','False', 'True','True',''));" title='采购云'>采购云</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 116<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >5.8</span></div>
+ </div>
+   </div>
+  <div class="mt10 font-size-14" style="padding-left:15px;justify-content: space-between;">
+ <p ><label data-localizeph="course_chapter_site"><label>3</label></label>&nbsp;&nbsp;<span title='营销云产品解决方案篇'>营销云产品解决方案篇</span></p>
+ </div>
+
+ <div class="el-plancourselist" style="background-position:68px;">
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>1</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_6541a48d07674be782e4ce61c280222f.html','VideoKnowledge','','False', 'True','True',''));" title='在线社会化营销解决方案'>在线社会化营销解决方案</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 60<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.0</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>2</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_8899595b14a74007aa095a8f55fb72ac.html','VideoKnowledge','','False', 'True','True',''));" title='营销云基础服务'>营销云基础服务</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 65<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.25</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>3</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_31cae177fd8d4406aa767dc35feffc5b.html','VideoKnowledge','','False', 'True','True',''));" title='B2B定价、促销、返利（上）'>B2B定价、促销、返利（上）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 14<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >0.7</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>4</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_261e469c06a04c4daf7b3189a7a0d90d.html','VideoKnowledge','','False', 'True','True',''));" title='B2B定价、促销、返利（下）'>B2B定价、促销、返利（下）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 32<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >1.6</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>5</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_f9afe9d4ea1f4e4384561c7010919cd5.html','VideoKnowledge','','False', 'True','True',''));" title='B2C定价和促销（上）'>B2C定价和促销（上）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 30<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >1.5</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>6</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_b8063a314df2497ab09d5963b711bd72.html','VideoKnowledge','','False', 'True','True',''));" title='B2C定价和促销（下）'>B2C定价和促销（下）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 27<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >1.35</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>7</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_6c8ebe4051e845f9a13755a9194196dd.html','VideoKnowledge','','False', 'True','True',''));" title='会员运营解决方案（U会员）'>会员运营解决方案（U会员）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 57<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >2.85</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>8</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_694a465bcb4243f997dbf0aade8123e3.html','VideoKnowledge','','False', 'True','True',''));" title='订货与渠道分销解决方案（U订货）'>订货与渠道分销解决方案（U订货）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 65<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.25</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>9</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_59eb96a3a2c348ee958ade06bc36308d.html','VideoKnowledge','','False', 'True','True',''));" title='新零售解决方案（友零售）'>新零售解决方案（友零售）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 66<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.3</span></div>
+ </div>
+   
+   
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>10</div>
+ <div class="picnostart  last">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_222b54c7625040e7a0028a6a0c4029ed.html','VideoKnowledge','','False', 'True','True',''));" title='营销云-电商之B2C订单中心（电商通）'>营销云-电商之B2C订单中心（电商通）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 40<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >2.0</span></div>
+ </div>
+   </div>
+  <div class="mt10 font-size-14" style="padding-left:15px;justify-content: space-between;">
+ <p ><label data-localizeph="course_chapter_site"><label>4</label></label>&nbsp;&nbsp;<span title='协同云产品解决方案篇'>协同云产品解决方案篇</span></p>
+ </div>
+
+ <div class="el-plancourselist" style="background-position:68px;">
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>1</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_b1c3ea88b564465f81ea6319a445dfa0.html','VideoKnowledge','','False', 'True','True',''));" title='友空间-产品总体介绍及助力疫情防控解决方案'>友空间-产品总体介绍及助力疫情防控解决方案</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 65<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.25</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>2</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_a67bffb534af485c919e5a0a80d7eaca.html','VideoKnowledge','','False', 'True','True',''));" title='协同云-业务协同'>协同云-业务协同</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 46<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >2.3</span></div>
+ </div>
+   
+   
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>3</div>
+ <div class="picnostart  last">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_b5f0957c8ff9408d9b7fc588d9c6116e.html','VideoKnowledge','','False', 'True','True',''));" title='协同云-社交沟通与团队协作'>协同云-社交沟通与团队协作</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 46<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >2.3</span></div>
+ </div>
+   </div>
+  <div class="mt10 font-size-14" style="padding-left:15px;justify-content: space-between;">
+ <p ><label data-localizeph="course_chapter_site"><label>5</label></label>&nbsp;&nbsp;<span title='人力云解决方案篇'>人力云解决方案篇</span></p>
+ </div>
+
+ <div class="el-plancourselist" style="background-position:68px;">
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>1</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_dcd7875ddb2243ca9f3c710e8ae04e5b.html','VideoKnowledge','','False', 'True','True',''));" title='人力云-整体方案介绍'>人力云-整体方案介绍</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 66<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.3</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>2</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_96903d1ebac645dcb0cb0d92e06a5837.html','VideoKnowledge','','False', 'True','True',''));" title='人力云-组织与员工管理'>人力云-组织与员工管理</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 25<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >1.25</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>3</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_abe586534c8b42c2b4d78ea56a5670bb.html','VideoKnowledge','','False', 'True','True',''));" title='人才与组织发展解决方案'>人才与组织发展解决方案</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 53<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >2.65</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>4</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_e2c2fb47a60c4ae69d060eabd9234c6e.html','VideoKnowledge','','False', 'True','True',''));" title='人力云-持续绩效'>人力云-持续绩效</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 31<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >1.55</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>5</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_7ce64904830f4584b65d715c4dd2fb77.html','VideoKnowledge','','False', 'True','True',''));" title='人力云-薪资核算'>人力云-薪资核算</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 38<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >1.9</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>6</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_82911d4b5606403facf7b4c1d8ced0d5.html','VideoKnowledge','','False', 'True','True',''));" title='人力云-合同管'>人力云-合同管</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 19<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >0.95</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>7</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_b3fc8dd6fac84c18b02f5d59dc08aac8.html','VideoKnowledge','','False', 'True','True',''));" title='人力云-员工服务'>人力云-员工服务</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 19<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >0.95</span></div>
+ </div>
+   
+   
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>8</div>
+ <div class="picnostart  last">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_eb03cc9948f64b6a9f6639d1f8c64f52.html','VideoKnowledge','','False', 'True','True',''));" title='人力云-假勤管理'>人力云-假勤管理</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 22<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >1.1</span></div>
+ </div>
+   </div>
+  <div class="mt10 font-size-14" style="padding-left:15px;justify-content: space-between;">
+ <p ><label data-localizeph="course_chapter_site"><label>6</label></label>&nbsp;&nbsp;<span title='云平台解决方案篇'>云平台解决方案篇</span></p>
+ </div>
+
+ <div class="el-plancourselist" style="background-position:68px;">
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>1</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_7dd7644da4424e47933116af7fd18815.html','VideoKnowledge','','False', 'True','True',''));" title='iuap云平台整体解决方案'>iuap云平台整体解决方案</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 121<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >6.05</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>2</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_eaec383160014c138bc5ea3d653689f0.html','VideoKnowledge','','False', 'True','True',''));" title='业务中台-企业企业群、组织、基础数据、实施工具'>业务中台-企业企业群、组织、基础数据、实施工具</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 137<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >6.85</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>3</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_7223c279786b483896ed6f0f700c0730.html','VideoKnowledge','','False', 'True','True',''));" title='云平台-业务中台2入口、权限、支撑服务'>云平台-业务中台2入口、权限、支撑服务</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 143<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >7.15</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>4</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_9cfba59bee7c43ad915d45b37c004ff8.html','VideoKnowledge','','False', 'True','True',''));" title='云平台-技术中台解决方案'>云平台-技术中台解决方案</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 68<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.4</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>5</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_30f52b102c1745a48069abe776925a89.html','VideoKnowledge','','False', 'True','True',''));" title='iPaaS：友企联、开放平台'>iPaaS：友企联、开放平台</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 60<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.0</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>6</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_9af2434f3ce8449791509b84c90aade8.html','VideoKnowledge','','False', 'True','True',''));" title='iPaaS：集成平台'>iPaaS：集成平台</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 56<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >2.8</span></div>
+ </div>
+   
+   
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>7</div>
+ <div class="picnostart  last">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_a6230787d0774e14921501b733d61c4d.html','VideoKnowledge','','False', 'True','True',''));" title='云平台-应用建模'>云平台-应用建模</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 79<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.95</span></div>
+ </div>
+   </div>
+  <div class="mt10 font-size-14" style="padding-left:15px;justify-content: space-between;">
+ <p ><label data-localizeph="course_chapter_site"><label>7</label></label>&nbsp;&nbsp;<span title='数据服务解决方案篇'>数据服务解决方案篇</span></p>
+ </div>
+
+ <div class="el-plancourselist" style="background-position:68px;">
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>1</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_b44ef726359346769b7982a5367f21a9.html','VideoKnowledge','','False', 'True','True',''));" title='金服桥-企业金融数据服务产品解决方案'>金服桥-企业金融数据服务产品解决方案</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 44<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >2.2</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>2</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_86274d7ffe57442198643488b7909f52.html','VideoKnowledge','','False', 'True','True',''));" title='数据服务产品-整体解决方案（上）'>数据服务产品-整体解决方案（上）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 22<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >1.1</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>3</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_caf125d83c8045f59b2c1028933f7c81.html','VideoKnowledge','','False', 'True','True',''));" title='数据服务产品-整体解决方案（下）'>数据服务产品-整体解决方案（下）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 37<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >1.85</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>4</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_b7efef5cff984e76aa103ef3db0b77c0.html','VideoKnowledge','','False', 'True','True',''));" title='数据战役-数据工厂'>数据战役-数据工厂</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 53<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >2.65</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>5</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_d012e0cf9ccb480092212912ddaf98e6.html','VideoKnowledge','','False', 'True','True',''));" title='数据中台抗疫情数采及分析解决方案（上）'>数据中台抗疫情数采及分析解决方案（上）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 50<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >2.5</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>6</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_d53a31802f5a434f80055d36ba6037ba.html','VideoKnowledge','','False', 'True','True',''));" title='数据中台抗疫情数采及分析解决方案（中）'>数据中台抗疫情数采及分析解决方案（中）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 54<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >2.7</span></div>
+ </div>
+   
+   
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>7</div>
+ <div class="picnostart  last">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_79cba8c6fec2476e9d8375ac7b19de99.html','VideoKnowledge','','False', 'True','True',''));" title='数据中台抗疫情数采及分析解决方案（下）'>数据中台抗疫情数采及分析解决方案（下）</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 16<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >0.8</span></div>
+ </div>
+   </div>
+  <div class="mt10 font-size-14" style="padding-left:15px;justify-content: space-between;">
+ <p ><label data-localizeph="course_chapter_site"><label>8</label></label>&nbsp;&nbsp;<span title='YonSuite解决方案篇'>YonSuite解决方案篇</span></p>
+ </div>
+
+ <div class="el-plancourselist" style="background-position:68px;">
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>1</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_7a5bdc06af7f4ad2a89cef504bda41fe.html','VideoKnowledge','','False', 'True','True',''));" title='YonSuite-成长型企业云服务整体解决方案'>YonSuite-成长型企业云服务整体解决方案</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 123<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >6.15</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>2</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_cd0c96f4338b419dbdc7a48aa3506d03.html','VideoKnowledge','','False', 'True','True',''));" title='YonSuite-业财一体化解决方案'>YonSuite-业财一体化解决方案</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 61<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.05</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>3</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_a393a39ff0c447c790f27e4e3a28976b.html','VideoKnowledge','','False', 'True','True',''));" title='YonSuite-营销一体化解决方案'>YonSuite-营销一体化解决方案</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 72<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.6</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>4</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_d348f9e1187e4457a6a6743a08385f37.html','VideoKnowledge','','False', 'True','True',''));" title='YonSuite -财务核算解决方案'>YonSuite -财务核算解决方案</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 57<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >2.85</span></div>
+ </div>
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>5</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_7b55f5780ab8400492315b9fd541b6a5.html','VideoKnowledge','','False', 'True','True',''));" title='YonSuite-人力解决方案'>YonSuite-人力解决方案</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 63<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.15</span></div>
+ </div>
+   
+   
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>6</div>
+ <div class="picnostart  last">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_84941f03361c49aa8f4bb087d00ee335.html','VideoKnowledge','','False', 'True','True',''));" title='YS-数字协同'>YS-数字协同</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 74<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.7</span></div>
+ </div>
+   </div>
+  <div class="mt10 font-size-14" style="padding-left:15px;justify-content: space-between;">
+ <p ><label data-localizeph="course_chapter_site"><label>9</label></label>&nbsp;&nbsp;<span title='制造云解决方案篇'>制造云解决方案篇</span></p>
+ </div>
+
+ <div class="el-plancourselist" style="background-position:68px;">
+   
+  
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>1</div>
+ <div class="picnostart ">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_7309728261b14b10bbcf0d27e59ecbdf.html','VideoKnowledge','','False', 'True','True',''));" title='制造云-IoT'>制造云-IoT</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 79<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.95</span></div>
+ </div>
+   
+   
+ 
+ 
+      <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
+ <div class="no"><span data-localize='common_lbl_singelcourse'></span>2</div>
+ <div class="picnostart  last">&nbsp;</div>
+ <div class="name ellipsis">
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/kng/course/package/video/80d502869c0842e5b15e3c9a8d2a2589_35f2fe776a994ccab0643d546d4784ca.html','VideoKnowledge','','False', 'True','True',''));" title='制造云-设计制造'>制造云-设计制造</a></div>
+ <div class="process">
+ <table>
+ <tr>
+ <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <td>
+ <div class="processbox">
+ <div class="percent" style="width: 0.0px;">
+ </div>
+ </div>
+ </td>
+ <td class="fontnumber">
+  &nbsp;0.0%
+  </td>
+ </tr>
+ </table>
+ </div>
+ <div class="pull-right text-grey font-size-12 mr20">
+ 30<span data-localize='kng_lbl_minutes'></span></div>
+ <div class="score">
+ <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >1.5</span></div>
+ </div>
+   </div>
+   </div>
+<div class="studyview" id="dvCantPlay2" style="display: none; position: fixed; z-index: 601">
+ <div class="playgoon">
+ <div class="playgoonbg">
+ </div>
+ <div class="playgooncontent" id="Div2">
+ <span data-localize='sty_msg_cannotlearn'></span>
+ </div>
+ <input type="button" class="btnok" data-localize='sty_lbl_gotit' onclick="closeCantPlay2();" /></div>
+ </div>
+                </div>          
+                <div id="commentTitle" class='el-course-title-bg lh50 font-size-16 mt30 '>
+                    <span class="ml15" data-localize="kng_lbl_coursereviews"></span>(<span id="spCount" class="text-warning">-</span>)
+                </div>
+                <div id="commentDiv" class=''>
+                </div>
+            </div>
+            <div id="divRightContent" class="el-course-detail-right pt25">
+                
+                <div id="lcKonwledgeIntro_divLabelHtmlContents" style="height:100%;">
+	
+
+<script type = "text/javascript" >
+
+ //个人主页
+ function openPersonal(id) {
+ 	openURL("/myhome.htm" + "?userID=" + id);
+ }
+	
+</script >
+
+<div class="media hand mt50">
+		<div class="span-24" onclick="openPersonal('dff421e5-891e-4359-bf81-d2515b71f677')">
+			<div class="span-7">
+				<img src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/79.png?imageview2/0/w/100/h/100/format/jpg/interlace/1?r=26912191" class="circle-img" alt="" width="60" height="60" />
+			</div>
+			<div class="span-17">
+				<div class="mt7">
+					<span class="text-normal font-bold font-size-16 v-mid" title="徐红星">徐红星</span>
+									</div>
+				<div class="text-color6 mt7"> 产品-产品管理-产品管理</div>
+			</div>
+		</div>
+		</div>
+</div>
+    
+                
+                <div id="lcRelatedKnowledge_divLabelHtmlContents" style="height:100%;"></div>
+   
+                
+                
+            </div>                                      
+            <div id="divExchange" style="display:none">
+                
+                <div id="lcKnowledgeExchange_divLabelHtmlContents" style="height:100%;">
+
+
+<script type = "text/javascript" >
+ //兑换
+ function knowlegeExhange(){
+	var knowledgeId=$("#hidKnowledgeID").val(); 		
+	var arr='{"knowledgeId":"'+knowledgeId+'"}';
+	jQuery.ajax({
+		 type: "POST",
+		 contentType: "text/json",
+		 url: "/kng/services/KngComService.svc/KnowledgeExchange",
+		 data: arr,
+		 dataType: 'json',
+		 cache: false,
+		 success: function (result) {		 
+		 result = eval('(' + result + ')');
+		 if (result.Status == "Ok") {		 
+					$("#divKnowledgeDetail").hide();
+					$("#divExchangeSuccess").attr("style","width:1100px;height:370px;margin-top: -185px;");	
+					var courseOrder=eval("(" + result.Data + ")")
+					$("#orderNum").html(courseOrder.orderId);					
+		 } else if(result.Status == "ERROR"){					
+		 $("#divKnowledgeDetail").hide();
+					$("#divExchangeFail").attr("style","width:1100px;height:370px;margin-top: -185px;");	
+					showWarningMsg(result.Data);					
+		 }
+		 },
+		 error: function (data) {
+		 
+		 }
+		});	
+ }
+ 
+ 
+ 
+ //重试一次
+ function resetAgain(){
+	$("#divExchangeFail").hide();
+	$("#divKnowledgeDetail").show();	
+ }
+ 
+ 
+ //关闭
+ function closeDiv(i) {
+ 	$("#divExchange").hide();
+	if(i){
+		//window.location=window.location;
+		window.location.reload();
+	}	
+ } 
+ 
+ function closeFailDiv(){
+	$("#divExchangeFail").hide();
+	$("#divExchange").hide();
+ }
+ 	
+</script >
+
+<div class="window-overlay"></div>
+ <div class="el-white-dialog-container">
+ <div id="divKnowledgeDetail" class="el-white-dialog" style="width:1100px;height:370px;margin-top: -185px;">
+ <div class="el-white-dialog-close iconfont icon-guanbi" onclick="closeDiv(0)"></div>
+ <div class="ph5">
+ <div class="font-size-18"><span data-localize="sty_lbl_productinformation"></span></div>
+ <div class="mt12 el-course-exchange-box p20 clearfix">
+ <div class="span-20">
+ <div class="el-list-cover pull-left">
+ <img width="100%" height="100%" src="" alt=""/>
+														<div class="el-cover-phonespt">
+								<span data-localize="sty_lbl_supportmobile"></span>
+							</div>
+							 </div>
+ <div class="el-list-body">
+ <div class="font-size-16 ellipsis"></div>
+ <div class="clearfix font-size-14 lh24 mt7">
+ <div>
+ <span class="text-grey"><span data-localize="sty_lbl_hours"></span>：</span>
+ <span><span data-localize="sty_lbl_minute"></span></span>
+ </div>
+ <div>
+ <span class="text-grey"><span data-localize="sty_lbl_commentscore"></span>：</span>
+ <span class="iconstar"></span>
+ </div>								
+																<div>
+									<span class="text-grey"><span data-localize="sty_lbl_expirationtime"></span>：</span>
+ <span>-</span>								
+ </div>		
+								 </div>
+ </div>
+ </div>
+ <div class="span-4 font-size-18 text-right pt40">
+		 <span class="text-orange-h mr10"></span><span data-localize="sty_lbl_points"></span>
+		 </div>
+ </div>
+ <div class="mt25 text-right">
+ 	<div class="font-size-16"><span data-localize="sty_lbl_duepoints"></span>：<span class="text-orange-h font-bold font-size-20"></span></div>
+ 	<div class="text-grey mt8 mb25"><span data-localize="sty_lbl_accountpointsavailable"></span>：</div>
+											<button type="button" onclick="return knowlegeExhange();" class="btn btn-warning btn-lmd w-140"><span data-localize="sty_btn_productpay"></span></button>
+					 </div>
+ </div> 
+ </div>
+		 <div id="divExchangeSuccess" class="el-white-dialog" style="width:1100px;height:370px;margin-top: -185px;display:none" >
+ <div class="el-white-dialog-close iconfont icon-guanbi" onclick="closeDiv(1)"></div>
+ <div class="ph25">
+ <div class="el-xuanye-saved mt75"></div>
+ <div class="font-size-20 text-center mt18"><span data-localize="sty_lbl_exchangesuccess"></span></div>
+ <div class="text-center mt15"><span data-localize="sty_lbl_ordernumber"></span>：<span id="orderNum"></span></div>
+ <div class="text-right mt55">
+ <button type="button" class="btn btn-primary btn-nm w-140" onclick="closeDiv(1);"><span data-localize="sys_btn_learnnow"></span></button>
+ </div>
+ </div>
+ </div>		
+		<div id="divExchangeFail" class="el-white-dialog" style="width:1100px;height:370px;margin-top: -185px;display:none">
+ <div class="el-white-dialog-close iconfont icon-guanbi" onclick="closeFailDiv()"></div>
+ <div class="ph25">
+ <div class="el-tip-error mt75"></div>
+ <div class="font-size-20 text-center mt18"><span data-localize="sty_lbl_exchangefailed"></span></div>
+ <div class="text-right mt55 pt35">
+ <button type="button" class="btn btn-primary btn-nm w-140" onclick="resetAgain();"><span data-localize="sty_btn_rewardagain"></span></button>
+ </div>
+ </div>
+ </div>					
+ </div></div>
+
+            </div>
+	    </div>
+    </div>
+
+    <div id="divValidateKey" style="display: none;">bd89f3fc-dec5-4ea7-94ec-16d937701061</div>
+    <input type="hidden" name="hfIsFavorite" id="hfIsFavorite" value="0" />
+    <input type="hidden" name="hidTitle" id="hidTitle" value="用友云产品深度进阶课系列2020" />
+    <input type="hidden" name="hidUserName" id="hidUserName" value="0000001192" />
+    <input type="hidden" name="hidUserName1" id="hidUserName1" />  
+    <input type="hidden" name="hidIsShowStar" id="hidIsShowStar" value="1" />  
+    <input type="hidden" name="hidUserPhoto" id="hidUserPhoto" value="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/118.png" />  
+    <input type="hidden" name="hidAvgStar" id="hidAvgStar" />   
+    <input type="hidden" name="hfSourceId" id="hfSourceId" value="80d50286-9c08-42e5-b15e-3c9a8d2a2589" />
+    <input type="hidden" name="hidIsNeedPoint" id="hidIsNeedPoint" />  
+    <input type="hidden" name="hidKnowledgeID" id="hidKnowledgeID" value="d58a6f25-dde9-4bbc-b0a5-49b1e7527311" />  
+    <input type="hidden" name="hidSourceID" id="hidSourceID" value="80d50286-9c08-42e5-b15e-3c9a8d2a2589" />    
+    <input type="hidden" name="hidIsExpire" id="hidIsExpire" />
+    <input type="hidden" name="hidRelateCourseKey" id="hidRelateCourseKey" /> 
+    <input type="hidden" name="hidIsGroup" id="hidIsGroup" />   
+    <input type="hidden" name="hidCheckComments" id="hidCheckComments" value="0" />
+    </div>
+
+      
+    <div id="hidBindPhone" class="hide">
+        <div class="chaos-bg-color text-center">
+            <div class="clearfix ph30">
+                <div class="no-phone-img"></div>
+                <div class="font-size-18 text-center"><span data-localize="sys_msg_needphone"></span></div>
+                <div class="font-szie-14 text-grey text-center mv10"><span data-localize="sys_msg_bindingmobile"></span></div>
+                <div class="text-center">
+                    <input type="button" class="btn btn-primary mt15 binding-phone" data-localize="mine_lbl_bindimmediately" onclick="openBindPhone();" />
+                </div>
+            </div>
+        </div>
+        <div class="ui-widget-overlay" style="width: 100%; height: 100%; z-index: 100;"></div>
+    </div>
+
+    <div id="divOverCourse">
+    </div>
+    <script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/raphael.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var m = getQueryString("m");
+            if (m == 1) {
+                $("#divStudySchedule").hide();
+            } else {
+                var masterType = '';
+                //检查版本除（学习计划）
+                if (masterType != 'Plan') {
+                    var packId = $("#hidSourceID").val();
+                    var type = "";
+                    var masterId = "";
+                    if (masterType == "Position") {
+                        type = "Position";
+                        masterId = '';
+                    }
+                    var arr = '{"packageId":"' + packId + '","masterId":"' + masterId + '","masterType":"' + type + '"}';
+                    $.ajax({
+                        type: "POST",
+                        contentType: "text/json",
+                        url: "/kng/services/KngComService.svc/GetCheckCoursePackageVersion",
+                        dataType: 'json',
+                        data: arr,
+                        cache: false,
+                        success: function (result) {
+                            if (result != "") {
+                                var advData = eval('(' + result + ')');
+                                if (advData.hasNewVersion) {
+                                    //有大版本更新
+                                    showOverCourse();
+                                }
+                            }
+                        }
+                    });
+                }
+            }
+
+            var isneedpoint = $("#hidIsNeedPoint").val();
+            if ('0' == '1') {
+                $("#liFavorite2").prop("class", "hidden");
+                $("#liFavorite").prop("class", "hidden");
+            } else {
+                if ($("#hfIsFavorite").val() == "1") {
+                    if (isneedpoint == "true") {
+                        $("#collect2").text(jQuery.i18n.map['common_lbl_alreadyfavourite']);
+                        $("#liFavorite2").prop("class", "el-btn-collection ml15 mt10 active");
+                    } else {
+                        $("#collect").text(jQuery.i18n.map['common_lbl_alreadyfavourite']);
+                        $("#liFavorite").prop("class", "el-btn-collection ml15 mt20 active");
+                    }
+                } else {
+                    if (isneedpoint == "true") {
+                        $("#collect2").text(jQuery.i18n.map['common_lbl_collect']);
+                        $("#liFavorite2").prop("class", "el-btn-collection ml15 mt10");
+                    } else {
+                        $("#collect").text(jQuery.i18n.map['common_lbl_collect']);
+                        $("#liFavorite").prop("class", "el-btn-collection ml15 mt20");
+                    }
+                }
+            }
+            var isShowStar = $("#hidIsShowStar").val();
+            var userPhoto = $("#hidUserPhoto").val();
+
+            GetDataByLabelENameWithKng('commentDiv', 'KngCommentNew', 0, 0, 'HiddenCommentArea|MasterID|MasterName|CommentType|UserID|UserPhoto|CommentedUserID|CommentedCName|SourceID|PackageID|OrgID|IsShowStar|IsApply', '0|d58a6f25-dde9-4bbc-b0a5-49b1e7527311|用友云产品深度进阶课系列2020|CourseKnowledge|49b04dcc-4796-437d-ba87-4a8eebf9a22c|' + userPhoto + '|dff421e5-891e-4359-bf81-d2515b71f677|徐红星|d58a6f25-dde9-4bbc-b0a5-49b1e7527311|d58a6f25-dde9-4bbc-b0a5-49b1e7527311|35a1eb12-7592-48a2-9688-1563ccb6d2f5|' + isShowStar + '|1');
+        });
+
+        //0: 帖子 1:最红 单击Tab选项卡
+        function changeExpertTab(index) {
+            if (index == 0) {  //课程目录
+                $("#divPublishComment").addClass("hidden");
+                $("#cchapter").addClass("active");
+                $("#ccommet").removeClass("active");
+                $("#cintroduction").removeClass("active");
+                $("#divcourselist").show();
+                $("#commentDiv").hide();
+                $("#divIntroduction").hide();
+                $("#courseTitle").hide();
+                $("#commentTitle").hide();
+            } else if (index == 1) {//评论
+                $("#divPublishComment").removeClass("hidden");
+                $("#cchapter").removeClass("active");
+                $("#ccommet").addClass("active");
+                $("#cintroduction").removeClass("active");
+                $("#divcourselist").hide();
+                $("#commentDiv").show();
+                $("#divIntroduction").hide();
+                $("#courseTitle").hide();
+                $("#commentTitle").hide();
+            } else if (index == 2) { //介绍
+                $("#divPublishComment").addClass("hidden");
+                $("#cchapter").removeClass("active");
+                $("#ccommet").removeClass("active");
+                $("#cintroduction").addClass("active");
+                $("#divIntroduction").show();
+                $("#courseTitle").show();
+                $("#commentTitle").show();
+                $("#divcourselist").show();
+                $("#commentDiv").show();
+            }
+        }
+
+        //收藏
+        function CheckAddToFavorite() {
+            var knowledgeID = $.trim("d58a6f25-dde9-4bbc-b0a5-49b1e7527311");
+            var packageID = $.trim(" ");
+            var masterID = $.trim("");
+            var masterType = $.trim("");
+            var isneedpoint = $("#hidIsNeedPoint").val();
+            if ($('#hfIsFavorite').val() == "1") {
+                var arr = '{"knowledgeID":"' + knowledgeID + '"}';
+                jQuery.ajax({
+                    type: "POST",
+                    contentType: "text/json",
+                    url: "/kng/services/KngComService.svc/DeleteFavorite",
+                    data: arr,
+                    dataType: 'json',
+                    cache: false,
+                    success: function (result) {
+                        result = eval("(" + result + ")");
+                        if (result.Status == "OK") {
+                            if (isneedpoint == "true") {
+                                $("#collect2").text(jQuery.i18n.map['common_lbl_collect']);
+                                $("#liFavorite2").prop("class", "el-btn-collection ml15 mt10");
+                            } else {
+                                $("#collect").text(jQuery.i18n.map['common_lbl_collect']);
+                                $("#liFavorite").prop("class", "el-btn-collection ml15 mt20");
+                            }
+
+                            $("#hfIsFavorite").val("0");
+                            showSuccessMsg(jQuery.i18n.map['kng_lbl_cancelcollectionsuccess']);
+                        }
+                        else {
+                            showWarningMsg(result.Data);
+                        }
+                    }
+                });
+            }
+            else {
+                var arr = '{"knowledgeID":"' + knowledgeID + '","packageID":"' + packageID + '","masterType":"' + masterType + '","masterID":"' + masterID + '"}';
+                jQuery.ajax({
+                    type: "POST",
+                    contentType: "text/json",
+                    url: "/kng/services/KngComService.svc/AddFavorite",
+                    data: arr,
+                    dataType: 'json',
+                    cache: false,
+                    success: function (result) {
+                        result = eval("(" + result + ")");
+                        if (result.Status == "OK") {
+
+                            if (isneedpoint == "true") {
+                                $("#collect2").text(jQuery.i18n.map['common_lbl_alreadyfavourite']);
+                                $("#liFavorite2").prop("class", "el-btn-collection ml15 mt10 active");
+                            } else {
+                                $("#collect").text(jQuery.i18n.map['common_lbl_alreadyfavourite']);
+                                $("#liFavorite").prop("class", "el-btn-collection ml15 mt20 active");
+                            }
+
+                            $("#hfIsFavorite").val("1");
+                            showSuccessMsg(jQuery.i18n.map['kng_lbl_collectionsuccess']);
+                        }
+                        else {
+                            showWarningMsg(result.Data);
+                        }
+                    }
+                });
+            }
+            return false;
+        }
+
+        //课程兑换
+        function shwoExchange() {
+            var isexpired = $("#hidIsExpire").val();
+            if (isexpired == "true") {
+                showWarningMsg(jQuery.i18n.map['sys_msg_pageerrormsg21']);
+                return false;
+            }
+            $("#divExchange").show();
+            $("#divKnowledgeDetail").show();
+        }
+
+        //生成版本升级提醒
+        function showOverCourse() {
+            var html = "<div class='window-overlay'></div>" +
+ 	                        "<div class='el-white-notice-container'>" +
+ 		                        "<div class='el-white-notice text-center pt45' style='width: 400px;height:400px;border-radius: 0;'>" +
+ 			                        "<img class='mb10' src='https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/images/background/course_update.jpg' />" +
+ 			                        "<div class='text-color6 pb50 lh18 ph55'>" + jQuery.i18n.map['kng_lbl_coursechangewarm'] + "</div>" +
+ 			                        "<button id='btnGoHead' type='button' style='width:232px;' class='btn btn-primary mt15 btn-nm' onclick='hideOverCourse()'>" + jQuery.i18n.map['sty_btn_goahead'] + "</button>" +
+ 			                        "<div class='text-primary mt20 hand' onclick='CloseCourseView();'>" + jQuery.i18n.map['common_btn_close'] + "</div>" +
+ 		                        "</div>" +
+ 	                        "</div>";
+            $("#divOverCourse").html(html);
+        }
+
+        //隐藏版本升级提醒且同步版本
+        function hideOverCourse() {
+            $("#btnGoHead").prop("disabled", true);
+            var masterType = '';
+            var packId = $("#hidSourceID").val();
+            var type = "";
+            var masterId = "";
+            if (masterType == "Position") { type = "Position"; masterId = ''; }
+            var arr = '{"packageId":"' + packId + '","masterId":"' + masterId + '","masterType":"' + type + '"}';
+            $.ajax({
+                type: "POST",
+                contentType: "text/json",
+                url: "/kng/services/KngComService.svc/UpdateStudyPackageVersion",
+                dataType: 'json',
+                data: arr,
+                cache: false,
+                success: function (result) {
+                    if (result) {
+                        $("#divOverCourse").remove();
+                        location.href = location.href;
+                    }
+                }
+            });
+
+            $("#btnGoHead").prop("disabled", false);
+        }
+
+        function CloseCourseView() {
+            window.close();
+        }
+
+        //阻止冒泡
+        function stopPropagation(e) {
+            e = e || window.event;
+            if (e.stopPropagation) { //W3C阻止冒泡方法  
+                e.stopPropagation();
+            } else {
+                e.cancelBubble = true; //IE阻止冒泡方法  
+            }
+        }
+        //显示绑定手机
+        function ShowBindPhone() {
+            $("#hidBindPhone").removeClass("hide");
+        }
+
+        //跳转绑定手机号码弹框
+        function openBindPhone() {
+            //$("#hidBindPhone").addClass("hide");
+
+            ShowIFrameDialog(jQuery.i18n.map["mine_lbl_bindphone"], 550, 420, "/udp/Usm/Personal/Daliogs/BindMobilePhone.aspx");
+            return false;
+        }
+    </script>
+    
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CF20FC0F" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="GSyBK30OdkY59rY6RC4+4n0iYAjljSwdMkGsX6mmZ5lCAfeW3QyDJ+R59hbeCHVtliGkUlEf/iLR975/LWrKin31/5eAceIYJ/+tQmi+CjNKAKYw1uO8Pp0yAjr6/qwxx5CubvQ6ulfaWwetFDxIDu4VY8jsqd/OEoxcJxGh1efgqbLdPHrB3S8FabF4E3dGtEPFWG8y4oRXmAR9jUjmuYwwSRqBapkTYKJKQXW05gcUN1dgUYu294779l5vpNXezoP8bWvWksVKcg61qLYwAp3OCqC6PUkW9pqJRyWwTVoxW9ZwGmMWYvhx8tYwEhDNtLnqngyXHMD1W7cJBYhyXaezHR6ut/HzvLrplatJIYaskO41PHXhT4wOS1zawUoyr99w/rRhHvPMQ6VXO5o7n9kLu7GTce2NQE8G15Grfv9l98eW5YP+i6xY25xWLGv/R3krg6GbDqc0C2Ub/x+yWzcUixGeeH+ld8/W2j26UXfnjV/CXYtbJF76N24=" />
+</div>
+<script language='javascript'>try {loadProperties('zh','kng');  }catch (e) {}</script></form>
+ </div>
+
+ 
+ <div class="pagefooter" id="divPageFooter">
+    
+ 
+<div style="margin:10px auto; text-align:center; color:#666666; line-height:24px;">
+   <div>
+ &copy; 2019 All Rights Reserved&nbsp;&nbsp;爱乐学 <span data-localize="home_lbl_copyright"></span>
+</div>
+ <!--<div>-->
+ <!--<a href="https://www.yonyoucloud.com/" target="_blank" data-localize="home_lbl_yunxuetang"></a> <span data-localize="home_lbl_technicalsupport"></span>-->
+ <!--&nbsp;&nbsp;<a href="http://elearning.yunxuetang.cn/registerprotocol.htm" target="_blank" data-localize="home_lbl_serviceagreement"></a>-->
+ <!--&nbsp;&nbsp;400-928-6900-->
+ <!--</div>-->
+</div>
+<script type="text/javascript">
+ loadPropertiesForAsync("divPageFooter");
+</script>
+ </div>
+ </div>
+
+ 
+ 
+</body>
+</html>

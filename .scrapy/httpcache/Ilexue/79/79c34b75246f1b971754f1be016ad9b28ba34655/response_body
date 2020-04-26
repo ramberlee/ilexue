@@ -1,0 +1,87 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1">
+ <title>登录页面 - 用友网络科技股份有限公司</title>
+ <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+ <meta name="description" content=""/>
+ <meta name="keywords" content=""/>
+	 <script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/tingyun-rum.js?v=9.9.234"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery-1.9.1.js?v=9.9.234"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery-ui-1.9.2.custom.min.js?v=9.9.234"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.validate_new.js?v=9.9.234"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.mCustomScrollbar.concat.min.js?v=9.9.234"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/dist/common.js?v=9.9.234"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/languages/jquery.i18n.properties-1.0.9.js?v=9.9.234"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/languages/main.js?v=9.9.234"></script><script type="text/javascript">currentSkinName="elearning30";var lecaiAPiUrl="https://api-qidatestin.yunxuetang.cn/v1/";var lecaiMediaUrl="https://staticbd.yunxuetang.cn/yxt/SystemFiles/";</script><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/output.min.css?v=9.9.234" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/uc/ui.core.css?v=9.9.234" type="text/css" rel="stylesheet" /> <link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/uc/jquery.mCustomScrollbar.css?v=9.9.234" type="text/css" rel="stylesheet" /> 
+</head>
+ 
+	 
+
+
+ 
+
+
+
+
+
+
+ <div class="onlineserviceall">
+ <div class="onlineservicebox" style="display: none;">
+ <div class="head hand" onclick="hidenOnlineService();">
+ <div class="close">
+ </div>
+ </div>
+ <!--在线客服内容-->
+ <div id="divEasemobConfig" class="body textcenter" style="min-height: 200px">
+ </div>
+ </div>
+ <div class="onlineserviceboxpic" style="display: block;" onclick="showOnlineService();"
+ onmouseover="this.className='onlineserviceboxpic filteropcity';" onmouseout="this.className='onlineserviceboxpic';">
+ </div>
+</div>
+<script type="text/javascript">
+ function showOnlineService() {
+ SyncLoadHtmlContent2('divEasemobConfig', 'EasemobConfig');
+ jQuery(".onlineserviceboxpic").hide();
+ jQuery(".onlineservicebox").show();
+ }
+ function hidenOnlineService() {
+ jQuery(".onlineserviceboxpic").show();
+ jQuery(".onlineservicebox").hide();
+ } 
+</script>
+
+ 
+<body class="mainbg login_body">
+ <div class="login_layout">
+ 
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="sHead"><title>
+
+</title><meta http-equiv="X-UA-Compatible" content="IE=7" /></head>
+<body>
+ <script type="text/javascript">
+window.location.href="http://www.diwork.com";
+</script>
+ 
+</body>
+</html>
+
+ </div>
+ <script type="text/javascript">
+ (function($){
+ jQuery(window).load(function(){
+ jQuery(".el30scrollbar").mCustomScrollbar({
+ scrollButtons: {
+					enable:true
+				},
+	 theme: "dark",
+	 advanced: {
+	 updateOnContentResize: true
+	 }
+			});
+ });
+ })(jQuery);
+ </script>
+
+	 
+	 
+
+</body>
+</html>

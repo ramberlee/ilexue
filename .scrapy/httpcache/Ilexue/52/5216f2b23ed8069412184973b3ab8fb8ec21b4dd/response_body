@@ -1,0 +1,38 @@
+ï»¿<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+	<head>
+		<title>æ±èäºå­¦å ç½ç»ç§ææéå¬å¸</title>
+		<meta http-equiv='X-UA-Compatible' content='IE=7' />
+		<meta name='description' content='æ±èäºå­¦å ç½ç»ç§ææéå¬å¸' />
+		<meta name='keywords' content='æ±èäºå­¦å ç½ç»ç§ææéå¬å¸' />
+		<meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+		<link rel='icon' href='/favicon.ico' type='image/x-icon' />
+		<link rel='shortcut icon' href='/favicon.ico' type='image/x-icon' />
+		<style type='text/css'>
+			body { font: 12px/1.5 Tahoma,Arial,'å®ä½',sans-serif;color: #333;background-color:#FFF;}
+			body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {margin: 0px;padding: 0px;}
+			div.gonggaodetailbg {background:url('/gonggaibg.png') no-repeat; width:1024px; height:768px; margin:0px auto;}
+			div.gonggaodetailbg .title {padding-top:176px; padding-left:115px; padding-bottom:15px; color:#FFFFFF; font-weight:bold; font-size:14px;}
+			div.gonggaodetailbg .body {padding:10px 125px 10px 125px; height:210px; color:#333333; font-size:14px;}
+			div.gonggaodetailbg .body .head {padding:30px 0px 10px 0px;}
+			div.gonggaodetailbg .body .row {padding:0px 0px 0px 0px; line-height:32px;}
+			div.gonggaodetailbg .body .row .time {color:#F16C00; font-weight:bold;}
+			div.gonggaodetailbg .bottom {text-align:right; padding:10px 125px 10px 0px;}
+			div.gonggaodetailbg .bottom .row {line-height:25px;}
+		</style>
+	</head>
+		<body style='background-color:#e6f4f7;'>
+		<div class='gonggaodetailbg'>
+			<div class='title'></div>
+			<div class='body'>
+				<div class='head'>å°æ¬çç¨æ·ï¼</div>
+				<div class='row'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ç®åç³»ç»æ¥è®¿äººæ°è¾å¤ï¼å»ºè®®æ¨ç¨äºæ­æ¯ï¼éå½çä¼æ¯æå©äºæ´å¥½çå­¦ä¹ ã</div>
+				<div class='row'>æè°¢æ¨å¯¹æä»¬å·¥ä½çå¤§åæ¯æåçè§£ï¼</div>
+			</div>
+			<div class='bottom'>
+                                <div class='row'>2020å¹´02æ05æ¥</div>
+				<div class='row'>æ±èäºå­¦å ç½ç»ç§ææéå¬å¸</div>
+			</div>
+		</div>
+	</body>
+</html>

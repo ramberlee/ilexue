@@ -1,0 +1,1356 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1">
+ <title>文档明细 - 用友网络科技股份有限公司</title>
+ <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+ <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+ <meta name="keywords" content="" />
+ <meta name="description" content="" />
+   <script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/tingyun-rum.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery-1.9.1.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery-ui-1.9.2.custom.min.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.livequery.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.validate_new.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.mCustomScrollbar.concat.min.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/dist/common.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/functions.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/plugin/layer/layer.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/languages/jquery.i18n.properties-1.0.9.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/languages/main.js?v=9.9.235"></script><script type="text/javascript">currentSkinName="elearning30";var lecaiAPiUrl="https://api-qidatestin.yunxuetang.cn/v1/";</script><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/modified.min.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/normalize.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/elearning.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/uc/ui.core.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/style.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/Zebra_DatePicker.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="/CSS/iconfonts/iconfont.css?v=9.9.235" rel="stylesheet" type="text/css" /><link href="/CSS/cfont/iconfont.css?v=9.9.235" rel="stylesheet" type="text/css" /><link href="/CSS/navfont/iconfont.css?v=9.9.235" rel="stylesheet" type="text/css" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/font-awesome/4.4.0/css/font-awesome.css?v=9.9.235" type="text/css" rel="stylesheet" />
+ 
+ <!--[if lte IE 8]>
+ <link rel="stylesheet" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/IE8.css" />
+<script src='https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/IE8.js' type="text/javascript"></script>
+ <![endif]-->
+
+</head>
+
+<body lang="zh" class="mainbg kng_documentplayer_body">
+ <div class="kng_documentplayer_layout">
+ <div class="topnotice" style="background-color:#444444;">
+ <div class="noticemsg" style="width:1000px; color:#F0F0F0;"><span class="content"></span></div>
+ </div>
+
+ <div class="bg-greydark pr clearfix">
+  <form method="post" action="/kng/view/document/30bc2332481945fdba3b4523574b1fc4.html" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'btn')" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="R9rW9oMTqRmpgoVFUHCAyItVgcPsGNhDSl90KxY5CkwZwlx39bKLqykgkc3WdEAqcOaxDzrFNm2EBYZIf1+NeUHnQzYSqcZQCBVJF6QhTI0rXBjy/WBS08haDPSa565NnrlOgntRBY/CqA2enRvSgPLUJlbHuFvT5TxUX9tu37hH1zfv7o0MBvbsj9Pz5ce5hoN5M3cyd1c+lEh5G8w5y0AGnwdJ1qOv710Gxxdafj1CuZ4QT+W+4jHHYMFG/evtMUZDkcuKhyzc7qsoooGS8TX7IUrIK6OAv2S7L6hK9bCTqUjEsGZ/076yYKPpag/U679acnzwpL65CAddsTz4o9Bq1aYwunsHhEQLCyu3Q+PTSucKqjwbDedRq84ba2+a2HRBsvDdaV05nVAd/HDyYPr256SxE2T0990hpFmIdWS6q7c0QczOWO2ZMIApXe2+ua52G2Bg/0ee98vsWVjMo6PS6DKP3//TmJ2xIBPOT7X3E1PFlSSGDLLZcsiOwhgp0qM97d0gHL+ti3Ajs9hnjn4yFMMTMFmVLppxuWUh5BN9bENLDdA4iOShLAE+9rD8tWNXbL0ZroDc0Wa26Cca9Az3rUM6TXyImInjTbApwE/+rqzBwSNBrEVOxVC/nIJIfcnnrOp2/aE47087ltJAn3e3N2nw+BMeKW2qzbk646FAJNXOYJPkQTCciVeujiVb9iJyCA2qJehQ1Ac0NnYK5uG/4w0XV2UKm5E/VF28mYmHRHR7WfVuzbw1CfSX9rdV9z0YEF+GXsr+sBmDN87m7WXNrvtVMw9FG/SzAXOsM1up8YJLXkfjT/vfIf3HIb5srfCTKq8K4NApEAUIBqIYnPhSkdVai02pz7aCZrJZU6cwj08qd0MmrciyWajp+d0t4BmdLKe4tGTxXl0vENbazfULonIdOoSaBUqxNfmFTi+aD0cZjFM1PZ/DO+ibdtbScyfcOG63H7C2+bve96Uogy/3B9S/I64Ovh10hBMbNGwi6HU2iYoXgXRzKrU24OTKI28ghynkiZAJMJnLzVBp4xk1EexgHS/NOVhWRR+HV5twA6FGyiD1StPW85y8Db0ZWQsse2SOZtn21qSDPZZFuhckXm0ZshGrr7Nn5Rjt4+oyfkYJuBWtZ7jnf2UlwP4YEgHHV5huODEppP4/gPYJxi1B+f5ObkNIPU0G9ZZ9arWiIghwVfvZH7c4fQJQClpKsrN6AwqEhhORK5uX2/hIhSvtigq4E9fGuPMPjyRm5IqnK3ZWhkElSrVY27wpTliUClk5oHYpyzO3LK4vPQECk5N8rdyBQ9lYqVg0mzGcx/TPMKoGxg6bMiCYxgTsb6jtKFDtCuQb21dLOkZFiJn8i//Wtx5pnflRKlA2/wTvE+uTGvwnGB3II/nWrIGK5k+qbeOiD4bdLZMZWhY7tRuq7FqmZc5updtnQSe9dr8X8sNAVxF2uKE4NiV+J+pqVCjPp5exBESGkeAH53WxD/37gQnClB1/KuY6Gg2HSCq6eTTEowxkkQSFYDfmcrmK60X9X2MpUkd3vbhEnevw0AFn4uCGsvN9PfwLFQKLs5C7HO7eaQtP" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=Ac9eIvTF3wgLUR8jOWXkLAk4W5fQhG-DBIEe_sDtj3UtMYrGpN7ozJXBs0Bpwz_GzfayC7jCqbZgh36O0&amp;t=636765175280000000" type="text/javascript"></script>
+
+
+<script src="/WebResource.axd?d=2oQfqCM9ugfAfMriaP0IzRVX86t9k6G4oaBU_M31mAuHYCfYkbD0Y2AXwbS3WG8A12nzDjMf6NDCBiSf0&amp;t=636765175280000000" type="text/javascript"></script>
+    
+    <script type='text/javascript'>var bindimmediately="立即绑定";var needphone="您还未绑定手机号";var bindingmobile="绑定手机号后方可学习该知识噢！";var daytime="天";var hourtime="小时";var minutetime="分钟";var secondtime="秒";var iheretitle="继续学习";var iknow="我知道了";var iwantstudy="我要学习此知识";var ifinishstudy="我已学完此知识";var planfiled="当前学习计划已被管理员归档，不再提交进度";var planupdated="当前学习计划正被管理员修改，请等待计划修改完成后再学习。";var trackanticheat1="防作弊提示：系统同时只记录一个知识的学习进度和学分，您正在学习另一个知识";var trackanticheat2=",此知识不产生学习进度及学分";var key="30bc2332-4819-45fd-ba3b-4523574b1fc4";var validtimeSpan=120;var phaseTrackIntervalTime=600;var studyRate=90;var trackToolTip=encodeURIComponent("还在吗？【爱乐学】温馨提示您：学习计时中，请不要走开喔。点击“我在”继续学习，否则我们认为您已临时走开，在您离开的这段时间我们不会计入您的学习时间及相应学分。");var standardStudyHours=2100;var actualStudyHours=0;var standardStudyScore=3.50;var actualStudyScore=0;var existsUserKnowledge=0;var initiativeCreditMode=0;var getCreditMode=0;var masterID="";var masterType="";var packageID="";var orgID="35a1eb12-7592-48a2-9688-1563ccb6d2f5";var userID="49b04dcc-4796-437d-ba87-4a8eebf9a22c";var knowledgeType="DocumentKnowledge";var fileType="PDF";var knowledgeUrl="";var isHere=0;var isSingle="1";var curTitle="";var pageSize=35;var studySize=1;var pclang="zh";var videoLength="0";var antionhook='1';</script><script type='text/javascript' src='https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/kng_studytrack_rw.js?v=9.9.235'></script><script type='text/javascript'> try{ InitFrist();} catch(e){}</script>
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/knowledge.css" />
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/comment.css" />
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/kng.css" />
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/kng01.css" />
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/kngIssue.css" />
+    <script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/KngUpload/Plugins/menuSelector.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            try {
+                document.ondragstart = function () {
+                    var evt = getEvent();
+                    if (evt) {
+                        if (evt.srcElement.tagName != "INPUT" && evt.srcElement.tagName != "TEXTAREA") return false;
+                    }
+                    return true;
+                }
+            } catch (e) { };
+            var isShowStar = $("#hidIsShowStar").val();
+            var userPhoto = $("#hidUserPhoto").val();
+            SyncLoadHtmlContent2('divComment', 'KngCommentNew', 'MasterID|MasterName|CommentType|UserID|UserPhoto|CommentedUserID|CommentedCName|SourceID|PackageID|OrgID|IsShowStar|IsApply', '30bc2332-4819-45fd-ba3b-4523574b1fc4|%e7%94%a8%e5%8f%8b%e4%bc%81%e4%b8%9a%e6%96%87%e5%8c%96|DocumentKnowledge|49b04dcc-4796-437d-ba87-4a8eebf9a22c|' + userPhoto + '|8574f1ab-d6ee-4c18-925c-a56603f68c4b|刘丙辉|30bc2332-4819-45fd-ba3b-4523574b1fc4||35a1eb12-7592-48a2-9688-1563ccb6d2f5|' + isShowStar + '|1');
+        });
+
+        /*从未完成到已完成*/
+        var iscurfinish = undefined;
+
+        //检查是否收藏
+        function CheckAddToFavorite(orgID, userID, knowledgeID, packageID, masterID, masterType, elementClientID, isInnerHtml) {
+            if ($('#hfIsFavorite').val() == "1") {
+                var arr = '{"knowledgeID":"' + knowledgeID + '"}';
+                jQuery.ajax({
+                    type: "POST",
+                    contentType: "text/json",
+                    url: "/kng/services/KngComService.svc/DeleteFavorite",
+                    data: arr,
+                    dataType: 'json',
+                    cache: false,
+                    success: function (result) {
+                        result = eval("(" + result + ")")
+                        if (result.Status == "OK") {
+                            $("#liFavorite").prop("class", "");
+                            $("#hfIsFavorite").val("0");
+                            showSuccessMsg(jQuery.i18n.map['kng_lbl_cancelcollectionsuccess']);
+                        }
+                        else {
+                            showWarningMsg(result.Data);
+                        }
+                    }
+                });
+            } else {
+                var arr = '{"knowledgeID":"' + knowledgeID + '","packageID":"' + packageID + '","masterType":"' + masterType + '","masterID":"' + masterID + '"}';
+                jQuery.ajax({
+                    type: "POST",
+                    contentType: "text/json",
+                    url: "/kng/services/KngComService.svc/AddFavorite",
+                    data: arr,
+                    dataType: 'json',
+                    cache: false,
+                    success: function (result) {
+                        result = eval("(" + result + ")")
+                        if (result.Status == "OK") {
+                            $("#liFavorite").prop("class", "done");
+                            $("#hfIsFavorite").val("1");
+                            showSuccessMsg(jQuery.i18n.map['kng_lbl_collectionsuccess']);
+                        }
+                        else {
+                            showWarningMsg(result.Data);
+                        }
+                    }
+                });
+            }
+        }
+
+        //赞某对象
+        function supportKng(masterIDs, type) {
+            checkLogin2(function () {
+                var arr = '{"masterIDs":"' + masterIDs + '","type":' + type + ',"remark":"知识学习时的赞"}';
+                jQuery.ajax({
+                    type: "POST",
+                    contentType: "text/json",
+                    url: "/kng/services/KngComService.svc/SupportObject",
+                    data: arr,
+                    dataType: 'json',
+                    cache: false,
+                    success: function (result) {
+                        if (result == "1") {
+                            $("#liSupport").removeClass().addClass("done pr");
+                            $("#hfIsSupport").val("1");
+                            var num = $("#praiseNum").html();
+                            if (parseInt(num) < 99) {
+                                $("#praiseNum").html(parseInt(num) + 1);
+                                $("#praiseNum").removeClass().addClass("el-praise-num");
+                            } else if (parseInt(num) == 99) {
+                                $("#praiseNum").html("99+");
+                            }
+                            showSuccessMsg(jQuery.i18n.map['kng_lbl_successpraise']);
+                        } else if (result == "-888") {
+                            showWarningMsg(jQuery.i18n.map['kng_lbl_havepraised']);
+                        }
+                    }
+                });
+            });
+        }
+
+        //返回
+        function GoBack() {
+            var url = $('#hfHomeURL').val();
+            var m = getQueryString("m");
+            if (m == 1) {
+                if (url.indexOf("?") == -1) {
+                    url = url + "?m=1";
+                }
+                else {
+                    url = url + "&m=1";
+                }
+            }
+            location.href = url;
+        }
+
+        //下载列表的文件数量
+        var downFilesCount = 0;
+
+        //下载文件  
+        function DownloadDocument() {
+            var key = $("#hidDownKey").val();
+
+            //有机构参，加水印下载，否则走之前逻辑
+            var fileIdValue = $("#hidFileID").val();
+            if ($("#hidKngDownType").val() == "1" && fileIdValue != "") {
+                var knowledgeId = $("#hidKnowledgeID").val();
+                var packageID = "";
+
+                var arr = '{"fileID":"' + knowledgeId + '","masterId":"' + packageID + '"}';
+                jQuery.ajax({
+                    type: "POST",
+                    contentType: "text/json",
+                    url: "/kng/services/KngComService.svc/KngDownLoadDoc",
+                    data: arr,
+                    dataType: 'json',
+                    cache: false,
+                    success: function (data) {
+                        if (data) {
+                            //成功之后再加载列表，看看是否有下载记录
+                            showSuccessMsg(jQuery.i18n.map['msg_lbl_knowledgedocdowm']);
+                            jQuery.ajax({
+                                type: "POST",
+                                contentType: "text/json",
+                                url: "/kng/services/KngComService.svc/GetKngDownDocList",
+                                data: '{"limit":"10000","offset":"1"}',
+                                dataType: 'json',
+                                cache: false,
+                                success: function (data2) {
+                                    if (data2 != "") {
+                                        var result = data2.paging;
+                                        downFilesCount = result.count;
+                                        if (downFilesCount > 99) {
+                                            $("#hidDownCount").show().addClass("count-ani").html("99");
+                                            $("#hidAddIcon").show();
+                                        } else {
+                                            $("#hidDownCount").show().addClass("count-ani").html(downFilesCount);
+                                            $("#hidAddIcon").hide();
+                                        }
+                                        setTimeout(removeCountani, 1000);
+                                    }
+                                }
+                            });
+                        }
+                    }
+                });
+
+            } else {
+                //下载(之前逻辑)
+                DownloadAttachmentWithKng(key);
+            }
+
+            return false;
+        }
+
+        //移除添加下载的动效
+        function removeCountani() {
+            $("#hidDownCount").removeClass("count-ani");
+        }
+
+        //下载管理列表
+        function loadDownDocList(offset) {
+            var arr = '{"limit":"9","offset":"' + offset + '"}';
+            jQuery.ajax({
+                type: "POST",
+                contentType: "text/json",
+                url: "/kng/services/KngComService.svc/GetKngDownDocList",
+                data: arr,
+                dataType: 'json',
+                cache: false,
+                success: function (data) {
+                    if (data != "") {
+                        var result = data.datas;
+
+                        for (var i = 0; i < result.length; i++) {
+
+                            var html = '<li id=' + result[i].id + ' class="doc-line-list clearfix">';
+
+                            if (result[i].fileType == "PDF") {
+                                html += '<span class="icon-Knowledge-pdf pull-left">';
+                            } else if (result[i].fileType == "Image") {
+                                html += '<span class="icon-Knowledge-image pull-left">';
+                            }
+
+                            html += '</span><div class="list-body pull-left ml10 mr20"><div class="ellipsis text-normal hand font-size-13" title="' + result[i].knowledgeName + '">' + result[i].knowledgeName + '</div><div class="font-size-13 text-grey clearfix el-list-date">' + result[i].updateDate + '</div></div>';
+
+                            if (result[i].isDownload == "1") {    //是否已下载 0：未下载 1：已下载 
+                                html += '<div class="pull-left font-size-13 clearfix el-download-status zhclass"><div class="el-downloading"><a class="hand" onclick="RecordDownCount(\'' + result[i].id + '\',\'' + result[i].fileUrl + '\')">' + jQuery.i18n.map['opt_lbl_download'] + '</a></div><div class="text-grey el-have-downloaded">(' + jQuery.i18n.map['lbl_msg_download'] + ')</div></div>';    //已下载
+                            } else {
+                                if (result[i].status == "0") {    //状态 0：处理中 1：处理完成 2:处理失败
+                                    html += '<div class="text-grey font-size-13 pull-left clearfix being-processed zhclass">' + jQuery.i18n.map['lbl_msg_processing'] + '</div>';    //处理中
+                                } else if (result[i].status == "1") {
+                                    html += '<div class="text-grey font-size-13 pull-left el-downloading clearfix zhclass"><a class="hand" onclick="RecordDownCount(\'' + result[i].id + '\',\'' + result[i].fileUrl + '\')">' + jQuery.i18n.map['opt_lbl_download'] + '</a></div>';
+                                } else {
+                                    html += '<div class="font-size-13 pull-left clearfix text-red zhclass">' + jQuery.i18n.map['lbl_msg_processfailed'] + '</div>';   //处理失败
+                                }
+                            }
+
+                            html += '<div class="el-del pull-right mr10 hand" onclick="DeleteFile(\'' + result[i].id + '\')"></div></li>';
+
+                            $("#ulKngDownList").append(html);
+                        }
+
+                        //如果是中文状态，下载按钮等样式离右边近一点
+                        if ("zh" == "zh") {
+                            $(".zhclass").addClass("ml30");
+                        }
+
+                        var filesCount = data.paging;
+                        downFilesCount = filesCount.count;
+
+                        if (downFilesCount > 99) {
+                            $("#ulKngDownList").show();
+                            $("#divNoMsg").hide();
+                            $("#hidDownCount").show().html("99");     //超过99 只显示99
+                            $("#spNoMsg").removeClass("text-grey").addClass("text-info hand");
+                            $("#hidAddIcon").show();
+                        } else if (downFilesCount == 0) {
+                            $("#ulKngDownList").hide();
+                            $("#divNoMsg").show();
+                            $("#hidDownCount").hide().html(downFilesCount);
+                            $("#spNoMsg").removeClass("text-info hand").addClass("text-grey");     //置灰
+                            $("#hidAddIcon").hide();
+                        } else {
+                            $("#ulKngDownList").show();
+                            $("#divNoMsg").hide();
+                            $("#hidDownCount").show().html(downFilesCount);
+                            $("#spNoMsg").removeClass("text-grey").addClass("text-info hand");
+                            $("#hidAddIcon").hide();
+                        }
+                    }
+                }
+            });
+        }
+
+        //记录下载列表里的 知识是否已下载过
+        function RecordDownCount(id, url) {
+            window.location.href = url;
+            var arr = '{"fileID":"' + id + '"}';
+            jQuery.ajax({
+                type: "POST",
+                contentType: "text/json",
+                url: "/kng/services/KngComService.svc/RecordDownCount",
+                data: arr,
+                dataType: 'json',
+                cache: false,
+                success: function (data) {
+                    if (data) {     //成功则页面有已下载标识
+                        //console.log("记录次数");                       
+                    } else {
+                    }
+                }
+            });
+        }
+
+        //删除下载列表的文件
+        function DeleteFile(id) {
+            var arr = '{"fileID":"' + id + '"}';
+            jQuery.ajax({
+                type: "POST",
+                contentType: "text/json",
+                url: "/kng/services/KngComService.svc/DeleteKngDownFile",
+                data: arr,
+                dataType: 'json',
+                cache: false,
+                success: function (data) {
+                    if (data) {
+                        $("#" + id + "").remove();
+                        downFilesCount--;
+                        if (downFilesCount > 99) {
+                            $("#hidDownCount").html("99");
+                            $("#hidAddIcon").show();
+                        } else {
+                            $("#hidDownCount").html(downFilesCount);
+                            $("#hidAddIcon").hide();
+                        }
+
+                        if (downFilesCount == 0) {
+                            $("#hidDownCount").hide()
+                            $("#hidAddIcon").hide();
+                            $("#ulKngDownList").hide();
+                            $("#divNoMsg").show();
+                            $("#spNoMsg").removeClass("text-info hand").addClass("text-grey");
+                        }
+                    }
+                }
+            });
+        }
+
+        //清空下载列表
+        function DeleteAllFiles() {
+            jQuery.ajax({
+                type: "POST",
+                contentType: "text/json",
+                url: "/kng/services/KngComService.svc/DeleteAllKngDownFiles",
+                data: "",
+                dataType: 'json',
+                cache: false,
+                success: function (data) {
+                    if (data) {
+                        downFilesCount = 0;
+                        $("#hidDownCount").hide().html(downFilesCount);
+                        $("#hidAddIcon").hide();
+                        //显示 暂无数据
+                        $("#ulKngDownList").hide().empty();
+                        $("#divNoMsg").show();
+                        $("#spNoMsg").removeClass("text-info hand").addClass("text-grey");     //置灰
+                    }
+                }
+            });
+        }
+
+        //根据是否开启机构参显示右上角图标
+        function showDownLoad() {
+            if ($("#hidKngDownType").val() == "1") {
+                $("#divDownLoad").removeClass("hidden");
+                $("#el-download").show();
+            } else {
+                $("#el-download").hide();
+            }
+        }
+
+        ///立即开始当前的知识学习
+        function StartCurStudy() {
+            if (confirm(jQuery.i18n.map['kng_lbl_studytrackcomfirm'])) {
+                var id = $("#hidKnowledgeID").val();
+                var arr = '{"knowledgeID":"' + id + '","packageID":"","masterID":"","masterType":""}';
+                jQuery.ajax({
+                    type: "POST",
+                    contentType: "text/json",
+                    url: "/kng/services/KngComService.svc/ChangeStudyKnowledge",
+                    data: arr,
+                    dataType: 'json',
+                    cache: false,
+                    success: function (result) {
+                        var url = window.location.href;
+                        if (url.indexOf("tmp=") < 0) {
+                            if (url.indexOf("?") > -1) {
+                                window.location.search += "&tmp=" + Date.parse(new Date());
+                            } else {
+                                window.location.search += "?tmp=" + Date.parse(new Date());
+                            }
+                        }
+                        else {
+                            var c = url.indexOf("tmp=");
+                            var v = url.substring(c + 4, c + 17);
+                            var v1 = v + 1;
+                            url = url.replace(v, v1);
+                            window.location.href = url;
+                        }
+                    }
+                });
+            }
+        }
+
+        //隐藏课程的提醒后记录当前隐藏的时间
+        function HideCourseWarm(obj) {
+            var kid = $("#hfUserKngID").val();
+            var arr = '{"userKngID":"' + kid + '"}';
+            jQuery.ajax({
+                type: "POST",
+                contentType: "text/json",
+                url: "/kng/services/KngComService.svc/AddExpiredTimeByUserKngID",
+                data: arr,
+                dataType: 'json',
+                cache: false,
+                success: function () {
+                }
+            });
+            $(obj).parent('.tipbox').hide();
+        }
+
+        //0：评论  1:问答    2：笔记
+        function changeContentTab(obj, index) {
+            if ($(obj).hasClass("active")) {
+
+            } else {
+                if (index == 0) {
+                    $("#liComment").addClass("active");
+                    $("#liQuestion").removeClass("active");
+                    $("#liNote").removeClass("active");
+                    $("#divComment").show();
+                    $("#divAskQuestion").hide();
+                    $("#divKngNote").hide();
+                    var isShowStar = $("#hidIsShowStar").val();
+                    var userPhoto = $("#hidUserPhoto").val();
+                    SyncLoadHtmlContentWithKng('divComment', 'KnowledgeCommentNew', 'MasterID|MasterName|CommentType|UserID|UserPhoto|CommentedUserID|CommentedCName|SourceID|PackageID|OrgID|IsShowStar|IsApply', '30bc2332-4819-45fd-ba3b-4523574b1fc4|%e7%94%a8%e5%8f%8b%e4%bc%81%e4%b8%9a%e6%96%87%e5%8c%96|DocumentKnowledge|49b04dcc-4796-437d-ba87-4a8eebf9a22c|' + userPhoto + '|8574f1ab-d6ee-4c18-925c-a56603f68c4b|刘丙辉|30bc2332-4819-45fd-ba3b-4523574b1fc4||35a1eb12-7592-48a2-9688-1563ccb6d2f5|' + isShowStar + '|1');
+                    var key = "MasterID|SourceID|PackageID|UserID|PageIndex|PageSize";
+                    var value = "30bc2332-4819-45fd-ba3b-4523574b1fc4|30bc2332-4819-45fd-ba3b-4523574b1fc4||49b04dcc-4796-437d-ba87-4a8eebf9a22c|0|10";
+                    GetDataByLabelENameWithKng("dvCommentList", "KngCommentList30", 0, 0, key, value);
+
+                } else if (index == 1) {
+                    $("#liComment").removeClass("active");
+                    $("#liQuestion").addClass("active");
+                    $("#liNote").removeClass("active"); 
+                    $("#divComment").hide();
+                    $("#divAskQuestion").show();
+                    $("#divKngNote").hide();
+                    var title = $("#hidTitle").val();
+                    var hfimageurl = $("#hidUserPhoto").val();
+                    SyncLoadHtmlContentWithKng('divAskQuestion', 'KngViewQuestionInfo', 'imageUrl', hfimageurl);
+                    GetDataByLabelENameWithKng("divQuestionList", "KngQuestionList", 0, 0, "title", encodeURIComponent(title));
+
+                } else if (index == 2) {
+                    $("#liComment").removeClass("active");
+                    $("#liQuestion").removeClass("active");
+                    $("#liNote").addClass("active");
+                    $("#divComment").hide();
+                    $("#divAskQuestion").hide();
+                    $("#divKngNote").show();
+                    var hfimageurl = $("#hidUserPhoto").val();
+                    SyncLoadHtmlContentWithKng('divKngNote', 'KngViewNoteInfo', 'KnowledgeID|KnowledgeType|ImageUrl', '30bc2332-4819-45fd-ba3b-4523574b1fc4|DocumentKnowledge|' + hfimageurl);
+                    loadPropertiesForAsync("divKngNote");
+                }
+
+            }
+        }
+
+        //锚点移动
+        function hashAction(id) {
+            var t = $("#" + id).offset().top;
+            $(window).scrollTop(t);
+            $("#" + id).click();
+        }
+
+    </script>
+ 
+    <div class="bg-white clearfix">
+        <input type="submit" name="btn" value="" onclick="return false;" id="btn" class="hiddenelement" />
+        <div class="el-play-top-bar" id="anchor_link">
+            <div class="span-10 ellipsis">
+                <span id="divGoBack" style="display: none;" class="iconfont hand icon-fanhui d-in-block font-size-16" onclick="GoBack();"></span><span class="font-size-16 ml20 text-white">
+                        <span id="lblTitle">用友企业文化</span></span>
+            </div>
+            <div id="divDownLoad" class="clearfix pull-right hidden" style="height: 60px;line-height: 60px;">
+                <!--文件下载-->
+                <div class="el-download ml25 hand hide" id="el-download">
+                    <span class="el-icon-download v-mid el-icon-wrap"></span>
+                    <span id="hidDownCount" class="icon-download-count"></span><i id="hidAddIcon" class="el-adds hide">+</i>
+                </div>
+                <!--下载列表-->
+                <div id="doc-download" class="doc-download hide">
+                    <div class="el-download-title ph13">
+                        <span class="download-manager font-size-14 font-bold text-normal"  data-localize="lbl_msg_downloadmgmt"></span>   
+                        <span id="spNoMsg" class="text-info font-size-13 ml10" onclick="DeleteAllFiles()" data-localize="lbl_msg_clearall"></span>  
+                    </div>
+                    <div id="divNoMsg" style="height: 528px;" class="text-center hide">
+                        <div class="no-data-img clearfix">
+                            <span class="font-size-14 text-grey nodata" data-localize="common_msg_nodata"></span>  
+                        </div>
+                    </div>
+                    <ul id="ulKngDownList" class="doc-lists ph13">
+                    </ul>
+                </div>
+            </div>
+            <div id="divHead2" class="pull-right font-size-12">
+                <span id="divexpiredTime" style="display: none;"><span class="el-icon-info v-mid mr5">
+                </span><span class="text-white v-mid font-size-12 mr40"><span data-localize="common_lbl_course">
+                </span><span id="showExpireTime">2014-3-14</span><span data-localize="opt_lbl_expired"></span></span></span>
+                <div id="divProcessArea" class="el-course-progress v-mid" style="display:;">
+                    <div class="el-course-progress-inner" style="width: 0%" id="divScheduleWidth">
+                    </div>
+                </div>
+                <span id="ScheduleText" class="v-mid ml5" style="display:;">0%</span>
+                <span id="divCheat" style="display: none;"><span class="sighmark">&nbsp;</span><span
+                    data-localizeph="kng_lbl_studytrackanticheating"><span id="spanstudytitle"><span id="lbTitle"></span></span></span><input id="btnStudy" type="button"
+                            class="btnfinished" value='我要学习此文档'
+                            onclick="StartCurStudy();" />
+                </span><span id="divNotStartArea" style="display:none;"><span data-localize="kng_lbl_studyCountdownview">
+                </span><span class="font-size-14 text-white" id="spanCountdown">15<span data-localize="kng_tip_seconds"></span></span><span
+                    data-localize="kng_lbl_studyCountdownaddprogress"></span><span class='color5 fontsize0 spacing5'>标准学时：35分钟&nbsp;&nbsp;学分：3.50个</span>
+                </span><span id="divStartArea" style="display:;"><span class="ml25"
+                    data-localize="kng_lbl_studysurplusone"></span><span class="font-size-14 text-white"
+                        id="spanLeavTimes">0<span data-localize="kng_tip_seconds"></span></span><span data-localize="kng_lbl_studysurplustwo"></span>
+                    <span style="display: none;"><span id="spanStudyScroeShow" style="display: none;" class="ml25"><span data-localize="common_lbl_gotscore"></span>：<span
+                            class="text-white"><span id="spanobscore">0</span>/<span id="spantalscore">0</span></span></span> </span>
+                    <span id="spanCmp" class="ml10"></span>
+                </span><span id="divCompletedArea" style="display:none;"><span id="spanFinishContent"
+                    class="ml25">
+                    恭喜您已完成本文档的学习</span> <span style="display: none;">
+                        <span id="spanFinishScroeShow" style="display: none;" class="ml25"><span
+                            data-localize="common_lbl_gotscore"></span>：<span class="text-white"><span id="spanActCmpScore">0</span>/<span id="spanTalCmpScore">0</span></span>
+                        </span></span></span>
+             </div>
+        </div>
+        <div class="el-doc-play" style="padding-top: 0; padding-bottom: 0; background: url('https://streamex.yxt.com//player/pic/v1.0.0/images/icon_bg.png') repeat;">
+            <div id="Div1" class="el-play-area" style="position: relative; &lt;%= isNewModel?&quot;width:auto&quot;: &quot;&quot; %>;
+                width: 100%;">
+                <div style="display: none;" class="playgoon" id="dvCantPlay2">
+                    <div class="playgoonbg">
+                    </div>
+                    <div class="playgooncontent" id="ordermsg">
+                        <span data-localize="kng_lbl_cannotbelearned"></span>
+                    </div>
+                    <input type="button" class="btnok" value='我知道了'
+                        onclick="closeCantPlay2();" /></div>
+                <div id="divoverduebox" class="overduebox" style="display: none;">
+                    <div class="container">
+                        <p class="color11 fontsize2">
+                            <span data-localize="kng_lbl_exceeddeadlineofcource"></span>
+                        </p>
+                        <p class="color4" style="margin-top: 15px;">
+                            <span data-localize="kng_lbl_contactadmin"></span>
+                        </p>
+                    </div>
+                </div>
+                <input type="hidden" name="hidViewSchedule" id="hidViewSchedule" value="1" />
+                <div id="playercontainerdiv" style="height: 100%">
+                    <div id="lcPlayMain_divLabelHtmlContents" style="height:100%;">
+
+
+
+ <script type="text/javascript">
+ //重新上传
+ function documentDetail(id) {
+ if ('' == "1") {
+ ShowIFrameDialog("知识编辑", 964, 550, "/kng/Upload/KnowledgeEdit.aspx?id=" + id + "&OP=Edit");
+ }
+ else {
+ ShowIFrameDialog("知识编辑", 964, 550, "/kng/Upload/ShareEdit.aspx?id=" + id + "&OP=Edit");
+ }
+ return false;
+ }
+ </script>
+
+<!-- 文档文档区 -->
+ <div id="docplayercontainer" style="margin: 0 auto;" class="player-container">
+ </div>
+<script src="https://streamex.yxt.com/v2/1.2.0/common/yxt.common.js?v=9.9.235"></script>
+<script src="https://streamex.yxt.com/v2/1.2.0/player/pic/js/yxt.picplayer.js?v=9.9.235"></script>
+
+<script type="text/javascript">
+
+ (function ($) {
+ var wh = $(window).height();
+ $(".el-doc-play").height(wh - 120);
+ })(jQuery);
+
+ var playerWidth = $(document).width();
+ var player_doc = null;
+ $('#lcPlayMain_divLabelHtmlContents').attr('style', 'max-width:' + playerWidth + 'px;height:100%');
+
+
+ var fileId = '3928d97b-19b8-4ae9-89c9-82d02f8c9329';
+ var isJY = '';
+ var str = '{"isNewModel":true,"newPlayListItem":{"videoItems":null,"docItems":[{"docId":null,"host":null,"token":null,"type":"pdf","pageSize":"35","model":"h5"},{"docId":null,"host":null,"token":null,"type":"pdf","pageSize":"35","model":"image"}],"imageList":[{"pageIndex":1,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/0.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2Fae9681e2a030f1217f4af9845048f77fbb1399a33385dfbd3e6d9d4c3d95ab90"},{"pageIndex":2,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/1.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F03eebd1a6f88391caf48621bc85d3b0269af6667a07c78d28e77d7077582ccd2"},{"pageIndex":3,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/2.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2Fa439d87a21fec3d83bf8f81da424b27492f3116c0687fec2b12a32ef1a67acb5"},{"pageIndex":4,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/3.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2Ff60a65d2d457864525a56d7afb5db2b55249444ccbf771fb1ea6f54072154479"},{"pageIndex":5,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/4.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F5fa9bcee802fc75f01c2ade9504075e63c4fdfe1baac1ee2c0a4ee85ef92c5f1"},{"pageIndex":6,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/5.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F55a87ba2056336d296648050a1d3804eea2c8a98373c8211615671fbaa3bf72e"},{"pageIndex":7,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/6.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F1018c72ce498f4b168319f8b7b71e3ef482770c96e77ac5d957778ae63b53763"},{"pageIndex":8,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/7.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F0eba7dc9bb193ee69c963b5035272e458009ec5301ec35199c2a0ff187c3acfb"},{"pageIndex":9,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/8.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F91e7b71dbf0c4340779b5c8a390666ebd5191ea4e5be10facadcead04b1f940c"},{"pageIndex":10,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/9.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2Fc6e733c2a1f729d3f14d0b574a24bce84acff2d7efb1cfb8ca077ed16e959029"},{"pageIndex":11,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/10.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F740711bf413a0239a027b78e6310fb1b294721a37268082a05371517326a74fe"},{"pageIndex":12,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/11.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2Fb06c8914f64cc085c5a88dc398b26017624363eb4477e0eea87edd0150cd35e8"},{"pageIndex":13,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/12.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F74188546ae310bb0b60b9e61aa02d005b714bdff0b47476d044cd54893054ab2"},{"pageIndex":14,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/13.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F08234d119f80404a1def9c3b52a0652b0d01d00f17c20e85fec801c497db98bd"},{"pageIndex":15,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/14.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F0aa5896c347b1bad8622ee6a8abe78fdb9f585b7fb4d4d20529b593805e1314c"},{"pageIndex":16,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/15.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F1b688bb408e97a3e305ec97cebf7545e1bc72bade000f5c662ca15e3b888455d"},{"pageIndex":17,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/16.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F1d7e3b41c2f3d5a097bfaf91ac5025db5da73606abb3e8c7a9c4fbca27bbe85f"},{"pageIndex":18,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/17.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F5ea5de30b4dd6c93d99d87298689c84a95d1bd7d16fc863ef0d6c16b8fd6990b"},{"pageIndex":19,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/18.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2Fa3ccf35cceaa33be8e3d56c402ef18d2dec8f5dfb94dcd07e8c031ca6e2e63d3"},{"pageIndex":20,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/19.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F9537ed3da7335a1cdad9966aaaf246d52989d36363755d7c972fc9f4cf6c74e7"},{"pageIndex":21,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/20.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2Fa4d561bb7f29cf3d4e90517a12b059b65eb7fb54a85b662678bdfba30cfd8b13"},{"pageIndex":22,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/21.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F1e9e52f4b1c5c810ef47225a91c1d5da89b36ae3cec53eddd5ee1be9fe211e67"},{"pageIndex":23,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/22.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F3be08afca440325c12e80ddeee99f900db562aceb1738cb04a5ffcb24fc45822"},{"pageIndex":24,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/23.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2Fd24a4c6a292c423267fcede30ca81609b3f8fc29d468faf2c1a40ffd72417311"},{"pageIndex":25,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/24.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F34e1f15b11e5fccc743f2355f5fa089583fad544447ec0e9a7af5b86d93902e7"},{"pageIndex":26,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/25.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F732b2a7dd054ef0072da28acf4738cb2b279c6f00bd45250f0ba93d923124ca4"},{"pageIndex":27,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/26.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F1331025878d0e57214a0cef7e59eb2243e486e1e712a2ad7bd8cacfc03cd4fa9"},{"pageIndex":28,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/27.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F116581cfd3dca8cc21d5616a358362023d5189af0c7e39f5c2eba13cdc2caea6"},{"pageIndex":29,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/28.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2Fff11059ac6f25a388d5a10581a0444c49176c2515019926c3fa8c2b10a3d86bd"},{"pageIndex":30,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/29.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F624f3e0b20288092e9fd636646486a5b84aa397fadb098961aabc5c8b4869996"},{"pageIndex":31,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/30.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F1a13a360d9f0b6a97c7df8b06c5b1b177ba9b61ec68141454fb68d0fb63b0670"},{"pageIndex":32,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/31.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2Fefa7e84062b33e9eec09c4b997781d1a817eab16a35f3e3b6f562302eee87f77"},{"pageIndex":33,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/32.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2Ff6b737a822d6c3fd97e51cbe4cb5b6f0096ac0bd0683bb342709a676cc5e45d3"},{"pageIndex":34,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/33.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F8698eeb648afce0fbc716336102c43600bdccb45f0b6097f013c612eb005010f"},{"pageIndex":35,"url":"https://picebd.yunxuetang.cn/v1/knowledgefiles/13601042801/docs/201912/6c044ccd378148a2a3a08a3c5559d506/34.png?authorization=bce-auth-v1%2F8eebe0747c344cfda150338aba428569%2F2020-03-06T07%3A30%3A21Z%2F28800%2F%2F3ec013eb8d744fed10c530e9b2783003d4b838fa7ffd5d748d9f8b6ccc0eb0e1"}],"imageWidth":"1467","imageHeight":"830","docItem":{"docId":null,"host":null,"token":null,"type":"pdf","pageSize":"35","model":"image"},"audioFullPath":null,"imageFullPath":null,"zipFullPath":null,"isEnabledLocalMedia":false,"mp4FullPath":null},"fileType":"1","flvFullUrl":null,"mp4FullUrl":null,"m3u8FullUrl":null,"swfFullUrl":null,"pdfFullUrl":null,"mp3FullUrl":null,"imageFullUrl":null,"hasWatermark":null,"watermark":null,"watermarkConfig":{"type":"0","value":null,"isEnable":"0","wordColor":"#A9A9A9","wordAlpha":"100","otherColor":"#A9A9A9","otherAlpha":"100","wordFontSize":"20","otherFontSize":"20","userName":"0000067301","cnName":"李杭燃","deptName":"非银金融客户事业本部－西南非银ABU－开发部","wordColorRGBA":"rgba(169,169,169,1.00)","otherColorRGBA":"rgba(169,169,169,1.00)","showDepartment":"1","watermarkContent":"李杭燃（0000067301）非银金融客户"}}';
+ var docObject = eval('(' + str + ')');
+ var fontfamily = '微软雅黑';
+ if ('方正黑体' != '') { fontfamily = '方正黑体'; };
+ var fontsize1 = '18';
+ var fontsize2 = '24';
+ if ('20' != '') { fontsize1 = '20'; fontsize2 = '20'; };
+ var fontcolor = '#fef318';
+ if ('rgba(169,169,169,1.00)' != '') { fontcolor = 'rgba(169,169,169,1.00)'; };
+
+ var CookieName = "Doc" + fileId;
+ var IsMarquee = 'false';
+ if (IsMarquee.toLowerCase() != "true") {
+ IsMarquee = false;
+ }
+ else {
+ IsMarquee = true;
+ }
+
+ var IsWaterMark = 'false';
+ if (IsWaterMark.toLowerCase() != "true") {
+ IsWaterMark = false;
+ }
+ else {
+ IsWaterMark = true;
+ }
+
+ //当且只有图片数据有数据时才去调用
+ if (docObject.newPlayListItem != null) {
+ yxtCommon.picLoad(function () {
+ initDocPlayer(docObject.newPlayListItem.imageList, docObject.newPlayListItem.imageWidth, docObject.newPlayListItem.imageHeight);
+ });
+ }
+
+ function initDocPlayer(data, sizewidth, sizeheight) {
+//设置是否显示下载按钮
+var orgid="35a1eb12-7592-48a2-9688-1563ccb6d2f5";
+var m = getQueryString("m");
+ if (m == 1&&orgid=="379c18f4-f888-43f4-ae11-ab5351ca0981" ) {
+ $("#btndownload").addClass("hiddenelement"); 
+ }
+
+
+ var Cpn = jQuery("#hidViewSchedule").val();
+ if (Cpn == "" || Cpn == "0") {
+ Cpn = getCookie(CookieName);
+ }
+
+ var isHideZoom = false;
+ var width = 1000;
+ if (Cpn == "" || Cpn == "0") {
+ Cpn = "1";
+ }
+
+ data.pn = Cpn;
+ if (isJY == "1") {
+ isHideZoom = true;
+ width = 820;
+ data.pn = 1;
+ }
+
+ var lastPage = 1;
+ var allPage = data.pageSize;
+ var m = '';
+ if (m != "1") {
+ try {
+ window.parent.docLoaded(allPage);
+ }
+ catch (err) {
+ //在此处理错误
+ }
+ }
+
+ //初始化播放器对象
+ player_doc = new GalleryViewer({
+ data: data,
+ //容器的id名称
+ containerId: 'docplayercontainer',
+ //播放器的宽度
+ width: width,
+ //起始页码
+ startPage: parseInt(data.pn),
+ //加载中图片显示的图像
+ defaultBackground: 'le',
+ //缩放级别
+ fullscreenZoomLevel: 0,
+ //图片的尺寸
+ size: {
+ width: parseInt(sizewidth), //api中imageWidth字段
+ height: parseInt(sizeheight)//api中imageHeight字段
+ },
+ hideZoom: isHideZoom,
+ //跑马灯配置
+ marquee: {
+ show: IsMarquee,
+ text: '李杭燃（0000067301）非银金融客户',
+ fontSize: parseInt(fontsize1),
+ color: fontcolor,
+ fontFamily: fontfamily
+ },
+ //水印配置
+ watermark: {
+ show: IsWaterMark,
+ text: '李杭燃（0000067301）非银金融客户',
+ fontSize: parseInt(fontsize2),
+ color: fontcolor,
+ fontFamily: fontfamily,
+ multiple: true
+ },
+ onNavigate: function (index) {
+ console.log('page index:' + index);
+ jQuery("#hidViewSchedule").val(index);
+ },
+ onFullscreen: function (state) {
+ console.log('fullscreen state:' + state);
+ },
+ onZoom: function (level) {
+ console.log('zoom level:' + level);
+ },
+ onComplete: function () {
+ }
+ });
+
+ //删除跑马灯
+ player_doc.DOMModified = function () {
+ var userid = '49b04dcc-4796-437d-ba87-4a8eebf9a22c';
+ if (getCookie("DelCount_" + userid) == "2") {
+ //第二次删除直接锁定退出
+ delCookie("DelCount_" + userid);
+ document.getElementById("btnLockOut").click();
+ } else {
+ CookieName = "DelCount_" + userid;
+ var delCount = getCookie("DelCount_" + userid) == "" ? "0" : getCookie("DelCount_" + userid);
+ var delSum = parseInt(delCount) + 1;
+ setCookie(delSum.toString());
+ CookieName = "Doc" + fileId;
+ layer.open({
+ type: 1, //Page层类型
+ area: ['320px', '300px'],
+ title: false,
+ shade: 0.6, //遮罩透明度
+ anim: 1, //0-6的动画形式，-1不开启
+ closeBtn: 0, //不显示关闭按钮
+ content: '<div class="window-overlay"></div><div class="el-white-notice-container"><div class="el-white-notice text-center pt45"><img class="mb30" src="http://stream1.qida.yunxuetang.com.cn/yxt/SystemFiles/Themes/elearning30/new/images/icons/warning_tip.png" width="100" height="100" /><div class="text-left text-color6 mb40 lh24 ph55">不允许修改或去除跑马灯，请不要再次尝试，否则账号将会被锁定！</div><button type="button" class="btn btn-primary w-120 btn-nm btn-radius-lg" onclick="window.location.reload();">知道了</button></div></div>'
+ });
+ }
+ };
+ }
+ </script>
+ <script type="text/javascript">
+ //设置cookie
+ function setCookie(cvalue) {
+ var d = new Date();
+ d.setTime(d.getTime() + (30 * 24 * 60 * 60 * 1000));
+ var expires = "expires=" + d.toUTCString();
+ document.cookie = CookieName + "=" + cvalue + "; " + expires;
+ }
+
+ //获取cookie
+ function getCookie(cname) {
+ var name = cname + "=";
+ var ca = document.cookie.split(';');
+ for (var i = 0; i < ca.length; i++) {
+ var c = ca[i];
+ while (c.charAt(0) == ' ') c = c.substring(1);
+ if (c.indexOf(name) != -1) return c.substring(name.length, c.length);
+ }
+ return "";
+ }
+
+ //删除cookies
+ function delCookie(name) {
+ var exp = new Date();
+ exp.setTime(exp.getTime() - 1);
+ var cval = getCookie(name);
+ if (cval != null)
+ document.cookie = name + "=" + cval + ";expires=" + exp.toGMTString();
+ }
+ </script>
+ </div>
+
+                </div>
+            </div>
+            <div class="el-play-area-right">
+                <ul class="el-play-page-bar">
+                    <li id="li1" style="display: none;"><span class="el-icon-chapter"></span>
+                        <div>
+                            <span data-localize="sty_lbl_chapter"></span>
+                        </div>
+                    </li>
+                    <li id="lisummary"><span onclick="showInstroduction()"><span class="el-icon-kng-summary">
+                    </span>
+                        <div>
+                            <span data-localize="common_lbl_introduction"></span>
+                        </div>
+                    </span></li>
+                    <li id="liFavorite"><span onclick="CheckAddToFavorite('35a1eb12-7592-48a2-9688-1563ccb6d2f5','49b04dcc-4796-437d-ba87-4a8eebf9a22c','30bc2332-4819-45fd-ba3b-4523574b1fc4','','','','',true);">
+                        <span class="el-icon-collect"></span>
+                        <div>
+                            <span data-localize="common_lbl_collect"></span>
+                        </div>
+                    </span></li>
+                    <li id="liSupport" class="pr"><span onclick='supportKng("30bc2332-4819-45fd-ba3b-4523574b1fc4",2);'>
+                        <span id='praiseNum' class='el-praise-num'>99+</span>
+                        <span class="el-icon-praise"></span>
+                        <div>
+                            <span data-localize="kng_lbl_like"></span>
+                        </div>
+                    </span></li>
+                    
+                    <li id="btndownload" style="display: none">
+                        <span onclick="return DownloadDocument();">
+                            <span class="el-icon-download"></span>
+                            <div>
+                               <span data-localize="opt_lbl_download"></span>
+                            </div>
+                        </span>
+                    </li>
+                    <li><span onclick="shwoReward()"><span class="el-icon-shang"></span>
+                        <div>
+                            <span data-localize="kng_lbl_reward"></span>
+                        </div>
+                    </span></li>
+                    <li>
+                        <div class="el-bar-bg">
+                            <span class="el-icon-kng-more"></span>
+                            <div>
+                                <span data-localize="common_lbl_more"></span>
+                            </div>
+                        </div>
+                        <ul class="el-bar-more">
+                            <li><span onclick="hashAction('liNote')"><span class="el-icon-editnote"></span>
+                                <div>
+                                    <span data-localize="kng_lbl_note"></span>
+                                </div>
+                            </span></li>
+                             
+                            <li><span onclick="hashAction('liQuestion')"><span class="el-icon-askquestion"></span>
+                                <div>
+                                    <span data-localize="kng_lbl_ask"></span>
+                                </div>
+                            </span></li>
+                            
+                            <li><span onclick="hashAction('liComment')"><span class="el-icon-editcomment"></span>
+                                <div>
+                                    <span data-localize="comment_title_comment"></span>
+                                </div>
+                            </span></li>
+                        </ul>
+                    </li>
+                    
+                </ul>
+                <div id="lcKnowledgeChapterView_divLabelHtmlContents" style="height:100%;"></div>
+
+            </div>
+        </div>
+        <div class='y-container1 clearfix '>
+            <div class="el-course-detail-left">
+                <ul class="el-course-detail-tab clearfix">
+                    <li id="liComment" class="active" onclick="changeContentTab(this,0)"><span data-localize="comment_title_comment">
+                    </span></li>
+                    
+                    <li id="liQuestion" onclick="changeContentTab(this,1)"><span data-localize="common_lbl_q&a">
+                    </span></li>
+                    
+                    <li id="liNote" onclick="changeContentTab(this,2)"><span data-localize="kng_lbl_note">
+                    </span></li>
+                </ul>
+                <div id="divComment">
+                </div>
+                <div id="divAskQuestion">
+                </div>
+                <div id="divKngNote">
+                </div>
+            </div>
+            <div class="el-course-detail-right">
+                
+                <div id="lcKonwledgeIntro_divLabelHtmlContents" style="height:100%;">
+	
+
+<script type = "text/javascript" >
+
+ //个人主页
+ function openPersonal(id) {
+ 	openURL("/myhome.htm" + "?userID=" + id);
+ }
+	
+</script >
+
+<div class="media hand mt50">
+		<div class="span-24" onclick="openPersonal('8574f1ab-d6ee-4c18-925c-a56603f68c4b')">
+			<div class="span-7">
+				<img src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/89.png?imageview2/0/w/100/h/100/format/jpg/interlace/1?r=38686436" class="circle-img" alt="" width="60" height="60" />
+			</div>
+			<div class="span-17">
+				<div class="mt7">
+					<span class="text-normal font-bold font-size-16 v-mid" title="刘丙辉">刘丙辉</span>
+									</div>
+				<div class="text-color6 mt7"> 职能-人力资源-培训综合管理</div>
+			</div>
+		</div>
+		</div>
+</div>
+
+                
+                <div id="lcRelatedKnowledge_divLabelHtmlContents" style="height:100%;"></div>
+
+                
+                
+            </div>
+            <div id="divReward" style="display: none">
+                <div id="lcReward_divLabelHtmlContents" style="height:100%;">
+
+
+<script type = "text/javascript" >
+ //打赏
+ function changeReward(){
+	var points=$("div#divRewardOne li.active").html();
+	var availiablePoints= $("#availablePoints").html();
+	var knowledgeId=$("#hidKnowledgeID").val();
+	if(parseInt(points)>parseInt(availiablePoints)){
+		 showWarningMsg(jQuery.i18n.map["sty_msg_insufficientpointsavailable"]);
+		 return false;
+	}
+	var arr='{"knowledgeId":"'+knowledgeId+'","points":"'+points+'"}';
+	jQuery.ajax({
+		 type: "POST",
+		 contentType: "text/json",
+		 url: "/kng/services/KngComService.svc/KnowledgeReward",
+		 data: arr,
+		 dataType: 'json',
+		 cache: false,
+		 success: function (result) {		 
+		 result = eval('(' + result + ')');
+		 if (result.Status == "Ok") {
+		 	$("#divRewardOne").hide();
+					$("#divRewardTwo").show();	 
+		 } else {
+ showWarningMsg(result.Data);		 
+ $("#divRewardOne").hide();
+					$("#divRewardFail").show();
+		 }
+		 },
+		 error: function (data) {
+		 
+		 }
+		});	
+ }
+ 
+ 
+ //关闭
+ function closeDiv(id) {
+ 	$("#divReward").hide();
+ } 
+ 
+ //积分
+ function checkLi(obj){
+		$(obj).addClass("active");
+		$("li").each(function(i,e){
+			if(obj!=e){
+				$(e).removeClass("active");
+			}
+		});
+	}		
+	
+</script >
+
+	
+<div id="divNoContributors" class="el-white-dialog-container" style="display:none">
+ 		<div class="el-white-dialog">
+ 			<div class="el-white-dialog-close iconfont icon-guanbi" onclick="closeDiv()"></div>
+ 			<div class="text-center pt40">
+ 				<div class="el-tip-warning mt45"></div>
+ 				<div class="text-color6 mt15 mb20 ph100 mh20" data-localize="sty_lbl_knowledgenocontributors"></div>
+ 				<button type="button" class="btn btn-warning btn-lmd w-100" data-localize="sys_btn_gotit" onclick="closeDiv()">></button>
+ 			</div>
+ 		</div>
+</div>
+
+
+<div id="divRewardOne" class="el-white-dialog-container" style="display:none">
+ 		<div class="el-white-dialog">
+ 			<div class="el-white-dialog-close iconfont icon-guanbi" onclick="closeDiv()"></div>
+ 			<div class="text-center pt10">
+ 				<img id="contributorImg" class="circle-img" width="50" height="50" alt="" />
+ 				<div id="divContributors" class="font-bold mt8"></div>
+ 				<div class="text-color6 mt5" data-localize="sty_lbl_praiseispleasure"></div>
+ 				<ul class="el-kng-reward-list mt35 mb10">
+ 					<li onclick="checkLi(this)" class="active hand">10</li>
+ 					<li onclick="checkLi(this)" class="hand">20</li>
+ 					<li onclick="checkLi(this)" class="hand">30</li>
+ 					<li onclick="checkLi(this)" class="hand">50</li>
+ 					<li onclick="checkLi(this)" class="hand">80</li>
+ 					<li onclick="checkLi(this)" class="hand">100</li>
+ 					<li onclick="checkLi(this)" class="hand">150</li>
+ 					<li onclick="checkLi(this)" class="hand">200</li>
+ 				</ul>
+ 				<button type="button" class="btn btn-warning btn-lmd w-100" data-localize="sty_lbl_reward2" onclick="changeReward()"></button>
+ 				<div class="mt20">
+ 					<span class="text-color6"><span data-localize="sty_lbl_rewardpoints"></span><span id="availablePoints" class="text-warning"></span></span>
+ 				</div>
+ 			</div>
+ 		</div>
+</div>
+<input type="hidden" id="contributeUserId" runat="server" />
+
+<div id="divRewardTwo" class="el-white-dialog-container" style="display:none">
+ 		<div class="el-white-dialog">
+ 			<div class="el-white-dialog-close iconfont icon-guanbi" onclick="closeDiv()"></div>
+ 			<div class="text-center pt40">
+ 				<div class="el-xuanye-saved mt45"></div>
+ 				<div class="text-color6 mt15 mb40" data-localize="sty_lbl_thankyouforreward"></div>
+ 				<button type="button" class="btn btn-warning btn-lmd w-100" data-localize="sys_btn_gotit" onclick="closeDiv()">></button>
+ 			</div>
+ 		</div>
+ 	</div>
+	
+<div id="divRewardFail" class="el-white-dialog-container" style="display:none">
+ 		<div class="el-white-dialog">
+ 			<div class="el-white-dialog-close iconfont icon-guanbi" onclick="closeDiv()"></div>
+ 			<div class="text-center pt40">
+ 				<div class="el-tip-error mt45"></div>
+ 				<div class="text-color6 mt15 mb40" data-localize="sty_lbl_rewardfail"></div>
+ 				<button type="button" class="btn btn-warning btn-lmd w-100" data-localize="sys_btn_gotit" onclick="closeDiv()">></button>
+ 			</div>
+ 		</div>
+</div></div>
+
+            </div>
+            <div id="divMask">
+            </div>
+            <div id="divGuide">
+                <div class="el-kng-pop" style="display: none">
+                    <div class="el-kng-pop-text" data-localize="kng_lbl_knowledgeinstroduction">
+                    </div>
+                    <button class="el-i-know" type="button" onclick="iKnow()">
+                        <span data-localize="sys_btn_gotit"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="el-kng-detail-dialog" style="display: none">
+            <span class="iconfont icon-guanbi text-grey hand" onclick="closeInstroduction()">
+            </span>
+            <div class="pt20 ph45 border-b pb25">
+                <h2 class="font-size-24 font-normal">
+                    用友企业文化</h2>
+                <div class="mt10">
+                    <span class="text-grey"><span data-localize="sty_lbl_hours"></span>：</span>35<span
+                        data-localize="kng_lbl_minutes"></span> <span class="text-grey ml30"><span data-localize="kng_lbl_leancount">
+                        </span>：</span>3.50
+                </div>
+                <div class="mt10">
+                    <span class="text-grey"><span data-localize="sty_lbl_commentscore"></span>：</span>
+                    <span class="iconstar5"></span>
+                    <span class="text-grey ml5"></span>
+                </div>
+            </div>
+            <div class="clearfix el-kng-detail-body">
+                <div class="span-17 ph45 border-r">
+                    <div class="font-size-18 pt25" data-localize="common_lbl_coursedescription">
+                    </div>
+                    <div class="lh28 mt10 text-grey">                                         
+                        暂无简介
+                    </div>
+                </div>
+                
+                <div class="span-7 ph20 pt20">
+                    <div class="media mt10">
+                        <div class="media-left">
+                            <img width="60" height="60" src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/89.png?imageView2/0/w/100/h/100/format/jpg/interlace/1"
+                                class="circle-img" />
+                        </div>
+                        <div class="media-body pt5">
+                            <span class="font-bold font-size-16 v-mid">
+                                刘丙辉
+                            </span>
+                            
+                            <div class="mt7">
+                                职能-人力资源-培训综合管理</div>
+                        </div>
+                    </div>
+                    <div class="lh28 mt30">
+                        </div>
+                </div>
+                
+            </div>
+        </div>
+
+        <div id="divValidateKey" style="display: none;">54da5f16-fdc2-4508-a3e9-7eb7540a9562</div>
+    </div>
+    <script type="text/javascript">
+        (function () {
+            var summary = $("#lisummary"),
+                offset = summary.offset();
+            $(".el-kng-pop").css({
+                "left": offset.left - 175,
+                "top": offset.top - 94
+            });
+        })();
+        //我知道了
+        function iKnow() {
+            document.cookie = "El_49b04dcc-4796-437d-ba87-4a8eebf9a22c=" + "49b04dcc-4796-437d-ba87-4a8eebf9a22c; expires=Fri, 31 Dec 9999 23:59:59 GMT;path=/";
+            $(".el-kng-summary-tip").hide();
+            $(".window-overlay").hide();
+        }
+
+        //显示简介
+        function showInstroduction() {
+            $(".window-overlay").show();
+            $(".el-kng-detail-dialog").show();
+        }
+
+        //关闭简介
+        function closeInstroduction() {
+            $(".window-overlay").hide();
+            $(".el-kng-detail-dialog").hide();
+        }
+    </script>
+    <script type="text/javascript">
+        (function ($) {
+            var wh = $(window).height();
+            $(".el-doc-play").height(wh - 120);
+        })(jQuery);
+
+        function testTransition() {
+            var _style = document.createElement("div").style;
+            return "transition" in _style || "mozTransition" in _style ||
+					"webkitTransition" in _style;
+        }
+
+        $("#li1").on("click", function () {
+            $(this).toggleClass("active");
+            var elem = $(".el-play-area");
+            if (testTransition()) {
+                elem.toggleClass("el-play-right-active");
+            } else {
+                if (!elem.hasClass("el-play-right-active")) {
+                    elem.animate({ "margin-right": "309px" }, 200, function () {
+                        elem.addClass("el-play-right-active");
+                    });
+
+                    $(".el-play-area-right").animate({ "width": "309px" }, 200);
+                } else {
+                    elem.animate({ "margin-right": "49px" }, 200, function () {
+                        elem.removeClass("el-play-right-active");
+                    });
+                    $(".el-play-area-right").animate({ "width": "49px" }, 200);
+                }
+            }
+        });
+
+        $(".el-area-left-tag").on("click", function () {
+            $(this).toggleClass("active");
+            var elem = $(".el-play-area-left"), target = $(".el-play-area");
+            if (testTransition()) {
+                $(".el-play-area-left").toggleClass("el-play-left-active");
+            } else {
+                if (!elem.hasClass("el-play-left-active")) {
+                    target.animate({ "margin-left": "260px" }, 200, function () {
+                        elem.addClass("el-play-left-active");
+                    });
+
+                    elem.animate({ "width": "260px" }, 200);
+                } else {
+                    target.animate({ "margin-left": "28px" }, 200, function () {
+                        elem.removeClass("el-play-left-active");
+                    });
+                    $(".el-play-area-left").animate({ "width": "28px" }, 200);
+                }
+            }
+
+        });
+
+        //打赏
+        function shwoReward() {
+            //获取贡献者信息
+            var arr = '{"knowledgeId":"30bc2332-4819-45fd-ba3b-4523574b1fc4"}';
+            jQuery.ajax({
+                type: "POST",
+                contentType: "text/json",
+                url: "/kng/services/KngComService.svc/GetKngContributorView",
+                data: arr,
+                dataType: 'json',
+                cache: false,
+                success: function (result) {
+                    result = eval('(' + result + ')');
+                    if (result.Status == "Ok") {
+                        var msgData = eval('(' + result.Data + ')');
+                        if (msgData.userId == "" || msgData.userId == null) {
+                            $("#divRewardFail").hide();
+                            $("#divNoContributors").show();
+                        } else {
+                            $("#contributorImg").attr("src", msgData.headPictureUrl);
+                            $("#divContributors").html(msgData.cnName);
+                            $("#availablePoints").html(msgData.validPoints);
+                            $("#contributeUserId").val(msgData.userId);
+                            $("#divRewardFail").hide();
+                            $("#divRewardTwo").hide();
+                            $("#divRewardOne").show();
+                        }
+                    } else {
+                        $("#divRewardOne").hide();
+                        $("#divRewardTwo").hide();
+                        $("#divRewardFail").hide();
+                        $("#divNoContributors").show();
+                    }
+                    $("#divReward").show();
+                },
+                error: function (data) {
+
+                }
+            });
+        }
+    </script>
+    <script type="text/javascript">
+
+        //下载列表刷新
+        var scrollCount = 0;
+
+        /*点击下载按钮下载列表页出现，点击其他区域，关闭列表页面*/
+        $(document).ready(function () {
+            //页面初始化时隐藏弹窗  
+            $('#doc-download').hide();
+
+            //窗口外点击事件  
+            $("#el-download").click(function (e) {
+                //先重新加载数据再显示
+                $("#ulKngDownList").empty();
+                scrollCount = 0;
+                loadDownDocList(1);
+
+                //阻止事件冒泡,防止波及本按钮  
+                e.stopPropagation();
+                //显示弹窗  
+                $('#doc-download').show();
+            });
+        });
+        $(document).click(function (e) {
+            var download = $("#doc-download");
+            //判断事件对象不是弹窗对象并且弹窗对象不包含事件对象  
+            if (!download.is(e.target) && download.has(e.target).length == 0) {
+                //则隐藏弹窗  
+                download.hide(100);
+            }
+        });
+
+        $("#el-download").click(function (e) {
+            //阻止事件冒泡，防止波及本按钮  
+            e.stopPropagation();
+            //隐藏弹窗  
+            $('#doc-download').hide(500);
+        });
+
+        $("#ulKngDownList").scroll(function () {
+            var scrollTop = $(this).scrollTop();
+            var divHeight = $(this).height();
+            var totalHeight = document.getElementById("ulKngDownList").scrollHeight;
+            if (scrollTop + divHeight + 50 > totalHeight) {
+                scrollCount++;    //滚动次数累加
+                var offs = scrollCount * 9 + 1;
+                loadDownDocList(offs);
+            }
+        });
+                     
+
+     </script>
+
+    <input name="hidIsExistsUserKnowledge" type="hidden" id="hidIsExistsUserKnowledge" value="0" />
+    <input name="hidKnowledgeID" type="hidden" id="hidKnowledgeID" value="30bc2332-4819-45fd-ba3b-4523574b1fc4" />
+    <input name="hidStandardStudyHours" type="hidden" id="hidStandardStudyHours" value="35" />
+    <input name="hidStandardStudyScore" type="hidden" id="hidStandardStudyScore" value="3.50" />
+    <input name="hidUserActualStudyHours" type="hidden" id="hidUserActualStudyHours" value="0" />
+    <input name="hidUserActualStudyScore" type="hidden" id="hidUserActualStudyScore" value="0" />
+    <input name="hidStudySchedule" type="hidden" id="hidStudySchedule" value="0" />
+    <input name="hidKngDownType" type="hidden" id="hidKngDownType" value="0" />
+    <input name="hidFileID" type="hidden" id="hidFileID" value="3928d97b-19b8-4ae9-89c9-82d02f8c9329" />
+    <input name="hidNeedMobile" type="hidden" id="hidNeedMobile" value="0" />
+    <input type="hidden" name="hfHomeURL" id="hfHomeURL" />
+    <input type="hidden" name="hfIsFavorite" id="hfIsFavorite" value="0" />
+    <input type="hidden" name="hfIsSupport" id="hfIsSupport" value="0" />
+    <input type="hidden" name="hfUserKngID" id="hfUserKngID" />
+    <input type="hidden" name="hfTipBytitle" id="hfTipBytitle" />
+    
+    <input type="hidden" name="hidDownKey" id="hidDownKey" />
+    <input type="hidden" name="hidTitle" id="hidTitle" value="用友企业文化" />
+    <input type="hidden" name="hidUserName" id="hidUserName" value="0000076998" />
+    <input type="hidden" name="hidUserName1" id="hidUserName1" />
+    <input type="hidden" name="hidIsShowStar" id="hidIsShowStar" value="1" />
+    <input type="hidden" name="hfId" id="hfId" />
+    <input type="hidden" name="hfCatalogId" id="hfCatalogId" />
+    <input type="hidden" name="hidUserPhoto" id="hidUserPhoto" value="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/118.png" />
+    <input type="hidden" name="hidAvgStar" id="hidAvgStar" />
+    <input type="hidden" name="hfTip" id="hfTip" value="还在吗？【爱乐学】温馨提示您：学习计时中，请不要走开喔。点击“我在”继续学习，否则我们认为您已临时走开，在您离开的这段时间我们不会计入您的学习时间及相应学分。" />
+    <input type="hidden" name="hidRelateCourseKey" id="hidRelateCourseKey" />
+    <input type="hidden" name="hidCheckComments" id="hidCheckComments" value="0" />
+    
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="055FD2BC" />
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="o2uUrLiYE26w012Nw6WBZL1wAVwGPS+kTvCyfTBQX4PfcNHhC3pgXDCf+iIy7/z9vBWjpj0Dxpgpe3X1X+3n3a9zwuIRfcS+IicLYRUIvSvklwobQ8Rsldn+7mukstqp2eycAH18QWiqVcXM4E8YF/ryJqwyqgVEpaoRzIOavF5vFaSfsGmXhsuniiLndegt5bvY0UuHMAsmKEm047g3+T9zJ2vEoFQ2iRXGnULjmVuF/u26xatDroqIQjXywvdFLvLO4SuVswhximLJWnbKOsiqtTWsI4Ra2IK/sMEKZrVgd6f9EMCGxIpH6gJe2w1pgo/Ow+T2PZ3aD5X+R80S/0W9PsW9Fxju75/Xdu8/YIX7mZXOB96TWm2fyf+a5VwegJzBJt8FUhOu5irk5KnQdNbqVJujhxm7yH6vOAUvgkbJRIWwP8xVv3zmLl56vau+AQnugPHnGEo1beK4LKfGYzTacJDcR6BaWfRNJUKTBiHpt2y3JignKL6yjWEc7VFYJpOB+FXQe5o1I4un44ZTrunM3LvJUiNMWAnha5CTa09UzufB1sQkEvIbDdBoRaU4S47DqKnWdL+NLQUE2E2wG2AUUfdxxj6G2pzPaxP2hkZ5/E4kbDDjJLvHbb7q50vf0F3aNKy7nsWgddONIpDjhy/NTguc+2CFCnp6Dj/UQHewEnPP5LmQZa6Fag5OFY6kXlRywK2x/rBExGilQOpVqt7IhDb3UX+zJHWRz0VDUYq4X1CVtQ/83n1kF2mIoEyQCW/oB4PxQVJ5zzUe" />
+</div>
+<script language='javascript'>try {loadProperties('zh','kng');  }catch (e) {}</script>
+<script type="text/javascript">
+//<![CDATA[
+WebForm_AutoFocus('btn');//]]>
+</script>
+</form>
+ </div>
+
+ 
+ <div class="pagefooter" id="divPageFooter">
+    
+ 
+<div style="margin:10px auto; text-align:center; color:#666666; line-height:24px;">
+   <div>
+ &copy; 2019 All Rights Reserved&nbsp;&nbsp;爱乐学 <span data-localize="home_lbl_copyright"></span>
+</div>
+ <!--<div>-->
+ <!--<a href="https://www.yonyoucloud.com/" target="_blank" data-localize="home_lbl_yunxuetang"></a> <span data-localize="home_lbl_technicalsupport"></span>-->
+ <!--&nbsp;&nbsp;<a href="http://elearning.yunxuetang.cn/registerprotocol.htm" target="_blank" data-localize="home_lbl_serviceagreement"></a>-->
+ <!--&nbsp;&nbsp;400-928-6900-->
+ <!--</div>-->
+</div>
+<script type="text/javascript">
+ loadPropertiesForAsync("divPageFooter");
+</script>
+ </div>
+ </div>
+ 
+ 
+</body>
+</html>

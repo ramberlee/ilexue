@@ -1,0 +1,11 @@
+Server: Tengine
+Date: Wed, 04 Mar 2020 03:07:43 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 1418
+Connection: keep-alive
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Vary: Accept-Encoding
+Set-Cookie: COOKIE_LANGAGES=zh; path=/, ELEARNING_00999=0wb1kugjincczpgmphxfvtlv; path=/; HttpOnly, ELEARNING_00008=5603c439-2560-444f-9cff-8157a2d6f051; expires=Fri, 03-Apr-2020 03:07:43 GMT; path=/; HttpOnly, route=e76056cac96f19889b89a1c6b506583b; Path=/
+X-Powered-By: ASP.NET
