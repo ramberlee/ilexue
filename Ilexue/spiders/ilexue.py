@@ -3,8 +3,6 @@ import importlib
 import os
 import re
 import sys
-import time
-from multiprocessing.pool import Pool
 
 import demjson
 import requests
@@ -12,10 +10,9 @@ import scrapy
 from purl import URL
 from scrapy.http import Request
 
-from Ilexue.IlexueClient import IlexueClient
+from IlexueClient import IlexueClient
 from Ilexue.items import IlexueItem, IlexueVideoItem
-from Ilexue.settings import USER_NAME, PASS_WORD, DEFAULT_REQUEST_HEADERS, CSVDIR
-from Ilexue.util.UniQueue import UniQueue
+from Ilexue.settings import USER_NAME, PASS_WORD, DEFAULT_REQUEST_HEADERS
 
 importlib.reload(sys)
 

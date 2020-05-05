@@ -1,16 +1,10 @@
 # -*- coding: utf-8 -*-
-import _thread
 import importlib
 import os
-import time
-from concurrent.futures.thread import ThreadPoolExecutor
 
-import requests
 import sys
 
-from Ilexue.IlexueClient import IlexueClient
-from Ilexue.settings import USER_NAME, PASS_WORD
-from Ilexue.util.UniQueue import UniQueue
+from IlexueClient import IlexueClient
 
 importlib.reload(sys)
 #sys.setdefaultencoding('utf-8')

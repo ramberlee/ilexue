@@ -11,7 +11,7 @@ enabledMethod = ['GetDateForMap','displayMore','openURL','displayData','window.o
 
 USER_NAME = 'lihrd@yonyou.com'
 PASS_WORD = 'lhr8182281'
-CSVDIR = '/videourl/url.csv'
+CSVDIR = '/Ilexue/videourl/url.csv'
 
 RANDOMIZE_DOWNLOAD_DELAY = True
 ROBOTSTXT_OBEY = False

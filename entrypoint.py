@@ -4,7 +4,7 @@ import time
 from scrapy.cmdline import execute
 
 # 为线程定义一个函数
-from Ilexue.IlexueClient import IlexueClient
+from IlexueClient import IlexueClient
 
 #execute(['scrapy', 'crawl', 'Ilexue'])
 
@@ -29,8 +29,8 @@ def ilexue(threadName, delay):
 
 # 创建两个线程
 try:
-    #_thread.start_new_thread(ilexue, ("Thread-2", 21600,))
-    scrapy("Thread-1", 3600)
+    _thread.start_new_thread(ilexue, ("Thread-2", 21600,))
+    #scrapy("Thread-1", 3600)
 except Exception as e:
     print(e)
     print("Error: 无法启动线程")
