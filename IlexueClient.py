@@ -45,6 +45,7 @@ class IlexueClient(object):
     getEncryptRequestURL = 'http://ilexue.yonyou.com/kng/services/KngComService.svc/GetEncryptRequest'
     ilexueInfo = {}
     uniQueue = Queue()
+    mysession = requests.session()
 
     def startLearning(self):
         # pool = Pool(3)  # 创建拥有3个进程数量的进程池
@@ -81,6 +82,7 @@ class IlexueClient(object):
         ilexuetokenURL = ilexueSsoInfo['data']['url']
         print(ilexuetokenURL)
         res = requests.get(ilexuetokenURL)
+        self.mysession.get(ilexuetokenURL)
         try:
             ilexueInfo = res.json()
         except  Exception as e:
@@ -90,7 +92,7 @@ class IlexueClient(object):
         token = re.search(pattern, ilexueInfo['data']).group(1)
         self.ilexueInfo = ilexueInfo
         self.ilexueInfo['token'] = token
-        self.ilexueInfo['Cookie'] = res.cookies
+        self.ilexueInfo['Cookie'] = res.request._cookies
         return self.ilexueInfo
 
     def getSsoRaw(self, username, password):
@@ -139,7 +141,7 @@ class IlexueClient(object):
             print(requests.get(courseinfo['siteURL'], headers=header,
                          cookies=self.ilexueInfo['Cookie']))
             progress = self.updateprogress(course, header, self.ilexueInfo['Cookie'])
-            print("progress:"+progress)
+            print(progress)
             standardStudyHours = int(progress["standardstudyhours"]) - int(progress["actualstudyhours"])
             createactionLogJson = {
                 'kngId': course['knowledgeId'],
