@@ -3,36 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="95b8af62-1edc-4017-8c56-99f2fd5bc750" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/52/5216f2b23ed8069412184973b3ab8fb8ec21b4dd/meta" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/52/5216f2b23ed8069412184973b3ab8fb8ec21b4dd/meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/52/5216f2b23ed8069412184973b3ab8fb8ec21b4dd/pickled_meta" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/52/5216f2b23ed8069412184973b3ab8fb8ec21b4dd/pickled_meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/52/5216f2b23ed8069412184973b3ab8fb8ec21b4dd/response_body" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/52/5216f2b23ed8069412184973b3ab8fb8ec21b4dd/response_body" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/52/5216f2b23ed8069412184973b3ab8fb8ec21b4dd/response_headers" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/52/5216f2b23ed8069412184973b3ab8fb8ec21b4dd/response_headers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/73/738b19ec75c3ce670030645f8e00778939569d31/meta" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/73/738b19ec75c3ce670030645f8e00778939569d31/meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/73/738b19ec75c3ce670030645f8e00778939569d31/pickled_meta" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/73/738b19ec75c3ce670030645f8e00778939569d31/pickled_meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/73/738b19ec75c3ce670030645f8e00778939569d31/response_body" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/73/738b19ec75c3ce670030645f8e00778939569d31/response_body" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/73/738b19ec75c3ce670030645f8e00778939569d31/response_headers" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/73/738b19ec75c3ce670030645f8e00778939569d31/response_headers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a2/a2351a154816104d76c0bd99b3756497f8303241/meta" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a2/a2351a154816104d76c0bd99b3756497f8303241/meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a2/a2351a154816104d76c0bd99b3756497f8303241/pickled_meta" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a2/a2351a154816104d76c0bd99b3756497f8303241/pickled_meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a2/a2351a154816104d76c0bd99b3756497f8303241/response_headers" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a2/a2351a154816104d76c0bd99b3756497f8303241/response_headers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a6/a6c9ebb8f29008b215774c71e9f12e1a13d7b3c2/meta" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a6/a6c9ebb8f29008b215774c71e9f12e1a13d7b3c2/meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a6/a6c9ebb8f29008b215774c71e9f12e1a13d7b3c2/pickled_meta" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a6/a6c9ebb8f29008b215774c71e9f12e1a13d7b3c2/pickled_meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a6/a6c9ebb8f29008b215774c71e9f12e1a13d7b3c2/request_headers" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a6/a6c9ebb8f29008b215774c71e9f12e1a13d7b3c2/request_headers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a6/a6c9ebb8f29008b215774c71e9f12e1a13d7b3c2/response_body" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a6/a6c9ebb8f29008b215774c71e9f12e1a13d7b3c2/response_body" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a6/a6c9ebb8f29008b215774c71e9f12e1a13d7b3c2/response_headers" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/a6/a6c9ebb8f29008b215774c71e9f12e1a13d7b3c2/response_headers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/b7/b7c73be8ac0f96d24291459b2accc89d4e0d9d33/meta" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/b7/b7c73be8ac0f96d24291459b2accc89d4e0d9d33/meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/b7/b7c73be8ac0f96d24291459b2accc89d4e0d9d33/pickled_meta" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/b7/b7c73be8ac0f96d24291459b2accc89d4e0d9d33/pickled_meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/b7/b7c73be8ac0f96d24291459b2accc89d4e0d9d33/response_headers" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/b7/b7c73be8ac0f96d24291459b2accc89d4e0d9d33/response_headers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/f8/f801e6853866aec89726cb5fce3e1cc9288356dc/meta" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/f8/f801e6853866aec89726cb5fce3e1cc9288356dc/meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/f8/f801e6853866aec89726cb5fce3e1cc9288356dc/pickled_meta" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/f8/f801e6853866aec89726cb5fce3e1cc9288356dc/pickled_meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/f8/f801e6853866aec89726cb5fce3e1cc9288356dc/response_headers" beforeDir="false" afterPath="$PROJECT_DIR$/.scrapy/httpcache/Ilexue/f8/f801e6853866aec89726cb5fce3e1cc9288356dc/response_headers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ilexue/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ilexue/items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ilexue/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ilexue/middlewares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ilexue/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ilexue/pipelines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ilexue/spiders/ilexue.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ilexue/spiders/ilexue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ilexue/videourl/url.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Ilexue/videourl/url.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IlexueClient.py" beforeDir="false" afterPath="$PROJECT_DIR$/IlexueClient.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/didOnlicks.data" beforeDir="false" afterPath="$PROJECT_DIR$/didOnlicks.data" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/entrypoint.py" beforeDir="false" afterPath="$PROJECT_DIR$/entrypoint.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +61,7 @@
       <recent name="C:\Users\Administrator\Desktop\ilexue_scrapy\Ilexue\js" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.entrypoint">
+  <component name="RunManager" selected="Python.IlexueClient">
     <configuration name="IlexueClient" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ilexue_scrapy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,7 +141,7 @@
       <workItem from="1588176067653" duration="663000" />
       <workItem from="1588176836279" duration="7379000" />
       <workItem from="1588389867420" duration="13222000" />
-      <workItem from="1588667941251" duration="31550000" />
+      <workItem from="1588667941251" duration="33610000" />
     </task>
     <task id="LOCAL-00001" summary="20200515">
       <created>1588704453906</created>
@@ -186,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589633567364</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="支持document爬取和学习">
+      <created>1589683605381</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589683605381</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +172,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20200515" />
-    <option name="LAST_COMMIT_MESSAGE" value="20200515" />
+    <MESSAGE value="支持document爬取和学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="支持document爬取和学习" />
   </component>
   <component name="WindowStateProjectService">
     <state x="597" y="297" key="#Notifications" timestamp="1588177865943">
@@ -216,20 +195,22 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="486" y="341" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.23.1440.808@0.23.1440.808" timestamp="1588670252179" />
-    <state x="748" y="187" width="1103" height="598" key="#xdebugger.evaluate" timestamp="1589656553792">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state x="337" y="187" width="1103" height="598" key="#xdebugger.evaluate" timestamp="1589692984767">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state x="454" y="304" width="1103" height="598" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1583518927457" />
     <state x="385" y="215" key="#xdebugger.evaluate/0.23.1440.806@0.23.1440.806" timestamp="1588395030514" />
     <state x="337" y="215" key="#xdebugger.evaluate/0.23.1440.808@0.23.1440.808" timestamp="1588670096483" />
     <state x="337" y="216" key="#xdebugger.evaluate/0.23.1440.811@0.23.1440.811" timestamp="1589630394980" />
+    <state x="337" y="187" key="#xdebugger.evaluate/0.23.1440.814@0.23.1440.814" timestamp="1589692984767" />
     <state x="748" y="187" key="#xdebugger.evaluate/0.23.1440.816@0.23.1440.816" timestamp="1589656553792" />
     <state x="224" y="204" key="#xdebugger.evaluate/0.23.1440.821@0.23.1440.821" timestamp="1589654384471" />
-    <state x="279" y="23" key="CommitChangelistDialog2" timestamp="1589633566766">
-      <screen x="0" y="23" width="1440" height="811" />
+    <state x="279" y="23" key="CommitChangelistDialog2" timestamp="1589683604375">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state x="279" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1588704446886" />
     <state x="279" y="23" key="CommitChangelistDialog2/0.23.1440.811@0.23.1440.811" timestamp="1589633566766" />
+    <state x="279" y="23" key="CommitChangelistDialog2/0.23.1440.814@0.23.1440.814" timestamp="1589683604375" />
     <state width="1139" height="368" key="DebuggerActiveHint" timestamp="1589656402912">
       <screen x="0" y="23" width="1440" height="816" />
     </state>
@@ -245,7 +226,7 @@
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583086774819" />
     <state x="555" y="236" key="FileChooserDialogImpl/0.23.1440.808@0.23.1440.808" timestamp="1588174542416" />
-    <state width="699" height="208" key="GridCell.Tab.0.bottom" timestamp="1589656566635">
+    <state width="887" height="257" key="GridCell.Tab.0.bottom" timestamp="1589692922796">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state width="1218" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583522782473" />
@@ -253,10 +234,10 @@
     <state width="699" height="257" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1589629023559" />
     <state width="699" height="257" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1589635206456" />
     <state width="699" height="257" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1589641331464" />
-    <state width="699" height="208" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1589656566635" />
+    <state width="887" height="257" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1589692922796" />
     <state width="888" height="257" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1589656208745" />
     <state width="699" height="257" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1589654136819" />
-    <state width="699" height="208" key="GridCell.Tab.0.center" timestamp="1589656566634">
+    <state width="887" height="257" key="GridCell.Tab.0.center" timestamp="1589692922795">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state width="1218" height="342" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583522782473" />
@@ -264,10 +245,10 @@
     <state width="699" height="257" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1589629023558" />
     <state width="699" height="257" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1589635206456" />
     <state width="699" height="257" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1589641331463" />
-    <state width="699" height="208" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1589656566634" />
+    <state width="887" height="257" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1589692922795" />
     <state width="888" height="257" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1589656208744" />
     <state width="699" height="257" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1589654136819" />
-    <state width="699" height="208" key="GridCell.Tab.0.left" timestamp="1589656566634">
+    <state width="887" height="257" key="GridCell.Tab.0.left" timestamp="1589692922795">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state width="1218" height="342" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583522782473" />
@@ -275,10 +256,10 @@
     <state width="699" height="257" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1589629023557" />
     <state width="699" height="257" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1589635206455" />
     <state width="699" height="257" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1589641331463" />
-    <state width="699" height="208" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1589656566634" />
+    <state width="887" height="257" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1589692922795" />
     <state width="888" height="257" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1589656208744" />
     <state width="699" height="257" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1589654136818" />
-    <state width="699" height="208" key="GridCell.Tab.0.right" timestamp="1589656566634">
+    <state width="887" height="257" key="GridCell.Tab.0.right" timestamp="1589692922795">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state width="1218" height="342" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583522782473" />
@@ -286,10 +267,10 @@
     <state width="699" height="257" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1589629023559" />
     <state width="699" height="257" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1589635206456" />
     <state width="699" height="257" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1589641331464" />
-    <state width="699" height="208" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1589656566634" />
+    <state width="887" height="257" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1589692922795" />
     <state width="888" height="257" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1589656208744" />
     <state width="699" height="257" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1589654136819" />
-    <state width="888" height="257" key="GridCell.Tab.1.bottom" timestamp="1589656565334">
+    <state width="887" height="257" key="GridCell.Tab.1.bottom" timestamp="1589692930772">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state width="1218" height="342" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583522782473" />
@@ -297,10 +278,10 @@
     <state width="699" height="257" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1589629028880" />
     <state width="699" height="257" key="GridCell.Tab.1.bottom/0.23.1440.811@0.23.1440.811" timestamp="1589634467822" />
     <state width="699" height="257" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1589641331466" />
-    <state width="888" height="257" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1589656565334" />
+    <state width="887" height="257" key="GridCell.Tab.1.bottom/0.23.1440.814@0.23.1440.814" timestamp="1589692930772" />
     <state width="888" height="257" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1589656242870" />
     <state width="889" height="257" key="GridCell.Tab.1.bottom/0.23.1440.821@0.23.1440.821" timestamp="1589654354709" />
-    <state width="888" height="257" key="GridCell.Tab.1.center" timestamp="1589656565334">
+    <state width="887" height="257" key="GridCell.Tab.1.center" timestamp="1589692930771">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state width="1218" height="342" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583522782473" />
@@ -308,10 +289,10 @@
     <state width="699" height="257" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1589629028879" />
     <state width="699" height="257" key="GridCell.Tab.1.center/0.23.1440.811@0.23.1440.811" timestamp="1589634467822" />
     <state width="699" height="257" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1589641331464" />
-    <state width="888" height="257" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1589656565334" />
+    <state width="887" height="257" key="GridCell.Tab.1.center/0.23.1440.814@0.23.1440.814" timestamp="1589692930771" />
     <state width="888" height="257" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1589656242869" />
     <state width="889" height="257" key="GridCell.Tab.1.center/0.23.1440.821@0.23.1440.821" timestamp="1589654354709" />
-    <state width="888" height="257" key="GridCell.Tab.1.left" timestamp="1589656565334">
+    <state width="887" height="257" key="GridCell.Tab.1.left" timestamp="1589692930771">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state width="1218" height="342" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583522782473" />
@@ -319,10 +300,10 @@
     <state width="699" height="257" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1589629028878" />
     <state width="699" height="257" key="GridCell.Tab.1.left/0.23.1440.811@0.23.1440.811" timestamp="1589634467821" />
     <state width="699" height="257" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1589641331464" />
-    <state width="888" height="257" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1589656565334" />
+    <state width="887" height="257" key="GridCell.Tab.1.left/0.23.1440.814@0.23.1440.814" timestamp="1589692930771" />
     <state width="888" height="257" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1589656242869" />
     <state width="889" height="257" key="GridCell.Tab.1.left/0.23.1440.821@0.23.1440.821" timestamp="1589654354708" />
-    <state width="888" height="257" key="GridCell.Tab.1.right" timestamp="1589656565334">
+    <state width="887" height="257" key="GridCell.Tab.1.right" timestamp="1589692930772">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state width="1218" height="342" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583522782473" />
@@ -330,7 +311,7 @@
     <state width="699" height="257" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1589629028879" />
     <state width="699" height="257" key="GridCell.Tab.1.right/0.23.1440.811@0.23.1440.811" timestamp="1589634467822" />
     <state width="699" height="257" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1589641331465" />
-    <state width="888" height="257" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1589656565334" />
+    <state width="887" height="257" key="GridCell.Tab.1.right/0.23.1440.814@0.23.1440.814" timestamp="1589692930772" />
     <state width="888" height="257" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1589656242869" />
     <state width="889" height="257" key="GridCell.Tab.1.right/0.23.1440.821@0.23.1440.821" timestamp="1589654354709" />
     <state x="274" y="107" key="SettingsEditor" timestamp="1588183152950">
@@ -408,13 +389,12 @@
         <watch expression="packageId if not course['masterType'] else ''" />
         <watch expression="requests.get(courseinfo['siteURL'], headers=header,                          cookies=self.ilexueInfo['Cookie'])" language="Python" />
         <watch expression="courseinfo['siteURL']" />
-        <watch expression="os.path.abspath('.')" language="Python" />
       </configuration>
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ilexue_scrapy$entrypoint.coverage" NAME="entrypoint Coverage Results" MODIFIED="1583522566563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ilexue$entrypoint.coverage" NAME="entrypoint Coverage Results" MODIFIED="1589656208628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ilexue$IlexueClient.coverage" NAME="IlexueClient Coverage Results" MODIFIED="1589656566626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ilexue$IlexueClient.coverage" NAME="IlexueClient Coverage Results" MODIFIED="1589692922677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

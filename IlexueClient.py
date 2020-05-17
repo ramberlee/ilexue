@@ -142,6 +142,9 @@ class IlexueClient(object):
                                cookies=self.ilexueInfo['Cookie']))
             progress = self.updateprogress(course, header, self.ilexueInfo['Cookie'])
             print(progress)
+            progress = {'error': {'key': 'global.token.invalid', 'message': 'Token is invalid.'}}
+            if progress.__contains__('error') and progress['error']['key'] == 'global.token.invalid':
+                self.ssoLogin(USER_NAME, PASS_WORD)
             standardStudyHours = int(progress["standardstudyhours"]) - int(progress["actualstudyhours"])
             course['pageSize'] = progress['studypagesize']
             course['studySize'] = progress['studypagesize']
