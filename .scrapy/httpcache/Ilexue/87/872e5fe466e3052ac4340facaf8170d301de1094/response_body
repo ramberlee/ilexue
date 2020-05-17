@@ -1,0 +1,2478 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
+ <title>首页 - 用友网络科技股份有限公司</title>
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+ <meta name="keywords" content="">
+ <meta name="description" content="">
+ 
+ <script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/tingyun-rum.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery-1.9.1.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery-ui-1.9.2.custom.min.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.livequery.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.validate_new.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.mCustomScrollbar.concat.min.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/dist/common.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/functions.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/plugin/layer/layer.js?v=9.9.401"></script><link rel="stylesheet" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/plugin/layer/skin/layer.css" id="layui_layer_skinlayercss" style=""><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/languages/jquery.i18n.properties-1.0.9.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/languages/main.js?v=9.9.401"></script><script type="text/javascript">currentSkinName="elearning30";var lecaiAPiUrl="https://api-qida.yunxuetang.cn/v1/";var lecaiMediaUrl="https://staticbd.yunxuetang.cn/yxt/SystemFiles/";</script><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/modified.min.css?v=9.9.401" type="text/css" rel="stylesheet"><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/normalize.css?v=9.9.401" type="text/css" rel="stylesheet"> <link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/elearning.css?v=9.9.401" type="text/css" rel="stylesheet"> <link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/uc/ui.core.css?v=9.9.401" type="text/css" rel="stylesheet"> <link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/style.css?v=9.9.401" type="text/css" rel="stylesheet"> <link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/Zebra_DatePicker.css?v=9.9.401" type="text/css" rel="stylesheet"><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/font-awesome/4.4.0/css/font-awesome.css?v=9.9.401" type="text/css" rel="stylesheet"><link href="/CSS/iconfonts/iconfont.css?v=9.9.401" rel="stylesheet" type="text/css"><link href="/CSS/cfont/iconfont.css?v=9.9.401" rel="stylesheet" type="text/css"><link href="/CSS/navfont/iconfont.css?v=9.9.401" rel="stylesheet" type="text/css">
+ 
+ <!--[if lte IE 8]>
+ <link rel="stylesheet" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/IE8.css" />
+<script src='https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/IE8.js' type="text/javascript"></script>
+ <![endif]-->
+ 
+<script>
+
+function handleCenter(className){
+ var containHeight=document.documentElement.clientHeight-300;
+	var lstImg=jQuery(className);
+	for(var i=0,j=lstImg.length;i<j;i++){
+		//图片大小大于可以容纳的大小
+		if(lstImg.eq(i).height()>containHeight){
+			lstImg.eq(i).css("top","auto");
+			lstImg.eq(i).css("bottom",0);
+		}
+	}
+}
+jQuery(document).ready(function(){
+handleCenter(".floatwindow_LeftCenter");
+handleCenter(".floatwindow_RightCenter");
+});
+</script><style type="text/css">.easemobim-mobile-html{position:relative!important;width:100%!important;height:100%!important;padding:0!important;margin:0!important}.easemobim-mobile-body{position:absolute;top:0!important;left:0!important;width:100%!important;height:100%!important;overflow:hidden!important;padding:0!important;margin:0!important}.easemobim-mobile-body>*{display:none!important}.easemobim-mobile-body>.easemobim-chat-panel{display:block!important}.easemobim-chat-panel{z-index:1000;overflow:hidden;position:fixed;border:none;width:0;height:0;-webkit-transition:all .01s;-moz-transition:all .01s;transition:all .01s;box-shadow:0 4px 8px rgba(0,0,0,.2);border-radius:4px}.easemobim-chat-panel.easemobim-minimized{border:none;box-shadow:none;height:37px!important;width:104px!important}.easemobim-chat-panel.easemobim-minimized.easemobim-has-prompt{width:360px!important;height:270px!important}.easemobim-chat-panel.easemobim-mobile{position:absolute!important;width:100%!important;height:100%!important;left:0!important;top:0!important;border-radius:0;box-shadow:none}.easemobim-chat-panel.easemobim-mobile.easemobim-minimized{height:0!important;width:0!important}.easemobim-chat-panel.easemobim-hide{visibility:hidden;width:1px!important;height:1px!important;border:none}.easemobim-chat-panel.easemobim-dragging{display:none}.easemobim-chat-panel.easemobim-big{width:720px}.easemobim-iframe-shadow{left:auto;top:auto;display:none;cursor:move;z-index:16777270;position:fixed;border:none;box-shadow:0 4px 8px rgba(0,0,0,.2);border-radius:4px;background-size:100% 100%;background-repeat:no-repeat}.easemobim-iframe-shadow.easemobim-dragging{display:block}.easemobim-prompt-wrapper{display:none;z-index:16777271;position:fixed;width:30px;height:30px;padding:10px;top:0;bottom:0;margin:auto;left:0;right:0;color:#fff;background-color:#000;text-align:center;border-radius:4px;-webkit-transition:all .5s;-moz-transition:all .5s;transition:all .5s;opacity:.7;-moz-box-sizing:content-box;box-sizing:content-box}.easemobim-prompt-wrapper>.loading{position:relative;width:30px;height:30px;display:inline-block;overflow:hidden;margin:0;padding:0;-webkit-animation:easemobim-loading-frame 1s linear infinite;-moz-animation:easemobim-loading-frame 1s linear infinite;animation:easemobim-loading-frame 1s linear infinite}@-webkit-keyframes easemobim-loading-frame{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@-moz-keyframes easemobim-loading-frame{0%{-moz-transform:rotate(0);transform:rotate(0)}to{-moz-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes easemobim-loading-frame{0%{-webkit-transform:rotate(0);-moz-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);-moz-transform:rotate(1turn);transform:rotate(1turn)}}.easemobim-pc-img-view{display:none;position:fixed;top:0;left:0;width:100%;height:100%;z-index:16777270}.easemobim-pc-img-view>.shadow{position:fixed;top:0;left:0;width:100%;height:100%;background-color:#000}.easemobim-pc-img-view>img{max-width:100%;max-height:100%;position:absolute;margin:auto;top:0;right:0;bottom:0;left:0}.easemob-invite-box{position:absolute;top:50%;left:50%;width:400px;height:200px;border:1px solid #e6eaf2;padding:0;border-radius:0;margin-left:-200px;margin-top:-100px;background:#fff;display:none;z-index:9999}.easemob-invite-box .invite-logo{width:100%;height:45px;text-align:center;margin-top:30px}.easemob-invite-box .invite-logo>img{max-width:45px;max-height:45px}.easemob-invite-box .invite-text{text-align:center;margin:0 20px;color:gray;font-size:12px;height:65px;line-height:65px}.easemob-invite-box .invite-text>span{display:inline-block;line-height:25px;vertical-align:middle}.easemob-invite-box .button{position:absolute;bottom:0;width:100%;height:50px;line-height:50px;border-radius:0;margin:0;text-align:center;cursor:pointer;color:#fff;background-color:#1ba8ed}.easemob-invite-box>span{position:absolute;right:15px;top:5px;color:gray;cursor:pointer;font-size:20px}.easemob-invite-box .theme_sky{background-color:#42b8f4}.easemob-invite-box .theme_tree{background-color:#00b45f}.easemob-invite-box .theme_house{background-color:#b50e03}.easemob-invite-box .theme_cherry{background-color:#ffa0be}.easemob-invite-box .theme_orange{background-color:#f49300}.easemob-invite-box .theme_grass{background-color:#9ec100}.easemob-invite-box .theme_sea{background-color:#00cccd}.easemob-invite-box .theme_mountion{background-color:#5b799a}.easemob-invite-box .theme_moon{background-color:#3977cf}.easemob-invite-box .theme_business{background-color:#000}.easemob-invite-box .theme_lake{background-color:#06a89c}.easemob-invite-box.easemob-mobile-invite-box{width:280px;height:140px;margin-left:-140px;margin-top:-70px}.easemob-invite-box.easemob-mobile-invite-box .invite-logo{margin-top:20px;height:35px}.easemob-invite-box.easemob-mobile-invite-box .invite-logo>img{max-width:35px;max-height:35px}.easemob-invite-box.easemob-mobile-invite-box .invite-text{margin:0 5px;color:gray;font-size:12px;height:45px;line-height:45px}.easemob-invite-box.easemob-mobile-invite-box>div.button{height:35px;line-height:35px}</style></head>
+ 
+
+ 
+
+
+
+ 
+ 
+
+
+ 
+
+
+
+
+
+ <body lang="zh" class="mainbg ilexuehome_body"><div class="onlineserviceall">
+ <div class="onlineservicebox" style="display: none;">
+ <div class="head hand" onclick="hidenOnlineService();">
+ <div class="close">
+ </div>
+ </div>
+ <!--在线客服内容-->
+ <div id="divEasemobConfig" class="body textcenter" style="min-height: 200px">
+ </div>
+ </div>
+ <div class="onlineserviceboxpic" style="display: block;" onclick="easemobim.bind({configId: &quot;049bb246-f44d-4939-861f-57de2b60af0d&quot;})" onmouseover="this.className='onlineserviceboxpic filteropcity';" onmouseout="this.className='onlineserviceboxpic';">
+ </div>
+</div>
+<script type="text/javascript">
+	var urllocation=window.location.href;
+	 window.easemobim = window.easemobim || {};
+	 easemobim.config = {
+	 hide: true,
+	 autoConnect: true,
+	 dialogWidth: '360px',
+	 dialogHeight: '550px',
+	 dialogPosition: { x: '10px', y: '10px' },
+	 visitor: { 
+	 trueName: '',
+	 companyName: '',
+	 userNickname: '',
+	 description: ''
+	 },
+	 //聊天窗口加载成功回调
+	 onready: function () { 
+	 easemobim.sendExt({
+	 ext:{
+	 //custom代表自定义消息，无需修改
+	 "type": "custom", 
+	 "msgtype": {
+	 "order": {
+	 "title": "",
+	 "order_title":"",
+	 "item_url": urllocation
+	 }
+	 }
+	 }
+	 });
+	 },
+	 };
+
+	$(function () {
+		loadPropertiesForAsync("divEasemobConfig");
+	})
+	
+ function showOnlineService()
+ {
+ SyncLoadHtmlContent2('divEasemobConfig', 'EasemobConfig');
+ jQuery(".onlineserviceboxpic").hide();
+ jQuery(".onlineservicebox").show();
+ }
+ function hidenOnlineService()
+ {
+ jQuery(".onlineserviceboxpic").show();
+ jQuery(".onlineservicebox").hide();
+ } 
+</script>
+
+ <script src="https://kefu.easemob.com/webim/easemob.js"></script><div class="easemobim-prompt-wrapper"><div class="loading"><div class="em-widget-loading"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70"><circle opacity=".3" fill="none" stroke="#000" stroke-width="4" stroke-miterlimit="10" cx="35" cy="35" r="11"></circle><path fill="none" stroke="#E5E5E5" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M24 35c0-6.1 4.9-11 11-11 2.8 0 5.3 1 7.3 2.8"></path></svg></div></div></div>
+
+ 
+ <div class="ilexuehome_layout">
+ 
+
+
+ 
+<div id="phonetips" style="display:none;">
+ <div class="phoneTipsNewBar">
+
+ <div class="pull-left" style="width:54px;padding-left:16px;padding-top:31px;">
+ <div class="el-icon-fixed-mobile" style="height:22px;width:22px;"></div>
+ </div>
+ <div class="pull-left" style="padding-top:16px;">
+ <div class="phoneTipsNewBarName">
+ <span data-localize="sys-lbl-helpline">服务热线</span><span> (9:00~22:00)</span></div>
+ <div class="phoneTipsNewBarCode">
+ 400-928-6900</div>
+ </div>
+ </div>
+</div>
+<div style="position: fixed;_position: absolute;right: 0px;bottom: 196px;z-index: 450;width: 40px;">
+ <div class="row hand phoneTipsNewBarIcon" id="iconPhoneSelect" onmouseover="showphone()" onmouseout="hidephone()">
+ <div class="el-icon-fixed-barmobile"></div>
+ </div>
+ <div class="splid" style="display: none;"></div>
+</div>
+
+<div id="floatLbl" class="pagerightfix ie6needfixtobottom90" onmouseover="changeHoverStyle(this,'pagerightfix');">
+ <div class="row" onmouseover="this.className='rowselect';" style="display: none;" onclick="window.open('/updateannouncement.htm');" onmouseout="this.className='row';">
+ <div class="iconversionhistory">
+ <span data-localize="sys-lbl-float3">升级日志</span></div>
+ </div>
+ <div class="splid" style="display: none;">
+ </div>
+ <div class="row" onmouseover="this.className='rowselect';" onmouseout="this.className='row';">
+ <div class="iconshowtalkpanel" onclick="window.open('http://yxt.yunxuetang.com/');">
+ <span data-localize="sys-lbl-float4new">帮助中心</span></div>
+ </div>
+ <div class="splid">
+ </div>
+ <div class="row" onmouseover="this.className='rowselect';" onmouseout="this.className='row';">
+ <div class="iconphone">
+ <a href="/mobileinstall.htm" data-localize="sys-lbl-float5">下载客户端</a>
+ </div>
+ </div>
+ <div class="splid">
+ </div>
+ <div class="row" onmouseover="this.className='rowselect';" onmouseout="this.className='row';">
+ <div class="icongototop" onclick="window.scrollTo(0,0);">
+ <span data-localize="sys-lbl-float6">回到顶部</span></div>
+ </div>
+</div>
+
+<style>
+ div.pagerightfix {
+ position: fixed;
+ _position: absolute;
+ right: 0px;
+ bottom: 80px!important;
+ z-index: 450;
+ width: 40px;
+ }
+
+ div.pagerightfixhover {
+ position: fixed;
+ _position: absolute;
+ right: 0px;
+ bottom: 80px!important;
+ z-index: 450;
+ width: 108px;
+ }
+
+ .phoneTipsNewBar {
+ position: fixed;
+ _position: absolute;
+ right: 0px;
+ bottom: 176px;
+ z-index: 450;
+ width: 188px;
+ height: 84px;
+ background: rgba(255, 255, 255, 1);
+ box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.15);
+ filter: progid:DXImageTransform.Microsoft.Shadow(color='#00000026', Direction=135, Strength=5);
+ /*for ie6,7,8*/
+ margin-right: 50px;
+ }
+
+ .phoneTipsNewBarName {
+ height: 22px;
+ font-size: 12px;
+ font-family: PingFangSC-Regular, PingFang SC;
+ font-weight: 400;
+ color: rgba(117, 117, 117, 1);
+ line-height: 22px;
+ }
+
+ .phoneTipsNewBarCode {
+ width: 101px;
+ height: 22px;
+ font-size: 14px;
+ font-family: PingFangSC-Regular, PingFang SC;
+ font-weight: 400;
+ color: rgba(38, 38, 38, 1);
+ line-height: 22px;
+ }
+
+ .phoneTipsNewBarIcon {
+ box-sizing: content-box;
+ margin-left: 0!important;
+ margin-right: 0!important;
+ height: 34px;
+ width: 40px;
+ background-color: #b7c5ca;
+ color: #FFFFFF;
+ font-size: 12px;
+ line-height: 36px;
+ overflow: hidden;
+ }
+</style>
+<script type="text/javascript">
+ function showphone() {
+ jQuery("#iconPhoneSelect").css({ "backgroundColor": "#59a9c6" });
+ jQuery("#phonetips").show();
+ }
+ function hidephone() {
+ jQuery("#iconPhoneSelect").css({ "backgroundColor": " #b7c5ca" });
+ jQuery("#phonetips").hide();
+ } 
+</script>
+ <div class="topnotice" style="background-color:#444444;">
+ <div class="noticemsg" style="width:1000px; color:#F0F0F0;"><span class="content"></span></div>
+ </div>
+ 
+ 
+<style type="text/css">
+ div.pageheader div.content{width:1200px!important;padding-top: 12px!important;}
+ div.pageheader div.content span.leftarea{width: 350px!important;height: 78px!important;}
+ div.pageheader31 div.headerbg .pageheader {
+ height: 105px!important;
+ width: 100%!important;
+ overflow: inherit!important;
+ border-bottom: solid #dddddd 1px;
+ }
+ div.pageheader31 div.headerbg .pagenav{background: #fff!important;}
+ div.pageheader31 div.headerbg div.navbar_default {
+ line-height: 40px!important;
+ height: 40px!important;
+ margin-top: 0px!important;
+ width: 100%!important;
+ background: none!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li.mouseover a {
+ background: none!important;
+ font-size: 16px!important;
+ display: block!important;
+ height: 38px!important;
+ line-height: 40px!important;
+ text-align: center!important;
+ color: #e60012!important;
+ border-bottom: 2px solid #e60012!important;
+ }
+ div.pageheader31 div.headerbg div.navbar_default ul li.leftround{width:20px!important;}
+ div.pageheader31 div.headerbg div.navbar_default ul li.mouseover {
+ background: none!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li {
+ padding-left: 0px!important;
+ height: 40px!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li a {
+ font-size: 16px!important;
+ color: #333!important;
+ height: 40px!important;
+ line-height: 40px!important;
+ text-align: center!important;
+ padding: 0px!important;
+ margin-top: 0px!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li:hover {
+ background: none!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li:hover > a {
+ background: none!important;
+ font-size: 16px!important;
+ display: block!important;
+ height: 38px!important;
+ line-height: 40px!important;
+ text-align: center!important;
+ color: #e60012!important;
+ border-bottom: 2px solid #e60012!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul {
+ height: 40px!important;
+ line-height: 40px!important;
+ width:1200px!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li.seperate {
+ width: 60px!important;
+ background: none!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li.morehover .blockmore .c_navmorediv1 a {
+ font-size: 14px!important;
+ color: #333!important;
+ line-height: 15px!important;
+ font-weight: bold!important;
+ height: 22px!important;
+ padding: 0px!important;
+ width: auto!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li.morehover {
+ width: 60px!important;
+ }
+
+ div.pageheader31 .headerbg .accounthover .accountpanel {
+ top: 46px!important;
+ }
+
+ div.pageheader31 .headerbg .accounthover .accountpanel div.creditstoday {
+ background-color: #e60012!important;
+ top: 40px!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li.morehover a.linkmore {
+ height: 38px!important;
+ line-height: 38px!important;
+ color: #FFF!important;
+ width: 60px!important;
+ border: 1px solid #e60012!important;
+ background-color: #e60012!important;
+ background-image: none!important;
+ }
+
+ div.pageheader31 div.navbar_default ul li.more a.linkmore {
+ width: 60px!important;
+ height: 35px!important;
+ background-position: right 13px!important;
+ }
+
+ div.pageheader31 .headerbg .pagenav .msgareahover .info {
+ height: 49px!important;
+ }
+ div.pageheader31 .headerbg .pagenav .account{height:40px!important;margin-top:5px!important;}
+ div.pageheader31 .headerbg .pagenav .msgarea,div.pageheader31 .headerbg .pagenav .stayarea{margin-top:5px!important;}
+ div.pageheader31 .headerbg .pagenav .msgareahover div.dvnumberbg {margin-top: 3px!important;margin-left:1px!important;}
+ div.pageheader31 .headerbg .pagenav .msgareahover .info .iconnotic_new,div.pageheader31 .headerbg .pagenav .msgareahover .info .iconnotic_new {margin-top: 10px!important;}
+ div.pageheader31 .headerbg .pagenav .msgareahover .noticpanel {
+ top: 49px!important;
+ }
+
+ div.pageheader31 .headerbg .accounthover .accountblick1 {
+ height: 48px!important;
+ font-size: 14px!important;
+ color: #FFF!important;
+ line-height: 44px!important;
+ background-image: none!important;
+ background-color: #e60012!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li.morehover .blockmore {
+ top: 40px!important;
+ }
+
+ div.pageheader31 div.headerbg div.navbar_default ul li a.linkmore {
+ font-style: normal!important;
+ padding:0px!important;
+ }
+
+ div.dvnumberbg {
+ margin-top: 0px!important;
+ background: url(https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/Classic/fine/css/images/tallnew.png) no-repeat right -17px!important;
+ }
+
+ div.pageheader31 .headerbg .pagenav .msgarea div.dvnumberbg {
+ margin-top: 0px!important;
+ background: url(https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/Classic/fine/css/images/tallnew.png) no-repeat right -17px!important;
+ }
+ div.dvnumberbg span.number3,div.pageheader31 .headerbg .pagenav .msgarea div.dvnumberbg span.number,div.pageheader30 .headerbg .header .msgarea div.dvnumberbg span.number,div.dvnumberbg span.number1,div.pageheader31 .headerbg .pagenav .msgareahover div.dvnumberbg span.number {
+ background: url(https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/Classic/fine/css/images/tallnew.png) no-repeat 0 0!important;
+ margin-left: -5px;
+ }
+
+ .tips ul li {
+ cursor: pointer;
+ }
+
+ div.pageheader31 .headerbg div.pageheader div.content span.rightarea {width: 850px!important;float:left!important; overflow: inherit!important;}
+
+ .s-text-input {
+ width: 286px;
+ height: 50px;
+ line-height: 50px;
+ overflow: hidden;
+ float: left;
+ margin-top: 0px;
+ margin-left: 280px;
+ }
+ .s-search {
+ width: 250px;
+ height:38px;
+ float: left;
+ text-indent:20px;
+ border: solid #dddddd 1px;
+ border-right: none;
+ }
+ .search-btn{
+ display: block;
+ width: 35px;
+ height : 40px;
+ line-height: 50px;
+ overflow: hidden;
+ float: right;
+ background: #e60012;
+ border: none;
+ color: #fff;
+ font-size: 18px;
+ text-align: center;
+ cursor: pointer;
+ }
+ .icons-search {
+ display:block;
+ background: url('https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/Classic/13438978894/css/images/s-icon.png') no-repeat -54px -37px;
+ width: 21px;
+ height: 24px;
+ margin:8px auto;
+ }
+
+ .fl{float:left;}
+ div.pageheader31 div.headerbg div.navbar_default ul li.morehover a.linkmore{background: #e60012!important;}
+
+</style>
+ 
+<script type="text/javascript">
+ function showEventWaitHandlePanel(a) {
+ if (a == "1") {
+ 
+ //待办事项图标闪烁用
+ var txtType01 = 'SiteMessageForItemIco';
+ var arr01 = '{"key":"' + txtType01 + '"}';
+ //异步保存Session
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/Services/MyIndexService.svc/SaveSessionLoginStringForItemIco",
+ data: arr01,
+ dataType: 'json',
+ cache: false,
+ success: function (result) {
+ if (result == "ok") {
+ $("#sWait").attr("class", "iconnotic_new");
+ }
+ }
+ });
+ }
+ var Value = document.getElementById("WaitToDoMessage").value;
+
+ if (jQuery("#dvDaibanShiyi").is(":hidden")) {
+
+ var left = (jQuery(document).width() - 835) / 2;
+ var top = (jQuery(window).height() - 403) / 2;
+
+ jQuery("#dvDaibanShiyi").css("top", top + "px").css("left", left + "px").show();
+ var a = Value.indexOf("@");
+ var str;
+ if (a == -1) {
+ str = Value.split("|");
+ }
+ else {
+ var str1 = Value.substring(0, a);
+ str = str1.split("|");
+ }
+ if (str.length == 13) {
+ //2&管理员|1|1|5|0|上午好|1|0|0|0|0|0|0
+ //返回string类型以‘|’分割 目前包含需要13个数据
+ //前面数字表示获取内容的顺序，用Str[XX]获取时需要减1
+ //1：用户名（已过时，不用了） 2：用户上传的知识数（0为没有上传过）
+ //3：该用户30天内上传的知识数（0为没有上传）
+ //4：待审核的知识数（0为不需要审核）
+ //5：已延迟的学习任务数量 6:根据当前时间获取问候语（上午，下午，晚上好）
+ //7：是否上传过头像（0为未上传，1为上传）
+ //8：是否安装客户端（0为未安装）
+ //9：下属员工未完成的任务数量
+ //10：未指派过任务的下属员工数量
+ //11：下属员工30天未分享过知识的数量
+ //12：下属员工7天登入的个数
+ //13：下属员工未安装移动客户端的
+ jQuery("#WhatTimeNow").html(str[5]);
+ var isCount = 0; //判断时候需要显示全部完成的Li
+ var isShowCount = 1; //判断每一个Li前面显示的数字，所以此JS内顺序不能更换
+ //做一个有头有脸的人物，从头像做起。赶快上传自己的头像吧！6
+ if (str[1] != "0") {
+ jQuery("#FirstShareKNG").hide();
+ isCount = isCount + 1;
+ }
+ else {
+ jQuery("#FirstShareKNG").show();
+ jQuery("#markcount2").html(isShowCount);
+ isShowCount = isShowCount + 1;
+ }
+ if (str[4] == "0") {
+ jQuery("#StudyPlanKNG").hide();
+ isCount = isCount + 1;
+ }
+ else {
+ jQuery("#StudyPlanKNG").show();
+ jQuery("#PassStudyPlan").html(str[4]);
+ jQuery("#markcount3").html(isShowCount);
+ isShowCount = isShowCount + 1;
+ }
+ if (str[3] == "0") {
+ jQuery("#WaitCkeck").hide();
+ isCount = isCount + 1;
+ }
+ else {
+ jQuery("#WaitCheckCount").html(str[3]);
+ jQuery("#WaitCkeck").show();
+ jQuery("#markcount4").html(isShowCount);
+ isShowCount = isShowCount + 1;
+ }
+ //您已经一个月未分享过任何东东了，立即加入分享的队伍吧！2
+// if (str[7] == "0") {
+// jQuery("#InstallationApps").show();
+// jQuery("#markcount6").html(isShowCount);
+// isShowCount = isShowCount + 1;
+// }
+// else {
+// jQuery("#InstallationApps").hide();
+// isCount = isCount + 1;
+// }
+ //个学习任务未按时完成！8
+ //名员工从来没有指派学习任务，立即去指派！9
+ //名员工已超过30天没有分享任何知识！10
+ if (str[11] == "0") {
+ jQuery("#LeaderNotLoginIn").hide();
+ isCount = isCount + 1;
+ }
+ else {
+ jQuery("#LeaderNotLoginIn").show();
+ jQuery("#LeaderNotLoginInText").html(str[11]);
+ jQuery("#markcount10").html(isShowCount);
+ isShowCount = isShowCount + 1;
+ }
+// if (str[12] == "0") {
+// jQuery("#LeaderNotInstallationApps").hide();
+// isCount = isCount + 1;
+// }
+// else {
+// jQuery("#LeaderNotInstallationApps").show();
+// jQuery("#LeaderNotInstallationAppsText").html(str[12]);
+// jQuery("#markcount11").html(isShowCount);
+// isShowCount = isShowCount + 1;
+// }
+ if (isCount != 4) {
+ jQuery("#NoWaitPlanToDo").hide();
+ jQuery("#ShowAttention").show();
+ }
+ else {
+ jQuery("#NoWaitPlanToDo").show();
+ }
+ }
+ }
+ }
+ function closeDaibanShiyi() {
+ jQuery("#dvDaibanShiyi").hide();
+ }
+ function SearchUsersWithNew(a) {
+ if (a == "NotShareKnowledgeWithNew") {
+ addFilter("dvFilter1", "603");
+ jQuery("#spnotice01").html(jQuery.i18n.map['sys_lbl_sendmessageremind'])
+ jQuery("#sptitle01").html(jQuery.i18n.map['sys_lbl_reminder'])
+ jQuery("#txtPress01").val(jQuery.i18n.map['sys_lbl_immediatelyjoinshare'])
+ jQuery("#hidsendtype01").val("NotShareKnowledgeWithNew");
+ GetDataByLabelEName("pnl_employeenotloginInfo01", "WaitToDoRelatedPage", 0, 0, "type", "NotShareKnowledgeWithNew", null);
+ }
+ if (a == "WeekNotLoginWithNew") {
+ addFilter("dvFilter1", "603");
+ jQuery("#spnotice01").html(jQuery.i18n.map['sys_lbl_sendmessageremind'])
+ jQuery("#sptitle01").html(jQuery.i18n.map['sys_lbl_reminder'])
+ jQuery("#txtPress01").val(jQuery.i18n.map['sys_lbl_loginnow'])
+ jQuery("#hidsendtype01").val("WeekNotLoginWithNew");
+ GetDataByLabelEName("pnl_employeenotloginInfo01", "WaitToDoRelatedPage", 0, 0, "type", "WeekNotLoginWithNew", null);
+ }
+ if (a == "AppsNoInstallation") {
+ addFilter("dvFilter1", "603");
+ jQuery("#spnotice01").html(jQuery.i18n.map['sys_lbl_sendmessageremind'])
+ jQuery("#sptitle01").html(jQuery.i18n.map['sys_lbl_reminder'])
+ jQuery("#txtPress01").val(jQuery.i18n.map['sys_lbl_installedmobile'])
+ jQuery("#hidsendtype01").val("AppsNoInstallation");
+ GetDataByLabelEName("pnl_employeenotloginInfo01", "WaitToDoRelatedPage", 0, 0, "type", "AppsNoInstallation", null);
+ }
+ }
+ //发送消息
+ function sendMessageWithNewLj() {
+ var isself = false;
+ if (jQuery("#chbPressToMe01").prop("checked")) {
+ isself = true;
+ }
+ else {
+ isself = false;
+ }
+ var ShowMessage="";
+ var type = jQuery("#hidsendtype01").val();
+ if (type == "AppsNoInstallation") {
+ ShowMessage = jQuery.i18n.map['sys_lbl_promptsend']; 
+ }
+ else {
+ ShowMessage = jQuery.i18n.map['sys_lbl_remindermessagesend'];
+ }
+ var content = jQuery("#txtPress01").val();
+ var arr = '{"orgID":"35a1eb12-7592-48a2-9688-1563ccb6d2f5","userID":"49b04dcc-4796-437d-ba87-4a8eebf9a22c","cnName":"李杭燃","content":"' + content + '","type":"' + type + '","isself":"' + isself + '"}';
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/Services/CommonService.svc/SendStatisticMessage",
+ data: arr,
+ dataType: 'json',
+ cache: false,
+ success: function (result) {
+ showMsgSuccessPanel(jQuery('#dvnotice01'), ShowMessage);
+ jQuery("#dvnotice01").hide();
+ },
+ error: function (XMLHttpRequest, textStatus, errorThrown) {
+ }
+ });
+ }
+ //关闭提醒窗口
+ function closeEmpPop3WithNewLj() {
+ jQuery("#dvnotice01").hide();
+ }
+ //打开提醒窗口
+ function openDivNoticeWithNew() {
+ var left = (jQuery(document).width() - 500) / 2;
+ var top = (jQuery(window).height() - 257) / 2;
+ jQuery("#dvnotice01").css("top", top + "px").css("left", left + "px").show();
+ addFilter("dvFilter1","603");
+ }
+</script>
+<div id="pnl_employeenotloginInfo01" class=""></div>
+<input type="hidden" id="hidsendtype01"> 
+
+
+<div id="dvnotice01" class="sendmsgpanel" style="position: fixed; display: none;z-index:604;height:230px;">
+ <div class="buttonarea" style="width:490px;">
+ <div class="floatleft">
+ <input id="chbPressToMe01" class="checkboxsplit" type="checkbox"><label id="lblCopyToMe" for="chbCopyToMe" data-localize="sys_lbl_samecopy">同时抄送一份给我</label>
+ </div>
+ <div class="floatright">
+ <input type="button" class="btnselect" data-localize="common_btn_confirm" onclick="sendMessageWithNewLj();" value="确认">
+ <input type="button" class="btncancel" data-localize="common_btn_close" onclick="closeEmpPop3WithNewLj();" value="关闭">
+ </div>
+ </div>
+ <div class="head"><span id="spnotice01">-</span></div>
+ <div class="row"><span class="radstar">*</span><span id="sptitle01">-</span></div>
+ <div class="body datalistsection"><textarea id="txtPress01" class="textarea color4" style="font-size:12px;" rows="3"></textarea></div>
+</div>
+<div class="eventhandlepan" style="position:fixed; z-index:601">
+ <div class="backlog" id="dvDaibanShiyi" style="display:none;position:absolute; z-index:601;">
+ <input type="button" id="close" onclick="closeDaibanShiyi()" value="">
+ <div class="backlogheader clearfix">
+ <label data-localize="sys_lbl_importanttodo">重要待办事项</label> <span><span id="WhatTimeNow"></span>，<span id="WaitHandle_UserName">李杭燃</span><span id="ShowAttention" class="hiddenelement">，<label data-localize="sys_lbl_matterattend">以下重要事项需要您关注哦</label></span>。</span></div>
+ <div id="dvBacklogContent" style="padding:0px 20px;">
+ <div class="backlogcontent">
+ <div class="backlogleft">
+ <ul> 
+ <!-- 学习使人有趣，分享令人快乐，去分享一个知识试试吧！ -->
+ <li id="FirstShareKNG" class="hiddenelement"><span id="markcount2" class="markcount">0</span> <p data-localize="sys_lbl_trytoshareaknowledge">学习使人有趣，分享令人快乐，去分享一个知识试试吧！</p><a class="btnshare" href="/kng/myshared.htm" data-localize="sys_btn_shareitnow">立即分享</a></li>
+ <!-- 您有{0}个学习任务，即将或已延迟，赶快去学习完成它们吧！ -->
+ <li id="StudyPlanKNG" class="hiddenelement"><span id="markcount3" class="markcount">0</span> <p>您有<span class="colorye" id="PassStudyPlan">0</span>个学习任务，即将或已延迟，赶快去学习完成它们吧！</p><a class="btnshare" href="/sty/mystudytask.htm" data-localize="sys_btn_learnnow">立即学习</a></li>
+ <!-- 有{0}个知识等您审核哦！ -->
+ <li id="WaitCkeck" class="hiddenelement"><span id="markcount4" class="markcount">0</span> <p>有<span class="colorye" id="WaitCheckCount">0</span>个知识等您审核哦！</p><a class="btnshare" href="/kng/kngcheck.htm" data-localize="sys_btn_reviewnow">立即审核</a></li>
+ <!-- 安装移动客户端，可以随时随地的轻松观看视频、文档，赶快去安装吧 -->
+ <!-- <li id="InstallationApps" class="hiddenelement"><span id="markcount6" class="markcount">0</span> <p data-localize="sys_lbl_quicklygoinstallit"></p><a class="btnshare" href="/mobileinstall.htm" data-localize="sys_btn_installnow"></a></li>-->
+
+ <!-- 您部门中有17人已经7天未登入平台学习了！ -->
+ <li id="LeaderNotLoginIn" class="hiddenelement"><span id="markcount10" class="markcount">0</span> <p>有<span class="colorye" id="LeaderNotLoginInText">0</span>名员工最近7天未登入学习了！</p><a class="btnshare" onclick="SearchUsersWithNew('WeekNotLoginWithNew')" data-localize="sys_btn_seewho">看看是谁</a></li>
+ <!-- 您部门中还有5人未安装客户端，请催促他们尽快安装。 -->
+ <!--<li id="LeaderNotInstallationApps" class="hiddenelement"><span id="markcount11" class="markcount">0</span> <p data-localizeph="sys_lbl_installtheclientassoonaspossible"><label><span class="colorye" id="LeaderNotInstallationAppsText">0</span></label></p><a class="btnshare" onclick="SearchUsersWithNew('AppsNoInstallation')" data-localize="sys_btn_urgednow"></a></li>-->
+ <li id="NoWaitPlanToDo" class="hiddenelement CompleteShow"><p data-localize="sys_lbl_everythingok">一切都已搞定，暂无待办事项。</p></li>
+ </ul>
+ </div>
+ </div>
+ </div>
+ </div>
+</div>
+
+
+
+<script type="text/javascript">
+ function redirectIndex() {
+ window.location = "/MyHome/MyIndex.ashx";
+ }
+</script>
+<script type="text/javascript">
+ function OpenUrl(url) {
+ window.open(url);
+ }
+
+ function LocationUrl(url) {
+ window.location.href = url;
+ }
+
+</script>
+
+<div class="eventhandlepan">
+ <div class="onlineremind" style="display: none; position: fixed;" id="ShowMessage">
+ <div class="header">
+ 在线消息提醒<input type="button" value="" onclick="CloseShowMessage()"></div>
+ <div class="onlinecontent" id="MsgTitle">
+ <span><a href="">亲，您有一个新消息到达！</a></span>
+ <p>
+ <a href="">陈晓祥浏览了您分享的课程【培训机构产品DEMO讲解及讨论】<span>点击查看&gt;&gt;</span></a></p>
+ </div>
+ <div class="onlinefooter">
+ <input id="btn1" type="button" onclick="CloseShowMessage()" value="我知道了">&nbsp;&nbsp;<input type="checkbox" onclick="SetRemindTime(this)">最近一周不要提醒我
+ </div>
+ </div>
+</div>
+
+<div class="pageheader31">
+ <div class="headerbg">
+ <div style="display: block;" id="divPageHeader" class="pageheader">
+ <script type="text/javascript">
+ function redirectIndex() {
+ window.location = "http://" + window.location.host;
+ }
+ </script>
+ <div class="content">
+ <span onclick="redirectIndex();" style="background-image: url('https://picobd.yunxuetang.cn/sys/13601042801/images/201811/bccb7d88ab1747bd8e3b854d254f27c7.png?r=87729514');
+ cursor: hand;" class="leftarea"></span>
+ <span class="rightarea clearfix">
+ <div class="s-text-input">
+ <input type="text" placeholder="请输入您需要搜索的知识" class="s-search" id="txtKeyword" onkeydown="enterToSearch(event);">
+ <div class="search-btn" id="btnKnowledgeSearch" onclick="doKnowledgeSearch();">
+ <i class="icons-search"></i>
+ </div>
+ </div>
+
+ <div class="pagenav clearfix" style="float: right;width: 250px;background: none!important;">
+
+ <div class="account" onmouseover="changeHoverStyleForHidDiv(this,'account')">
+ <div class="accountblick">
+ <span class="iconaccount">&nbsp;</span>
+ <span title="李杭燃">李杭燃</span>
+ </div>
+ <div class="accountblick1">
+ <span title="李杭燃">李杭燃</span>
+ <span class="downicon">&nbsp;</span>
+ </div>
+ <div class="accountpanel" id="divUserNameAreaInfo" style="min-height: 457px">
+ 
+
+
+
+<style type="text/css">
+ div.pageheader31 .headerbg .accounthover .accountpanel div.creditstoday span.creditnumnew {
+ font-size: 15px;
+ color: #FFFF00;
+ }
+ div.pageheader30 .headerbg .accounthover .accountpanel div.creditstoday span.creditnumnew {
+ font-size: 15px;
+ color: #FFFF00;
+ }
+</style>
+<div id="divUserNameAreaInfo">
+ <div class="row clearfix">
+ <div class="creditstoday clearfix">
+ <div style="width: 120px; height: 65px; float: left; margin-right: 10px;">
+ <div style="margin-bottom: 20px;">
+ <label data-localize="sty_lbl_today">今日</label>学分</div>
+ <a href="/study/mylearningpoingts.htm">
+ <span id="UserDayScores1" class="creditnum">0</span><span id="UserDayScores2" class="creditnumdecimalpart">.70</span>
+ </a>
+ </div>
+ <div style="width: 150px; height: 65px; float: left;">
+ <div style="margin-bottom: 20px;">
+ <label data-localize="common_lbl_todayrank">今日等级</label>积分</div>
+ <a href="/study/mygradeintegral.htm">
+ <span id="UserDayPoint1" class="creditnum">20</span><span id="UserDayPoint2" class="creditnumdecimalpart">.00</span>
+ </a>
+ </div>
+ <div class="topright" style="float: left;">
+ <div class="logout">
+ <a href="/Logout.ashx" data-localize="kng_btn_dropout">退出</a>
+ </div>
+ </div>
+ </div>
+ </div>
+<div class="row clearfix">
+ <div class="cumulativecredit">
+ <div class="cumulativetime clearfix">
+ <div class="timeitem"><label>本月学分</label> </div>
+ <div class="timeitem"><label>本年学分</label></div>
+ <div class="timeitem"><label>本年要求学分</label></div>
+ </div>
+ <div class="cumulativenum clearfix">
+ <div id="UserMonthScores" class="numitem">62.20</div>
+ <div id="UserTotalScores" class="numitem">431.15</div>
+ <div id="UserNeedScores" class="numitem yeartotal">50.00</div>
+ </div>
+ </div>
+</div>
+<div id="levInfoDiv" class="row btmborder clearfix" style="border:0;">
+ <div class="mycurrentcredit">
+ <label>我的等级积分：<span class="totaldegreecredit UserPoint">1,070.00</span>分</label>
+ </div>
+ <div class="memberdegree">
+ <div id="LevelNo" class="fontnumber degreenumber">
+ 2</div>
+ <div id="LevelName" class="degreename">
+ 入门新手</div>
+ </div>
+ <div class="degreerate clearfix">
+ <div><label data-localize="sty_lbl_upgrade">距升级还差</label>：<span id="LearnScores" class="creditremain">930.00</span><span>积分</span></div> 
+ <div class="progress">
+ <span class="progressbar" style=" width:7.00%">&nbsp;</span>
+ </div> 
+ </div>
+ <div class="nextdegree">
+ <div id="UpLevel" class="nextdegreenum">3</div> 
+ <div id="UpLevelName" class="nextdegreename">起步熟手</div>
+ </div> 
+ </div>
+
+<div class="row btmborder clearfix">
+ <div class="msglist clearfix">
+ <div class="msgitem studyhistory"><a href="/apps/sty/mystudyhistoyimageinfonew.htm">学习历史</a></div>
+ <div class="msgitem mycollection"><a href="/sty/myselfknowledge.htm">我的收藏</a></div>
+ <div class="msgitem mytask"><a href="/sty/mystudytask.htm">学习计划</a></div>
+ </div>
+</div>
+<div class="row btmborder clearfix">
+ <div class="personalset clearfix">
+ <div class="setitem changedata"><a href="/udp/personal/baseinfo.htm">基本资料</a></div>
+		<div class="setitem changepassword" style="width: 115px;"><a href="/udp/personal/accountsecurity.htm">账号安全</a></div> 
+ </div>
+</div>
+</div>
+
+
+<script type="text/javascript">
+ $(function () {
+ loadPropertiesForAsync("divUserNameAreaInfo");
+ });
+</script>
+ </div>
+ </div>
+ <input type="hidden" id="WaitToDoMessage" value="李杭燃|1|1|0|0|晚上好|1|1|0|0|0|0|0">
+ <div class="msgarea clearfix" onmouseover="showSiteMsgInfos(this,'msgarea')">
+ <div class="info">
+ <a href="/study/inbox.htm" target="_blank">
+ <span id="sMail" class="iconnotic_new">&nbsp;</span>
+ </a>
+ <div class="dvnumberbg hand">
+ <span class="number" id="lblSiteMessageCount">0</span>
+ </div>
+ </div>
+ <div class="noticpanel clearfix">
+ <div id="dvNewMsgTitle" class="row fontweightbold color4" style="display: none;">
+ 最新未读消息：</div>
+ <div id="dvSiteMessageInfos"><div class="emptyusermsg"></div><div class="emptyusertext">您暂时还没收到新的消息哦！</div></div>
+ <div id="dvNewMsgBottom" class="clearfix">
+ <div class="showall" style="padding-right: 80px;">
+ <a href="/study/inbox.htm" target="_blank">
+ 查看全部&gt;&gt;</a>
+ </div>
+ <span class="iconread">
+ <a href="#" onclick="UpdateIsReadByUserID();">全部标记为"已读"</a>
+ </span>
+ <div class="subscription" style="display:none;">
+ <a href="/usm/msgandattention/sysmsgsubscription.htm" target="_blank">订阅设置</a>
+ </div>
+ </div>
+ </div>
+ </div>
+ <script type="text/javascript">
+ $(function () {
+ $("#lblSiteMessageCount").text(0|0);
+ //加载站内信信息
+ InitMsgInfo();
+ //获取通知数量
+ var GetCountmethodName = 'GetWaitHandleMessage';
+ var arr = {};
+ AjaxAsyncCallMethod(GetCountmethodName, "",
+ function (result) {
+ var str = result.split("&");
+ if (str.length == 2) {
+ jQuery("#lblNoticCount").html(str[0]);
+ document.getElementById("WaitToDoMessage").value = str[1];
+
+ //控制待办事项闪烁
+ var isShiny = "False";
+ if (isShiny != "True") {
+ if (str[0] > 0) {
+ //待办图标闪烁
+ $("#sWait").attr("class", "iconnotic_active");
+ }
+ }
+ else {
+ if (str[0] > 0) {
+ var a = str[1].indexOf("@");
+ var str2 = str[1].substring(a + 1);
+ if (str2 > 0) {
+ var addCount = str[0] - str2;
+ if (addCount >= 1) {
+ $("#sWait").attr("class", "iconnotic_active");
+ }
+ }
+ }
+ }
+ //控制站内信图标闪烁
+ var isMail = "False";
+ if (isMail != "True") {
+ if (0|0 > 0) {
+ //站内信图标闪烁
+ $("#sMail").attr("class", "iconnotic_active");
+ }
+ }
+ else {
+ var s = "0|0";
+ var str = s.indexOf("|");
+ if (str != -1) {
+ var str2 = s.split("|");
+ $("#lblSiteMessageCount").text(str2[0]);
+ var addCount = str2[0] - str2[1];
+ if (addCount >= 1) {
+ $("#sMail").attr("class", "iconnotic_active");
+ }
+ else {
+ $("#lblSiteMessageCount").text(0|0);
+ }
+ }
+ }
+ }
+ }, true, true, false);
+ setTimeout("ShowPromptMessage() ", 5000);
+ });
+
+
+ //执行知识搜索
+ function doKnowledgeSearch() {
+ var txt = new RegExp("[\\`,\\~,\\!,\\@,\\$,\\%,\\^,\\+,\\*,\\&,\\,\\/,\\?,\\|,\\:,\\<,\\>,\\{,\\},\\(,\\),\\',\\;,\\=,\"]");
+ var url = "";
+ var kw = jQuery.trim(jQuery("#txtKeyword").val());
+ if (kw == "请输入关键字" || kw == "") {
+ showWarningMsg("请输入要查找的关键字。");
+ return false;
+ }
+ else if (kw.length < 2) {
+ showWarningMsg("输入的关键字需超过一个字，请确认您输入的查询关键字。");
+ return false;
+ }
+ else if (kw.length > 30) {
+ showWarningMsg("输入的关键字最多允许30个字符，请确认您输入的查询关键字。");
+ return false;
+ }
+ else if (txt.test(kw)) {
+ showWarningMsg("输入的关键字中包含非法字符:,`~!@$%^+&*\\/?|:<>{}()[]\"。");
+ return false;
+ }
+ else {
+ url = "/search/index.htm?kw=" + escape(kw);
+ }
+
+ window.location = url;
+ }
+
+ //回车后直接搜索
+ function enterToSearch(e) {
+ var ev=jQuery.event.fix(e);
+ if (ev.which == 13) {
+ document.getElementById("btnKnowledgeSearch").click();
+ //return false;
+ }
+ /*if (event.keyCode == 13) {
+ event.keyCode = 9;
+ document.getElementById("btnKnowledgeSearch").click();
+ return false;
+ }*/
+
+ }
+
+ function ShowPromptMessage() {
+ var arr = '{}';
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/Services/CommonService.svc/GetShowPromptMessage",
+ data: arr,
+ dataType: 'json',
+ cache: false,
+ success: function (result) {
+ if (result != null) {
+ var str = result.split("|");
+ if (str.length == 2) {
+ if (str[0] != "0") {
+ if (str[1] != "0") {
+ var vr = "<span><a href='" + str[1] + "'>亲，您有一个新消息到达！</a></span><p><a href='" + str[1] + "'>" + str[0] + "<span>点击查看>></span></a></p>"
+ jQuery("#MsgTitle").html(vr);
+ }
+ else {
+ var vr = "<span>亲，您有一个新消息到达！</span><p>" + str[0] + "<span></span></p>"
+ jQuery("#MsgTitle").html(vr);
+ }
+ jQuery("#ShowMessage").css("bottom", "0px").css("right", "0px").slideToggle("slow");
+ }
+ }
+ }
+ }
+ });
+ }
+
+ function SetRemindTime(sender) {
+ var flag = "y";
+ if (jQuery(sender).prop("checked")) {
+ //设置一周不提醒
+ } else {
+ //取消设置提醒
+ flag = "n";
+ }
+ var arr = '{"flag":"' + flag + '"}';
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/Services/MyIndexService.svc/SetRemindTime",
+ data: arr,
+ dataType: 'json',
+ cache: false,
+ success: function (result) {
+ if (result != "ok") {
+ ShowWarningMessage("设置失败。");
+ }
+ }
+ });
+
+
+
+ }
+
+ function CloseShowMessage() {
+ jQuery("#ShowMessage").hide();
+ setTimeout("ShowPromptMessage() ", 5000);
+ }
+
+ function InitMsgInfo() {
+ // 异步去取数据
+ var methodName = 'GetUserSiteMessage';
+ var txtType = 'SiteMessage';
+ var arr = '{"type":"' + txtType + '"}';
+ AjaxAsyncCallMethod(methodName, arr,
+ function (result) {
+ var obResult = eval("(" + result + ")");
+ var dvSiteMessageInfos = jQuery("#dvSiteMessageInfos");
+ if (dvSiteMessageInfos.html().indexOf("正在努力加载数据，请稍候...") >= 0) {
+ // 抓到数据后
+ loadNoticData(dvSiteMessageInfos, obResult);
+ }
+ }, true, true, true);
+ }
+
+
+ var tmrShowSiteMsgInfos = null;
+ function showSiteMsgInfos(sender, className) {
+ if (tmrShowSiteMsgInfos) {
+ window.clearTimeout(tmrShowSiteMsgInfos);
+ }
+ jQuery(sender).attr("class", className + "hover");
+
+ jQuery(sender).one("mouseout", function () {
+ tmrShowSiteMsgInfos = window.setTimeout(function () {
+ jQuery(sender).attr("class", className);
+ }, 500);
+ });
+
+
+ //站内信图标闪烁用
+ var txtType01 = 'SiteMessageForMailIco';
+ var arr01 = '{"key":"' + txtType01 + '"}';
+ //异步保存Session
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/Services/MyIndexService.svc/SaveSessionLoginStringForMailIco",
+ data: arr01,
+ dataType: 'json',
+ cache: false,
+ success: function (result) {
+ if (result == "ok") {
+ $("#sMail").attr("class", "iconnotic_new");
+ }
+ }
+ });
+ }
+
+
+ //鼠标移上去显示
+ function divMousehover(sender) {
+ jQuery(sender).find(".timer").hide();
+ jQuery(sender).find(".timer1").show();
+ jQuery(sender).one("mouseout", function () {
+ jQuery(this).find(".timer").show();
+ jQuery(this).find(".timer1").hide();
+ });
+ }
+
+ //异步把收件箱中未读的消息全部设置为已读
+ //创建人：张林
+ //时间：2014年5月27日12:54:05
+ function UpdateIsReadByUserID() {
+ var methodName = 'UpdateIsReadByUserID';
+ arr = {};
+ AjaxAsyncCallMethod(methodName, arr,
+ function (result) {
+ var obResult = "";
+ if (result > 0) {
+ clearAllMsg();
+ }
+ }, false, true, true);
+ }
+
+ //全部标记已读后清空JS
+ function clearAllMsg() {
+ var dvSiteMessageInfos = jQuery("#dvSiteMessageInfos");
+ var lblSiteMessageCount = jQuery("#lblSiteMessageCount");
+ var dvNewMsgTitle = jQuery("#dvNewMsgTitle");
+ divHtml = '<div class="emptyusermsg"></div><div class="emptyusertext">您暂时还没收到新的消息哦！</div>';
+ dvSiteMessageInfos.html(divHtml);
+ lblSiteMessageCount.html("0");
+ dvNewMsgTitle.html("");
+ }
+
+ //单个删除后数量减1JS
+ function clearOneMsg() {
+ divHtml = '<div class="emptyusermsg"></div><div class="emptyusertext">您暂时还没收到新的消息哦！</div>';
+ var dvSiteMessageInfos = jQuery("#dvSiteMessageInfos");
+ var dvNewMsgTitle = jQuery("#dvNewMsgTitle");
+ var lblSiteMessageCount = jQuery("#lblSiteMessageCount");
+ var msgCount = jQuery("#lblSiteMessageCount").html();
+ if (msgCount > 0) {
+ lblSiteMessageCount.html(msgCount - 1);
+ }
+ else {
+ dvSiteMessageInfos.html(divHtml);
+ lblSiteMessageCount.html("0");
+ dvNewMsgTitle.html("");
+ }
+ }
+
+ function loadMsgInfo1() {
+ // 异步去取数据
+ var methodName = 'GetUserSingSiteMessage';
+ var txtType = 'SiteMessage';
+ var arr = '{"type":"' + txtType + '"}';
+ AjaxAsyncCallMethod(methodName, arr,
+ function (result) {
+ if (result == "") {
+ loadNoticData1(dvSiteMessageInfos, "");
+ }
+ else {
+ var obResult = eval("(" + result + ")");
+ var dvSiteMessageInfos = jQuery("#dvSiteMessageInfos");
+ if (dvSiteMessageInfos.html().indexOf("正在努力加载数据，请稍候...") >= 0) {
+ // 抓到数据后
+
+ }
+ loadNoticData1(dvSiteMessageInfos, obResult[0]);
+ }
+ }, false, true, true);
+ }
+
+ //异步删除收件箱中的消息
+ //创建人：张林
+ //时间：2014年5月27日15:12:03
+ function DeleteInboxMsg1(key, divId) {
+ var methodName = 'DeleteInboxMsg';
+ var arr = '{"key":"' + key + '"}';
+ AjaxAsyncCallMethod(methodName, arr,
+ function (result) {
+ if (result > 0) {
+ jQuery('#' + divId).hide();
+ clearOneMsg();
+ loadMsgInfo1();
+ }
+ }, false, true, true);
+ }
+
+ function loadNoticData(dv, obResult) {
+ var divHtml = '';
+ for (var i = 0; i < obResult.length; i++) {
+ divHtml += "<div id='div_" + obResult[i].ID + "' class='row clearfix' onmouseover='divMousehover(this);'><div class='floatleft' title='" + obResult[i].Title + "'><span class='iconpointpp2'>&nbsp;</span><a href='javascript:ShowMessageDetails(\"" + obResult[i].ID + "\");' >" + subStr(obResult[i].Title, 26) + "</a></div><div class='floatright color5 timer'>" + obResult[i].CreateTime + "</div><div class='floatright timer1 hiddenelement'><a href='javascript:UpdateInboxMsgIsRead(\"" + obResult[i].ID + "\",\"div_" + obResult[i].ID + "\");'>标记为已读</a>&nbsp;&nbsp;&nbsp;<a href='javascript:DeleteInboxMsg1(\"" + obResult[i].ID + "\",\"div_" + obResult[i].ID + "\");'>删除</a></div></div>";
+ }
+ if (divHtml == '') {
+ jQuery("#dvNewMsgTitle").hide();
+ divHtml = '<div class="emptyusermsg"></div><div class="emptyusertext">您暂时还没收到新的消息哦！</div>';
+ } jQuery(dv).html(divHtml);
+ }
+
+ function loadNoticData1(dv, obResult) {
+ var divHtml = '';
+ if (obResult) {
+ divHtml += "<div id='div_" + obResult.ID + "' class='row clearfix' onmouseover='divMousehover(this);'><div class='floatleft' title='" + obResult.Title + "'><span class='iconpointpp2'>&nbsp;</span><a href='javascript:ShowMessageDetails(\"" + obResult.ID + "\");' >" + subStr(obResult.Title, 26) + "</a></div><div class='floatright color5 timer'>" + obResult.CreateTime + "</div><div class='floatright timer1 hiddenelement'><a href='javascript:UpdateInboxMsgIsRead(\"" + obResult.ID + "\",\"div_" + obResult.ID + "\");'>标记为已读</a>&nbsp;&nbsp;&nbsp;<a href='javascript:DeleteInboxMsg1(\"" + obResult.ID + "\",\"div_" + obResult.ID + "\");'>删除</a></div></div>";
+ if (divHtml == '') {
+ jQuery("#dvNewMsgTitle").hide();
+ divHtml = '<div class="emptyusermsg"></div><div class="emptyusertext">您暂时还没收到新的消息哦！</div>';
+ }
+ jQuery(dv).append(divHtml);
+ }
+ }
+
+ //更新收件箱消息为已读
+ //创建人：张林
+ //时间：2014年5月27日15:35:21
+ function UpdateInboxMsgIsRead(key, divId) {
+ var methodName = 'UpdateInboxMsgIsRead';
+ var arr = '{"key":"' + key + '"}';
+ AjaxAsyncCallMethod(methodName, arr,
+ function (result) {
+ if (result > 0) {
+ jQuery('#' + divId).hide();
+ clearOneMsg();
+ loadMsgInfo1();
+ }
+ }, false, true, true);
+ }
+
+ function subStr(txt, index) {
+ var txtSub = txt;
+ if (index > 0 && txt.length > 26) {
+ txtSub = txt.substring(0, 26) + "...";
+ }
+ return txtSub;
+ }
+
+ function ShowMessageDetails(id) {
+ var url = "/message/messagedetail.htm";
+ if (url.indexOf("?") > -1) {
+ url += "&";
+ }
+ else {
+ url += "?";
+ }
+ window.location.href = url + 'ID=' + id + '&OP=Edit&MsgSourceType=InBox';
+ }
+
+ //用户账号信息
+ function changeHoverStyleForHidDiv(sender, className) {
+ if (tmrShowSiteMsgInfos) {
+ window.clearTimeout(tmrShowSiteMsgInfos);
+ }
+ jQuery(".msgareahover").attr("class", "msgarea");
+ jQuery(sender).attr("class", className + "hover");
+ //异步去取用户账户相关信息
+ var methodName = 'GetUserClassLevelInfo';
+ arr = {};
+ AjaxAsyncCallMethod(methodName, arr,
+ function (result) {
+ var obResult = eval("(" + result + ")");
+ var dvAccountTeacher = jQuery("#dvAccountTeacher");
+ // 抓到数据后
+ loadTeacherData(dvAccountTeacher, obResult);
+ }, false, true, true);
+ jQuery(sender).one("mouseout", function () {
+ jQuery(this).attr("class", className);
+ });
+ }
+
+ //动态加载到页面
+ function loadTeacherData(dv, obResult) {
+ var divHtml = "";
+ if (obResult != null) {
+ divHtml = "<div class='pic'><img alt=" + obResult[0].CnName + " src=" + obResult[0].HeadPictureUrl + "></div><div class='info'><div class='row color3'>" + obResult[0].CnName + "<span class='color5'>&nbsp;" + obResult[0].UserName + "</span></div><div class='row color4 '><img alt=" + obResult[0].UserClassLevelName + " src=" + obResult[0].UserClassLevelImageUrl + " height='9'>&nbsp;&nbsp;" + obResult[0].UserClassLevelName + "</div><div class='row'><span class='color5'>" + obResult[0].AttentionCount + "</span>&nbsp;<span class='color4'>个关注</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style='color:#BBBBBB;'>|&nbsp;&nbsp;</span><span class='color5'>" + obResult[0].FansCount + "</span>&nbsp;<span class='color4'>个粉丝</span>&nbsp;&nbsp;&nbsp;&nbsp;<span style='color:#BBBBBB;'>|&nbsp;&nbsp;</span><span class='color5'>" + obResult[0].TotalUserPoints + "</span>&nbsp;<span class='color4'>个积分</span></div></div>";
+ }
+ jQuery(dv).html(divHtml);
+ }
+
+ </script>
+ <div class="stayarea clearfix hidden">
+ <div class="info">
+ <span id="sWait" class="iconnotic_new" onclick="showEventWaitHandlePanel('1')">&nbsp;</span>
+ </div>
+ <div class="dvnumberbg hand" onclick="showEventWaitHandlePanel('1')">
+ <span class="number3" id="lblNoticCount">0</span>
+ </div>
+ </div>
+ </div>
+ </span>
+
+
+ </div>
+ </div>
+ 
+ <div class="pagenav">
+ <div class="navbar_default clearfix">
+ <ul>
+ <li class="leftround"></li>
+ <li class="mouseover">
+ <a id="hylIndex0" href="/ilexuehome.htm" target="_self">首页</a>
+ </li>
+ <li class="seperate">&nbsp;</li>
+ <li>
+ <a id="hylIndex0" href="/sty/index.htm" target="_self">个人中心</a>
+ </li>
+ <li class="seperate">&nbsp;</li>
+ <li>
+ <a id="hylIndex0" href="/kng/kngindex.htm" target="_self">我要学习</a>
+ </li>
+ <li class="seperate">&nbsp;</li>
+ <li>
+ <a id="hylIndex0" href="/weikeindex.htm" target="_self">我要分享</a>
+ </li>
+ <li class="seperate">&nbsp;</li>
+ <li>
+ <a id="hylIndex0" href="/ymall/ymallcourseindex.htm" target="_blank">选课中心</a>
+ </li>
+ <li class="seperate">&nbsp;</li>
+ <li>
+ <a id="hylIndex0" href="/usm/index.htm" target="_self">我的团队</a>
+ </li>
+ <li class="seperate" style="width: 10px;">&nbsp;</li><li class="more" onmouseover="showMoreMenu(this);" onmouseout="hideMoreMenu(this);"><div class="block"><a class="linkmore"><label data-localize="common_lbl_more">更多</label></a></div><div class="blockmore clearfix" style="width: 876px;"><div class="c_navmorediv1 clearfix"><a href="/o2o/teacher/teachercenter.htm" target="_self"><div class="c_navmorediv1img"><img src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/images/appfeature/bigcircle/o2o_teacher_center.png"></div><div class="c_navmorediv1p"><div class="c_navmorediv1p1">讲师中心</div><div class="c_navmorediv1p2">公司大咖都在这里，向他们学习吧！</div></div></a></div></div></li>
+
+ <li class="rightround"></li>
+ </ul>
+ </div>
+ <script type="text/javascript">
+ function showMoreMenu(sender) {
+ var l = jQuery(sender).find(".blockmore .c_navmorediv1").length;
+ var w = 0;
+ if (l == 1) {
+ r = 0;
+ }
+
+ if (l == 3 || l == 4 || l == 2) {
+ r = -270;
+ }
+
+ if (l > 4) {
+ w = 895;
+ r = -220;
+ }
+ else if (l == 1) {
+ r = -146;
+ w = l * 220;
+ }
+ else {
+ w = l * 222;
+ }
+
+ jQuery(sender).find(".blockmore").css("width", w + "px").css("right", r + "px");
+ jQuery(sender).attr('class', 'morehover');
+ }
+ function hideMoreMenu(sender) {
+ jQuery(sender).attr('class', 'more');
+ }
+ </script>
+ </div>
+ </div>
+</div>
+ 
+<script type="text/javascript">
+ $(function () {
+ var value = getCookie("XXTOWN_COOKIE_00014");
+ if (value == null || value == "undefined") {
+ value = "";
+ }
+ var isShow = value.indexOf("rolechangearea") < 0;
+ if (isShow) {
+ $("#rolechange").show();
+ }
+ else {
+ $("#rolechange").attr("class", "rolechange_hidden");
+ $("#rolechange").show();
+ }
+ });
+ function changeRoleChangeView(sender) {
+ var dvRoleChange = $(sender).parent();
+ if (dvRoleChange.attr("class") == "rolechange") {
+ // 隐藏
+ dvRoleChange.attr("class", "rolechange_hidden");
+ var value = getCookie("XXTOWN_COOKIE_00014");
+ if (value == null || value == "undefined") {
+ value = "";
+ }
+ value += "rolechangearea-";
+ addCookie("XXTOWN_COOKIE_00014", value, 9999);
+ }
+ else {
+ // 呈现
+ dvRoleChange.attr("class", "rolechange");
+ var value = getCookie("XXTOWN_COOKIE_00014");
+ if (value == null || value == "undefined") {
+ value = "";
+ }
+ value = value.replace("rolechangearea-", "");
+ addCookie("XXTOWN_COOKIE_00014", value, 9999);
+ }
+ }
+</script>
+ 
+
+ 
+ <div class="bg-greydark pr clearfix">
+ <form class="main-content">
+ <script language="javascript"> 
+ $(document).ready(function () {
+ loadProperties( "zh");
+ });
+ </script>
+ <div id="divValidateKey" style="display: none;">743175a8-58f2-46de-bb91-4f3e06b3dd8c</div>
+ <div id="divContents"><link rel="stylesheet" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/Classic/13601042801/css/primary.css">
+<link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/Classic/13601042801/css/style.css">
+<style type="text/css">
+ .main{width:100%;padding:0px;border:0px;background:#fff;}
+ .y-container1 {width: 100%;}
+ body.mainbg {background-color: #FFF;}
+ .icon-more:before,.icon-right:before {content: "";}
+ .border-default {border: 0;}
+ div.pageheader31 {margin-bottom: 0px;}
+ .bg-greydark {background-color: #FFF;}
+ .page-center {width: 1200px;margin: 0 auto;}
+ div.pageheader31 div.headerbg div.navbar_default ul{width:940px !important;float: right !important;margin-left:0px !important;}
+ div.pageheader31 div.headerbg div.navbar_default{width:1200px !important;}
+ .width_37 {max-width: 48px;}
+ .width_78 {max-width: 67px;}
+ .category-child a {margin-left: 5px;}
+ .category-item {padding-bottom: 0px;}
+ .s_more {margin-top: 20px;}
+ .intur-detail {height: 40px;line-height: 20px;}
+ .s-detail {width: 262px;line-height: inherit;margin-top: 0px;margin-left: 0px;padding: 10px 20px;}
+ .category-item{
+ height: 70px!important;
+ }
+ .category-child{
+ height: 25px!important;
+ line-height: 25px!important;
+ }
+ .category-caption{
+ margin-top: 10px!important;
+ }
+ .category-caption{
+ height:22px!important;
+ line-height:22px!important;
+ }
+</style>
+<div class="page">
+ <!--banner-->
+ <div class="banner">
+ <div class="banner-box" style="min-width: 1200px">
+ <div class="bd">
+ <ul style="position: relative; width: 1200px; height: 495px;">
+ 
+ <li style="position: absolute; width: 1200px; left: 0px; top: 0px;">
+ <a href="http://ilexue.yonyou.com/kng/view/package/3fdc750b7c814ed8a7720f4a2d5ba43a.html" target="_blank">
+ <div style="background:url(https://picobd.yunxuetang.cn/13601042801sylh/13601042801/images/202005/6253fae7a32e45ef9666be598eb3df45.png) no-repeat center center"></div>
+ </a>
+ </li>
+ <li style="position: absolute; width: 1200px; left: 0px; top: 0px; display: none;">
+ <a href="http://ilexue.yonyou.com/kng/view/package/694903cef83e43a9b242cbdbdbfb4ecc.html" target="_blank">
+ <div style="background:url(https://picobd.yunxuetang.cn/13601042801sylh/13601042801/images/202005/88c84e4a072848d6a9112abcf7e606f8.jpg) no-repeat center center"></div>
+ </a>
+ </li>
+ <li style="position: absolute; width: 1200px; left: 0px; top: 0px; display: none;">
+ <a href="https://open.diwork.com/console-fe/kfzds/index.html?utm_source=match002&amp;utm_medium=&amp;utm_campaign=&amp;utm_term=&amp;utm_content=" target="_blank">
+ <div style="background:url(https://picobd.yunxuetang.cn/13601042801sylh/13601042801/images/202005/2e0f81144062436f87f3715ad720610b.png) no-repeat center center"></div>
+ </a>
+ </li>
+ </ul>
+ </div>
+ <div class="hd">
+ <ul class="szq-clear"><li class="on">1</li><li>2</li><li>3</li></ul>
+ </div>
+ </div>
+ <div class="page-center pr" style="overflow: visible;">
+ <!--二级菜单-->
+ <div class="category-wrap">
+
+ <div class="category-header fz18">
+ <i></i>课程中心
+ </div>
+ <ul class="category" id="divCatalogsList"><li class="category-item"> <div class="category-caption"> <a href="/kng/knowledgecatalogsearch.htm?id=d5d275dd-dd37-40c1-a711-de96b1fd821f&amp;rn=049&amp;h=menu" target="_blank" title="战略/文化/制度">战略/文化/制度</a> </div> <div class="border-mask"></div><div class="category-child text-trim"><a href="/kng/knowledgecatalogsearch.htm?id=f076c1e0-b7c1-43bb-848f-0f98e8079d02&amp;rn=049.001&amp;h=menu" target="_blank" title="用友战略">用友战略</a><a href="/kng/knowledgecatalogsearch.htm?id=27fd05b6-2e4c-4ea1-a514-efb9e5235e6c&amp;rn=049.002&amp;h=menu" target="_blank" title="用友文化">用友文化</a><a href="/kng/knowledgecatalogsearch.htm?id=1f3c4be2-eafb-486b-9049-52999f3b9152&amp;rn=049.003&amp;h=menu" target="_blank" title="用友制度解读">用友制度解读</a></div> <ul class="subcategory"> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=f076c1e0-b7c1-43bb-848f-0f98e8079d02&amp;rn=049.001&amp;h=menu" target="_blank" title="用友战略">用友战略</a> <span>(8)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=75e2fb9c-d185-4ed1-b315-efbf1e59086e&amp;rn=049.001.001&amp;h=menu" target="_blank" title="战略研讨">战略研讨</a> <span>(4)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=13bb3ae6-a87c-4e70-bef5-9968ea1e0bca&amp;rn=049.001.002&amp;h=menu" target="_blank" title="战略落地工具-GOT">战略落地工具-GOT</a> <span>(2)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=220285ff-9fb3-4a06-8623-1fabf24de85d&amp;rn=049.001.003&amp;h=menu" target="_blank" title="GOT授权及技术转移">GOT授权及技术转移</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=dfae8501-f509-4cc1-804c-fe3b83133026&amp;rn=049.001.004&amp;h=menu" target="_blank" title="客户成功系列课程">客户成功系列课程</a> <span>(1)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=27fd05b6-2e4c-4ea1-a514-efb9e5235e6c&amp;rn=049.002&amp;h=menu" target="_blank" title="用友文化">用友文化</a> <span>(30)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=962f9916-f39c-4ac3-81d0-97018ac4d463&amp;rn=049.002.001&amp;h=menu" target="_blank" title="用友企业文化">用友企业文化</a> <span>(10)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=a8f1d132-ea84-415d-bc33-3dae8b3d5b4b&amp;rn=049.002.002&amp;h=menu" target="_blank" title="用友文化价值观考核">用友文化价值观考核</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=75256b90-b000-428f-ac7b-b79f1842088f&amp;rn=049.002.003&amp;h=menu" target="_blank" title="我与用友">我与用友</a> <span>(9)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=d955144a-0644-4ddf-bb06-79a3037dcc38&amp;rn=049.002.004&amp;h=menu" target="_blank" title="用友文化官">用友文化官</a> <span>(7)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=e9bf826e-42df-4f0b-9e45-3a9aab51600e&amp;rn=049.002.005&amp;h=menu" target="_blank" title="文化大使">文化大使</a> <span>(2)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=cd813380-610d-4c16-a871-197f6d2cdd4e&amp;rn=049.002.006&amp;h=menu" target="_blank" title="用户之友">用户之友</a> <span>(1)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=1f3c4be2-eafb-486b-9049-52999f3b9152&amp;rn=049.003&amp;h=menu" target="_blank" title="用友制度解读">用友制度解读</a> <span>(13)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=8d4131ea-6b34-4fa3-b5ba-7242c91ab7c4&amp;rn=049.003.001&amp;h=menu" target="_blank" title="用友集团总部财务和人力制度">用友集团总部财务和人力制度</a> <span>(5)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=8c5e801a-3a40-402d-bb57-f18900631a59&amp;rn=049.003.002&amp;h=menu" target="_blank" title="人才发展">人才发展</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=0629e85f-68dd-4e88-a5e0-35ac8a2b39e7&amp;rn=049.003.003&amp;h=menu" target="_blank" title="行政办公">行政办公</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=5cfb5b55-fc1d-483f-ac34-60b7a841f9ec&amp;rn=049.003.004&amp;h=menu" target="_blank" title="绩效管理">绩效管理</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=a62e7c7e-2b7a-4cee-b067-b90d627acc3c&amp;rn=049.003.005&amp;h=menu" target="_blank" title="信息安全">信息安全</a> <span>(5)</span> </li> </ul> </li> </ul></li><li class="category-item"> <div class="category-caption"> <a href="/kng/knowledgecatalogsearch.htm?id=2f6fec1e-187a-41b0-ac1b-f4c7439654c9&amp;rn=047&amp;h=menu" target="_blank" title="新员工专区">新员工专区</a> </div> <div class="border-mask"></div><div class="category-child text-trim"><a href="/kng/knowledgecatalogsearch.htm?id=890553ed-669a-4694-adf4-37bba962e7a1&amp;rn=047.004&amp;h=menu" target="_blank" title="用友人第一课">用友人第一课</a><a href="/kng/knowledgecatalogsearch.htm?id=bc08d80c-57d9-4203-87ec-9bb43e5a1102&amp;rn=047.001&amp;h=menu" target="_blank" title="友英雄-销售新人培养">友英雄-销售新人培养</a><a href="/kng/knowledgecatalogsearch.htm?id=5128bfb9-0fcc-4b5e-9158-3305b3b26d42&amp;rn=047.003&amp;h=menu" target="_blank" title="雏鹰展翅-实施新人培养">雏鹰展翅-实施新人培养</a></div> <ul class="subcategory"> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=890553ed-669a-4694-adf4-37bba962e7a1&amp;rn=047.004&amp;h=menu" target="_blank" title="用友人第一课">用友人第一课</a> <span>(1)</span> </p> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=bc08d80c-57d9-4203-87ec-9bb43e5a1102&amp;rn=047.001&amp;h=menu" target="_blank" title="友英雄-销售新人培养">友英雄-销售新人培养</a> <span>(1)</span> </p> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=5128bfb9-0fcc-4b5e-9158-3305b3b26d42&amp;rn=047.003&amp;h=menu" target="_blank" title="雏鹰展翅-实施新人培养">雏鹰展翅-实施新人培养</a> <span>(19)</span> </p> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=5594a9f9-016c-4aea-b8dd-df2623dba3ff&amp;rn=047.002&amp;h=menu" target="_blank" title="新星计划-客开新人必修课">新星计划-客开新人必修课</a> <span>(53)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=c5080776-1013-4244-b46b-7f5b5df22f80&amp;rn=047.002.001&amp;h=menu" target="_blank" title="NCC课程">NCC课程</a> <span>(42)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=c8a8371b-31f4-418c-91c5-4541abb9e215&amp;rn=047.002.003&amp;h=menu" target="_blank" title="NCC专场培训课">NCC专场培训课</a> <span>(10)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=50241a64-0427-48e6-9e00-c3e58563708f&amp;rn=047.002.002&amp;h=menu" target="_blank" title="iuap技术中台课程">iuap技术中台课程</a> <span>(1)</span> </li> </ul> </li> </ul></li><li class="category-item"> <div class="category-caption"> <a href="/kng/knowledgecatalogsearch.htm?id=dd3e67c7-5986-4577-8eb7-9b205941c2d3&amp;rn=051&amp;h=menu" target="_blank" title="通用能力课程">通用能力课程</a> </div> <div class="border-mask"></div><div class="category-child text-trim"><a href="/kng/knowledgecatalogsearch.htm?id=c8402912-21d9-49f7-a142-b7e0d4484bc7&amp;rn=051.001&amp;h=menu" target="_blank" title="学习力">学习力</a><a href="/kng/knowledgecatalogsearch.htm?id=6a2b3148-34ab-457e-a843-5f0863409504&amp;rn=051.002&amp;h=menu" target="_blank" title="沟通力">沟通力</a><a href="/kng/knowledgecatalogsearch.htm?id=f5857919-2303-47c3-9b3f-958498858332&amp;rn=051.003&amp;h=menu" target="_blank" title="影响力">影响力</a></div> <ul class="subcategory"> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=c8402912-21d9-49f7-a142-b7e0d4484bc7&amp;rn=051.001&amp;h=menu" target="_blank" title="学习力">学习力</a> <span>(136)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=f98d7706-bf5f-4d32-a93e-af9dede32398&amp;rn=051.001.001&amp;h=menu" target="_blank" title="结构化思维">结构化思维</a> <span>(16)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=e7265aa2-e669-44ac-9ae3-da1f13f7826b&amp;rn=051.001.002&amp;h=menu" target="_blank" title="办公技能">办公技能</a> <span>(73)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=bac4d3eb-8297-463e-b06d-df0770f2f71a&amp;rn=051.001.003&amp;h=menu" target="_blank" title="职业化思维">职业化思维</a> <span>(11)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=6a2b3148-34ab-457e-a843-5f0863409504&amp;rn=051.002&amp;h=menu" target="_blank" title="沟通力">沟通力</a> <span>(101)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=46554169-83f8-4544-98d0-54f64a3a505c&amp;rn=051.002.001&amp;h=menu" target="_blank" title="谈判技巧">谈判技巧</a> <span>(25)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=bd69608d-ba1b-41d9-b19b-ac4136b39fa1&amp;rn=051.002.002&amp;h=menu" target="_blank" title="向上沟通">向上沟通</a> <span>(10)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=4e9da328-b53a-471f-bbd7-3f5d722ece8c&amp;rn=051.002.003&amp;h=menu" target="_blank" title="人际沟通">人际沟通</a> <span>(60)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=cff79c8c-926f-4f15-ae64-52f5220b9f5f&amp;rn=051.002.004&amp;h=menu" target="_blank" title="项目沟通">项目沟通</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=3eaa8332-c2e5-473d-8f87-c44a03aff274&amp;rn=051.002.005&amp;h=menu" target="_blank" title="职级答辩">职级答辩</a> <span>(1)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=f5857919-2303-47c3-9b3f-958498858332&amp;rn=051.003&amp;h=menu" target="_blank" title="影响力">影响力</a> <span>(109)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=053c3dbf-63f5-4b01-8d0e-5e1c91320a79&amp;rn=051.003.001&amp;h=menu" target="_blank" title="情绪管理">情绪管理</a> <span>(55)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=7348350e-0fd8-4624-b3fe-6f285683e0ed&amp;rn=051.004&amp;h=menu" target="_blank" title="执行力">执行力</a> <span>(123)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=0a362e20-632a-479f-891c-57c2e5a78d8c&amp;rn=051.004.001&amp;h=menu" target="_blank" title="问题分析与解决">问题分析与解决</a> <span>(25)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=6c9dcccd-14e3-40f3-a612-c07c8870fda5&amp;rn=051.004.002&amp;h=menu" target="_blank" title="创新思维">创新思维</a> <span>(21)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=4ba29b38-a51f-471e-b2df-69ba5436e227&amp;rn=051.004.003&amp;h=menu" target="_blank" title="时间管理">时间管理</a> <span>(32)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=62bbaab2-6548-4d92-bf7b-1570fa12d557&amp;rn=051.004.004&amp;h=menu" target="_blank" title="商务礼仪">商务礼仪</a> <span>(32)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=383aa141-9fc8-447f-8593-aa9dd9dcc7c4&amp;rn=051.004.005&amp;h=menu" target="_blank" title="健康防护">健康防护</a> <span>(1)</span> </li> </ul> </li> </ul></li><li class="category-item"> <div class="category-caption"> <a href="/kng/knowledgecatalogsearch.htm?id=f5dbe068-7822-4a84-b94d-c0165b22867c&amp;rn=052&amp;h=menu" target="_blank" title="专业能力课程">专业能力课程</a> </div> <div class="border-mask"></div><div class="category-child text-trim"><a href="/kng/knowledgecatalogsearch.htm?id=618e3983-1dc7-4acb-96c9-bf38b1975b67&amp;rn=052.009&amp;h=menu" target="_blank" title="销售进阶">销售进阶</a><a href="/kng/knowledgecatalogsearch.htm?id=5978a888-4990-4d5d-8ef6-371b1b119456&amp;rn=052.014&amp;h=menu" target="_blank" title="售前序列">售前序列</a><a href="/kng/knowledgecatalogsearch.htm?id=fe4c2b52-b809-4fb9-9b0c-9f42e6463e7c&amp;rn=052.008&amp;h=menu" target="_blank" title="咨询实施序列">咨询实施序列</a></div> <ul class="subcategory"> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=618e3983-1dc7-4acb-96c9-bf38b1975b67&amp;rn=052.009&amp;h=menu" target="_blank" title="销售进阶">销售进阶</a> <span>(165)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=8e3666c4-58cb-4392-a481-8003652ed434&amp;rn=052.009.007&amp;h=menu" target="_blank" title="新销售专区">新销售专区</a> <span>(29)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=307a2010-3cbd-4f7b-b23b-d83715949f8e&amp;rn=052.009.001&amp;h=menu" target="_blank" title="典型案例">典型案例</a> <span>(13)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=ba0f7a3a-5267-415d-a9ce-bfdcfae7ceeb&amp;rn=052.009.003&amp;h=menu" target="_blank" title="公司资质">公司资质</a> <span>(36)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=69a807ac-85c5-4c3a-83bf-2dce714a8253&amp;rn=052.009.008&amp;h=menu" target="_blank" title="销售技能">销售技能</a> <span>(47)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=d0134e08-ab5d-4da1-b204-c9eda6bde490&amp;rn=052.009.004&amp;h=menu" target="_blank" title="知己知彼">知己知彼</a> <span>(31)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=0be36660-e2a1-4af5-b1d6-93a3f593f0cb&amp;rn=052.009.009&amp;h=menu" target="_blank" title="销售规划">销售规划</a> <span>(0)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=f898be08-2ef8-4d6c-83c0-cae346c90bf6&amp;rn=052.009.006&amp;h=menu" target="_blank" title="业务能力（客户场景）">业务能力（客户场景）</a> <span>(0)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=a40dce57-7794-4788-b5bf-fd042eef12ed&amp;rn=052.009.010&amp;h=menu" target="_blank" title="销售精英">销售精英</a> <span>(0)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=e94364fa-1760-4ade-8004-4fbd769558a3&amp;rn=052.009.011&amp;h=menu" target="_blank" title="渠道分销序列">渠道分销序列</a> <span>(8)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=5978a888-4990-4d5d-8ef6-371b1b119456&amp;rn=052.014&amp;h=menu" target="_blank" title="售前序列">售前序列</a> <span>(9)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=9bb9cea1-967f-4c4a-811a-798c103eb105&amp;rn=052.014.001&amp;h=menu" target="_blank" title="2019年用友集团解决方案重大创新评选专区">2019年用友集团解决方案重大创新评选专区</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=a49de617-6820-436b-857a-ddbdc649cf2d&amp;rn=052.014.008&amp;h=menu" target="_blank" title="数字供应链-售前赋能篇">数字供应链-售前赋能篇</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=614c6589-5d1b-48b6-8a47-4a01ae020757&amp;rn=052.014.003&amp;h=menu" target="_blank" title="数字营销">数字营销</a> <span>(7)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=fe4c2b52-b809-4fb9-9b0c-9f42e6463e7c&amp;rn=052.008&amp;h=menu" target="_blank" title="咨询实施序列">咨询实施序列</a> <span>(133)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=83f36a38-8cb8-42ca-abba-0fc494e9ce01&amp;rn=052.008.001&amp;h=menu" target="_blank" title="通用能力">通用能力</a> <span>(14)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=160381ff-f1ea-4715-bb88-15d0be92ce80&amp;rn=052.008.007&amp;h=menu" target="_blank" title="售前能力">售前能力</a> <span>(0)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=7a88e848-639b-4858-b0f3-c1092618b885&amp;rn=052.008.008&amp;h=menu" target="_blank" title="咨询能力">咨询能力</a> <span>(0)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=69736784-7e43-4366-b5f2-fa00e618d681&amp;rn=052.008.002&amp;h=menu" target="_blank" title="产品能力">产品能力</a> <span>(101)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=10689847-edb1-4230-bf2c-af35d47fbe52&amp;rn=052.008.006&amp;h=menu" target="_blank" title="项目经理-EMPA">项目经理-EMPA</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=6ca9c806-847f-4cc0-a19c-6c41573db087&amp;rn=052.008.003&amp;h=menu" target="_blank" title="实施顾问">实施顾问</a> <span>(6)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=67b98142-3cec-401a-8ae3-b0965aa1d319&amp;rn=052.008.005&amp;h=menu" target="_blank" title="售前顾问">售前顾问</a> <span>(2)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=8e8de826-88d6-4ae1-a657-03f74200fb4c&amp;rn=052.008.009&amp;h=menu" target="_blank" title="项目管理的那些人和事">项目管理的那些人和事</a> <span>(7)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=bacb3255-9e09-4cc8-862f-fea1d7b80c42&amp;rn=052.016&amp;h=menu" target="_blank" title="客开序列">客开序列</a> <span>(623)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=0a67efce-da49-4b1e-8a19-b7bff58041ea&amp;rn=052.016.001&amp;h=menu" target="_blank" title="NC Cloud技术赋能">NC Cloud技术赋能</a> <span>(623)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=f8428e8e-2089-46d3-a164-fcb27c806714&amp;rn=052.010&amp;h=menu" target="_blank" title="运维服务">运维服务</a> <span>(26)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=f1c3af51-d312-4f04-a34c-36f1b4fc8508&amp;rn=052.010.001&amp;h=menu" target="_blank" title="技术服务">技术服务</a> <span>(14)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=4fad456f-ed4d-4cd9-a435-66d263c88a58&amp;rn=052.010.002&amp;h=menu" target="_blank" title="通用">通用</a> <span>(2)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=0c0a5bcf-e422-412b-8ddb-fbd5c706745c&amp;rn=052.010.003&amp;h=menu" target="_blank" title="备用">备用</a> <span>(0)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=b6d7e4d5-8192-4b53-bd38-45edcdc49533&amp;rn=052.010.004&amp;h=menu" target="_blank" title="服务咨询与解决方案">服务咨询与解决方案</a> <span>(4)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=d671bb22-dee7-438d-b96d-1e827ebfe836&amp;rn=052.010.005&amp;h=menu" target="_blank" title="NCCloud专项">NCCloud专项</a> <span>(2)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=b61e1eec-ddfd-4984-a5ed-cbbdb09bbad6&amp;rn=052.010.006&amp;h=menu" target="_blank" title="产品应用服务">产品应用服务</a> <span>(3)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=f2e93ef3-49d2-43de-81be-cb8e89f897b8&amp;rn=052.010.007&amp;h=menu" target="_blank" title="服务营销">服务营销</a> <span>(1)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=6633bfc4-1c47-42f1-ad6e-ba477d5a60ac&amp;rn=052.013&amp;h=menu" target="_blank" title="人力资源">人力资源</a> <span>(53)</span> </p> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=43a3862d-67a9-409d-b522-16077f96dae0&amp;rn=052.007&amp;h=menu" target="_blank" title="财务会计">财务会计</a> <span>(8)</span> </p> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=a512eabc-8985-4e7a-8322-518bbe705dc3&amp;rn=052.006&amp;h=menu" target="_blank" title="市场营销">市场营销</a> <span>(69)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=9387b3ee-1998-4440-8762-b0ca7924c847&amp;rn=052.006.001&amp;h=menu" target="_blank" title="市场体系学习资料">市场体系学习资料</a> <span>(44)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=78bdd02e-b78c-4c00-8c6f-56c7fb2aab5c&amp;rn=052.011&amp;h=menu" target="_blank" title="授课技能">授课技能</a> <span>(9)</span> </p> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=1a733148-a792-4916-842b-60e24422fb9f&amp;rn=052.012&amp;h=menu" target="_blank" title="云品秀">云品秀</a> <span>(48)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=79eb968c-afba-4646-b365-514d39095e6f&amp;rn=052.012.007&amp;h=menu" target="_blank" title="技术">技术</a> <span>(30)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=c3944650-1dc7-475a-a7fc-e0b6e22df476&amp;rn=052.012.008&amp;h=menu" target="_blank" title="产品">产品</a> <span>(9)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=3afc4b40-024d-4d29-a3f0-db2344768c0f&amp;rn=052.012.009&amp;h=menu" target="_blank" title="用户体验">用户体验</a> <span>(3)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=0f7b8b77-8d09-4fdf-ae2d-02cf3a364c91&amp;rn=052.012.011&amp;h=menu" target="_blank" title="质量">质量</a> <span>(2)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=5a29922f-c159-4fa6-aab2-14f24cbce735&amp;rn=052.012.013&amp;h=menu" target="_blank" title="职业规划与成长">职业规划与成长</a> <span>(4)</span> </li> </ul> </li> </ul></li><li class="category-item"> <div class="category-caption"> <a href="/kng/knowledgecatalogsearch.htm?id=4f9ce16b-a3b6-494e-a5a1-a388cb9c7f37&amp;rn=057&amp;h=menu" target="_blank" title="产品知识课程">产品知识课程</a> </div> <div class="border-mask"></div><div class="category-child text-trim"><a href="/kng/knowledgecatalogsearch.htm?id=50105011-bf57-46e6-8040-6b2a1c8d9666&amp;rn=057.008&amp;h=menu" target="_blank" title="集团产品管理">集团产品管理</a><a href="/kng/knowledgecatalogsearch.htm?id=435c13ee-3e8b-4bb8-a044-02d4b93b3ea0&amp;rn=057.007&amp;h=menu" target="_blank" title="NC Cloud产品">NC Cloud产品</a><a href="/kng/knowledgecatalogsearch.htm?id=5996b112-110a-40b2-874c-814248bf61bf&amp;rn=057.002&amp;h=menu" target="_blank" title="iuap平台知识">iuap平台知识</a></div> <ul class="subcategory"> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=50105011-bf57-46e6-8040-6b2a1c8d9666&amp;rn=057.008&amp;h=menu" target="_blank" title="集团产品管理">集团产品管理</a> <span>(27)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=d079ec55-3d06-417d-9b29-f1938d9fbbd1&amp;rn=057.008.001&amp;h=menu" target="_blank" title="爱友吧产品设计课">爱友吧产品设计课</a> <span>(9)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=b871dab1-80dd-4ee4-bfed-0d4dc117d890&amp;rn=057.008.002&amp;h=menu" target="_blank" title="用友云深度进阶课程">用友云深度进阶课程</a> <span>(15)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=517d6f68-287f-4e08-9c22-da19046fae07&amp;rn=057.008.003&amp;h=menu" target="_blank" title="华为研发精品课">华为研发精品课</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=4aedb5ac-69aa-4ca7-ab17-d684a0c3d12e&amp;rn=057.008.004&amp;h=menu" target="_blank" title="金蝶云苍穹产品微课">金蝶云苍穹产品微课</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=e59bb5b5-cbd9-4e4d-98ba-c87597f002a5&amp;rn=057.008.005&amp;h=menu" target="_blank" title="2019年度集团重大创新复审项目展播">2019年度集团重大创新复审项目展播</a> <span>(0)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=435c13ee-3e8b-4bb8-a044-02d4b93b3ea0&amp;rn=057.007&amp;h=menu" target="_blank" title="NC Cloud产品">NC Cloud产品</a> <span>(114)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=91d1144f-0097-4de0-9a97-b2bacc3ab251&amp;rn=057.007.001&amp;h=menu" target="_blank" title="NC Cloud 1909 全产品培训（PPT）">NC Cloud 1909 全产品培训（PPT）</a> <span>(83)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=aa279076-b22b-4816-8576-65662b418f12&amp;rn=057.007.004&amp;h=menu" target="_blank" title="NC Cloud 1909产品价值及功能亮点解析">NC Cloud 1909产品价值及功能亮点解析</a> <span>(8)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=5fb6dbd7-657e-4735-9509-0d0fb7630aaf&amp;rn=057.007.005&amp;h=menu" target="_blank" title="NC Cloud 1909 标准产品培训（PPT+演示）">NC Cloud 1909 标准产品培训（PPT+演示）</a> <span>(6)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=a1fd3d06-08b1-4be4-9755-c1e6eeafce0a&amp;rn=057.007.003&amp;h=menu" target="_blank" title="营销工具及演示视频">营销工具及演示视频</a> <span>(8)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=b2c47073-0f99-4889-9494-85bbf5769402&amp;rn=057.007.002&amp;h=menu" target="_blank" title="NC Cloud 1903 产品价值解析">NC Cloud 1903 产品价值解析</a> <span>(9)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=5996b112-110a-40b2-874c-814248bf61bf&amp;rn=057.002&amp;h=menu" target="_blank" title="iuap平台知识">iuap平台知识</a> <span>(65)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=45383a0f-cf05-49f5-af14-07687f1cceec&amp;rn=057.002.001&amp;h=menu" target="_blank" title="技术中台">技术中台</a> <span>(19)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=b9afa024-65bd-4afe-a152-bfd8c79c7cbc&amp;rn=057.002.002&amp;h=menu" target="_blank" title="业务中台">业务中台</a> <span>(8)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=5577cc7d-19d3-4f4d-ad04-17d6a8912c66&amp;rn=057.002.003&amp;h=menu" target="_blank" title="数据中台">数据中台</a> <span>(27)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=fce7b69c-d6e0-4636-806f-3200575e2269&amp;rn=057.002.004&amp;h=menu" target="_blank" title="智能分析">智能分析</a> <span>(5)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=4994df34-8cc6-4f9b-938f-c0a103197038&amp;rn=057.002.005&amp;h=menu" target="_blank" title="RPA和VPA">RPA和VPA</a> <span>(2)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=79f37fef-70e8-4165-85cd-6c057241d7fe&amp;rn=057.002.006&amp;h=menu" target="_blank" title="开发平台">开发平台</a> <span>(3)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=fd9623e7-eb25-4902-93c7-8699ee3bca31&amp;rn=057.002.007&amp;h=menu" target="_blank" title="分析云">分析云</a> <span>(1)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=53f5a7d0-4bf7-4bd2-a0aa-69a6dfe50d38&amp;rn=057.001&amp;h=menu" target="_blank" title="YonSuite产品">YonSuite产品</a> <span>(136)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=2f8ce693-ccfc-44c0-93d0-869087fdcba0&amp;rn=057.001.001&amp;h=menu" target="_blank" title="YonSuite产品功能培训">YonSuite产品功能培训</a> <span>(26)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=130295fe-0ae8-474a-b709-bdc08ef6b4cf&amp;rn=057.001.002&amp;h=menu" target="_blank" title="YonSuite营销及售前方案培训">YonSuite营销及售前方案培训</a> <span>(0)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=8c8aabe6-2586-4d62-aa47-92b94a6b8757&amp;rn=057.001.003&amp;h=menu" target="_blank" title="YonSuite“腾云计划”售前培训">YonSuite“腾云计划”售前培训</a> <span>(99)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=80b0419f-5192-47a4-9c58-f1dac3752db5&amp;rn=057.001.004&amp;h=menu" target="_blank" title="天分星汉营销训练营">天分星汉营销训练营</a> <span>(11)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=4e6863fe-9c31-4682-83f6-9a77e2989a6a&amp;rn=057.006&amp;h=menu" target="_blank" title="数字营销产品">数字营销产品</a> <span>(15)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=d393dae6-b7c6-4c3b-a760-c54bafe4f915&amp;rn=057.006.001&amp;h=menu" target="_blank" title="U订货">U订货</a> <span>(3)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=7720cde0-176f-434c-905b-2905f559a524&amp;rn=057.006.002&amp;h=menu" target="_blank" title="U会员">U会员</a> <span>(3)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=2f263cb0-65af-4dbb-a530-5cbec22918cf&amp;rn=057.006.003&amp;h=menu" target="_blank" title="友零售">友零售</a> <span>(3)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=d083f9a8-3855-4bb5-b534-b55a2f04b3a1&amp;rn=057.006.004&amp;h=menu" target="_blank" title="渠道云营销中台">渠道云营销中台</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=7ee45c9e-2ada-4e02-8529-51db0e574991&amp;rn=057.006.005&amp;h=menu" target="_blank" title="CRM">CRM</a> <span>(3)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=d9cd0cde-892d-4636-92e6-380a44ee4ebb&amp;rn=057.006.006&amp;h=menu" target="_blank" title="电商通">电商通</a> <span>(1)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=e7c727eb-c627-4ba0-ad22-166912c3c67f&amp;rn=057.009&amp;h=menu" target="_blank" title="财务云">财务云</a> <span>(26)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=e9b087e4-48ba-48ea-8678-fbd783562c4a&amp;rn=057.009.001&amp;h=menu" target="_blank" title="凌云计划第四期">凌云计划第四期</a> <span>(7)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=1ae53f56-f582-49bf-b494-1a382f6807d9&amp;rn=057.009.002&amp;h=menu" target="_blank" title="凌云计划第二期">凌云计划第二期</a> <span>(18)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=7eb3fcea-2d1b-4ec9-a5e6-0929a0e52140&amp;rn=057.009.003&amp;h=menu" target="_blank" title="友报账">友报账</a> <span>(1)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=ded0abc1-42b2-468b-bba6-bce21a91d962&amp;rn=057.005&amp;h=menu" target="_blank" title="数字用友">数字用友</a> <span>(490)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=d944301f-5279-4b3c-9976-e817f79c0dc3&amp;rn=057.005.012&amp;h=menu" target="_blank" title="00-云业务基础框架">00-云业务基础框架</a> <span>(7)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=1b0fc4f7-b478-42d6-86bb-628fee07f4fc&amp;rn=057.005.014&amp;h=menu" target="_blank" title="02-数字化转型系列">02-数字化转型系列</a> <span>(16)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=c1610e8b-bcd4-49aa-ae0d-d27d6e9ee789&amp;rn=057.005.015&amp;h=menu" target="_blank" title="03-IUAP云平台">03-IUAP云平台</a> <span>(4)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=eb1da046-e906-43e7-ba43-0ba1fcb02560&amp;rn=057.005.001&amp;h=menu" target="_blank" title="04-财务服务">04-财务服务</a> <span>(11)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=e42ac44d-e985-4750-8d10-666d962bd097&amp;rn=057.005.002&amp;h=menu" target="_blank" title="05-营销服务">05-营销服务</a> <span>(162)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=fb101a22-69e5-406f-8521-068bd3634bf8&amp;rn=057.005.003&amp;h=menu" target="_blank" title="06-协同服务">06-协同服务</a> <span>(53)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=bf969f0d-c74e-446e-97f0-1119e69cf48e&amp;rn=057.005.004&amp;h=menu" target="_blank" title="07-人力服务">07-人力服务</a> <span>(27)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=502f5651-85e8-4a77-a7be-d965d2808f29&amp;rn=057.005.005&amp;h=menu" target="_blank" title="08-采购服务">08-采购服务</a> <span>(37)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=78b8064e-5f54-41c4-b62f-db32a3e52a3e&amp;rn=057.005.006&amp;h=menu" target="_blank" title="09-电子发票与税务服务">09-电子发票与税务服务</a> <span>(9)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=f57fd28d-e771-42dd-a26b-b8d6b68836c0&amp;rn=057.005.007&amp;h=menu" target="_blank" title="10-APM服务">10-APM服务</a> <span>(4)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=e7590848-66ed-40e2-a5f9-1e81b813d989&amp;rn=057.005.008&amp;h=menu" target="_blank" title="11-数据服务">11-数据服务</a> <span>(11)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=093faf66-14ec-4aba-a9f3-8919b0ede5da&amp;rn=057.005.009&amp;h=menu" target="_blank" title="12-工程服务">12-工程服务</a> <span>(29)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=0b4425f4-e374-4cd7-a577-96204b8a95ff&amp;rn=057.005.010&amp;h=menu" target="_blank" title="13-U8 Cloud">13-U8 Cloud</a> <span>(4)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=8ed707d4-a7f5-43c7-9db3-9e012d3a1d70&amp;rn=057.005.011&amp;h=menu" target="_blank" title="14-云生态融合产品">14-云生态融合产品</a> <span>(60)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=cfc5f91d-fce4-4479-b838-e26f3f75e8c9&amp;rn=057.005.017&amp;h=menu" target="_blank" title="数字化转型系列">数字化转型系列</a> <span>(56)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=d728a1a8-471d-4972-93bf-f61631f6b569&amp;rn=057.004&amp;h=menu" target="_blank" title="产品知识">产品知识</a> <span>(75)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=45233130-b3d1-437f-b076-2a28a3836db9&amp;rn=057.004.014&amp;h=menu" target="_blank" title="总体产品介绍">总体产品介绍</a> <span>(3)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=e898b539-6b56-4022-bedb-6c64db423022&amp;rn=057.004.001&amp;h=menu" target="_blank" title="U8cloud">U8cloud</a> <span>(13)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=6eb4980a-1bfd-45c9-8b44-a46960f310f2&amp;rn=057.004.003&amp;h=menu" target="_blank" title="人力服务">人力服务</a> <span>(5)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=8e6134be-fc7a-470e-91a7-b45c53fc0bdd&amp;rn=057.004.002&amp;h=menu" target="_blank" title="通信服务">通信服务</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=a6a5d6c3-f55a-4ecd-8b7c-bbc2161c2616&amp;rn=057.004.004&amp;h=menu" target="_blank" title="协同服务">协同服务</a> <span>(27)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=ca4873f9-2893-484a-8431-12cab961b852&amp;rn=057.004.006&amp;h=menu" target="_blank" title="财务服务">财务服务</a> <span>(2)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=41f3b8c5-b8e0-4fd6-b68c-bbeee66a9079&amp;rn=057.004.008&amp;h=menu" target="_blank" title="采购服务">采购服务</a> <span>(10)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=e3167851-b41d-49ad-9688-ae174c873cd7&amp;rn=057.004.009&amp;h=menu" target="_blank" title="数据服务">数据服务</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=6329b460-89c4-43ad-b302-388fb29f01e2&amp;rn=057.004.010&amp;h=menu" target="_blank" title="税务服务">税务服务</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=5d3d827e-994b-4609-a708-45ac0bbf477f&amp;rn=057.004.011&amp;h=menu" target="_blank" title="工程服务">工程服务</a> <span>(4)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=eec18c47-ea97-4eb9-ae3b-5cda73dd2ffc&amp;rn=057.004.012&amp;h=menu" target="_blank" title="平台服务">平台服务</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=f5fb63d2-9804-4ba3-aaa6-00314ab4635d&amp;rn=057.004.013&amp;h=menu" target="_blank" title="APM服务">APM服务</a> <span>(4)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=78cb0bcf-3199-4324-a90a-8b60cff9a84d&amp;rn=057.004.018&amp;h=menu" target="_blank" title="NPDP介绍">NPDP介绍</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=916859a4-9abe-4e70-b71c-5e4f6b95ab3a&amp;rn=057.004.020&amp;h=menu" target="_blank" title="医疗服务">医疗服务</a> <span>(2)</span> </li> </ul> </li> </ul></li><li class="category-item"> <div class="category-caption"> <a href="/kng/knowledgecatalogsearch.htm?id=df558142-7fa5-4c29-9855-51ee262f5eaa&amp;rn=056&amp;h=menu" target="_blank" title="业务知识课程">业务知识课程</a> </div> <div class="border-mask"></div><div class="category-child text-trim"><a href="/kng/knowledgecatalogsearch.htm?id=4362bcfe-091c-4fde-9c90-348052e1b9df&amp;rn=056.001&amp;h=menu" target="_blank" title="智能财务事业部">智能财务事业部</a><a href="/kng/knowledgecatalogsearch.htm?id=6a8ff8a3-400d-4f48-95c1-f8f9a452a668&amp;rn=056.002&amp;h=menu" target="_blank" title="采购云事业部">采购云事业部</a><a href="/kng/knowledgecatalogsearch.htm?id=4b392855-8fa1-4b28-b80e-68154ba4da9a&amp;rn=056.003&amp;h=menu" target="_blank" title="数字人力事业部">数字人力事业部</a></div> <ul class="subcategory"> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=4362bcfe-091c-4fde-9c90-348052e1b9df&amp;rn=056.001&amp;h=menu" target="_blank" title="智能财务事业部">智能财务事业部</a> <span>(542)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=acd67160-124e-4c59-9a17-5083c7fbaccf&amp;rn=056.001.001&amp;h=menu" target="_blank" title="财务共享领域">财务共享领域</a> <span>(91)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=055c3384-d997-447b-a7ec-93e75640abed&amp;rn=056.001.002&amp;h=menu" target="_blank" title="全面预算领域">全面预算领域</a> <span>(27)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=1cfd1de7-7e24-48d5-af18-76b975bf6a29&amp;rn=056.001.003&amp;h=menu" target="_blank" title="财资管理领域">财资管理领域</a> <span>(127)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=e4bb91f0-8754-4f75-80fd-1ddd26840ace&amp;rn=056.001.004&amp;h=menu" target="_blank" title="企业绩效领域">企业绩效领域</a> <span>(53)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=bb311dac-3d82-4de1-a8fa-64fca5b79184&amp;rn=056.001.005&amp;h=menu" target="_blank" title="管理会计领域">管理会计领域</a> <span>(42)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=3f38d192-df60-43cc-829e-0acf73826fc8&amp;rn=056.001.006&amp;h=menu" target="_blank" title="市场运营专项">市场运营专项</a> <span>(38)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=7e9db2f2-0ee8-43bc-bf5a-edda4f9f0fa1&amp;rn=056.001.007&amp;h=menu" target="_blank" title="财务SAAS项目级">财务SAAS项目级</a> <span>(83)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=d390ec67-01ff-4d83-ae46-f831e04631ad&amp;rn=056.001.008&amp;h=menu" target="_blank" title="公共资料汇总">公共资料汇总</a> <span>(20)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=2758d06f-649f-4fdc-bf03-4075c457d851&amp;rn=056.001.009&amp;h=menu" target="_blank" title="微课课程封面">微课课程封面</a> <span>(36)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=50ac31f6-a452-44aa-a521-33c5fb929ffb&amp;rn=056.001.010&amp;h=menu" target="_blank" title="春耕赋能封面">春耕赋能封面</a> <span>(2)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=4fe629da-bf7d-4f66-b390-ae657af404f9&amp;rn=056.001.011&amp;h=menu" target="_blank" title="业财一体领域">业财一体领域</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=4dc6a4db-987d-4f41-af9a-20d018b266da&amp;rn=056.001.012&amp;h=menu" target="_blank" title="能力提升专项">能力提升专项</a> <span>(7)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=4a9c9057-222f-4492-8281-1656b9c62ddd&amp;rn=056.001.013&amp;h=menu" target="_blank" title="财务会计领域">财务会计领域</a> <span>(15)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=6286122d-e20c-4ce1-ae2e-e37555b285c0&amp;rn=056.001.014&amp;h=menu" target="_blank" title="POC专项">POC专项</a> <span>(0)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=6a8ff8a3-400d-4f48-95c1-f8f9a452a668&amp;rn=056.002&amp;h=menu" target="_blank" title="采购云事业部">采购云事业部</a> <span>(6)</span> </p> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=4b392855-8fa1-4b28-b80e-68154ba4da9a&amp;rn=056.003&amp;h=menu" target="_blank" title="数字人力事业部">数字人力事业部</a> <span>(13)</span> </p> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=b77b0f59-4969-464a-8ef4-af0ffbdd827a&amp;rn=056.004&amp;h=menu" target="_blank" title="交通公用与国资服务事业部">交通公用与国资服务事业部</a> <span>(34)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=2f46544b-df92-4cea-b7a9-f631d84f5a62&amp;rn=056.004.001&amp;h=menu" target="_blank" title="资产管理">资产管理</a> <span>(2)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=3fedac35-06c8-4a82-a4da-eecd1ee09369&amp;rn=056.004.002&amp;h=menu" target="_blank" title="工程项目管理">工程项目管理</a> <span>(4)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=54aa2da2-1aa7-40de-b145-ec980cf7a596&amp;rn=056.004.003&amp;h=menu" target="_blank" title="投资管理">投资管理</a> <span>(2)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=8a1b59c9-1b39-4ae8-aed7-e68346ad4fa7&amp;rn=056.004.004&amp;h=menu" target="_blank" title="地产云">地产云</a> <span>(2)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=0915fe66-8ab4-4118-8f29-c77b482a4f12&amp;rn=056.005&amp;h=menu" target="_blank" title="数字营销事业部">数字营销事业部</a> <span>(11)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=3b23501c-4f29-4554-907e-48d9afd62645&amp;rn=056.005.001&amp;h=menu" target="_blank" title="实施专业知识">实施专业知识</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=b5b8fd7b-6ed8-498f-9975-bb71632aff29&amp;rn=056.005.002&amp;h=menu" target="_blank" title="行业专家观点">行业专家观点</a> <span>(4)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=1d769a57-2799-4d49-ae48-28b82637d2d2&amp;rn=056.005.003&amp;h=menu" target="_blank" title="行业解决方案">行业解决方案</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=42228bfb-0ae7-40f3-9637-3e9899fca834&amp;rn=056.005.004&amp;h=menu" target="_blank" title="最佳实践分享">最佳实践分享</a> <span>(2)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=0c9d22d3-4fd7-46ea-b69c-db38c3b90143&amp;rn=056.005.005&amp;h=menu" target="_blank" title="研发专业知识">研发专业知识</a> <span>(1)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=e253cad7-d40e-4b5f-9ff5-a193893ac3e3&amp;rn=056.005.006&amp;h=menu" target="_blank" title="现代服务行业">现代服务行业</a> <span>(2)</span> </li> </ul> </li> <li class="subcategory-item"> <p> <a href="/kng/knowledgecatalogsearch.htm?id=e77a0a2f-69db-4e64-a598-2465d0e811aa&amp;rn=056.006&amp;h=menu" target="_blank" title="智能制造事业部">智能制造事业部</a> <span>(62)</span> </p> <ul> <li> <a href="/kng/knowledgecatalogsearch.htm?id=f10f9c9a-e2ee-4a46-8133-a0688e23564d&amp;rn=056.006.001&amp;h=menu" target="_blank" title="2019产品培训">2019产品培训</a> <span>(12)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=5a7ffcb7-74da-4a53-853b-6252854511b9&amp;rn=056.006.003&amp;h=menu" target="_blank" title="2020">2020</a> <span>(46)</span> </li> <li> <a href="/kng/knowledgecatalogsearch.htm?id=07e61b24-6fe1-47eb-a55b-12c5ab2d7292&amp;rn=056.006.004&amp;h=menu" target="_blank" title="物流服务">物流服务</a> <span>(2)</span> </li> </ul> </li> </ul></li></ul>
+ <div class="s_more">
+ <a class="more" href="/kng/kngindex.htm">更多&gt;</a>
+ </div>
+ </div>
+ </div>
+</div>
+<!-- tab-->
+<div class="page-center">
+ <div class="szq-clear">
+ <div class="jincheng-course">
+ <ul class="tab">
+ <li class="active"><span class="tab1"></span>最新课程</li>
+ <li><span class="tab2-2"></span>热门课程</li>
+ <li><span class="tab2"></span>推荐课程</li>
+ <li><span class="tab3"></span>猜你喜欢</li>
+ </ul>
+ <ul class="tabcon">
+ <li>
+ <ul class="course-list szq-clear">
+ <li>
+ <a href="/kng/view/package/791de4544acf4554acb918f8b19bb42e.html" target="_blank" title="第7课 情境访谈-大胆假设">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/systemfiles/kng/default/4.jpg" alt="第7课 情境访谈-大胆假设">
+ <div class="intur-detail">
+ <div class="s-detail text-trim">第7课 情境访谈-大胆假设</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>2</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/kng/view/package/5e7e0cae6b64486389befde9a31a4c60.html" target="_blank" title="服务赋能之狂热行动-行业深度剖析 最佳实战讲解">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/kng/13601042801/images/202005/b0958b11de4140ebb6558128984e10f1.jpg" alt="服务赋能之狂热行动-行业深度剖析 最佳实战讲解">
+ <div class="intur-detail">
+ <div class="s-detail text-trim">服务赋能之狂热行动-行业深度剖析 最佳实战讲解</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>2</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/kng/view/video/312e5c6fd41f4f4ca68bd7bfaa3afd2c.html" target="_blank" title="龙凌子：政务公司正向文化落地分享">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/systemfiles/kng/default/30.jpg" alt="龙凌子：政务公司正向文化落地分享">
+ <div class="intur-detail">
+ <div class="s-detail text-trim">龙凌子：政务公司正向文化落地分享</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>1</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/kng/view/document/aa89fd30da7344da8ee3146679bcbae3.html" target="_blank" title="【友报账】APP端用户操作手册V3.5.0">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/systemfiles/kng/default/45.jpg" alt="【友报账】APP端用户操作手册V3.5.0">
+ <div class="intur-detail">
+ <div class="s-detail text-trim">【友报账】APP端用户操作手册V3.5.0</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>7</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/kng/view/sourcecode/615e6970d5754c728d007ed63ed2b765.html" target="_blank" title="调查计划演示视频">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/systemfiles/kng/default/43.jpg" alt="调查计划演示视频">
+ <div class="intur-detail">
+ <div class="s-detail text-trim">调查计划演示视频</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>3</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/kng/view/sourcecode/56ded58843ce4d2a9c5b07f7948c612d.html" target="_blank" title="主动故障报修演示视频">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/systemfiles/kng/default/8.jpg" alt="主动故障报修演示视频">
+ <div class="intur-detail">
+ <div class="s-detail text-trim">主动故障报修演示视频</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>1</span>
+ </div>
+ </a>
+ </li>
+ </ul>
+ </li>
+ <li class="off">
+ <ul class="course-list szq-clear">
+ <li>
+ <a href="/kng/view/package/5258ffe2173a400a99ac4229861c624a.html" target="_blank" title="“文化即言行，言行助业务”价值观行为化全员轮训在线测试">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/kng/13601042801/images/201910/ae8821a9ef554cb89ef811197401ab35.jpg" alt="“文化即言行，言行助业务”价值观行为化全员轮训在线测试">
+ <div class="intur-detail">
+ <div class="s-detail">“文化即言行，言行助业务”价值观行为化全员轮训在线测试</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl">2019-10-09</span>
+ <span class="fr"><span class="eye"></span>13507</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/knowledge/video/6847eb53281040eaa78ed10fa48c19ff.html" target="_blank" title="1.用友产品体系总体介绍 上篇">
+ <div class="li-img">
+ <img src="https://streamobd.yunxuetang.cn/kng/13601042801/files/201901/c5436680827d46ad924c8e3d0ec09c1b.jpg" alt="1.用友产品体系总体介绍 上篇">
+ <div class="intur-detail">
+ <div class="s-detail">1.用友产品体系总体介绍 上篇</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl">2019-01-02</span>
+ <span class="fr"><span class="eye"></span>7871</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/knowledge/video/3b76f93c12b0476f98c50b0b4e23a35b.html" target="_blank" title="1.用友产品体系总体介绍 下篇">
+ <div class="li-img">
+ <img src="https://streamobd.yunxuetang.cn/kng/13601042801/files/201901/a7bbdfd4253a44eaa139926ff000f745.jpg" alt="1.用友产品体系总体介绍 下篇">
+ <div class="intur-detail">
+ <div class="s-detail">1.用友产品体系总体介绍 下篇</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl">2019-01-02</span>
+ <span class="fr"><span class="eye"></span>7165</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/knowledge/document/6b5ef9f830634632bb0b5ecf092b4475.html" target="_blank" title="NC Cloud 大型企业数字化平台-- 总体篇">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/systemfiles/kng/default/40.jpg" alt="NC Cloud 大型企业数字化平台-- 总体篇">
+ <div class="intur-detail">
+ <div class="s-detail">NC Cloud 大型企业数字化平台-- 总体篇</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl">2018-12-25</span>
+ <span class="fr"><span class="eye"></span>7065</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/knowledge/document/f28ffa71b9014235bece0bd8c6e575b6.html" target="_blank" title="NC Cloud 大型企业数字化平台">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/systemfiles/kng/default/8.jpg" alt="NC Cloud 大型企业数字化平台">
+ <div class="intur-detail">
+ <div class="s-detail">NC Cloud 大型企业数字化平台</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl">2018-12-25</span>
+ <span class="fr"><span class="eye"></span>6934</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/knowledge/video/4a411aac521e44ae9a9aff818303efdc.html" target="_blank" title="用友使命">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/kng/13601042801/images/201905/c8983da34786493da9fbd197e7496f45.jpg" alt="用友使命">
+ <div class="intur-detail">
+ <div class="s-detail">用友使命</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl">2019-04-22</span>
+ <span class="fr"><span class="eye"></span>6927</span>
+ </div>
+ </a>
+ </li>
+ </ul>
+ </li>
+ <li class="off">
+ <ul class="course-list szq-clear">
+ <li>
+ <a href="/kng/view/package/5dcc7a2aa23a4f08aff2d7bec1c7682c.html" target="_blank" title="2020智能制造专题直播">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/kng/13601042801/images/202003/e848ba13dfce4af6b94ec90fc434bc55.png" alt="2020智能制造专题直播">
+ <div class="intur-detail">
+ <div class="s-detail">2020智能制造专题直播</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>120</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/kng/view/package/8cc71ec5d6db4b25b2c148fb052605f9.html" target="_blank" title="设备服务DEMO演示视频">
+ <div class="li-img">
+ <img src="https://staticbd.yunxuetang.cn/yxt/systemfiles//themes/elearning30/images/knowledgedefaultimg/zh/coursepackage.png" alt="设备服务DEMO演示视频">
+ <div class="intur-detail">
+ <div class="s-detail">设备服务DEMO演示视频</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>36</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/kng/view/package/414cf61da46843caa8bae1e7dc19b6de.html" target="_blank" title="友空间战“疫”远程办公系列专题">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/kng/13601042801/images/202002/4cd7026c3c8349c29e061b83b35bbd88.jpg" alt="友空间战“疫”远程办公系列专题">
+ <div class="intur-detail">
+ <div class="s-detail">友空间战“疫”远程办公系列专题</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>527</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/kng/view/package/23d87a1da9cf43959574a3c076762075.html" target="_blank" title="数字化运营师新年加油课程包">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/kng/13601042801/images/202001/60ca26888c4849df90f741917e1dfe3e.jpg" alt="数字化运营师新年加油课程包">
+ <div class="intur-detail">
+ <div class="s-detail">数字化运营师新年加油课程包</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>32</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/kng/view/package/a160199004134648b083879c733cd711.html" target="_blank" title="「2020开年第一讲」智能制造全产品培训">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/kng/13601042801/images/202001/4d11a78d13244e33a5ef813af17bfe4a.png" alt="「2020开年第一讲」智能制造全产品培训">
+ <div class="intur-detail">
+ <div class="s-detail">「2020开年第一讲」智能制造全产品培训</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>303</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/kng/view/package/418ea1d6140547c2b024586825086809.html" target="_blank" title="数字化运营师新年加油课程包">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/kng/13601042801/images/202001/6851b23b8ea149ea9c017481b9cc40e9.jpg" alt="数字化运营师新年加油课程包">
+ <div class="intur-detail">
+ <div class="s-detail">数字化运营师新年加油课程包</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>123</span>
+ </div>
+ </a>
+ </li>
+ </ul>
+ </li>
+ <li class="off">
+ <ul class="course-list szq-clear">
+ <li>
+ <a href="/kng/view/video/7309728261b14b10bbcf0d27e59ecbdf.html" target="_blank" title="制造云-IoT">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/systemfiles/kng/default/42.jpg" alt="制造云-IoT">
+ <div class="intur-detail">
+ <div class="s-detail">制造云-IoT</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>46</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/kng/view/package/3fdc750b7c814ed8a7720f4a2d5ba43a.html" target="_blank" title="2019年度用户之友线上投票">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/kng/13601042801/images/202005/882c6a722eab4623828f38ba9a89c616.png" alt="2019年度用户之友线上投票">
+ <div class="intur-detail">
+ <div class="s-detail">2019年度用户之友线上投票</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>3225</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/kng/view/package/5ea84cd4c0d74507bba5d86f69845933.html" target="_blank" title="医疗百佳讲坛20200212">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/systemfiles/kng/default/21.jpg" alt="医疗百佳讲坛20200212">
+ <div class="intur-detail">
+ <div class="s-detail">医疗百佳讲坛20200212</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>151</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/kng/view/package/5ed15f3230e24e96be1caee313b1d25a.html" target="_blank" title="雏鹰展翅-生产制造-选修包">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/systemfiles/kng/default/23.jpg" alt="雏鹰展翅-生产制造-选修包">
+ <div class="intur-detail">
+ <div class="s-detail">雏鹰展翅-生产制造-选修包</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>28</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/kng/view/package/5e8bd1e4118c4e81a043eada666663c2.html" target="_blank" title="NC Cloud1903企业绩效管理（运维版）">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/systemfiles/kng/default/10.jpg" alt="NC Cloud1903企业绩效管理（运维版）">
+ <div class="intur-detail">
+ <div class="s-detail">NC Cloud1903企业绩效管理（运维版）</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>237</span>
+ </div>
+ </a>
+ </li>
+ <li>
+ <a href="/kng/view/package/2c118f9305f94a4fb55326dca81b8eb2.html" target="_blank" title="现代服务行业案例分享">
+ <div class="li-img">
+ <img src="https://picobd.yunxuetang.cn/kng/13601042801/images/202004/25b57161d9194ad687dc31210c207357.jpg" alt="现代服务行业案例分享">
+ <div class="intur-detail">
+ <div class="s-detail">现代服务行业案例分享</div>
+ </div>
+ <div class="bg-panel"></div>
+ </div>
+ <div class="s-time">
+ <span class="fl"></span>
+ <span class="fr"><span class="eye"></span>10</span>
+ </div>
+ </a>
+ </li>
+ </ul>
+ </li>
+ </ul>
+ </div>
+ <div class="newworker">
+ <div class="newworker-head szq-clear">
+ <a href="/udp/personal/baseinfo.htm">
+ <div class="head fl">
+ <img src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/118.png" alt="李杭燃">
+ </div>
+ </a>
+ <div class="fl">
+ 
+ <a href="/udp/personal/baseinfo.htm" class="fz12 gray5 db mt15">
+ <span class="fb mr5 ml5 width_37" title="李杭燃">李杭燃</span>
+ <span class="width_78" title="研发-技术-程序设计与编码">研发-技术-程序设计与编码</span>
+ </a>
+ <a href="javascript:;" class="fz12 gray5 db ml5 text-trim" style="width:110px;" title="非银金融客户事业本部－西南非银ABU－开发部">非银金融客户事业本部－西南非银ABU－开发部</a>
+ </div>
+ </div>
+ <ul class="list-detail szq-clear">
+ <li>
+ <a href="/study/mylearningpoingts.htm" id="mylearningpoints">我的学分</a>
+ <span>431.15</span>
+ </li>
+ <li>
+ <a href="/study/mypointhistory.htm" id="mypoint">我的积分</a>
+ <span>1070</span>
+ </li>
+ <li>
+ <a href="/sty/mystudytask.htm" id="mytask">学习任务</a>
+ <span id="ptask">1</span>
+ </li>
+ <li>
+ <a href="/study/userallexam.htm" id="mytest">我的考试</a>
+ <span id="ptest">0</span>
+ </li>
+ <li>
+ <a href="/o2o/sty/canregtrain.htm" id="mytrain">我的培训</a>
+ <span>0</span>
+ </li>
+ <li>
+ <a href="/sty/myselfknowledge.htm" id="mymyselfknowledge">我的收藏</a>
+ <span>0</span>
+ </li>
+ <li>
+ <a href="/study/mynotemgmt.htm" id="mynotemgmt">我的笔记</a>
+ <span>0</span>
+ </li>
+ <li>
+ <a href="/newbbs/#/questionlist?type=mypost" id="linkmyque">我的问答</a>
+ <span id="pmyquecount">0</span>
+ </li>
+ </ul>
+ </div>
+ </div>
+ <!--头条资讯-->
+ <div class="szq-clear mt40">
+ <!--头条资讯-->
+ <div class="listtitle">
+ <div class="listname fz20"><i></i>头条资讯 <a href="/info/moreinfotiande.htm?classename=13601042801ttzx" class="f-color fr fz14">more&gt;</a></div>
+ <ul class="listdetail">
+ 
+ <li><a href="/info/13601042801ttzx/9494ed7dc0fb4175bcece92572002964.html" target="_blank" title="爱乐学“学分积分”规则"><p class="text-trim">爱乐学“学分积分”规则 </p><span class="fr fz12 gray9">2019-01-11</span></a></li>
+ </ul>
+ </div>
+ <!--banner-->
+ <div class="banner-boxs">
+ <div class="bd">
+ <ul style="position: relative; width: 880px; height: 315px;">
+ 
+ <li style="position: absolute; width: 880px; left: 0px; top: 0px;">
+ <a href="http://ilexue.yonyou.com/kng/view/package/5258ffe2173a400a99ac4229861c624a.html?m=1&amp;h=1" target="_blank">
+ <div style="background:url(https://picobd.yunxuetang.cn/13601042801smalsylh/13601042801/images/201910/94afd909ed9245e084cbec17e8dbeb1c.jpg) no-repeat center center"></div>
+ </a>
+ </li>
+ </ul>
+ </div>
+ <div class="banner-btns">
+ <a href="javascript:void(0);" class="prev"></a>
+ <a href="javascript:void(0);" class="next"></a>
+ </div>
+ </div>
+</div>
+<div class="szq-clear">
+ <div class="anli-title">
+ <ul class="tabs">
+ <li class="active">
+ <i class="sty"></i> 学霸达人榜</li>
+ <li>
+ <i class="geades"></i>积分达人榜</li>
+ </ul>
+ </div>
+ <ul class="tabcon mt20">
+ <li>
+ <ul class="daren-list szq-clear">
+ <li>
+ <a href="/myhome.htm?userID=d5ae8d42-6924-4913-817b-55daef10c628" target="_blank" title="刘清乐">
+ <div class="s-head">
+ <img src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/102.png?imageview2/0/w/100/h/100/format/jpg/interlace/1" alt="刘清乐">
+ </div>
+ </a>
+ <div class="mesg">
+ <div class="gray6 hand" onclick="window.open('/myhome.htm?userID=d5ae8d42-6924-4913-817b-55daef10c628')">
+ <span class="num1"></span>刘清乐</div>
+ <div class="gray9">学分：<span class="grade">933.70</span></div>
+ <div class="gray9" title="660用友汽车">部门：660用友汽车</div>
+</div>
+</li>
+ <li>
+ <a href="/myhome.htm?userID=03d50c85-b925-4f6d-836e-5a7611ffd29f" target="_blank" title="于天杨">
+ <div class="s-head">
+ <img src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/103.png?imageview2/0/w/100/h/100/format/jpg/interlace/1" alt="于天杨">
+ </div>
+ </a>
+ <div class="mesg">
+ <div class="gray6 hand" onclick="window.open('/myhome.htm?userID=03d50c85-b925-4f6d-836e-5a7611ffd29f')">
+ <span class="num2"></span>于天杨</div>
+ <div class="gray9">学分：<span class="grade">766.45</span></div>
+ <div class="gray9" title="用友能源科技有限公司">部门：用友能源科技有限公司</div>
+</div>
+</li>
+ <li>
+ <a href="/myhome.htm?userID=869a8fe4-4fc9-48af-89b2-6bb236a211ce" target="_blank" title="陈洪新">
+ <div class="s-head">
+ <img src="https://picobd.yunxuetang.cn/person/13601042801/images/202002/8ef3268b1eab4ccf9cf2111135ed2dd6.jpg?imageview2/0/w/100/h/100/format/jpg/interlace/1" alt="陈洪新">
+ </div>
+ </a>
+ <div class="mesg">
+ <div class="gray6 hand" onclick="window.open('/myhome.htm?userID=869a8fe4-4fc9-48af-89b2-6bb236a211ce')">
+ <span class="num3"></span>陈洪新</div>
+ <div class="gray9">学分：<span class="grade">434.80</span></div>
+ <div class="gray9" title="用友股份">部门：用友股份</div>
+</div>
+</li>
+ <li>
+ <a href="/myhome.htm?userID=e33ed732-4a0c-45e2-8350-46c1793bf3be" target="_blank" title="夏丹">
+ <div class="s-head">
+ <img src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/90.png?imageview2/0/w/100/h/100/format/jpg/interlace/1" alt="夏丹">
+ </div>
+ </a>
+ <div class="mesg">
+ <div class="gray6 hand" onclick="window.open('/myhome.htm?userID=e33ed732-4a0c-45e2-8350-46c1793bf3be')">
+ <span class="num4" style="background: #dedada;border-radius: 3px;text-align: center;line-height: 13px;color: #fff;">4</span>夏丹</div>
+ <div class="gray9">学分：<span class="grade">413.40</span></div>
+ <div class="gray9" title="用友网络科技股份有限公司贵州分公司">部门：用友网络科技股份有限公司贵州分公司</div>
+</div>
+</li>
+ <li>
+ <a href="/myhome.htm?userID=bdf7dde4-4257-4cae-ae87-42064eb05d2e" target="_blank" title="刘天禹">
+ <div class="s-head">
+ <img src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/91.png?imageview2/0/w/100/h/100/format/jpg/interlace/1" alt="刘天禹">
+ </div>
+ </a>
+ <div class="mesg">
+ <div class="gray6 hand" onclick="window.open('/myhome.htm?userID=bdf7dde4-4257-4cae-ae87-42064eb05d2e')">
+ <span class="num5" style="background: #dedada;border-radius: 3px;text-align: center;line-height: 13px;color: #fff;">5</span>刘天禹</div>
+ <div class="gray9">学分：<span class="grade">299.65</span></div>
+ <div class="gray9" title="UFIDA (SINGAPORE) PRIVATE LIMITED">部门：UFIDA (SINGAPORE) PRIVATE LIMITED</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="off">
+ <ul class="daren-list szq-clear">
+ <li>
+ <a href="/myhome.htm?userID=8574f1ab-d6ee-4c18-925c-a56603f68c4b" target="_blank" title="刘丙辉">
+ <div class="s-head">
+ <img src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/89.png?imageview2/0/w/100/h/100/format/jpg/interlace/1" alt="刘丙辉">
+ </div>
+ </a>
+ <div class="mesg">
+ <div class="gray6 hand" onclick="window.open('/myhome.htm?userID=8574f1ab-d6ee-4c18-925c-a56603f68c4b')">
+ <span class="num1"></span>刘丙辉</div>
+ <div class="gray9">积分：<span class="grade">307160</span></div>
+ <div class="gray9" title="用友股份">部门：用友股份</div>
+ </div>
+ </li>
+ <li>
+ <a href="/myhome.htm?userID=869a8fe4-4fc9-48af-89b2-6bb236a211ce" target="_blank" title="陈洪新">
+ <div class="s-head">
+ <img src="https://picobd.yunxuetang.cn/person/13601042801/images/202002/8ef3268b1eab4ccf9cf2111135ed2dd6.jpg?imageview2/0/w/100/h/100/format/jpg/interlace/1" alt="陈洪新">
+ </div>
+ </a>
+ <div class="mesg">
+ <div class="gray6 hand" onclick="window.open('/myhome.htm?userID=869a8fe4-4fc9-48af-89b2-6bb236a211ce')">
+ <span class="num2"></span>陈洪新</div>
+ <div class="gray9">积分：<span class="grade">2775</span></div>
+ <div class="gray9" title="用友股份">部门：用友股份</div>
+ </div>
+ </li>
+ <li>
+ <a href="/myhome.htm?userID=17a55ee3-24fb-4a20-9e9d-6dcdcb237aa4" target="_blank" title="张继伟">
+ <div class="s-head">
+ <img src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/90.png?imageview2/0/w/100/h/100/format/jpg/interlace/1" alt="张继伟">
+ </div>
+ </a>
+ <div class="mesg">
+ <div class="gray6 hand" onclick="window.open('/myhome.htm?userID=17a55ee3-24fb-4a20-9e9d-6dcdcb237aa4')">
+ <span class="num3"></span>张继伟</div>
+ <div class="gray9">积分：<span class="grade">1730</span></div>
+ <div class="gray9" title="用友股份">部门：用友股份</div>
+ </div>
+ </li>
+ <li>
+ <a href="/myhome.htm?userID=99d750e7-722d-4641-99ab-dde20263e871" target="_blank" title="朱晓明">
+ <div class="s-head">
+ <img src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/102.png?imageview2/0/w/100/h/100/format/jpg/interlace/1" alt="朱晓明">
+ </div>
+ </a>
+ <div class="mesg">
+ <div class="gray6 hand" onclick="window.open('/myhome.htm?userID=99d750e7-722d-4641-99ab-dde20263e871')">
+ <span class="num4" style="background: #dedada;border-radius: 3px;text-align: center;line-height: 13px;color: #fff;">4</span>朱晓明</div>
+ <div class="gray9">积分：<span class="grade">1110</span></div>
+ <div class="gray9" title="用友网络科技中央大客户事业本部">部门：用友网络科技中央大客户事业本部</div>
+ </div>
+ </li>
+ <li>
+ <a href="/myhome.htm?userID=d5bb7495-978c-4724-9cba-7cf2109e305b" target="_blank" title="王墨">
+ <div class="s-head">
+ <img src="https://picobd.yunxuetang.cn/person/13601042801/images/202003/20bb0a8dc17640cf87dc2fde29049565.jpg" alt="王墨">
+ </div>
+ </a>
+ <div class="mesg">
+ <div class="gray6 hand" onclick="window.open('/myhome.htm?userID=d5bb7495-978c-4724-9cba-7cf2109e305b')">
+ <span class="num5" style="background: #dedada;border-radius: 3px;text-align: center;line-height: 13px;color: #fff;">5</span>王墨</div>
+ <div class="gray9">积分：<span class="grade">920</span></div>
+ <div class="gray9" title="天津用友软件技术有限公司">部门：天津用友软件技术有限公司</div>
+ </div>
+ </li>
+ </ul>
+</li>
+</ul>
+</div>
+<!-- 培训风采-->
+<div class="szq-clear">
+ <div class="show-title">培训风采</div>
+ <!--3Dsolider-->
+ <div class="cont-box szq-clear">
+ <div class="container szq-clear">
+ <div class="container_image pr">
+ <div class="btn-c">
+ <a href="javascript:void(0)" tip="0" class="i_btn next_R "></a>
+ <a href="javascript:void(0)" tip="1" class="i_btn prev_L "></a>
+ </div>
+ <ul class="slide_img">
+ 
+ <li class="on" style="z-index: 8; left: 309px; width: 482px; height: 272px; top: 14px;">
+ <a href="https://b.xiumi.us/board/v5/43sSw/177076516?e4c227d6-01c1-4ddd-a5c6-152f0a56949e" target="_blank">
+ <img src="https://picobd.yunxuetang.cn/13601042801pxfc/13601042801/images/201911/124bafba645c4657ae32b0402415c493.jpg" alt="文化即言行 言行助业务|价值观行为化全员轮训 - 集团职能1班">
+ </a>
+ </li>
+ <li class="right" style="z-index: 4; left: 725px; width: 375px; height: 205px; top: 47.5px;">
+ <a href="https://r.xiumi.us/board/v5/41nH1/172518839?881950f3-4cf6-4019-be13-439d3219ef3a" target="_blank">
+ <img src="https://picobd.yunxuetang.cn/13601042801pxfc/13601042801/images/201911/4072e0727009407b872c78d2094e01e3.png" alt="文化即言行 言行助业务|价值观行为化轮训全国讲师训热烈召开">
+ </a>
+ </li>
+ <li class="right" style="z-index: 2; left: 725px; width: 375px; height: 205px; top: 47.5px;">
+ <a href="https://b.xiumi.us/board/v5/3af59/173066126?3c1b24de-e129-4311-a0b7-1c7cc4db11b8" target="_blank">
+ <img src="https://picobd.yunxuetang.cn/13601042801pxfc/13601042801/images/201911/82951ba05a7a4b3981aca7884c2f4b00.png" alt="【“文化即言行，言行助业务”价值观行为化全员轮训】用友政务西南大区，文化助力雄心破亿！">
+ </a>
+ </li>
+ <li class="left" style="z-index: 2; left: 0px; width: 375px; height: 205px; top: 47.5px;">
+ <a href="https://imoss.yonyoucloud.com/upesn/esn/4006474/20191031/1425/08d2fa82-5d4e-472a-adee-8a7e5e3f94e5.html?849ba65d-24b0-4ca4-a892-b0b846f82d80#view" target="_blank">
+ <img src="https://picobd.yunxuetang.cn/13601042801pxfc/13601042801/images/201911/bb6ec673fe76413884de8399ecdc54ab.jpg" alt="文化即言行，言行助业务”--新道科技教育服务BG文化轮训培训报道">
+ </a>
+ </li>
+ <li class="left" style="z-index: 4; left: 0px; width: 375px; height: 205px; top: 47.5px;">
+ <a href="https://b.xiumi.us/board/v5/3pCHr/174873756?7074197e-09c2-40ef-ae2f-c1b5cd903898" target="_blank">
+ <img src="https://picobd.yunxuetang.cn/13601042801pxfc/13601042801/images/201911/49077527a17148fba692eb4a9556ca0c.jpg" alt="用友广信文化轮训-北京站第一场">
+ </a>
+ </li>
+ </ul>
+ </div>
+ </div>
+ </div>
+</div>
+
+</div>
+</div>
+<script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/Classic/13601042801/js/SuperSlide.2.1.1.js"></script>
+<script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/Classic/13601042801/js/jquery_slide.js"></script>
+<script>
+ /*轮播*/
+ $(".banner-box,.banner-boxs").slide({
+ titCell: ".hd ul",
+ mainCell: ".bd ul",
+ effect: "fold",
+ interTime: 3500,
+ delayTime: 500,
+ autoPlay: true,
+ autoPage: true,
+ trigger: "click"
+ });
+ /*tab*/
+ $(".tab li").click(function (e) {
+ var mtarg = $(this);
+ if (mtarg.hasClass("active")) return;
+ mtarg.addClass("active").siblings().removeClass("active");
+ var idx = mtarg.index();
+ $(this).parent().next(".tabcon").find(">li:eq('" + idx + "')").show().siblings().hide();
+ });
+ /*solid banner-loop 滑动 左滑*/
+ $(".banner-loop").slide({
+ mainCell: ".bd > ul",
+ effect: "leftLoop",
+ interTime: 3500,
+ delayTime: 500,
+ vis:5,
+ scroll:1,
+ autoPlay:true
+ });
+ /*3D solider*/
+ $(function (){
+ var newopt ={
+ conuntW: "1100",
+ countH:"300",
+ w1: "482",
+ h1: "272",
+ w2: "375", //小图宽度
+ h2: "205" //小图高度
+ };
+ i_slide($(".container_image"), newopt);
+ });
+ /*tab*/
+ $(".tabs li").click(function (e) {
+ var targ = $(this);
+ if (targ.hasClass("active")) return;
+ targ.addClass("active").siblings().removeClass("active");
+ var idx = targ.index();
+ $(this).parents().next(".tabcon").find(">li:eq('" + idx + "')").show().siblings().hide();
+ });
+</script>
+
+<script type="text/javascript">
+ ;
+ ;
+ //知识目录
+ function getcatalogsList( rstr )
+ {
+ if ( rstr ) {
+ var data = rstr.data;
+ var html = "";
+ if ( data.length > 0 ) {
+ var num=0;
+ for ( var i = 0; i < data.length; i++ ) {
+ if(num<6&&data[i].catalogRoutingNumber.length==3) {
+ html += "<li class='category-item'>";
+ html += " <div class='category-caption'>";
+ html += " <a href='/kng/knowledgecatalogsearch.htm?id=" + data[i].id + "&rn=" + data[i].catalogRoutingNumber + "&h=menu' target='_blank' title='" + data[i].catalogName + "'>" + data[i].catalogName + "</a>";
+ html += " </div>";
+ var num1=0;
+ for ( var j = 0; j < data.length; j++ ) {
+ if(num1<3&&data[j].catalogRoutingNumber.length>3&&data[j].catalogRoutingNumber.length<8&&data[j].catalogRoutingNumber.substr(0,3)==data[i].catalogRoutingNumber) {
+ if(num1==0){
+ html += " <div class='border-mask'></div>";
+ html += "<div class='category-child text-trim'>";
+ }
+ html += "<a href='/kng/knowledgecatalogsearch.htm?id=" + data[j].id + "&rn=" + data[j].catalogRoutingNumber + "&h=menu' target='_blank' title='" + data[j].catalogName + "'>" + data[j].catalogName + "</a>";
+ num1++;
+ }
+ }
+ if(num1>0){
+ html += "</div>";
+ }
+ var num2=0;
+ for ( var k = 0; k < data.length; k++ ) {
+ if(data[k].catalogRoutingNumber.length>3&&data[k].catalogRoutingNumber.length<8&&data[k].catalogRoutingNumber.substr(0,3)==data[i].catalogRoutingNumber) {
+ if(num2==0) {
+ html += " <ul class='subcategory'>";
+ }
+ html += " <li class='subcategory-item'>";
+ html += " <p>";
+ html += " <a href='/kng/knowledgecatalogsearch.htm?id=" + data[k].id + "&rn=" + data[k].catalogRoutingNumber + "&h=menu' target='_blank' title='" + data[k].catalogName + "'>" + data[k].catalogName + "</a>";
+ html += " <span>("+data[k].knowledgeAllCount+")</span>";
+ html += " </p>";
+
+ var num3=0;
+ for ( var m = 0; m < data.length; m++ ) {
+ if(data[m].parentId==data[k].id) {
+ if(num3==0) {
+ html += " <ul>";
+ }
+ html += " <li>";
+ html += " <a href='/kng/knowledgecatalogsearch.htm?id=" + data[m].id + "&rn=" + data[m].catalogRoutingNumber + "&h=menu' target='_blank' title='" + data[m].catalogName + "'>" + data[m].catalogName + "</a>";
+ html += " <span>("+data[m].knowledgeAllCount+")</span>";
+ html += " </li>";
+ num3++;
+ }
+ }
+ if(num3>0){
+ html += " </ul>";
+ }
+
+
+
+
+ html += " </li>";
+ num2++;
+ }
+ }
+ if(num2>0){
+ html += " </ul>";
+ }
+
+ html += "</li>";
+ num++;
+ }
+ }
+ }
+ else {
+ html += "<div class=\"emptytextContainer\" style=\"margin-top: 120px;padding-bottom: 100px;\">";
+ html += " <div class=\"emptymsg\">敬请期待</div>";
+ html += "</div>";
+ }
+ $("#divCatalogsList").html(html);
+ }
+ }
+
+
+
+ //0.获取导航地址
+ function getcustomappfeatures(rstr) {
+ if (rstr) {
+ //console.log(rstr);
+ var num=rstr.data.length;
+ for(var i=0;i<num;i++)
+ {
+ //我的任务
+ if(rstr.data[i].id==8)
+ $("#mytask").attr("href",rstr.data[i].virtualfullurl);
+ //我的考试
+ else if(rstr.data[i].id==9)
+ $("#mytest").attr("href",rstr.data[i].virtualfullurl);
+ //我的培训
+ else if(rstr.data[i].id==10)
+ $("#mytrain").attr("href",rstr.data[i].virtualfullurl);
+ //我的积分
+ else if(rstr.data[i].id==21)
+ $("#mypoint").attr("href",rstr.data[i].virtualfullurl);
+ //我的学分
+ else if(rstr.data[i].id==22)
+ $("#mylearningpoints").attr("href",rstr.data[i].virtualfullurl);
+ //我的问题
+ else if(rstr.data[i].id==33)
+ $("#linkmyque").attr("href",rstr.data[i].virtualfullurl +"?type=mypost");
+ //我的问题
+ if(rstr.data[i].id==29)
+ $("#bbs").attr("href",rstr.data[i].virtualfullurl);
+ //我的收藏
+ else if(rstr.data[i].id==20)
+ $("#mymyselfknowledge").attr("href",rstr.data[i].virtualfullurl);
+ //我的笔记
+ else if(rstr.data[i].id==24)
+ $("#mynotemgmt").attr("href",rstr.data[i].virtualfullurl);
+ }
+ }
+ }
+ //当前登录人的考试个数
+ function getexamcount(rstr) {
+ if (rstr&&rstr.data) {
+ //console.log(rstr);
+ $("#ptest").html(rstr.data.normalCount_Starting + rstr.data.normalCount_NotStarted);
+ }
+ else{
+ $("#ptest").html(0);
+ }
+ }
+
+ //当前登录人的学习计划个数
+ function getmystudyplancount(rstr) {
+ if (rstr&&rstr.data) {
+ //console.log(rstr);
+ $("#ptask").html(rstr.data.goingStudyPlanCount + rstr.data.unStartedStudyPlanCount);
+ }
+ else{
+ $("#ptask").html(0);
+ }
+ }
+ //1.我的问题和我的帖子数量
+ function getMyQuePostCount(r1){
+ //console.log(r1);
+ $("#pmyquecount").html(r1.myQuestionsCount);
+ }
+
+ //0.获取导航地址
+ var appfeaturesarr1 = "";
+ var appfeaturesurl1 = "https://api-qidacustom.yunxuetang.cn/v1/orgfeature/customappfeatures";
+ getdata("GET","ucloud--cluster--AAAAAJmBXCJ9fo-Bwjosqobwwbo0XEQWRYzLFQBkbhrX_suGzlWtrOiceMNfKI69CZnrM0CW-uz96Xa4Z2PrKEw78rtyCGq4oZmJBZ-JCSZ9iJitAHRHuIm87RMLhn6LKlcbM5Rqd0t0uDmN8jxSEmqE7zo",appfeaturesarr1, appfeaturesurl1,getcustomappfeatures,funcerror);
+
+ //当前登录人的考试个数
+ var examarr1 = '';
+ var examurl1 = "https://api-qidacustom.yunxuetang.cn/v1/user/getmyexamcount";
+ getdata("POST","ucloud--cluster--AAAAAJmBXCJ9fo-Bwjosqobwwbo0XEQWRYzLFQBkbhrX_suGzlWtrOiceMNfKI69CZnrM0CW-uz96Xa4Z2PrKEw78rtyCGq4oZmJBZ-JCSZ9iJitAHRHuIm87RMLhn6LKlcbM5Rqd0t0uDmN8jxSEmqE7zo",examarr1, examurl1,getexamcount,funcerror);
+
+ //当前登录人的学习计划个数
+ var studyplanarr1 = '';
+ var studyplanurl1 = "https://api-qidacustom.yunxuetang.cn/v1/user/getstudyplancount";
+ getdata("POST","ucloud--cluster--AAAAAJmBXCJ9fo-Bwjosqobwwbo0XEQWRYzLFQBkbhrX_suGzlWtrOiceMNfKI69CZnrM0CW-uz96Xa4Z2PrKEw78rtyCGq4oZmJBZ-JCSZ9iJitAHRHuIm87RMLhn6LKlcbM5Rqd0t0uDmN8jxSEmqE7zo",studyplanarr1, studyplanurl1,getmystudyplancount,funcerror);
+
+ //1.我的问题和我的帖子数量
+ var str1 = '';
+ var arr1 = "";
+ var url1 = "https://api-qidatestin.yunxuetang.cn/v1/bbs//custom/userStatistics";
+ getdata("GET", "ucloud--cluster--AAAAAJmBXCJ9fo-Bwjosqobwwbo0XEQWRYzLFQBkbhrX_suGzlWtrOiceMNfKI69CZnrM0CW-uz96Xa4Z2PrKEw78rtyCGq4oZmJBZ-JCSZ9iJitAHRHuIm87RMLhn6LKlcbM5Rqd0t0uDmN8jxSEmqE7zo", arr1, url1, getMyQuePostCount,funcerror);
+ function funcerror(r) {
+ console.log(r);
+ }
+ function getdata(typestr,tokenstr,params, url, successhandler,errorhandler) {
+ jQuery.ajax({
+ type: typestr,
+ headers: {
+ Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+ Source: 501,
+ Token: tokenstr //"ucloud--cluster--AAAAAJmBXCJ9fo-Bwjosqobwwbo0XEQWRYzLFQBkbhrX_suGzlWtrOiceMNfKI69CZnrM0CW-uz96Xa4Z2PrKEw78rtyCGq4oZmJBZ-JCSZ9iJitAHRHuIm87RMLhn6LKlcbM5Rqd0t0uDmN8jxSEmqE7zo"
+ },
+ contentType: "application/json",
+ url: url,
+ xhrFields: {
+ withCredentials: true
+ },
+ dataType: "json",
+ data: JSON.stringify(params),
+ cache: false,
+ success: function (rstr) {
+ if (rstr) {
+ //console.log(rstr);
+ successhandler(rstr);
+ }
+ },
+ error: function (msg) {
+ //console.log(msg);
+ //return false;
+ errorhandler(msg);
+ }
+ });
+ }
+
+
+
+ funclist();
+ //列表
+ function funclist(){
+ //0.获取导航地址
+ var appfeaturesarr1 = "";
+ var appfeaturesurl1 = "https://api-qidacustom.yunxuetang.cn/v1/orgfeature/customappfeatures";
+ getdata("GET","ucloud--cluster--AAAAAJmBXCJ9fo-Bwjosqobwwbo0XEQWRYzLFQBkbhrX_suGzlWtrOiceMNfKI69CZnrM0CW-uz96Xa4Z2PrKEw78rtyCGq4oZmJBZ-JCSZ9iJitAHRHuIm87RMLhn6LKlcbM5Rqd0t0uDmN8jxSEmqE7zo",appfeaturesarr1, appfeaturesurl1,getcustomappfeatures,funcerror);
+
+ //5.问题帖子列表
+ var str5='{"type": -1,"title":"","catalogId": "","topicId": "","isTop": -1,'
+ +'"orderby": "totalCount","limit": 9,"offset": 0,"direction": "desc"}';
+ var arr5= eval('(' + str5 + ')');
+ var url5="https://api-qidatestin.yunxuetang.cn/v1/bbs//custom/communities/home";
+ getdata("POST", "ucloud--cluster--AAAAAJmBXCJ9fo-Bwjosqobwwbo0XEQWRYzLFQBkbhrX_suGzlWtrOiceMNfKI69CZnrM0CW-uz96Xa4Z2PrKEw78rtyCGq4oZmJBZ-JCSZ9iJitAHRHuIm87RMLhn6LKlcbM5Rqd0t0uDmN8jxSEmqE7zo", arr5, url5,funcerror);
+
+ //知识目录
+ var myqxcatalogsarr1= '';
+ var myqxcatalogsurl1 = "https://api-data.yunxuetang.cn/customdata/kng/myqxcatalogs?limit=1000";
+ getdata("GET","ucloud--cluster--AAAAAJmBXCJ9fo-Bwjosqobwwbo0XEQWRYzLFQBkbhrX_suGzlWtrOiceMNfKI69CZnrM0CW-uz96Xa4Z2PrKEw78rtyCGq4oZmJBZ-JCSZ9iJitAHRHuIm87RMLhn6LKlcbM5Rqd0t0uDmN8jxSEmqE7zo",myqxcatalogsarr1, myqxcatalogsurl1,getcatalogsList,funcerror);
+ }
+</script></div>
+ </form>
+ </div>
+
+ 
+ <div class="pagefooter" id="divPageFooter">
+ 
+ 
+<div style="margin:10px auto; text-align:center; color:#666666; line-height:24px;">
+ <div>
+ © 2019 All Rights Reserved&nbsp;&nbsp;爱乐学 <span data-localize="home_lbl_copyright">版权所有</span>
+</div>
+ <!--<div>-->
+ <!--<a href="https://www.yonyoucloud.com/" target="_blank" data-localize="home_lbl_yunxuetang"></a> <span data-localize="home_lbl_technicalsupport"></span>-->
+ <!--&nbsp;&nbsp;<a href="http://elearning.yunxuetang.cn/registerprotocol.htm" target="_blank" data-localize="home_lbl_serviceagreement"></a>-->
+ <!--&nbsp;&nbsp;400-928-6900-->
+ <!--</div>-->
+</div>
+<script type="text/javascript">
+ loadPropertiesForAsync("divPageFooter");
+</script>
+ </div>
+ </div>
+
+ 
+ 
+
+</body></html>

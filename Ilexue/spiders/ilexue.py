@@ -20,7 +20,7 @@ importlib.reload(sys)
 class Myspider(scrapy.Spider):
     name = 'Ilexue'
     # allowed_domains=['ilexue.yonyou.com']
-    base = r'C:/Users/Administrator/Desktop/ilexue_scrapy/Ilexue/info/'
+    base = 'Ilexue/info/'
     host = 'ilexue.yonyou.com'
     ilexueSession = {}
 
@@ -57,8 +57,8 @@ class Myspider(scrapy.Spider):
         items = []
         print(response.request.headers)
         # pattern_html = re.compile(r'<div class="title".*?<a.*?href="(.*?)">(.*?)</a></span></div>', re.S)
-        pattern_html = re.compile(r'(/[kng|plan]+/[\S]*?\.htm[l]?.*?)[\'"].*?<span title="(.*?)".*?>.*?</span>', re.S)
-        htmls = re.findall(pattern_html, response.text)
+        htmls = re.findall(re.compile(r'(\/[plan|kng]+/[\S]*?.htm[l]??[?]?[\S]*?)[\'"].*?title=\"(.*?)\"', re.S)
+                           , response.text)
         for html in htmls:
             # 创建实例,并转化为字典
             item = IlexueItem()
@@ -107,6 +107,6 @@ class Myspider(scrapy.Spider):
 
     def parseVideoAndDocument(self, response):
         item = IlexueVideoItem(response.meta['item1'])
-        pattern = re.compile(r'[video|document]+/(.*?).html', re.S)
-        item['id'] = re.findall(pattern, item['siteURL'])[1]
+        pattern = re.compile(r'[video|document]+/([^/ ]*?).html', re.S)
+        item['id'] = re.findall(pattern, item['siteURL'])[0]
         yield item

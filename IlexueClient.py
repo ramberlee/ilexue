@@ -238,6 +238,13 @@ class IlexueClient(object):
     def cleanCsv(self, coursesReader):
         # 清理url.csv
         while len(self.studyedCouses) < len(self.studyingCouses):
+            csvdata = open(os.path.dirname(__file__) + CSVDIR, 'r', encoding='utf8')
+            csvReader = csv.DictReader(csvdata)
+            for course in csvReader:
+                if not self.studyingCouses.__contains__(course.get('id')):
+                    self.courses.append(course)
+                self.studyingCouses.add(course.get('id'))
+            csvdata.close()
             csvdata = open(os.path.dirname(__file__) + CSVDIR, 'w', encoding='utf8')
             csvWriter = csv.DictWriter(csvdata, fieldnames=coursesReader.fieldnames)
             csvWriter.writeheader()

@@ -28,5 +28,5 @@ class IlexuePipeline(object):
         strs = '\n' + id + ','+item['siteURL'] + ','+mastertype
         f.write(bytes(strs, encoding='utf-8'))
         f.close()
-        print(str)
+        print(strs)
         return item

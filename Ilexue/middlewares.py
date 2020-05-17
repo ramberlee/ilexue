@@ -47,11 +47,11 @@ def process_onclick(self, item, request, result):
         pickle.dump(self.didOnlicks, f)
     if item['id'] != '':
         self.browser.find_element_by_id(item['id']).click()
-    else:
+    elif len(item['onclick']) > 0:
         self.browser.execute_script(item['onclick'])
     self.browser.wait_for_request(self.browser.last_request.path, timeout=10)
     for i in range(self.timeout):
-        if len(self.browser.window_handles) > 1:
+        if len(self.browser.window_handles) > 1 or (len(self.browser.window_handles) == 1 and len(item['onclick']) <= 0):
             break
         time.sleep(1)
     # self.wait.until((len(self.browser.window_handles) > 1))
@@ -113,7 +113,7 @@ class ScrapySeleniumDownloaderMiddleware(object):
             item = request.meta.get('item1')
             # cookies = request.mata.get('cookies')
             if item == None:
-                item = {'onclick': ''}
+                item = {'onclick': '', 'id': ''}
             result = None
             if len(item['onclick']) > 0 and (
                     URL(request.url).path() + '_' + item['onclick']) not in self.didOnlicks and any(
@@ -121,6 +121,8 @@ class ScrapySeleniumDownloaderMiddleware(object):
                 result = process_onclick(self, item, request, result)
             elif len(item['onclick']) > 0:
                 result = HtmlResponse(url=request.url, status=500, request=request)
+            else:
+                result = process_onclick(self, item, request, result)
 
             return result
         except Exception:

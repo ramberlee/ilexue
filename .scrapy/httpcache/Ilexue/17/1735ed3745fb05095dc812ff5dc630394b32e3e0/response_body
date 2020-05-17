@@ -1,26 +1,17 @@
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head id="Head1">
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1">
  <title>课程包明细 - 用友网络科技股份有限公司</title>
- <meta http-equiv="X-UA-Compatible" content="IE=edge" />
- <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
- <meta name="keywords" content="" />
- <meta name="description" content="" />
+ <meta http-equiv="X-UA-Compatible" content="IE=edge">
+ <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+ <meta name="keywords" content="">
+ <meta name="description" content="">
   
- <script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/tingyun-rum.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery-1.9.1.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery-ui-1.9.2.custom.min.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.livequery.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.validate_new.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.mCustomScrollbar.concat.min.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/dist/common.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/functions.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/plugin/layer/layer.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/languages/jquery.i18n.properties-1.0.9.js?v=9.9.235"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/languages/main.js?v=9.9.235"></script><script type="text/javascript">currentSkinName="elearning30";var lecaiAPiUrl="https://api-qidatestin.yunxuetang.cn/v1/";</script><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/modified.min.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/normalize.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/elearning.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/uc/ui.core.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/style.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/Zebra_DatePicker.css?v=9.9.235" type="text/css" rel="stylesheet" /><link href="/CSS/iconfonts/iconfont.css?v=9.9.235" rel="stylesheet" type="text/css" /><link href="/CSS/cfont/iconfont.css?v=9.9.235" rel="stylesheet" type="text/css" /><link href="/CSS/navfont/iconfont.css?v=9.9.235" rel="stylesheet" type="text/css" /><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/font-awesome/4.4.0/css/font-awesome.css?v=9.9.235" type="text/css" rel="stylesheet" />
+ <script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/tingyun-rum.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery-1.9.1.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery-ui-1.9.2.custom.min.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.livequery.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.validate_new.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/jquery/jquery.mCustomScrollbar.concat.min.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/dist/common.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/functions.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/plugin/layer/layer.js?v=9.9.401"></script><link rel="stylesheet" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/plugin/layer/skin/layer.css" id="layui_layer_skinlayercss" style=""><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/languages/jquery.i18n.properties-1.0.9.js?v=9.9.401"></script><script type="text/javascript" src="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/languages/main.js?v=9.9.401"></script><script type="text/javascript">currentSkinName="elearning30";var lecaiAPiUrl="https://api-qidatestin.yunxuetang.cn/v1/";</script><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/modified.min.css?v=9.9.401" type="text/css" rel="stylesheet"><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/normalize.css?v=9.9.401" type="text/css" rel="stylesheet"><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/elearning.css?v=9.9.401" type="text/css" rel="stylesheet"><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/uc/ui.core.css?v=9.9.401" type="text/css" rel="stylesheet"><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/style.css?v=9.9.401" type="text/css" rel="stylesheet"><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/Zebra_DatePicker.css?v=9.9.401" type="text/css" rel="stylesheet"><link href="/CSS/iconfonts/iconfont.css?v=9.9.401" rel="stylesheet" type="text/css"><link href="/CSS/cfont/iconfont.css?v=9.9.401" rel="stylesheet" type="text/css"><link href="/CSS/navfont/iconfont.css?v=9.9.401" rel="stylesheet" type="text/css"><link href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/font-awesome/4.4.0/css/font-awesome.css?v=9.9.401" type="text/css" rel="stylesheet">
  
  <!--[if lte IE 8]>
  <link rel="stylesheet" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/new/IE8.css" />
 <script src='https://staticbd.yunxuetang.cn/yxt/SystemFiles//Js/new/IE8.js' type="text/javascript"></script>
  <![endif]-->
-
-</head>
  
-
- 
-
-
 <script>
 
 function handleCenter(className){
@@ -38,7 +29,13 @@ jQuery(document).ready(function(){
 handleCenter(".floatwindow_LeftCenter");
 handleCenter(".floatwindow_RightCenter");
 });
-</script>
+</script><style type="text/css">.easemobim-mobile-html{position:relative!important;width:100%!important;height:100%!important;padding:0!important;margin:0!important}.easemobim-mobile-body{position:absolute;top:0!important;left:0!important;width:100%!important;height:100%!important;overflow:hidden!important;padding:0!important;margin:0!important}.easemobim-mobile-body>*{display:none!important}.easemobim-mobile-body>.easemobim-chat-panel{display:block!important}.easemobim-chat-panel{z-index:1000;overflow:hidden;position:fixed;border:none;width:0;height:0;-webkit-transition:all .01s;-moz-transition:all .01s;transition:all .01s;box-shadow:0 4px 8px rgba(0,0,0,.2);border-radius:4px}.easemobim-chat-panel.easemobim-minimized{border:none;box-shadow:none;height:37px!important;width:104px!important}.easemobim-chat-panel.easemobim-minimized.easemobim-has-prompt{width:360px!important;height:270px!important}.easemobim-chat-panel.easemobim-mobile{position:absolute!important;width:100%!important;height:100%!important;left:0!important;top:0!important;border-radius:0;box-shadow:none}.easemobim-chat-panel.easemobim-mobile.easemobim-minimized{height:0!important;width:0!important}.easemobim-chat-panel.easemobim-hide{visibility:hidden;width:1px!important;height:1px!important;border:none}.easemobim-chat-panel.easemobim-dragging{display:none}.easemobim-chat-panel.easemobim-big{width:720px}.easemobim-iframe-shadow{left:auto;top:auto;display:none;cursor:move;z-index:16777270;position:fixed;border:none;box-shadow:0 4px 8px rgba(0,0,0,.2);border-radius:4px;background-size:100% 100%;background-repeat:no-repeat}.easemobim-iframe-shadow.easemobim-dragging{display:block}.easemobim-prompt-wrapper{display:none;z-index:16777271;position:fixed;width:30px;height:30px;padding:10px;top:0;bottom:0;margin:auto;left:0;right:0;color:#fff;background-color:#000;text-align:center;border-radius:4px;-webkit-transition:all .5s;-moz-transition:all .5s;transition:all .5s;opacity:.7;-moz-box-sizing:content-box;box-sizing:content-box}.easemobim-prompt-wrapper>.loading{position:relative;width:30px;height:30px;display:inline-block;overflow:hidden;margin:0;padding:0;-webkit-animation:easemobim-loading-frame 1s linear infinite;-moz-animation:easemobim-loading-frame 1s linear infinite;animation:easemobim-loading-frame 1s linear infinite}@-webkit-keyframes easemobim-loading-frame{0%{-webkit-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@-moz-keyframes easemobim-loading-frame{0%{-moz-transform:rotate(0);transform:rotate(0)}to{-moz-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes easemobim-loading-frame{0%{-webkit-transform:rotate(0);-moz-transform:rotate(0);transform:rotate(0)}to{-webkit-transform:rotate(1turn);-moz-transform:rotate(1turn);transform:rotate(1turn)}}.easemobim-pc-img-view{display:none;position:fixed;top:0;left:0;width:100%;height:100%;z-index:16777270}.easemobim-pc-img-view>.shadow{position:fixed;top:0;left:0;width:100%;height:100%;background-color:#000}.easemobim-pc-img-view>img{max-width:100%;max-height:100%;position:absolute;margin:auto;top:0;right:0;bottom:0;left:0}.easemob-invite-box{position:absolute;top:50%;left:50%;width:400px;height:200px;border:1px solid #e6eaf2;padding:0;border-radius:0;margin-left:-200px;margin-top:-100px;background:#fff;display:none;z-index:9999}.easemob-invite-box .invite-logo{width:100%;height:45px;text-align:center;margin-top:30px}.easemob-invite-box .invite-logo>img{max-width:45px;max-height:45px}.easemob-invite-box .invite-text{text-align:center;margin:0 20px;color:gray;font-size:12px;height:65px;line-height:65px}.easemob-invite-box .invite-text>span{display:inline-block;line-height:25px;vertical-align:middle}.easemob-invite-box .button{position:absolute;bottom:0;width:100%;height:50px;line-height:50px;border-radius:0;margin:0;text-align:center;cursor:pointer;color:#fff;background-color:#1ba8ed}.easemob-invite-box>span{position:absolute;right:15px;top:5px;color:gray;cursor:pointer;font-size:20px}.easemob-invite-box .theme_sky{background-color:#42b8f4}.easemob-invite-box .theme_tree{background-color:#00b45f}.easemob-invite-box .theme_house{background-color:#b50e03}.easemob-invite-box .theme_cherry{background-color:#ffa0be}.easemob-invite-box .theme_orange{background-color:#f49300}.easemob-invite-box .theme_grass{background-color:#9ec100}.easemob-invite-box .theme_sea{background-color:#00cccd}.easemob-invite-box .theme_mountion{background-color:#5b799a}.easemob-invite-box .theme_moon{background-color:#3977cf}.easemob-invite-box .theme_business{background-color:#000}.easemob-invite-box .theme_lake{background-color:#06a89c}.easemob-invite-box.easemob-mobile-invite-box{width:280px;height:140px;margin-left:-140px;margin-top:-70px}.easemob-invite-box.easemob-mobile-invite-box .invite-logo{margin-top:20px;height:35px}.easemob-invite-box.easemob-mobile-invite-box .invite-logo>img{max-width:35px;max-height:35px}.easemob-invite-box.easemob-mobile-invite-box .invite-text{margin:0 5px;color:gray;font-size:12px;height:45px;line-height:45px}.easemob-invite-box.easemob-mobile-invite-box>div.button{height:35px;line-height:35px}</style></head>
+ 
+
+ 
+
+
+
  
  
 
@@ -49,8 +46,7 @@ handleCenter(".floatwindow_RightCenter");
 
 
 
-
- <div class="onlineserviceall">
+ <body lang="zh" class="mainbg cou_coursepackageplayer_body"><div class="onlineserviceall">
  <div class="onlineservicebox" style="display: none;">
  <div class="head hand" onclick="hidenOnlineService();">
  <div class="close">
@@ -60,55 +56,190 @@ handleCenter(".floatwindow_RightCenter");
  <div id="divEasemobConfig" class="body textcenter" style="min-height: 200px">
  </div>
  </div>
- <div class="onlineserviceboxpic" style="display: block;" onclick="showOnlineService();"
- onmouseover="this.className='onlineserviceboxpic filteropcity';" onmouseout="this.className='onlineserviceboxpic';">
+ <div class="onlineserviceboxpic" style="display: block;" onclick="easemobim.bind({configId: &quot;049bb246-f44d-4939-861f-57de2b60af0d&quot;})" onmouseover="this.className='onlineserviceboxpic filteropcity';" onmouseout="this.className='onlineserviceboxpic';">
  </div>
 </div>
 <script type="text/javascript">
- function showOnlineService() {
+	var urllocation=window.location.href;
+	 window.easemobim = window.easemobim || {};
+	 easemobim.config = {
+	 hide: true,
+	 autoConnect: true,
+	 dialogWidth: '360px',
+	 dialogHeight: '550px',
+	 dialogPosition: { x: '10px', y: '10px' },
+	 visitor: { 
+	 trueName: '',
+	 companyName: '',
+	 userNickname: '',
+	 description: ''
+	 },
+	 //聊天窗口加载成功回调
+	 onready: function () { 
+	 easemobim.sendExt({
+	 ext:{
+	 //custom代表自定义消息，无需修改
+	 "type": "custom", 
+	 "msgtype": {
+	 "order": {
+	 "title": "",
+	 "order_title":"",
+	 "item_url": urllocation
+	 }
+	 }
+	 }
+	 });
+	 },
+	 };
+
+	$(function () {
+		loadPropertiesForAsync("divEasemobConfig");
+	})
+	
+ function showOnlineService()
+ {
  SyncLoadHtmlContent2('divEasemobConfig', 'EasemobConfig');
  jQuery(".onlineserviceboxpic").hide();
  jQuery(".onlineservicebox").show();
  }
- function hidenOnlineService() {
+ function hidenOnlineService()
+ {
  jQuery(".onlineserviceboxpic").show();
  jQuery(".onlineservicebox").hide();
  } 
 </script>
 
- 
+ <script src="https://kefu.easemob.com/webim/easemob.js"></script><div class="easemobim-prompt-wrapper"><div class="loading"><div class="em-widget-loading"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 70 70"><circle opacity=".3" fill="none" stroke="#000" stroke-width="4" stroke-miterlimit="10" cx="35" cy="35" r="11"></circle><path fill="none" stroke="#E5E5E5" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M24 35c0-6.1 4.9-11 11-11 2.8 0 5.3 1 7.3 2.8"></path></svg></div></div></div>
 
- <body lang="zh" class="mainbg cou_coursepackageplayer_body">
+ 
  <div class="cou_coursepackageplayer_layout">
  
 
 
  
+<div id="phonetips" style="display:none;">
+ <div class="phoneTipsNewBar">
+
+ <div class="pull-left" style="width:54px;padding-left:16px;padding-top:31px;">
+ <div class="el-icon-fixed-mobile" style="height:22px;width:22px;"></div>
+ </div>
+ <div class="pull-left" style="padding-top:16px;">
+ <div class="phoneTipsNewBarName">
+ <span data-localize="sys-lbl-helpline">服务热线</span><span> (9:00~22:00)</span></div>
+ <div class="phoneTipsNewBarCode">
+ 400-928-6900</div>
+ </div>
+ </div>
+</div>
+<div style="position: fixed;_position: absolute;right: 0px;bottom: 196px;z-index: 450;width: 40px;">
+ <div class="row hand phoneTipsNewBarIcon" id="iconPhoneSelect" onmouseover="showphone()" onmouseout="hidephone()">
+ <div class="el-icon-fixed-barmobile"></div>
+ </div>
+ <div class="splid" style="display: none;"></div>
+</div>
+
 <div id="floatLbl" class="pagerightfix ie6needfixtobottom90" onmouseover="changeHoverStyle(this,'pagerightfix');">
- <div class="row" onmouseover="this.className='rowselect';" style="display: none;"
- onclick="window.open('/updateannouncement.htm');" onmouseout="this.className='row';">
+ <div class="row" onmouseover="this.className='rowselect';" style="display: none;" onclick="window.open('/updateannouncement.htm');" onmouseout="this.className='row';">
  <div class="iconversionhistory">
- <span data-localize="sys-lbl-float3"></span></div>
+ <span data-localize="sys-lbl-float3">升级日志</span></div>
  </div>
  <div class="splid" style="display: none;">
  </div>
  <div class="row" onmouseover="this.className='rowselect';" onmouseout="this.className='row';">
- <div class="iconshowtalkpanel" onclick='ShowIFrameDialog(jQuery.i18n.map["sys-lbl-float2"],800,350,"/Portal/OnlineHelp/SuggestionSubmit.aspx");'>
- <span data-localize="sys-lbl-float4"></span></div>
+ <div class="iconshowtalkpanel" onclick="window.open('http://yxt.yunxuetang.com/');">
+ <span data-localize="sys-lbl-float4new">帮助中心</span></div>
  </div>
  <div class="splid">
  </div>
   <div class="row" onmouseover="this.className='rowselect';" onmouseout="this.className='row';">
  <div class="iconphone">
- <a href='/mobileinstall.htm' data-localize="sys-lbl-float5"></a></div>
+ <a href="/mobileinstall.htm" data-localize="sys-lbl-float5">下载客户端</a>
+ </div>
  </div>
  <div class="splid">
  </div>
   <div class="row" onmouseover="this.className='rowselect';" onmouseout="this.className='row';">
  <div class="icongototop" onclick="window.scrollTo(0,0);">
- <span data-localize="sys-lbl-float6"></span></div>
+ <span data-localize="sys-lbl-float6">回到顶部</span></div>
  </div>
 </div>
+
+<style>
+ div.pagerightfix {
+ position: fixed;
+ _position: absolute;
+ right: 0px;
+ bottom: 80px!important;
+ z-index: 450;
+ width: 40px;
+ }
+
+ div.pagerightfixhover {
+ position: fixed;
+ _position: absolute;
+ right: 0px;
+ bottom: 80px!important;
+ z-index: 450;
+ width: 108px;
+ }
+
+ .phoneTipsNewBar {
+ position: fixed;
+ _position: absolute;
+ right: 0px;
+ bottom: 176px;
+ z-index: 450;
+ width: 188px;
+ height: 84px;
+ background: rgba(255, 255, 255, 1);
+ box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.15);
+ filter: progid:DXImageTransform.Microsoft.Shadow(color='#00000026', Direction=135, Strength=5);
+ /*for ie6,7,8*/
+ margin-right: 50px;
+ }
+
+ .phoneTipsNewBarName {
+ height: 22px;
+ font-size: 12px;
+ font-family: PingFangSC-Regular, PingFang SC;
+ font-weight: 400;
+ color: rgba(117, 117, 117, 1);
+ line-height: 22px;
+ }
+
+ .phoneTipsNewBarCode {
+ width: 101px;
+ height: 22px;
+ font-size: 14px;
+ font-family: PingFangSC-Regular, PingFang SC;
+ font-weight: 400;
+ color: rgba(38, 38, 38, 1);
+ line-height: 22px;
+ }
+
+ .phoneTipsNewBarIcon {
+ box-sizing: content-box;
+ margin-left: 0!important;
+ margin-right: 0!important;
+ height: 34px;
+ width: 40px;
+ background-color: #b7c5ca;
+ color: #FFFFFF;
+ font-size: 12px;
+ line-height: 36px;
+ overflow: hidden;
+ }
+</style>
+<script type="text/javascript">
+ function showphone() {
+ jQuery("#iconPhoneSelect").css({ "backgroundColor": "#59a9c6" });
+ jQuery("#phonetips").show();
+ }
+ function hidephone() {
+ jQuery("#iconPhoneSelect").css({ "backgroundColor": " #b7c5ca" });
+ jQuery("#phonetips").hide();
+ } 
+</script>
  <div class="topnotice" style="background-color:#444444;">
  <div class="noticemsg" style="width:1000px; color:#F0F0F0;"><span class="content"></span></div>
  </div>
@@ -526,46 +657,46 @@ handleCenter(".floatwindow_RightCenter");
  }
 </script>
 <div id="pnl_employeenotloginInfo01" class=""></div>
-<input type="hidden" id="hidsendtype01" /> 
+<input type="hidden" id="hidsendtype01"> 
 
 
 <div id="dvnotice01" class="sendmsgpanel" style="position: fixed; display: none;z-index:604;height:230px;">
  <div class="buttonarea" style="width:490px;">
  <div class="floatleft">
- <input id="chbPressToMe01" class="checkboxsplit" type="checkbox" /><label id="lblCopyToMe" for="chbCopyToMe" data-localize="sys_lbl_samecopy"></label>
+ <input id="chbPressToMe01" class="checkboxsplit" type="checkbox"><label id="lblCopyToMe" for="chbCopyToMe" data-localize="sys_lbl_samecopy">同时抄送一份给我</label>
  </div>
  <div class="floatright">
- <input type="button" class="btnselect" data-localize="common_btn_confirm" onclick="sendMessageWithNewLj();" />
- <input type="button" class="btncancel" data-localize="common_btn_close" onclick="closeEmpPop3WithNewLj();" />
+ <input type="button" class="btnselect" data-localize="common_btn_confirm" onclick="sendMessageWithNewLj();" value="确认">
+ <input type="button" class="btncancel" data-localize="common_btn_close" onclick="closeEmpPop3WithNewLj();" value="关闭">
  </div>
  </div>
  <div class="head"><span id="spnotice01">-</span></div>
- <div class="row" ><span class="radstar">*</span><span id="sptitle01">-</span></div>
+ <div class="row"><span class="radstar">*</span><span id="sptitle01">-</span></div>
  <div class="body datalistsection"><textarea id="txtPress01" class="textarea color4" style="font-size:12px;" rows="3"></textarea></div>
 </div>
 <div class="eventhandlepan" style="position:fixed; z-index:601">
  <div class="backlog" id="dvDaibanShiyi" style="display:none;position:absolute; z-index:601;">
- <input type="button" id="close" onclick="closeDaibanShiyi()" value=""></input>
+ <input type="button" id="close" onclick="closeDaibanShiyi()" value="">
  <div class="backlogheader clearfix">
- <label data-localize="sys_lbl_importanttodo" ></label> <span><span id="WhatTimeNow"></span>，<span id="WaitHandle_UserName">李杭燃</span><span id="ShowAttention" class="hiddenelement">，<label data-localize="sys_lbl_matterattend"></label></span>。</span></div>
+ <label data-localize="sys_lbl_importanttodo">重要待办事项</label> <span><span id="WhatTimeNow"></span>，<span id="WaitHandle_UserName">李杭燃</span><span id="ShowAttention" class="hiddenelement">，<label data-localize="sys_lbl_matterattend">以下重要事项需要您关注哦</label></span>。</span></div>
  <div id="dvBacklogContent" style="padding:0px 20px;">
  <div class="backlogcontent">
  <div class="backlogleft">
  <ul> 
  <!-- 学习使人有趣，分享令人快乐，去分享一个知识试试吧！ -->
- <li id="FirstShareKNG" class="hiddenelement"><span id="markcount2" class="markcount">0</span> <p data-localize="sys_lbl_trytoshareaknowledge"></p><a class="btnshare" href="/kng/myshared.htm" data-localize="sys_btn_shareitnow"></a></li>
+ <li id="FirstShareKNG" class="hiddenelement"><span id="markcount2" class="markcount">0</span> <p data-localize="sys_lbl_trytoshareaknowledge">学习使人有趣，分享令人快乐，去分享一个知识试试吧！</p><a class="btnshare" href="/kng/myshared.htm" data-localize="sys_btn_shareitnow">立即分享</a></li>
  <!-- 您有{0}个学习任务，即将或已延迟，赶快去学习完成它们吧！ -->
- <li id="StudyPlanKNG" class="hiddenelement"><span id="markcount3" class="markcount">0</span> <p data-localizeph="sys_lbl_learntocompletethemnow"><label><span class="colorye" id="PassStudyPlan">0</span></label></p><a class="btnshare" href="/sty/mystudytask.htm" data-localize="sys_btn_learnnow"></a></li>
+ <li id="StudyPlanKNG" class="hiddenelement"><span id="markcount3" class="markcount">0</span> <p>您有<span class="colorye" id="PassStudyPlan">0</span>个学习任务，即将或已延迟，赶快去学习完成它们吧！</p><a class="btnshare" href="/sty/mystudytask.htm" data-localize="sys_btn_learnnow">立即学习</a></li>
  <!-- 有{0}个知识等您审核哦！ -->
- <li id="WaitCkeck" class="hiddenelement"><span id="markcount4" class="markcount">0</span> <p data-localizeph="sys_lbl_knowledgesh"><label><span class="colorye" id="WaitCheckCount">0</span></label></p><a class="btnshare" href="/kng/kngcheck.htm" data-localize="sys_btn_reviewnow"></a></li>
+ <li id="WaitCkeck" class="hiddenelement"><span id="markcount4" class="markcount">0</span> <p>有<span class="colorye" id="WaitCheckCount">0</span>个知识等您审核哦！</p><a class="btnshare" href="/kng/kngcheck.htm" data-localize="sys_btn_reviewnow">立即审核</a></li>
  <!-- 安装移动客户端，可以随时随地的轻松观看视频、文档，赶快去安装吧 -->
  <!-- <li id="InstallationApps" class="hiddenelement"><span id="markcount6" class="markcount">0</span> <p data-localize="sys_lbl_quicklygoinstallit"></p><a class="btnshare" href="/mobileinstall.htm" data-localize="sys_btn_installnow"></a></li>-->
 
  <!-- 您部门中有17人已经7天未登入平台学习了！ -->
- <li id="LeaderNotLoginIn" class="hiddenelement"><span id="markcount10" class="markcount">0</span> <p data-localizeph="sys_lbl_loggedinforthelast7days"><label><span class="colorye" id="LeaderNotLoginInText">0</span></label></p><a class="btnshare" onclick="SearchUsersWithNew('WeekNotLoginWithNew')" data-localize="sys_btn_seewho"></a></li>
+ <li id="LeaderNotLoginIn" class="hiddenelement"><span id="markcount10" class="markcount">0</span> <p>有<span class="colorye" id="LeaderNotLoginInText">0</span>名员工最近7天未登入学习了！</p><a class="btnshare" onclick="SearchUsersWithNew('WeekNotLoginWithNew')" data-localize="sys_btn_seewho">看看是谁</a></li>
  <!-- 您部门中还有5人未安装客户端，请催促他们尽快安装。 -->
  <!--<li id="LeaderNotInstallationApps" class="hiddenelement"><span id="markcount11" class="markcount">0</span> <p data-localizeph="sys_lbl_installtheclientassoonaspossible"><label><span class="colorye" id="LeaderNotInstallationAppsText">0</span></label></p><a class="btnshare" onclick="SearchUsersWithNew('AppsNoInstallation')" data-localize="sys_btn_urgednow"></a></li>-->
- <li id="NoWaitPlanToDo" class="hiddenelement CompleteShow"><p data-localize="sys_lbl_everythingok"></p></li>
+ <li id="NoWaitPlanToDo" class="hiddenelement CompleteShow"><p data-localize="sys_lbl_everythingok">一切都已搞定，暂无待办事项。</p></li>
  </ul>
  </div>
  </div>
@@ -594,15 +725,14 @@ handleCenter(".floatwindow_RightCenter");
 <div class="eventhandlepan">
  <div class="onlineremind" style="display: none; position: fixed;" id="ShowMessage">
  <div class="header">
- 在线消息提醒<input type="button" value="" onclick="CloseShowMessage()"></input></div>
+ 在线消息提醒<input type="button" value="" onclick="CloseShowMessage()"></div>
  <div class="onlinecontent" id="MsgTitle">
  <span><a href="">亲，您有一个新消息到达！</a></span>
  <p>
- <a href="">陈晓祥浏览了您分享的课程【培训机构产品DEMO讲解及讨论】<span>点击查看>></span></a></p>
+ <a href="">陈晓祥浏览了您分享的课程【培训机构产品DEMO讲解及讨论】<span>点击查看&gt;&gt;</span></a></p>
  </div>
  <div class="onlinefooter">
- <input id="btn1" type="button" onclick="CloseShowMessage()" value="我知道了"></input>&nbsp;&nbsp;<input
- type="checkbox" onclick="SetRemindTime(this)" />最近一周不要提醒我
+ <input id="btn1" type="button" onclick="CloseShowMessage()" value="我知道了">&nbsp;&nbsp;<input type="checkbox" onclick="SetRemindTime(this)">最近一周不要提醒我
  </div>
  </div>
 </div>
@@ -616,7 +746,7 @@ handleCenter(".floatwindow_RightCenter");
  }
  </script>
  <div class="content">
- <span onclick="redirectIndex();" style="background-image: url('https://picobd.yunxuetang.cn/sys/13601042801/images/201811/bccb7d88ab1747bd8e3b854d254f27c7.png?r=78924286');
+ <span onclick="redirectIndex();" style="background-image: url('https://picobd.yunxuetang.cn/sys/13601042801/images/201811/bccb7d88ab1747bd8e3b854d254f27c7.png?r=61075507');
  cursor: hand;" class="leftarea"></span>
  <span class="rightarea clearfix">
  <div class="s-text-input">
@@ -631,10 +761,10 @@ handleCenter(".floatwindow_RightCenter");
   <div class="account" onmouseover="changeHoverStyleForHidDiv(this,'account')">
  <div class="accountblick">
  <span class="iconaccount">&nbsp;</span>
- <span title='李杭燃'>李杭燃</span>
+ <span title="李杭燃">李杭燃</span>
  </div>
  <div class="accountblick1">
- <span title='李杭燃'>李杭燃</span>
+ <span title="李杭燃">李杭燃</span>
  <span class="downicon">&nbsp;</span>
  </div>
  <div class="accountpanel" id="divUserNameAreaInfo" style="min-height: 457px">
@@ -642,7 +772,7 @@ handleCenter(".floatwindow_RightCenter");
 
 
 
-<Style type="text/css">
+<style type="text/css">
  div.pageheader31 .headerbg .accounthover .accountpanel div.creditstoday span.creditnumnew {
  font-size: 15px;
  color: #FFFF00;
@@ -651,27 +781,27 @@ handleCenter(".floatwindow_RightCenter");
  font-size: 15px;
  color: #FFFF00;
  }
-</Style>
+</style>
 <div id="divUserNameAreaInfo">
  <div class="row clearfix">
  <div class="creditstoday clearfix">
  <div style="width: 120px; height: 65px; float: left; margin-right: 10px;">
  <div style="margin-bottom: 20px;">
- <label data-localize="sty_lbl_today"></label>学分</div>
-  <a href='/study/mylearningpoingts.htm'>
-   <span id="UserDayScores1" class="creditnum">16</span><span id="UserDayScores2" class="creditnumdecimalpart">.60</span>
+ <label data-localize="sty_lbl_today">今日</label>学分</div>
+  <a href="/study/mylearningpoingts.htm">
+   <span id="UserDayScores1" class="creditnum">0</span><span id="UserDayScores2" class="creditnumdecimalpart">.70</span>
   </a>
  </div>
  <div style="width: 150px; height: 65px; float: left;">
  <div style="margin-bottom: 20px;">
- <label data-localize="common_lbl_todayrank"></label>积分</div>
-  <a href='/study/mygradeintegral.htm'>
-   <span id="UserDayPoint1" class="creditnum">70</span><span id="UserDayPoint2" class="creditnumdecimalpart">.00</span>
+ <label data-localize="common_lbl_todayrank">今日等级</label>积分</div>
+  <a href="/study/mygradeintegral.htm">
+   <span id="UserDayPoint1" class="creditnum">20</span><span id="UserDayPoint2" class="creditnumdecimalpart">.00</span>
   </a>
  </div>
  <div class="topright" style="float: left;">
  <div class="logout">
- <a href="/Logout.ashx" data-localize="kng_btn_dropout"></a>
+ <a href="/Logout.ashx" data-localize="kng_btn_dropout">退出</a>
  </div>
  </div>
  </div>
@@ -679,50 +809,50 @@ handleCenter(".floatwindow_RightCenter");
 <div class="row clearfix">
  <div class="cumulativecredit">
  <div class="cumulativetime clearfix">
- <div class="timeitem"><label data-localizeph="common_lbl_thismonthpoint"><label>学分</label></label> </div>
- <div class="timeitem"><label data-localizeph="common_lbl_thisyearpoint"><label>学分</label></label></div>
- <div class="timeitem"><label data-localizeph="common_lbl_thisyearrequestpoint"><label>学分</label></label></div>
+ <div class="timeitem"><label>本月学分</label> </div>
+ <div class="timeitem"><label>本年学分</label></div>
+ <div class="timeitem"><label>本年要求学分</label></div>
  </div>
  <div class="cumulativenum clearfix">
- <div id="UserMonthScores" class="numitem">162.70</div>
- <div id="UserTotalScores" class="numitem">235.10</div>
- <div id="UserNeedScores" class="numitem yeartotal">0.00</div>
+ <div id="UserMonthScores" class="numitem">56.70</div>
+ <div id="UserTotalScores" class="numitem">425.65</div>
+ <div id="UserNeedScores" class="numitem yeartotal">50.00</div>
  </div>
  </div>
 </div>
 <div id="levInfoDiv" class="row btmborder clearfix" style="border:0;">
   <div class="mycurrentcredit">
- <label data-localizeph="sty_lbl_myrankpoint"><label>积分</label><label><span class="totaldegreecredit UserPoint">650.00</span></label></label>
+ <label>我的等级积分：<span class="totaldegreecredit UserPoint">1,070.00</span>分</label>
  </div>
  <div class="memberdegree">
  <div id="LevelNo" class="fontnumber degreenumber">
- 1</div>
+ 2</div>
  <div id="LevelName" class="degreename">
- 录取通知书</div>
+ 入门新手</div>
  </div>
  <div class="degreerate clearfix">
- <div><label data-localize="sty_lbl_upgrade"></label>：<span id="LearnScores" class="creditremain">350.00</span><span>积分</span></div> 
+ <div><label data-localize="sty_lbl_upgrade">距升级还差</label>：<span id="LearnScores" class="creditremain">930.00</span><span>积分</span></div> 
  <div class="progress">
- <span class="progressbar" style=" width:65.00%">&nbsp;</span>
+ <span class="progressbar" style=" width:7.00%">&nbsp;</span>
  </div> 
  </div>
- <div class="nextdegree" >
- <div id="UpLevel" class="nextdegreenum">2</div> 
- <div id="UpLevelName" class="nextdegreename">入门新手</div>
+ <div class="nextdegree">
+ <div id="UpLevel" class="nextdegreenum">3</div> 
+ <div id="UpLevelName" class="nextdegreename">起步熟手</div>
  </div> 
  </div>
 
 <div class="row btmborder clearfix">
  <div class="msglist clearfix">
- <div class="msgitem studyhistory"><a href='/apps/sty/mystudyhistoylistinfo.htm'>学习历史</a></div>
- <div class="msgitem mycollection"><a href='/sty/myselfknowledge.htm'>我的收藏</a></div>
- <div class="msgitem mytask"><a href='/sty/mystudytask.htm'>学习计划</a></div>
+ <div class="msgitem studyhistory"><a href="/apps/sty/mystudyhistoyimageinfonew.htm">学习历史</a></div>
+ <div class="msgitem mycollection"><a href="/sty/myselfknowledge.htm">我的收藏</a></div>
+ <div class="msgitem mytask"><a href="/sty/mystudytask.htm">学习计划</a></div>
  </div>
 </div>
 <div class="row btmborder clearfix">
  <div class="personalset clearfix">
- <div class="setitem changedata"><a href='/udp/personal/baseinfo.htm'>基本资料</a></div>
-		<div class="setitem changepassword" style="width: 115px;"><a href='/udp/personal/accountsecurity.htm'>账号安全</a></div> 
+ <div class="setitem changedata"><a href="/udp/personal/baseinfo.htm">基本资料</a></div>
+		<div class="setitem changepassword" style="width: 115px;"><a href="/udp/personal/accountsecurity.htm">账号安全</a></div> 
  </div>
 </div>
 </div>
@@ -735,30 +865,24 @@ handleCenter(".floatwindow_RightCenter");
 </script>
  </div>
  </div>
- <input type="hidden" id="WaitToDoMessage" value="" />
+ <input type="hidden" id="WaitToDoMessage" value="李杭燃|1|1|0|0|晚上好|1|1|0|0|0|0|0">
  <div class="msgarea clearfix" onmouseover="showSiteMsgInfos(this,'msgarea')">
  <div class="info">
  <a href="/study/inbox.htm" target="_blank">
  <span id="sMail" class="iconnotic_new">&nbsp;</span>
  </a>
  <div class="dvnumberbg hand">
- <span class="number" id="lblSiteMessageCount">-</span>
+ <span class="number" id="lblSiteMessageCount">0</span>
  </div>
  </div>
  <div class="noticpanel clearfix">
- <div id="dvNewMsgTitle" class="row fontweightbold color4">
+ <div id="dvNewMsgTitle" class="row fontweightbold color4" style="display: none;">
  最新未读消息：</div>
- <div id="dvSiteMessageInfos">
- <div class="row">
- <div class="dataloading" style="height: 60px;">
- <span class="loadingcontent" style="margin-top: 20px;">正在努力加载数据，请稍候...</span>
- </div>
- </div>
- </div>
+ <div id="dvSiteMessageInfos"><div class="emptyusermsg"></div><div class="emptyusertext">您暂时还没收到新的消息哦！</div></div>
  <div id="dvNewMsgBottom" class="clearfix">
  <div class="showall" style="padding-right: 80px;">
  <a href="/study/inbox.htm" target="_blank">
- 查看全部>></a>
+ 查看全部&gt;&gt;</a>
  </div>
  <span class="iconread">
  <a href="#" onclick="UpdateIsReadByUserID();">全部标记为"已读"</a>
@@ -1175,7 +1299,7 @@ handleCenter(".floatwindow_RightCenter");
  <span id="sWait" class="iconnotic_new" onclick="showEventWaitHandlePanel('1')">&nbsp;</span>
  </div>
  <div class="dvnumberbg hand" onclick="showEventWaitHandlePanel('1')">
- <span class="number3" id="lblNoticCount">-</span>
+ <span class="number3" id="lblNoticCount">0</span>
  </div>
  </div>
  </div>
@@ -1200,17 +1324,17 @@ handleCenter(".floatwindow_RightCenter");
    <li>
   <a id="hylIndex0" href="/kng/kngindex.htm" target="_self">我要学习</a>
  </li>
-        <li class="seperate">&nbsp;</li>
-   <li>
-  <a id="hylIndex0" href="/newbbs/#/index" target="_self">学习社区</a>
- </li>
-        <li class="seperate">&nbsp;</li>
+           <li class="seperate">&nbsp;</li>
    <li>
   <a id="hylIndex0" href="/weikeindex.htm" target="_self">我要分享</a>
  </li>
            <li class="seperate">&nbsp;</li>
    <li>
   <a id="hylIndex0" href="/ymall/ymallcourseindex.htm" target="_blank">选课中心</a>
+ </li>
+        <li class="seperate">&nbsp;</li>
+   <li>
+  <a id="hylIndex0" href="/usm/index.htm" target="_self">我的团队</a>
  </li>
         <li class="seperate">&nbsp;</li>
    <li>
@@ -1301,33 +1425,33 @@ handleCenter(".floatwindow_RightCenter");
  <div class="bg-greydark pr clearfix">
   <form method="post" action="/kng/view/package/f21189b5d380427fbee3ec98fdaf1bf1.html" id="form1">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
 </div>
 
-    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/knowledge.css" />
-    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/comment.css" />
-    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/kng.css" />
-    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/kngIssue.css" />
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/knowledge.css">
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/comment.css">
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/kng.css">
+    <link rel="stylesheet" type="text/css" href="https://staticbd.yunxuetang.cn/yxt/SystemFiles//Themes/elearning30/kngIssue.css">
     <div class="bg-white clearfix">
     <div class="el-course-package-panel pt10">
 	    <div class="y-container1 clearfix">
-		    <div class="font-size-12 text-colorc mb15"><span class='fixtip'>当前位置：</span>&nbsp;<a href='/sty/index.htm'>个人中心</a>&nbsp;>&nbsp;课程包明细</div>
+		    <div class="font-size-12 text-colorc mb15"><span class="fixtip">当前位置：</span>&nbsp;<a href="/sty/index.htm">个人中心</a>&nbsp;&gt;&nbsp;课程包明细</div>
 		    <div class="clearfix pr">
-			    <img src="https://picobd.yunxuetang.cn/kng/13601042801/images/202002/cfab409479d542f7ae4c33d35a45ffb0.jpg" id="imageCourse" height="146" width="260" class="pull-left" />
+			    <img src="https://picobd.yunxuetang.cn/kng/13601042801/images/202002/cfab409479d542f7ae4c33d35a45ffb0.jpg" id="imageCourse" height="146" width="260" class="pull-left">
 			    <div class="pull-left ml40">
-				    <div class="font-size-22 text-white font-bold"><span title='2020数字营销业务经营指南全国线上春耕'>2020数字营销业务经营指南全国线上春耕</span></div>
+				    <div class="font-size-22 text-white font-bold"><span title="2020数字营销业务经营指南全国线上春耕">2020数字营销业务经营指南全国线上春耕</span></div>
                     
-                    <div >
+                    <div>
                         <div class="mt10 el-course-detail">
-					       <span><span data-localize="sty_lbl_catalog"></span>：</span><span id="lblCatalog1"><span title='业务知识课程/数字营销事业部/行业专家观点'>业务知识课程/数字营销事业部/行业专家观点</span></span>		      
+					       <span><span data-localize="sty_lbl_catalog">位置</span>：</span><span id="lblCatalog1"><span title="业务知识课程/数字营销事业部/行业专家观点">业务知识课程/数字营销事业部/行业专家观点</span></span>		      
 				        </div>
                         <div class="mt10 el-course-detail">
-					        <span><span id="lblAuthor">史铭芳</span>   <span data-localize="kng_lbl_toshare"></span> <span id="lblDate">2020-02-11</span></span><span class="pl50"><span data-localize="sty_lbl_hours"></span>：
-					        <span id="lblStudyMin">530</span><span data-localize="sty_lbl_minute"></span></span>
+					        <span><span id="lblAuthor">史铭芳</span>   <span data-localize="kng_lbl_toshare">分享于</span> <span id="lblDate">2020-02-11</span></span><span class="pl50"><span data-localize="sty_lbl_hours">学时</span>：
+					        <span id="lblStudyMin">530</span><span data-localize="sty_lbl_minute">分钟</span></span>
 				        </div>
 				        <div class="mt10 el-course-detail">
-					        <span><span data-localize="sty_lbl_commentscore"></span>：</span><span id="spAvg" class="iconstar5"></span>
-					        <span class="pl10"><span data-localize="common_lbl_tag"></span>：<span id="lblCourseTag"><a class='text-link' href='/search/index.htm?kw=%e6%98%a5%e8%80%95' target='_blank'>春耕</a> <a class='text-link' href='/search/index.htm?kw=%e6%95%b0%e5%ad%97%e8%90%a5%e9%94%80' target='_blank'>数字营销</a> </span></span>
+					        <span><span data-localize="sty_lbl_commentscore">评分</span>：</span><span id="spAvg" class="iconstar5"></span>
+					        <span class="pl10"><span data-localize="common_lbl_tag">标签</span>：<span id="lblCourseTag"><a class="text-link" href="/search/index.htm?kw=%e6%98%a5%e8%80%95" target="_blank">春耕</a> <a class="text-link" href="/search/index.htm?kw=%e6%95%b0%e5%ad%97%e8%90%a5%e9%94%80" target="_blank">数字营销</a> </span></span>
 				        </div>
 				        <div class="clearfix nowrap">
 					        <div class="mt25 clearfix pull-left">
@@ -1336,26 +1460,26 @@ handleCenter(".floatwindow_RightCenter");
 						        </div>
 						        <span class="text-orange-h pull-left pl10"><span id="lblStudySchedule">40.0</span>%</span>
 					        </div>
-                            <input type="submit" name="btnStartStudy" value="继续学习" id="btnStartStudy" class="btn el-continue-study ml25 pull-left mt20 font-size-16" />	
-                            <button id="liFavorite"  onclick="return CheckAddToFavorite();"><span class="iconfont icon-Collection2 mr5 "></span><span id="collect"></span></button>		    
+                            <input type="submit" name="btnStartStudy" value="继续学习" id="btnStartStudy" class="btn el-continue-study ml25 pull-left mt20 font-size-16">	
+                            <button id="liFavorite" onclick="return CheckAddToFavorite();" class="el-btn-collection ml15 mt20"><span class="iconfont icon-Collection2 mr5 "></span><span id="collect">收藏</span></button>		    
 				        </div>
                     </div>
                     <div style="display:none">
                         <div class="mt10 el-course-detail">
-					        <span><span data-localize="sty_lbl_catalog"></span>：<span id="lblCatalog2"><span title='业务知识课程/数字营销事业部/行业专家观点'>业务知识课程/数字营销事业部/行业专家观点</span></span>				      
-				        </div>
+					        <span><span data-localize="sty_lbl_catalog">位置</span>：<span id="lblCatalog2"><span title="业务知识课程/数字营销事业部/行业专家观点">业务知识课程/数字营销事业部/行业专家观点</span></span>				      
+				        </span></div>
                         <div class="mt10 el-course-detail">
-					        <span><span data-localize="sty_lbl_commentscore"></span>：</span><span id="spAvg2" class="iconstar5"></span>
+					        <span><span data-localize="sty_lbl_commentscore">评分</span>：</span><span id="spAvg2" class="iconstar5"></span>
 					        <span>(<span id="lblCommentCount2"></span>)</span>
-					        <span class="pl50"><span data-localize="sty_lbl_hours"></span>：
-					        <span id="lblStudyMin2"></span><span data-localize="sty_lbl_minute"></span></span>
+					        <span class="pl50"><span data-localize="sty_lbl_hours">学时</span>：
+					        <span id="lblStudyMin2"></span><span data-localize="sty_lbl_minute">分钟</span></span>
 				        </div>
                         <div class="mt10 el-course-detail">
-					        <span><span data-localize="sty_lbl_price"></span><span id="lblPrice" class="text-orange-h font-size-18 mh10"></span><span data-localize="sty_lbl_points"></span></span>
+					        <span><span data-localize="sty_lbl_price">价格</span><span id="lblPrice" class="text-orange-h font-size-18 mh10"></span><span data-localize="sty_lbl_points">积分</span></span>
 				        </div> 
                         <div class="clearfix nowrap">  
-                            <input type="button" id="btnBuy" data-localize="sty_lbl_ordernow" class="btn el-continue-study pull-left mt10 font-size-16" onclick="return shwoExchange();" />
-                            <button id="liFavorite2" class="el-btn-collection ml15 mt10"  onclick="return CheckAddToFavorite();"><span class="iconfont icon-Collection2 mr5 "></span><span id="collect2"></span></button>		    
+                            <input type="button" id="btnBuy" data-localize="sty_lbl_ordernow" class="btn el-continue-study pull-left mt10 font-size-16" onclick="return shwoExchange();" value="立即换购">
+                            <button id="liFavorite2" class="el-btn-collection ml15 mt10" onclick="return CheckAddToFavorite();"><span class="iconfont icon-Collection2 mr5 "></span><span id="collect2"></span></button>		    
 				        </div>
                     </div>  
                     
@@ -1370,16 +1494,16 @@ handleCenter(".floatwindow_RightCenter");
 					    <div class="text-grey">总学分</div>     
 				    </div>
 				    <div class="el-score-box">
-					    <div class="font-size-20 text-orange-h"><span id="lblStudyCount">342</span></div>
-					    <div class="text-grey"><span data-localize="common_lbl_learningpersonnum"></span></div>
+					    <div class="font-size-20 text-orange-h"><span id="lblStudyCount">383</span></div>
+					    <div class="text-grey"><span data-localize="common_lbl_learningpersonnum">学习人数</span></div>
 				    </div>
 			    </div>
 		    </div>
             <div class="el-course-detail-left pt25">
                 <ul class="el-course-detail-tab clearfix">                                                                              
-                    <li id="cintroduction" class="active" onclick="changeExpertTab(2)"><span data-localize="common_lbl_Introduction"></span></li>
-                    <li id="cchapter" onclick="changeExpertTab(0)"><span data-localize="common_lbl_catalogate"></span></li>
-                    <li id="ccommet" onclick="changeExpertTab(1)" class=''><span data-localize="common_lbl_comment"></span></li>
+                    <li id="cintroduction" class="active" onclick="changeExpertTab(2)"><span data-localize="common_lbl_Introduction">介绍</span></li>
+                    <li id="cchapter" onclick="changeExpertTab(0)"><span data-localize="common_lbl_catalogate">目录</span></li>
+                    <li id="ccommet" onclick="changeExpertTab(1)" class=""><span data-localize="common_lbl_comment">评论</span></li>
                 </ul>
                 <div id="divIntroduction">
                     <div class="mt20 lh30 text-color6 break-word">                                                                                 
@@ -1387,7 +1511,7 @@ handleCenter(".floatwindow_RightCenter");
                     </div>  
                 </div>   
                 <div id="courseTitle" class="el-course-title-bg lh50 font-size-16 mt30">
-                     <span class="ml15" data-localize="kng_lbl_coursecatalog"></span>
+                     <span class="ml15" data-localize="kng_lbl_coursecatalog">课程目录</span>
                 </div>
                 <div id="divcourselist">     
                     
@@ -1536,7 +1660,7 @@ var objectId=getQueryString("objectId");
  
  
   <div class="mt10 font-size-14" style="padding-left:15px;justify-content: space-between;">
- <p ><label data-localizeph="course_chapter_site"><label>1</label></label>&nbsp;&nbsp;<span title='第1章节 快消品行业经营策略指南'>第1章节 快消品行业经营策略指南</span></p>
+ <p><label>第1章</label>&nbsp;&nbsp;<span title="第1章节 快消品行业经营策略指南">第1章节 快消品行业经营策略指南</span></p>
  </div>
 
  <div class="el-plancourselist" style="background-position:68px;">
@@ -1545,14 +1669,14 @@ var objectId=getQueryString("objectId");
  
  
        <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
- <div class="no"><span data-localize='common_lbl_singelcourse'></span>1</div>
+ <div class="no"><span data-localize="common_lbl_singelcourse">课程</span>1</div>
  <div class="piccomplected ">&nbsp;</div>
  <div class="name ellipsis">
- <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/video/5b464b8d28dd43f39b20090b541409b6_b59ceb4ca791458db9ec9dcfadab3274.html','VideoKnowledge','','False', 'True','True',''));" title='春耕-快消-狄保卫'>春耕-快消-狄保卫</a></div>
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/video/5b464b8d28dd43f39b20090b541409b6_b59ceb4ca791458db9ec9dcfadab3274.html','VideoKnowledge','','False', 'True','True',''));" title="春耕-快消-狄保卫">春耕-快消-狄保卫</a></div>
  <div class="process">
  <table>
- <tr>
- <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <tbody><tr>
+ <td><span data-localize="sty_lbl_schedule">进度</span>：</td>
  <td>
  <div class="processbox">
  <div class="percent" style="width: 60.0px;">
@@ -1563,26 +1687,26 @@ var objectId=getQueryString("objectId");
   &nbsp;100.0%
   </td>
  </tr>
- </table>
+ </tbody></table>
  </div>
  <div class="pull-right text-grey font-size-12 mr20">
- 63<span data-localize='kng_lbl_minutes'></span></div>
+ 63<span data-localize="kng_lbl_minutes">分钟</span></div>
  <div class="score">
- <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >3.15</span>&nbsp;/&nbsp;<span class="fontnumber" >3.15</span></div>
+ <span data-localize="kng_lbl_leancount">学分</span>：<span class="fontnumber">3.15</span>&nbsp;/&nbsp;<span class="fontnumber">3.15</span></div>
  </div>
    
    
  
  
       <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
- <div class="no"><span data-localize='common_lbl_singelcourse'></span>2</div>
+ <div class="no"><span data-localize="common_lbl_singelcourse">课程</span>2</div>
  <div class="picnostart  last">&nbsp;</div>
  <div class="name ellipsis">
- <span class="Knowledge_PDF">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/document/5b464b8d28dd43f39b20090b541409b6_f35faf44120e47d4a3925c51c66e7cf5.html','DocumentKnowledge','','False', 'True','True',''));" title='2020年快消行业及CRM业务经营策略指南3.0'>2020年快消行业及CRM业务经营策略指南3.0</a></div>
+ <span class="Knowledge_PDF">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/document/5b464b8d28dd43f39b20090b541409b6_f35faf44120e47d4a3925c51c66e7cf5.html','DocumentKnowledge','','False', 'True','True',''));" title="2020年快消行业及CRM业务经营策略指南3.0">2020年快消行业及CRM业务经营策略指南3.0</a></div>
  <div class="process">
  <table>
- <tr>
- <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <tbody><tr>
+ <td><span data-localize="sty_lbl_schedule">进度</span>：</td>
  <td>
  <div class="processbox">
  <div class="percent" style="width: 0.0px;">
@@ -1593,16 +1717,16 @@ var objectId=getQueryString("objectId");
   &nbsp;0.0%
   </td>
  </tr>
- </table>
+ </tbody></table>
  </div>
  <div class="pull-right text-grey font-size-12 mr20">
- 31<span data-localize='kng_lbl_minutes'></span></div>
+ 31<span data-localize="kng_lbl_minutes">分钟</span></div>
  <div class="score">
- <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.1</span></div>
+ <span data-localize="kng_lbl_leancount">学分</span>：<span class="fontnumber">0.0</span>&nbsp;/&nbsp;<span class="fontnumber">3.1</span></div>
  </div>
    </div>
   <div class="mt10 font-size-14" style="padding-left:15px;justify-content: space-between;">
- <p ><label data-localizeph="course_chapter_site"><label>2</label></label>&nbsp;&nbsp;<span title='第2章节 耐消品行业经营策略指南'>第2章节 耐消品行业经营策略指南</span></p>
+ <p><label>第2章</label>&nbsp;&nbsp;<span title="第2章节 耐消品行业经营策略指南">第2章节 耐消品行业经营策略指南</span></p>
  </div>
 
  <div class="el-plancourselist" style="background-position:68px;">
@@ -1611,14 +1735,14 @@ var objectId=getQueryString("objectId");
  
  
        <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
- <div class="no"><span data-localize='common_lbl_singelcourse'></span>1</div>
+ <div class="no"><span data-localize="common_lbl_singelcourse">课程</span>1</div>
  <div class="piccomplected ">&nbsp;</div>
  <div class="name ellipsis">
- <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/video/5b464b8d28dd43f39b20090b541409b6_4c63eb26cf0f419db1745236b9735622.html','VideoKnowledge','','False', 'True','True',''));" title='春耕-耐消_杜曦S'>春耕-耐消_杜曦S</a></div>
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/video/5b464b8d28dd43f39b20090b541409b6_4c63eb26cf0f419db1745236b9735622.html','VideoKnowledge','','False', 'True','True',''));" title="春耕-耐消_杜曦S">春耕-耐消_杜曦S</a></div>
  <div class="process">
  <table>
- <tr>
- <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <tbody><tr>
+ <td><span data-localize="sty_lbl_schedule">进度</span>：</td>
  <td>
  <div class="processbox">
  <div class="percent" style="width: 60.0px;">
@@ -1629,26 +1753,26 @@ var objectId=getQueryString("objectId");
   &nbsp;100.0%
   </td>
  </tr>
- </table>
+ </tbody></table>
  </div>
  <div class="pull-right text-grey font-size-12 mr20">
- 64<span data-localize='kng_lbl_minutes'></span></div>
+ 64<span data-localize="kng_lbl_minutes">分钟</span></div>
  <div class="score">
- <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >3.2</span>&nbsp;/&nbsp;<span class="fontnumber" >3.2</span></div>
+ <span data-localize="kng_lbl_leancount">学分</span>：<span class="fontnumber">3.2</span>&nbsp;/&nbsp;<span class="fontnumber">3.2</span></div>
  </div>
    
    
  
  
       <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
- <div class="no"><span data-localize='common_lbl_singelcourse'></span>2</div>
+ <div class="no"><span data-localize="common_lbl_singelcourse">课程</span>2</div>
  <div class="picnostart  last">&nbsp;</div>
  <div class="name ellipsis">
- <span class="Knowledge_PDF">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/document/5b464b8d28dd43f39b20090b541409b6_01e50be8d282414da5eb77f3cf760c09.html','DocumentKnowledge','','False', 'True','True',''));" title='2020年耐消业务线经营策略指南V2.0'>2020年耐消业务线经营策略指南V2.0</a></div>
+ <span class="Knowledge_PDF">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/document/5b464b8d28dd43f39b20090b541409b6_01e50be8d282414da5eb77f3cf760c09.html','DocumentKnowledge','','False', 'True','True',''));" title="2020年耐消业务线经营策略指南V2.0">2020年耐消业务线经营策略指南V2.0</a></div>
  <div class="process">
  <table>
- <tr>
- <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <tbody><tr>
+ <td><span data-localize="sty_lbl_schedule">进度</span>：</td>
  <td>
  <div class="processbox">
  <div class="percent" style="width: 0.0px;">
@@ -1659,16 +1783,16 @@ var objectId=getQueryString("objectId");
   &nbsp;0.0%
   </td>
  </tr>
- </table>
+ </tbody></table>
  </div>
  <div class="pull-right text-grey font-size-12 mr20">
- 30<span data-localize='kng_lbl_minutes'></span></div>
+ 30<span data-localize="kng_lbl_minutes">分钟</span></div>
  <div class="score">
- <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.0</span></div>
+ <span data-localize="kng_lbl_leancount">学分</span>：<span class="fontnumber">0.0</span>&nbsp;/&nbsp;<span class="fontnumber">3.0</span></div>
  </div>
    </div>
   <div class="mt10 font-size-14" style="padding-left:15px;justify-content: space-between;">
- <p ><label data-localizeph="course_chapter_site"><label>3</label></label>&nbsp;&nbsp;<span title='第3章节 医药行业经营策略指南'>第3章节 医药行业经营策略指南</span></p>
+ <p><label>第3章</label>&nbsp;&nbsp;<span title="第3章节 医药行业经营策略指南">第3章节 医药行业经营策略指南</span></p>
  </div>
 
  <div class="el-plancourselist" style="background-position:68px;">
@@ -1677,14 +1801,14 @@ var objectId=getQueryString("objectId");
  
  
        <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
- <div class="no"><span data-localize='common_lbl_singelcourse'></span>1</div>
+ <div class="no"><span data-localize="common_lbl_singelcourse">课程</span>1</div>
  <div class="piccomplected ">&nbsp;</div>
  <div class="name ellipsis">
- <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/video/5b464b8d28dd43f39b20090b541409b6_354dc49cf535420bbb0104506e874b50.html','VideoKnowledge','','False', 'True','True',''));" title='春耕-医药_周君'>春耕-医药_周君</a></div>
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/video/5b464b8d28dd43f39b20090b541409b6_354dc49cf535420bbb0104506e874b50.html','VideoKnowledge','','False', 'True','True',''));" title="春耕-医药_周君">春耕-医药_周君</a></div>
  <div class="process">
  <table>
- <tr>
- <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <tbody><tr>
+ <td><span data-localize="sty_lbl_schedule">进度</span>：</td>
  <td>
  <div class="processbox">
  <div class="percent" style="width: 60.0px;">
@@ -1695,26 +1819,26 @@ var objectId=getQueryString("objectId");
   &nbsp;100.0%
   </td>
  </tr>
- </table>
+ </tbody></table>
  </div>
  <div class="pull-right text-grey font-size-12 mr20">
- 72<span data-localize='kng_lbl_minutes'></span></div>
+ 72<span data-localize="kng_lbl_minutes">分钟</span></div>
  <div class="score">
- <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >3.6</span>&nbsp;/&nbsp;<span class="fontnumber" >3.6</span></div>
+ <span data-localize="kng_lbl_leancount">学分</span>：<span class="fontnumber">3.6</span>&nbsp;/&nbsp;<span class="fontnumber">3.6</span></div>
  </div>
    
    
  
  
       <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
- <div class="no"><span data-localize='common_lbl_singelcourse'></span>2</div>
+ <div class="no"><span data-localize="common_lbl_singelcourse">课程</span>2</div>
  <div class="picnostart  last">&nbsp;</div>
  <div class="name ellipsis">
- <span class="Knowledge_PDF">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/document/5b464b8d28dd43f39b20090b541409b6_761695e40b724df882f1386570a9d057.html','DocumentKnowledge','','False', 'True','True',''));" title='2020年医药业务线经营策略指南V3.0'>2020年医药业务线经营策略指南V3.0</a></div>
+ <span class="Knowledge_PDF">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/document/5b464b8d28dd43f39b20090b541409b6_761695e40b724df882f1386570a9d057.html','DocumentKnowledge','','False', 'True','True',''));" title="2020年医药业务线经营策略指南V3.0">2020年医药业务线经营策略指南V3.0</a></div>
  <div class="process">
  <table>
- <tr>
- <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <tbody><tr>
+ <td><span data-localize="sty_lbl_schedule">进度</span>：</td>
  <td>
  <div class="processbox">
  <div class="percent" style="width: 0.0px;">
@@ -1725,16 +1849,16 @@ var objectId=getQueryString("objectId");
   &nbsp;0.0%
   </td>
  </tr>
- </table>
+ </tbody></table>
  </div>
  <div class="pull-right text-grey font-size-12 mr20">
- 34<span data-localize='kng_lbl_minutes'></span></div>
+ 34<span data-localize="kng_lbl_minutes">分钟</span></div>
  <div class="score">
- <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.4</span></div>
+ <span data-localize="kng_lbl_leancount">学分</span>：<span class="fontnumber">0.0</span>&nbsp;/&nbsp;<span class="fontnumber">3.4</span></div>
  </div>
    </div>
   <div class="mt10 font-size-14" style="padding-left:15px;justify-content: space-between;">
- <p ><label data-localizeph="course_chapter_site"><label>4</label></label>&nbsp;&nbsp;<span title='第4章节 农业行业经营策略指南'>第4章节 农业行业经营策略指南</span></p>
+ <p><label>第4章</label>&nbsp;&nbsp;<span title="第4章节 农业行业经营策略指南">第4章节 农业行业经营策略指南</span></p>
  </div>
 
  <div class="el-plancourselist" style="background-position:68px;">
@@ -1743,14 +1867,14 @@ var objectId=getQueryString("objectId");
  
  
        <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
- <div class="no"><span data-localize='common_lbl_singelcourse'></span>1</div>
+ <div class="no"><span data-localize="common_lbl_singelcourse">课程</span>1</div>
  <div class="piccomplected ">&nbsp;</div>
  <div class="name ellipsis">
- <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/video/5b464b8d28dd43f39b20090b541409b6_091e5055b8ef46008302d95b0449700d.html','VideoKnowledge','','False', 'True','True',''));" title='春耕-农业_李金文'>春耕-农业_李金文</a></div>
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/video/5b464b8d28dd43f39b20090b541409b6_091e5055b8ef46008302d95b0449700d.html','VideoKnowledge','','False', 'True','True',''));" title="春耕-农业_李金文">春耕-农业_李金文</a></div>
  <div class="process">
  <table>
- <tr>
- <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <tbody><tr>
+ <td><span data-localize="sty_lbl_schedule">进度</span>：</td>
  <td>
  <div class="processbox">
  <div class="percent" style="width: 60.0px;">
@@ -1761,26 +1885,26 @@ var objectId=getQueryString("objectId");
   &nbsp;100.0%
   </td>
  </tr>
- </table>
+ </tbody></table>
  </div>
  <div class="pull-right text-grey font-size-12 mr20">
- 71<span data-localize='kng_lbl_minutes'></span></div>
+ 71<span data-localize="kng_lbl_minutes">分钟</span></div>
  <div class="score">
- <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >3.55</span>&nbsp;/&nbsp;<span class="fontnumber" >3.55</span></div>
+ <span data-localize="kng_lbl_leancount">学分</span>：<span class="fontnumber">3.55</span>&nbsp;/&nbsp;<span class="fontnumber">3.55</span></div>
  </div>
    
    
  
  
       <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
- <div class="no"><span data-localize='common_lbl_singelcourse'></span>2</div>
+ <div class="no"><span data-localize="common_lbl_singelcourse">课程</span>2</div>
  <div class="picnostart  last">&nbsp;</div>
  <div class="name ellipsis">
- <span class="Knowledge_PDF">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/document/5b464b8d28dd43f39b20090b541409b6_7d919574d9974b5191e64d09de810172.html','DocumentKnowledge','','False', 'True','True',''));" title='2020年农业业务线经营策略V3.0'>2020年农业业务线经营策略V3.0</a></div>
+ <span class="Knowledge_PDF">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/document/5b464b8d28dd43f39b20090b541409b6_7d919574d9974b5191e64d09de810172.html','DocumentKnowledge','','False', 'True','True',''));" title="2020年农业业务线经营策略V3.0">2020年农业业务线经营策略V3.0</a></div>
  <div class="process">
  <table>
- <tr>
- <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <tbody><tr>
+ <td><span data-localize="sty_lbl_schedule">进度</span>：</td>
  <td>
  <div class="processbox">
  <div class="percent" style="width: 0.0px;">
@@ -1791,16 +1915,16 @@ var objectId=getQueryString("objectId");
   &nbsp;0.0%
   </td>
  </tr>
- </table>
+ </tbody></table>
  </div>
  <div class="pull-right text-grey font-size-12 mr20">
- 68<span data-localize='kng_lbl_minutes'></span></div>
+ 68<span data-localize="kng_lbl_minutes">分钟</span></div>
  <div class="score">
- <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >6.0</span></div>
+ <span data-localize="kng_lbl_leancount">学分</span>：<span class="fontnumber">0.0</span>&nbsp;/&nbsp;<span class="fontnumber">6.0</span></div>
  </div>
    </div>
   <div class="mt10 font-size-14" style="padding-left:15px;justify-content: space-between;">
- <p ><label data-localizeph="course_chapter_site"><label>5</label></label>&nbsp;&nbsp;<span title='第5章节 服务行业经营策略指南'>第5章节 服务行业经营策略指南</span></p>
+ <p><label>第5章</label>&nbsp;&nbsp;<span title="第5章节 服务行业经营策略指南">第5章节 服务行业经营策略指南</span></p>
  </div>
 
  <div class="el-plancourselist" style="background-position:68px;">
@@ -1809,14 +1933,14 @@ var objectId=getQueryString("objectId");
  
  
        <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
- <div class="no"><span data-localize='common_lbl_singelcourse'></span>1</div>
+ <div class="no"><span data-localize="common_lbl_singelcourse">课程</span>1</div>
  <div class="picstudying ">&nbsp;</div>
  <div class="name ellipsis">
- <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/video/5b464b8d28dd43f39b20090b541409b6_0e95cbe8cc29427b839df88c7d0360eb.html','VideoKnowledge','','False', 'True','True',''));" title='春耕-服务_熊剑'>春耕-服务_熊剑</a></div>
+ <span class="Knowledge_Video">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/video/5b464b8d28dd43f39b20090b541409b6_0e95cbe8cc29427b839df88c7d0360eb.html','VideoKnowledge','','False', 'True','True',''));" title="春耕-服务_熊剑">春耕-服务_熊剑</a></div>
  <div class="process">
  <table>
- <tr>
- <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <tbody><tr>
+ <td><span data-localize="sty_lbl_schedule">进度</span>：</td>
  <td>
  <div class="processbox">
  <div class="percent" style="width: 29.034px;">
@@ -1827,26 +1951,26 @@ var objectId=getQueryString("objectId");
   &nbsp;48.39%
   </td>
  </tr>
- </table>
+ </tbody></table>
  </div>
  <div class="pull-right text-grey font-size-12 mr20">
- 62<span data-localize='kng_lbl_minutes'></span></div>
+ 62<span data-localize="kng_lbl_minutes">分钟</span></div>
  <div class="score">
- <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.1</span></div>
+ <span data-localize="kng_lbl_leancount">学分</span>：<span class="fontnumber">0.0</span>&nbsp;/&nbsp;<span class="fontnumber">3.1</span></div>
  </div>
    
    
  
  
       <div class="normalrow clearfix" onmouseover="this.className='normalrowhover clearfix';" onmouseout="this.className='normalrow clearfix';">
- <div class="no"><span data-localize='common_lbl_singelcourse'></span>2</div>
+ <div class="no"><span data-localize="common_lbl_singelcourse">课程</span>2</div>
  <div class="picnostart  last">&nbsp;</div>
  <div class="name ellipsis">
- <span class="Knowledge_PDF">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/document/5b464b8d28dd43f39b20090b541409b6_d9801882992141b3b97b59b3c8ab7e23.html','DocumentKnowledge','','False', 'True','True',''));" title='2020年现代服务业务经营策略指南V2.0'>2020年现代服务业务经营策略指南V2.0</a></div>
+ <span class="Knowledge_PDF">&nbsp;</span><a class="text-color6" href="javascript:void(StudyRowClick('/package/document/5b464b8d28dd43f39b20090b541409b6_d9801882992141b3b97b59b3c8ab7e23.html','DocumentKnowledge','','False', 'True','True',''));" title="2020年现代服务业务经营策略指南V2.0">2020年现代服务业务经营策略指南V2.0</a></div>
  <div class="process">
  <table>
- <tr>
- <td><span data-localize='sty_lbl_schedule'></span>：</td>
+ <tbody><tr>
+ <td><span data-localize="sty_lbl_schedule">进度</span>：</td>
  <td>
  <div class="processbox">
  <div class="percent" style="width: 0.0px;">
@@ -1857,12 +1981,12 @@ var objectId=getQueryString("objectId");
   &nbsp;0.0%
   </td>
  </tr>
- </table>
+ </tbody></table>
  </div>
  <div class="pull-right text-grey font-size-12 mr20">
- 35<span data-localize='kng_lbl_minutes'></span></div>
+ 35<span data-localize="kng_lbl_minutes">分钟</span></div>
  <div class="score">
- <span data-localize='kng_lbl_leancount'></span>：<span class="fontnumber" >0.0</span>&nbsp;/&nbsp;<span class="fontnumber" >3.5</span></div>
+ <span data-localize="kng_lbl_leancount">学分</span>：<span class="fontnumber">0.0</span>&nbsp;/&nbsp;<span class="fontnumber">3.5</span></div>
  </div>
    </div>
    </div>
@@ -1871,41 +1995,787 @@ var objectId=getQueryString("objectId");
  <div class="playgoonbg">
  </div>
  <div class="playgooncontent" id="Div2">
- <span data-localize='sty_msg_cannotlearn'></span>
+ <span data-localize="sty_msg_cannotlearn">暂无法学习此知识。此知识受学习顺序控制，您需要在完成前面知识的学习后才可以学习此知识</span>
  </div>
- <input type="button" class="btnok" data-localize='sty_lbl_gotit' onclick="closeCantPlay2();" /></div>
+ <input type="button" class="btnok" data-localize="sty_lbl_gotit" onclick="closeCantPlay2();" value="我知道了"></div>
  </div>
                 </div>          
-                <div id="commentTitle" class='el-course-title-bg lh50 font-size-16 mt30 '>
-                    <span class="ml15" data-localize="kng_lbl_coursereviews"></span>(<span id="spCount" class="text-warning">-</span>)
+                <div id="commentTitle" class="el-course-title-bg lh50 font-size-16 mt30 ">
+                    <span class="ml15" data-localize="kng_lbl_coursereviews">课程评论</span>(<span id="spCount" class="text-warning">2</span>)
                 </div>
-                <div id="commentDiv" class=''>
-                </div>
+                <div id="commentDiv" class="">
+
+ 
+  
+ <script type="text/javascript">
+ //页面加载
+ jQuery(document).ready(function () {
+
+ console.log("显示星星啊！");
+ console.log("1");
+
+ jQuery("#hfGradeLvl").val("0");
+ jQuery("#hfIsShowCMStar").val("1");
+ var isneedpoint = $("#hidIsNeedPoint").val();
+ if (isneedpoint == "true") {
+ $("#txtcomment").attr("readonly", "readonly");
+ }
+ var key = "MasterID|SourceID|PackageID|UserID|PageIndex|PageSize";
+ var value = "f21189b5-d380-427f-bee3-ec98fdaf1bf1|f21189b5-d380-427f-bee3-ec98fdaf1bf1|f21189b5-d380-427f-bee3-ec98fdaf1bf1|49b04dcc-4796-437d-ba87-4a8eebf9a22c|0|10";
+ GetDataByLabelENameWithKng("dvCommentList", "KngCommentList30", 0, 0, key, value);
+ });
+
+ //发表评论
+ function PublishComment() {
+
+ var commentContent = jQuery.trim(jQuery("#txtcomment").val());
+ var commentScore = jQuery("#hfGradeLvl").val();
+ var flag = 0;
+ if ((commentContent == "" || commentContent == jQuery.i18n.map["sty_tip_advance"]) && (commentScore == "" || commentScore == "0")) {
+ showWarningMsg(jQuery.i18n.map["sty_msg_entercomment"]);
+ return false;
+ } else if (commentContent != "" && commentContent != jQuery.i18n.map["sty_tip_advance"] && commentContent.length > 1000) {
+ showWarningMsg(jQuery.i18n.map["sty_msg_enternomore1000word"]);
+ return false;
+ }
+ else {
+ if (commentContent == jQuery.i18n.map["sty_tip_advance"]) {
+ commentContent = "";
+ }
+ }
+ showDealingMsg(jQuery.i18n.map["sys_msg_datasubmission"]);
+ var parentId = "";
+ var masterId = "f21189b5-d380-427f-bee3-ec98fdaf1bf1";
+ var commentType = "CourseKnowledge";
+ var thirdId = "f21189b5-d380-427f-bee3-ec98fdaf1bf1";
+ var thirdType = "";
+ var packageId = "f21189b5-d380-427f-bee3-ec98fdaf1bf1";
+ var comType = 0;
+
+ CommentAjax(parentId, masterId, commentType, encodeURIComponent(commentContent), thirdId, thirdType, packageId, commentScore, comType,
+		function () {
+
+		});
+ }
+
+ //提交评论
+ function CommentAjax(parentId, masterId, commentType, commentContent, thirdId, thirdType, packageId, commentScore, comType, successCallback, errorCallback) {
+ var checkComment = $("#hidCheckComments").val();
+ var methodName = 'PublishCommentNew';
+ var arr = '{"parentId":"' + parentId + '","masterId":"' + masterId + '","commentType":"' + commentType + '","commentContent":"' + commentContent + '","thirdId":"' + thirdId + '","thirdType":"' + thirdType + '","packageId":"' + packageId + '","commentScore":"' + commentScore + '","comType":"' + comType + '"}';
+ var key = GetValidateKey();
+ if (arr && arr.indexOf('{') > -1) {
+ arr = arr.replace('{', '{"key":"' + key + '",');
+ }
+ else {
+ arr = arr.replace('{', '{"key":"' + key + '"');
+ }
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/kng/services/KngComService.svc/PublishCommentNew",
+ data: arr,
+ dataType: 'json',
+ cache: false,
+ success: function (result) {
+ closeDealingMsg();
+ result = eval('(' + result + ')');
+ if (result.Status == "Ok") {
+ DealAjaxResult(result.Data);
+
+		 if (checkComment == "0") { 
+		 showSuccessMsg(jQuery.i18n.map["common_msg_submitsuccess"]);
+ } else {
+ showSuccessMsg(jQuery.i18n.map["sys_msg_submitcomment"]);
+ }
+
+ $("span[el-allow-num]").html(1000);
+ jQuery("#txtcomment").val("");
+ //评论成功 
+ try {
+ if ($("#divCommentEmpty").length > 0) {
+ $("#divCommentEmpty").hide();
+ }
+ //发布成功后添加一条虚拟元素刚到第一条
+ if (commentContent != "") {
+ addFalseElment(result.Data);
+ }
+ //更新评论列表
+ //GetCommentData(1, 10);
+ if (Number(commentScore) > 0) {
+ var avgStar = $("#hidAvgStar").val();
+ var tempCount;
+ if (Number(avgStar) > 0) {
+ tempCount = Math.round((Number(avgStar) + Number(commentScore)) / 2);
+ } else {
+ tempCount = Number(commentScore);
+ }
+ var iconstarlevel = "iconstarlevel" + tempCount;
+ $("#avgScoreStar").attr("class", iconstarlevel);
+ }
+ }
+ catch (e) { }
+
+ if (commentScore > 0) {
+ //评价后隐藏评分区 
+ try {
+ jQuery("#divCansetCMStar").hide();
+ jQuery("#hfGradeLvl").val("0");
+ jQuery("#hidIsShowStar").val("0");
+ }
+ catch (e) { }
+ }
+
+ //回调
+ if (successCallback) {
+ successCallback();
+ }
+
+ } else if (result.Status == "DealERROR") {
+ var result = DealAjaxResult(result.Data);
+ } else {
+ showWarningMsg(result.Data);
+ }
+ },
+ error: function (data) {
+ closeDealingMsg();
+ showWarningMsg(jQuery.i18n.map["sty_msg_submissionfailed"]);
+ }
+
+ });
+ }
+
+ //生成GUID类型标示字符串
+ function uuid() {
+ var s = [];
+ var hexDigits = "0123456789abcdef";
+ for (var i = 0; i < 36; i++) {
+ s[i] = hexDigits.substr(Math.floor(Math.random() * 0x10), 1);
+ }
+ s[14] = "4"; // bits 12-15 of the time_hi_and_version field to 0010 
+ s[19] = hexDigits.substr((s[19] & 0x3) | 0x8, 1); // bits 6-7 of the clock_seq_hi_and_reserved to 01 
+ s[8] = s[13] = s[18] = s[23] = "-";
+
+ var uuid = s.join("");
+ return uuid;
+ }
+
+ //发布成功后添加一条虚拟元素刚到第一条
+ function addFalseElment(result) {
+ var tempGUID = uuid();
+ var isCheckComments = $("#hidCheckComments").val();
+
+ result = JSON.parse(result);
+ var str = "";
+ str += "<div class='cmitem clearfix'>" +
+		"<div class='head_leftimg clearfix'>" +
+		"<div class='headimgarea hand'>" +
+		"<div class='headborder' onclick=openPersonal('" + result.userId + "')>" +
+		"<span title='" + result.userCName + "'><img class='headimage' src='" + result.userPhotoUrl + "' /></span>" +
+		"</div>" +
+		"</div>" +
+		"<div class='itemcontent'>" +
+		"<div class='itemheader hand'> " +
+		"<div class='headerleft' onclick=openPersonal('" + result.userId + "')>" +
+		"<span class='font-bold' title='" + result.userCName + "' >" + result.userCName + "</span>" +
+		"</div>" +
+		"</div>" +
+		"<div class='text-normal break-word'>";
+ if (result.isTop == 1) {
+ str += "<span class='el-icon-recommend v-mid ml5'></span>";
+ } else {
+ str += "<span class='box text-color6'>" + result.commentContent + "</span>";
+ }
+
+ str += "</div>" +
+		"<div class='clearfix mt10'>" +
+		"<span class='font-size-12 text-grey pull-left'>" + GetDateLang(result.commentTime, 10, 'zh') + "</span>";
+ //if (49b04dcc-4796-437d-ba87-4a8eebf9a22c==result.userId)
+ //{
+		 str+="<a class='pl15' data-localize='sys_lbl_delete' href='#' onclick='DelComments(\""+result.id+"\",\""+result.userId+"\",\""+result.masterId+"\")'></a>";
+ //}
+		str+="<div class='pull-right'>";
+
+ if ("0" == isCheckComments) {
+ str += "<span class='reply_sp hand font-size-12 text-grey' onclick=showHideDiv('" + tempGUID + "',this) id='" + "reply_" + result.id + "'><span>" + jQuery.i18n.map["sty_lbl_reply"] + "</span></span>";
+
+ if (result.isSupport == 1) {
+ str += " <span id='spPraise' class='ml10 el-icon-praise hand' onclick=praiseCount('" + result.id + "')></span>" +
+				"<span id='praiseCount' class='ml5 text-link'>" + result.praiseCount + "</span>";
+ } else {
+ str += "<span id='spPraise" + result.id + "' class='ml10 el-icon-praise-empty hand' onclick=praiseCount('" + result.id + "')></span>" +
+				"<span id='praiseCount" + result.id + "' class='ml5 text-disable'>" + result.praiseCount + "</span>";
+ }
+ }
+ else {
+ str += "<span class='text-grey pull-right' data-localize='common_lbl_waitingforreview'></span>";
+ }
+
+ str += "</div>" +
+		"</div>	" +
+		"<div class='replypanelHidden mt20' id='divRestore" + tempGUID + "' style='display:none;'>" +
+		"<div el-textarea=''>" +
+		"<textarea rp='reply' id='txtreply" + tempGUID + "' class='form-control' cols='30' rows='5' maxlength='1000'>" + jQuery.i18n.map["sty_msg_enterreply"] + "</textarea>" +
+		"<input class='btn btn-primary btn-smd pull-right mt10'  id='btnReply' style='width:80px;' type='button' onclick=ReplyComment('" + result.id + "','" + tempGUID + "','" + result.masterId + "','" + result.thirdId + "','" + result.thirdType + "','" + result.packageId + "') value=" + jQuery.i18n.map["common_btn_submit"] + " />" +
+		"</div>	" +
+		"<div class='clearstatic'></div >" +
+		"</div>	" +
+		"</div>	" +
+		"</div>	" +
+		"</div>	";
+
+ $(".cmlistcontent").prepend(str);
+
+ loadPropertiesForAsync("dvCommentList");
+ }
+</script>
+
+<script type="text/javascript">
+ var cmClassName = "floatleft cmstarset";
+ var cmStarMsg = "";
+ //设置评分星星显示
+ function setCMTempStar(obj, num, msgid) {
+ if (num == '') {
+ obj.className = cmClassName;
+ document.getElementById(msgid).innerHTML = cmStarMsg;
+ } else {
+ obj.className = "floatleft cmstarset" + num;
+ switch (num) {
+ case 1:
+ document.getElementById(msgid).innerHTML = " <span class='font-bold'>" + jQuery.i18n.map["sty_lbl_poor"] + "</span> (<span class='cmsnumber'>1</span>" + jQuery.i18n.map["sty_lbl_point"] + ")";
+ break;
+ case 2:
+ document.getElementById(msgid).innerHTML = " <span class='font-bold'>" + jQuery.i18n.map["sty_lbl_evaluationnotgood"] + "</span> (<span class='cmsnumber'>2</span>" + jQuery.i18n.map["sty_lbl_point"] + ")";
+ break;
+ case 3:
+ document.getElementById(msgid).innerHTML = " <span class='font-bold'>" + jQuery.i18n.map["sty_lbl_notbad"] + "</span> (<span class='cmsnumber'>3</span>" + jQuery.i18n.map["sty_lbl_point"] + ")";
+ break;
+ case 4:
+ document.getElementById(msgid).innerHTML = " <span class='font-bold'>" + jQuery.i18n.map["common_lbl_good"] + "</span> (<span class='cmsnumber'>4</span>" + jQuery.i18n.map["sty_lbl_point"] + ")";
+ break;
+ case 5:
+ document.getElementById(msgid).innerHTML = " <span class='font-bold'>" + jQuery.i18n.map["sty_lbl_better"] + "</span> (<span class='cmsnumber'>5</span>" + jQuery.i18n.map["sty_lbl_point"] + ")";
+ break;
+ default:
+ document.getElementById(msgid).innerHTML = "";
+ }
+ }
+ }
+
+ //设置评分值
+ function setCMStar(obj, num) {
+ cmClassName = obj.parentNode.className;
+ document.getElementById('hfGradeLvl').value = num;
+ jQuery("#errorScore").hide();
+ }
+
+ //个人主页
+ function openPersonal(id) {
+ openURL("/myhome.htm" + "?userID=" + id);
+ }
+	
+</script>
+
+<div id="divPublishComment" class="clearfix mt15 hidden">
+ <div class="pull-left hand" onclick="openPersonal('49b04dcc-4796-437d-ba87-4a8eebf9a22c')">
+ <img src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/118.png?r=26912731" class="circle-img" width="50" height="50">
+ </div>
+ <div class="ml50 pl20">
+		<textarea class="form-control" id="txtcomment" allowlength="1000" data-localize="sty_tip_advance" placeholder="发表您的评价或意见建议"></textarea> 
+		<script type="text/javascript">		 $("#txtcomment").eltextarea();</script>
+ <div class="mt10 clearfix">
+				 <div class="pull-left pt5 clearfix" id="divCansetCMStar">				
+				<span class="font-bold pull-left"><span data-localize="sty_lbl_givescore">请您评分</span>：</span>					
+				<div class="cmstarset floatleft" id="divStar" onmouseout="setCMTempStar(this,'','cmStarMsg')">
+					<span class="cmstar1" onmouseover="setCMTempStar(this.parentNode,1,'cmStarMsg')" onclick="setCMStar(this,1)">&nbsp;</span><span class="cmstar1" onmouseover="setCMTempStar(this.parentNode,2,'cmStarMsg')" onclick="setCMStar(this,2)">&nbsp;</span><span class="cmstar1" onmouseover="setCMTempStar(this.parentNode,3,'cmStarMsg')" onclick="setCMStar(this,3)">&nbsp;</span><span class="cmstar1" onmouseover="setCMTempStar(this.parentNode,4,'cmStarMsg')" onclick="setCMStar(this,4)">&nbsp;</span><span class="cmstar1" onmouseover="setCMTempStar(this.parentNode,5,'cmStarMsg')" onclick="setCMStar(this,5)">&nbsp;</span>
+					<span class="blankcharacter1"></span><span class="txtLvl" id="cmStarMsg"></span>
+				</div>										 
+			 </div>
+	 <div class="pull-right">
+ <input style="width:80px;" class="btn btn-primary btn-smd" id="btncomment" type="button" onclick="PublishComment();" data-localize="bbs_btn_pubilsh" value="发表">
+ </div>
+				<div class="font-size-12 lh34 text-grey pull-right mr20" limit-length="">					
+					<label>还可以输入<span class="text-normal" el-allow-num="">1000</span>字</label>
+				</div>
+ </div>
+ </div>
+ </div>
+ 
+<input type="hidden" id="hfGradeLvl" value="0">
+<input type="hidden" id="hfIsShowCMStar" value="1">
+<div id="dvCommentList" class="mt20"> 
+
+
+  
+
+
+
+
+
+<script type="text/javascript">
+ //回复评论
+ function ReplyComment(id, velocityCount, masterId, thirdId, thirdType, packageId) {
+ var txt = $("#txtreply" + velocityCount);
+ var comValue = jQuery.trim(txt.val());
+
+ if (comValue == jQuery.i18n.map["sty_msg_enterreply"] || comValue == "") {
+ showWarningMsg(jQuery.i18n.map["sty_msg_fillreply"]);
+ txt.focus();
+ return false;
+ }
+ if (comValue.length > 1000) {
+ showWarningMsg(jQuery.i18n.map["sty_msg_replynomore1000"] + comValue.length + "。");
+ return false;
+ }
+ showDealingMsg(jQuery.i18n.map["sys_msg_datasubmission"]);
+ var parentId = id;
+ var commentType = "Default";
+ var commentScore = 0;
+ var commentContent = comValue;
+ var comType = 3;
+
+ ReplyAjax(parentId, masterId, commentType, encodeURIComponent(commentContent), thirdId, thirdType, packageId, commentScore, comType, function () {
+ window.location.hash = "CommentAnchor";
+ });
+ }
+
+ //提交回复内容 id ,content
+ function ReplyAjax(parentId, masterId, commentType, commentContent, thirdId, thirdType, packageId, commentScore, comType) {
+ var checkComment = $("#hidCheckComments").val();
+
+ var arr = '{"parentId":"' + parentId + '","masterId":"' + masterId + '","commentType":"' + commentType + '","commentContent":"' + commentContent + '","thirdId":"' + thirdId + '","thirdType":"' + thirdType + '","packageId":"' + packageId + '","commentScore":"' + commentScore + '","comType":"' + comType + '"}';
+ var key = GetValidateKey();
+ if (arr && arr.indexOf('{') > -1) {
+ arr = arr.replace('{', '{"key":"' + key + '",');
+ }
+ else {
+ arr = arr.replace('{', '{"key":"' + key + '"');
+ }
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/kng/services/KngComService.svc/PublishCommentNew",
+ data: arr,
+ dataType: 'json',
+ cache: false,
+ success: function (result) {
+ closeDealingMsg();
+ result = eval('(' + result + ')');
+ if (result.Status == "Ok") {
+ DealAjaxResult(result.Data);
+ if (checkComment == "0") {
+ showSuccessMsg(jQuery.i18n.map["common_msg_submitsuccess"]);
+ } else {
+ showSuccessMsg(jQuery.i18n.map["sys_msg_submitcomment"]);
+ }
+ //
+ GetCommentData("0", "10");
+ } else if (result.Status == "DealERROR") {
+ var result = DealAjaxResult(result.Data);
+ } else {
+ showWarningMsg(result.Data);
+ }
+ },
+ error: function (data) {
+ closeDealingMsg();
+ showWarningMsg(jQuery.i18n.map["sty_msg_submissionfailed"]);
+ }
+ });
+ }
+
+
+ //删除评论 评论Id和评论者的Id
+ function DelComments(id, userId, masterId) {
+ var tip = jQuery.i18n.map["sys_msg_submitdelcomment"];
+
+ if (!confirm(tip)) {
+ return false;
+ }
+
+ var arr = '{"id":"' + id + '","userId":"' + userId + '","masterId":"' + masterId + '"}';
+
+ var key = GetValidateKey();
+ if (arr && arr.indexOf('{') > -1) {
+ arr = arr.replace('{', '{"key":"' + key + '",');
+ }
+ else {
+ arr = arr.replace('{', '{"key":"' + key + '"');
+ }
+
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/kng/services/KngComService.svc/DeleteComment",
+ data: arr,
+ dataType: 'json',
+ cache: false,
+ success: function (result) {
+ closeDealingMsg();
+ result = eval('(' + result + ')');
+ if (result.Status == "OK") {
+
+ GetCommentData("0", "10");
+
+ showSuccessMsg(jQuery.i18n.map["sys_msg_delcomment"]);
+
+ } else if (result.Status == "DealERROR") {
+ var result = DealAjaxResult(result.Data);
+ } else if (result.Status == "ForBid") {
+ showWarningMsg(jQuery.i18n.map["sys_msg_forbiddelcomment"]);
+ } else {
+ showWarningMsg(result.Data);
+ }
+ },
+ error: function (data) {
+ closeDealingMsg();
+ showWarningMsg(jQuery.i18n.map["sys_msg_delcommentfail"]);
+ }
+ });
+ }
+
+ //点赞
+ function praiseCount(id) {
+ var arr = '{"id":"' + id + '"}';
+ jQuery.ajax({
+ type: "POST",
+ contentType: "text/json",
+ url: "/kng/services/KngComService.svc/PraiseComment",
+ data: arr,
+ dataType: 'json',
+ cache: false,
+ success: function (msgResult) {
+ msgResult = eval('(' + msgResult + ')');
+ if (msgResult.Status == "OK") {
+ var tempCount = 0;
+ var count = $("#praiseCount" + id).html();
+ if (count == "" || typeof (count) == "undefined") {
+ $("#praiseCount" + id).html(1);
+ } else {
+ tempCount = parseInt(count) + 1;
+ $("#praiseCount" + id).html(tempCount);
+ }
+ $("#praiseCount" + id).removeClass("ml5 text-disable").addClass("ml5 text-link");
+ $("#spPraise" + id).removeClass("el-icon-praise-empty hand ml10").addClass("el-icon-praise hand ml10");
+ }
+ else {
+ showWarningMsg(msgResult.Data);
+ }
+ }
+ });
+ }
+
+ //获取评论数据
+ function GetCommentData(pageIndex, pageSize) {
+ var key = "MasterID";
+ var value = "f21189b5-d380-427f-bee3-ec98fdaf1bf1";
+
+ if (pageIndex && pageIndex != "") {
+ key += "|PageIndex";
+ value += "|" + pageIndex;
+ }
+
+ if (pageSize && pageSize != "") {
+ key += "|PageSize";
+ value += "|" + pageSize;
+ }
+
+ var PackageID = "f21189b5-d380-427f-bee3-ec98fdaf1bf1";
+ if (PackageID && PackageID != "") {
+ key += "|PackageID";
+ value += "|" + PackageID;
+ }
+
+
+
+ GetDataByLabelENameWithKng("dvCommentList", "KngCommentList30", 0, 0, key, value);
+ }
+
+ //显示回复框
+ function showHideDiv(id, obj) {
+ $("span[el-allow-num]").html(1000);
+ $("textarea[rp='reply']").val("");
+ try {
+ jQuery("#txtreply" + id).data('textarea').resetArea();
+ } catch (e) { }
+ if ($(obj).text() == jQuery.i18n.map["sty_lbl_canclereply"]) {
+ $(obj).text(jQuery.i18n.map["sty_lbl_reply"]);
+ jQuery("#divRestore" + id).slideToggle("slow");
+ return;
+ }
+
+ $(".reply_sp").each(function () {
+ if ($(this).text() == jQuery.i18n.map["sty_lbl_canclereply"]) {
+ $(this).text(jQuery.i18n.map["sty_lbl_reply"]);
+ }
+ });
+
+ jQuery(".replypanelHidden").each(function () {
+ if ($(this).attr("id") != "divRestore" + id) {
+ $(this).slideUp("slow");
+ }
+ });
+
+ if ($(obj).text() == jQuery.i18n.map["sty_lbl_reply"]) {
+ $(obj).text(jQuery.i18n.map["sty_lbl_canclereply"]);
+ jQuery("#divRestore" + id).slideToggle("slow");
+ }
+
+ }
+
+ //页面加载
+ jQuery(document).ready(function () {
+ //分页代码注册
+ var prev = jQuery("#navComment a[t='PreName']");
+ var next = jQuery("#navComment a[t='NextName']");
+ if (prev.length > 0) {
+ var url = prev.attr("href");
+ var index = url.substring(url.indexOf("pi=") + 3);
+ prev.attr("href", "javascript:void(0);");
+ prev.click(function () { GetCommentData(index, "10"); });
+ }
+ if (next.length > 0) {
+ var url2 = next.attr("href");
+ var index2 = url2.substring(url2.indexOf("pi=") + 3);
+ next.attr("href", "javascript:void(0);");
+ next.click(function () { GetCommentData(index2, "10"); });
+ }
+ jQuery("#navComment a.pagenumber").each(function () {
+ var url3 = jQuery(this).attr("href");
+ var index3 = url3.substring(url3.indexOf("pi=") + 3);
+ jQuery(this).attr("href", "javascript:void(0);");
+ jQuery(this).click(function () { GetCommentData(index3, "10"); });
+ });
+ //页面大小代码注册
+ jQuery("#navComment div.listitem").each(function () {
+ var code = jQuery(this).attr("id").substring(jQuery(this).attr("id").indexOf("_") + 1);
+ var size = jQuery(this).text();
+ this.onclick = function () { GetCommentData("1", size); };
+ });
+ $("#spCount").text("2");
+ });
+
+ //个人主页
+ function openPersonal(id) {
+ openURL("/myhome.htm" + "?userID=" + id);
+ }
+	
+</script>
+ 
+<div class="cmlistsection">
+ <div class="cmlistcontent">
+   <div class="cmitem clearfix">
+ <div class="head_leftimg clearfix">
+ <div class="headimgarea hand">
+ <div class="headborder" onclick="openPersonal('df8c0cf5-bc04-41da-9208-93e3ef3ec36a')">
+ <span title="史铭芳"><img class="headimage" src="https://picobd.yunxuetang.cn/person/13601042801/images/201912/bc13ffba355e4939b6befd5dce5d326b.jpg"></span>
+ </div>
+ </div>
+ <div class="itemcontent">
+ <div class="itemheader hand"> 
+ <div class="headerleft" onclick="openPersonal('df8c0cf5-bc04-41da-9208-93e3ef3ec36a')">
+								<span class="font-bold" title="史铭芳">史铭芳</span>								 
+ </div>
+ </div>
+  <div class="text-normal clearfix break-word">
+ <span class="pull-left el-icon-hat mr5">
+ 
+ </span>
+ <span class="pull-left font-size-12 text-color6">
+ 2020年快消行业及CRM业务经营策略指南3.0
+ </span>
+ </div>	
+  <div class="text-normal break-word mt10">
+							 <span class="box text-color6"><span>
+ 您好&nbsp;ikm搜同样关键字可以下载ppt
+ </span><a href="javascript:void(0)" class="pl5"></a></span>
+ </div>			
+ 		
+ <div class="clearfix mt10">
+ <span class="font-size-12 text-grey pull-left">2020-02-13</span> 
+  <div class="pull-right">
+ <span id="reply_8f4cd6af-3a54-4add-9c82-4de345129389" class="reply_sp hand font-size-12 text-grey" onclick="showHideDiv('1',this);"><span data-localize="sty_lbl_reply">回复</span></span>
+
+																<span id="spPraise8f4cd6af-3a54-4add-9c82-4de345129389" class="ml10 el-icon-praise-empty hand" onclick="return praiseCount('8f4cd6af-3a54-4add-9c82-4de345129389')"></span>
+								<span id="praiseCount8f4cd6af-3a54-4add-9c82-4de345129389" class="ml5 text-disable">1</span>
+								 </div>
+
+ </div>	
+ <div class="replypanelHidden mt20" id="divRestore1" style="display:none;"> 
+							<div el-textarea="">
+								<textarea rp="reply" id="txtreply1" class="form-control" cols="30" rows="5" maxlength="1000" data-localize="sty_msg_enterreply" placeholder="请输入回复内容"></textarea>								
+								<input class="btn btn-primary btn-smd pull-right mt10" id="btnReply" style="width:80px;" type="button" onclick="ReplyComment('8f4cd6af-3a54-4add-9c82-4de345129389','1','f35faf44-120e-47d4-a392-5c51c66e7cf5','','SingleStudy','');" data-localize="common_btn_submit" value="提交">
+							<div class="font-size-12 lh20 text-grey" limit-length="">还可以输入<span class="text-normal" el-allow-num="">1000</span>字</div></div>							 
+ <div class="clearstatic"></div> 
+ </div> 
+ 					</div>
+				</div> 
+ </div>
+    <div class="cmitem clearfix">
+ <div class="head_leftimg clearfix">
+ <div class="headimgarea hand">
+ <div class="headborder" onclick="openPersonal('7e0cec29-fdbd-4ae1-b29d-e8ba3e20f1b9')">
+ <span title="梁昱"><img class="headimage" src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/95.png"></span>
+ </div>
+ </div>
+ <div class="itemcontent">
+ <div class="itemheader hand"> 
+ <div class="headerleft" onclick="openPersonal('7e0cec29-fdbd-4ae1-b29d-e8ba3e20f1b9')">
+								<span class="font-bold" title="梁昱">梁昱</span>								 
+ </div>
+ </div>
+  <div class="text-normal clearfix break-word">
+ <span class="pull-left el-icon-hat mr5">
+ 
+ </span>
+ <span class="pull-left font-size-12 text-color6">
+ 2020年快消行业及CRM业务经营策略指南3.0
+ </span>
+ </div>	
+  <div class="text-normal break-word mt10">
+							 <span class="box text-color6"><span>
+ 这个怎么下载啊
+ </span><a href="javascript:void(0)" class="pl5"></a></span>
+ </div>			
+ 		
+ <div class="clearfix mt10">
+ <span class="font-size-12 text-grey pull-left">2020-02-13</span> 
+  <div class="pull-right">
+ <span id="reply_121ce6a0-f88f-434c-b657-4327e19d3f98" class="reply_sp hand font-size-12 text-grey" onclick="showHideDiv('2',this);"><span data-localize="sty_lbl_reply">回复</span></span>
+
+																<span id="spPraise121ce6a0-f88f-434c-b657-4327e19d3f98" class="ml10 el-icon-praise-empty hand" onclick="return praiseCount('121ce6a0-f88f-434c-b657-4327e19d3f98')"></span>
+								<span id="praiseCount121ce6a0-f88f-434c-b657-4327e19d3f98" class="ml5 text-disable">0</span>
+								 </div>
+
+ </div>	
+ <div class="replypanelHidden mt20" id="divRestore2" style="display:none;"> 
+							<div el-textarea="">
+								<textarea rp="reply" id="txtreply2" class="form-control" cols="30" rows="5" maxlength="1000" data-localize="sty_msg_enterreply" placeholder="请输入回复内容"></textarea>								
+								<input class="btn btn-primary btn-smd pull-right mt10" id="btnReply" style="width:80px;" type="button" onclick="ReplyComment('121ce6a0-f88f-434c-b657-4327e19d3f98','2','f35faf44-120e-47d4-a392-5c51c66e7cf5','','SingleStudy','5b464b8d-28dd-43f3-9b20-090b541409b6');" data-localize="common_btn_submit" value="提交">
+							<div class="font-size-12 lh20 text-grey" limit-length="">还可以输入<span class="text-normal" el-allow-num="">1000</span>字</div></div>							 
+ <div class="clearstatic"></div> 
+ </div> 
+ 							<div class="itemlongtext color4">
+								<div class="commentsection">
+									<div class="commentcontent">
+										 										<div class="commentitem">
+											<div class="replybox">
+												<div class="comment_leftimg clearfix">
+													<div class="replyheadimg hand" onclick="openPersonal('7e0cec29-fdbd-4ae1-b29d-e8ba3e20f1b9')">
+														<span title="梁昱"><img src="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/95.png?imageView2/0/w/100/h/100/format/jpg/interlace/1"></span>
+													</div>
+													<div class="rowcontent break-word clearfix">
+														<div class="headrow clearfix">
+														 															<span class="font-bold hand text-normal" title="梁昱" onclick="openPersonal('7e0cec29-fdbd-4ae1-b29d-e8ba3e20f1b9')">梁昱</span>
+																														<div class="text-normal break-word mt10 mb10"><span class="box text-color6"><span>好滴，谢谢</span><a href="javascript:void(0)" class="pl5"></a></span>
+															</div>
+															<div class="font-size-12">
+																<span class="text-grey pl5">2020-02-18</span> 
+ 															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+ 										 										<div class="commentitem">
+											<div class="replybox">
+												<div class="comment_leftimg clearfix">
+													<div class="replyheadimg hand" onclick="openPersonal('df8c0cf5-bc04-41da-9208-93e3ef3ec36a')">
+														<span title="史铭芳"><img src="https://picobd.yunxuetang.cn/person/13601042801/images/201912/bc13ffba355e4939b6befd5dce5d326b.jpg"></span>
+													</div>
+													<div class="rowcontent break-word clearfix">
+														<div class="headrow clearfix">
+														 															<span class="font-bold hand text-normal" title="史铭芳" onclick="openPersonal('df8c0cf5-bc04-41da-9208-93e3ef3ec36a')">史铭芳</span>
+																														<div class="text-normal break-word mt10 mb10"><span class="box text-color6"><span>您好&nbsp;iKM搜索关键字可以下载</span><a href="javascript:void(0)" class="pl5"></a></span>
+															</div>
+															<div class="font-size-12">
+																<span class="text-grey pl5">2020-02-13</span> 
+ 															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+ 																			</div>
+								</div>
+							</div>
+ 					</div>
+				</div> 
+ </div>
+   <div class="textcenter" style="margin-top:10px;" id="navComment">
+ </div>		
+</div> 
+</div>
+<script type="text/javascript">
+ function show() {
+ $(".box").each(function () {
+ var text = $(this).html();
+ var newBox = document.createElement("span");
+ var btn = document.createElement("a");
+ newBox.innerHTML = text.substring(0, 150);
+ btn.innerHTML = text.length > 150 ? "..." + jQuery.i18n.map["common_lbl_more"] : "";
+ btn.href = "javascript:void(0)";
+ btn.setAttribute("class", "pl5");
+ btn.onclick = function () {
+ if (btn.innerHTML == "..." + jQuery.i18n.map["common_lbl_more"]) {
+ btn.innerHTML = jQuery.i18n.map["common_lbl_slideup"];
+ newBox.innerHTML = text;
+ } else if (btn.innerHTML == jQuery.i18n.map["common_lbl_slideup"]) {
+ btn.innerHTML = "..." + jQuery.i18n.map["common_lbl_more"];
+ newBox.innerHTML = text.substring(0, 150);
+ }
+ }
+ $(this).html("");
+ $(this).append(newBox);
+ $(this).append(btn);
+ });
+ }
+ $(document).ready(function () {
+ show();
+ });
+</script>
+<script type="text/javascript">
+ $("textarea[maxLength]").eltextarea();
+</script>
+<script type="text/javascript">
+ $(document).ready(function () {
+ loadPropertiesForAsync("divComment");
+ loadPropertiesForAsync("dvCommentList");
+ });
+</script></div>
+
+<script type="text/javascript">
+ $(document).ready(function () {
+
+ loadPropertiesForAsync("commentDiv");
+ loadPropertiesForAsync("divComment");
+ loadPropertiesForAsync("dvCommentList");
+ });
+</script></div>
             </div>
             <div id="divRightContent" class="el-course-detail-right pt25">
                 
                 <div id="lcKonwledgeIntro_divLabelHtmlContents" style="height:100%;">
 	
 
-<script type = "text/javascript" >
+<script type="text/javascript">
 
  //个人主页
  function openPersonal(id) {
  	openURL("/myhome.htm" + "?userID=" + id);
  }
 	
-</script >
+</script>
 
 <div class="media hand mt50">
 		<div class="span-24" onclick="openPersonal('df8c0cf5-bc04-41da-9208-93e3ef3ec36a')">
 			<div class="span-7">
-				<img src="https://picobd.yunxuetang.cn/person/13601042801/images/201912/bc13ffba355e4939b6befd5dce5d326b.jpg?imageview2/0/w/100/h/100/format/jpg/interlace/1?r=49259445" class="circle-img" alt="" width="60" height="60" />
+				<img src="https://picobd.yunxuetang.cn/person/13601042801/images/201912/bc13ffba355e4939b6befd5dce5d326b.jpg?imageview2/0/w/100/h/100/format/jpg/interlace/1?r=78071680" class="circle-img" alt="" width="60" height="60">
 			</div>
 			<div class="span-17">
 				<div class="mt7">
 					<span class="text-normal font-bold font-size-16 v-mid" title="史铭芳">史铭芳</span>
 									</div>
-				<div class="text-color6 mt7"> 市场-营销-市场活动</div>
+				<div class="text-color6 mt7"> 市场-综合-综合</div>
 			</div>
 		</div>
 		</div>
@@ -1922,7 +2792,7 @@ var objectId=getQueryString("objectId");
                 <div id="lcKnowledgeExchange_divLabelHtmlContents" style="height:100%;">
 
 
-<script type = "text/javascript" >
+<script type="text/javascript">
  //兑换
  function knowlegeExhange(){
 	var knowledgeId=$("#hidKnowledgeID").val(); 		
@@ -1976,59 +2846,59 @@ var objectId=getQueryString("objectId");
 	$("#divExchange").hide();
  }
  	
-</script >
+</script>
 
 <div class="window-overlay"></div>
  <div class="el-white-dialog-container">
  <div id="divKnowledgeDetail" class="el-white-dialog" style="width:1100px;height:370px;margin-top: -185px;">
  <div class="el-white-dialog-close iconfont icon-guanbi" onclick="closeDiv(0)"></div>
  <div class="ph5">
- <div class="font-size-18"><span data-localize="sty_lbl_productinformation"></span></div>
+ <div class="font-size-18"><span data-localize="sty_lbl_productinformation">商品信息</span></div>
  <div class="mt12 el-course-exchange-box p20 clearfix">
  <div class="span-20">
  <div class="el-list-cover pull-left">
- <img width="100%" height="100%" src="" alt=""/>
+ <img width="100%" height="100%" src="" alt="">
 														<div class="el-cover-phonespt">
-								<span data-localize="sty_lbl_supportmobile"></span>
+								<span data-localize="sty_lbl_supportmobile">支持移动端学习</span>
 							</div>
 							 </div>
  <div class="el-list-body">
  <div class="font-size-16 ellipsis"></div>
  <div class="clearfix font-size-14 lh24 mt7">
  <div>
- <span class="text-grey"><span data-localize="sty_lbl_hours"></span>：</span>
- <span><span data-localize="sty_lbl_minute"></span></span>
+ <span class="text-grey"><span data-localize="sty_lbl_hours">学时</span>：</span>
+ <span><span data-localize="sty_lbl_minute">分钟</span></span>
  </div>
  <div>
- <span class="text-grey"><span data-localize="sty_lbl_commentscore"></span>：</span>
+ <span class="text-grey"><span data-localize="sty_lbl_commentscore">评分</span>：</span>
  <span class="iconstar"></span>
  </div>								
 																<div>
-									<span class="text-grey"><span data-localize="sty_lbl_expirationtime"></span>：</span>
+									<span class="text-grey"><span data-localize="sty_lbl_expirationtime">过期时间</span>：</span>
  <span>-</span>								
  </div>		
 								 </div>
  </div>
  </div>
  <div class="span-4 font-size-18 text-right pt40">
-		 <span class="text-orange-h mr10"></span><span data-localize="sty_lbl_points"></span>
+		 <span class="text-orange-h mr10"></span><span data-localize="sty_lbl_points">积分</span>
 		 </div>
  </div>
  <div class="mt25 text-right">
- 	<div class="font-size-16"><span data-localize="sty_lbl_duepoints"></span>：<span class="text-orange-h font-bold font-size-20"></span></div>
- 	<div class="text-grey mt8 mb25"><span data-localize="sty_lbl_accountpointsavailable"></span>：</div>
-											<button type="button" onclick="return knowlegeExhange();" class="btn btn-warning btn-lmd w-140"><span data-localize="sty_btn_productpay"></span></button>
+ 	<div class="font-size-16"><span data-localize="sty_lbl_duepoints">应付积分</span>：<span class="text-orange-h font-bold font-size-20"></span></div>
+ 	<div class="text-grey mt8 mb25"><span data-localize="sty_lbl_accountpointsavailable">可用积分</span>：</div>
+											<button type="button" onclick="return knowlegeExhange();" class="btn btn-warning btn-lmd w-140"><span data-localize="sty_btn_productpay">确认支付</span></button>
 					 </div>
  </div> 
  </div>
-		 <div id="divExchangeSuccess" class="el-white-dialog" style="width:1100px;height:370px;margin-top: -185px;display:none" >
+		 <div id="divExchangeSuccess" class="el-white-dialog" style="width:1100px;height:370px;margin-top: -185px;display:none">
  <div class="el-white-dialog-close iconfont icon-guanbi" onclick="closeDiv(1)"></div>
  <div class="ph25">
  <div class="el-xuanye-saved mt75"></div>
- <div class="font-size-20 text-center mt18"><span data-localize="sty_lbl_exchangesuccess"></span></div>
- <div class="text-center mt15"><span data-localize="sty_lbl_ordernumber"></span>：<span id="orderNum"></span></div>
+ <div class="font-size-20 text-center mt18"><span data-localize="sty_lbl_exchangesuccess">支付成功！</span></div>
+ <div class="text-center mt15"><span data-localize="sty_lbl_ordernumber">订单号</span>：<span id="orderNum"></span></div>
  <div class="text-right mt55">
- <button type="button" class="btn btn-primary btn-nm w-140" onclick="closeDiv(1);"><span data-localize="sys_btn_learnnow"></span></button>
+ <button type="button" class="btn btn-primary btn-nm w-140" onclick="closeDiv(1);"><span data-localize="sys_btn_learnnow">立即学习</span></button>
  </div>
  </div>
  </div>		
@@ -2036,9 +2906,9 @@ var objectId=getQueryString("objectId");
  <div class="el-white-dialog-close iconfont icon-guanbi" onclick="closeFailDiv()"></div>
  <div class="ph25">
  <div class="el-tip-error mt75"></div>
- <div class="font-size-20 text-center mt18"><span data-localize="sty_lbl_exchangefailed"></span></div>
+ <div class="font-size-20 text-center mt18"><span data-localize="sty_lbl_exchangefailed">支付失败！</span></div>
  <div class="text-right mt55 pt35">
- <button type="button" class="btn btn-primary btn-nm w-140" onclick="resetAgain();"><span data-localize="sty_btn_rewardagain"></span></button>
+ <button type="button" class="btn btn-primary btn-nm w-140" onclick="resetAgain();"><span data-localize="sty_btn_rewardagain">再试一次</span></button>
  </div>
  </div>
  </div>					
@@ -2048,22 +2918,22 @@ var objectId=getQueryString("objectId");
 	    </div>
     </div>
 
-    <div id="divValidateKey" style="display: none;">561de4ca-4c69-4e55-b389-0959193c0303</div>
-    <input type="hidden" name="hfIsFavorite" id="hfIsFavorite" value="0" />
-    <input type="hidden" name="hidTitle" id="hidTitle" value="2020数字营销业务经营指南全国线上春耕" />
-    <input type="hidden" name="hidUserName" id="hidUserName" value="0000064858" />
-    <input type="hidden" name="hidUserName1" id="hidUserName1" />  
-    <input type="hidden" name="hidIsShowStar" id="hidIsShowStar" value="1" />  
-    <input type="hidden" name="hidUserPhoto" id="hidUserPhoto" value="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/118.png" />  
-    <input type="hidden" name="hidAvgStar" id="hidAvgStar" />   
-    <input type="hidden" name="hfSourceId" id="hfSourceId" value="5b464b8d-28dd-43f3-9b20-090b541409b6" />
-    <input type="hidden" name="hidIsNeedPoint" id="hidIsNeedPoint" />  
-    <input type="hidden" name="hidKnowledgeID" id="hidKnowledgeID" value="f21189b5-d380-427f-bee3-ec98fdaf1bf1" />  
-    <input type="hidden" name="hidSourceID" id="hidSourceID" value="5b464b8d-28dd-43f3-9b20-090b541409b6" />    
-    <input type="hidden" name="hidIsExpire" id="hidIsExpire" />
-    <input type="hidden" name="hidRelateCourseKey" id="hidRelateCourseKey" /> 
-    <input type="hidden" name="hidIsGroup" id="hidIsGroup" />   
-    <input type="hidden" name="hidCheckComments" id="hidCheckComments" value="0" />
+    <div id="divValidateKey" style="display: none;">6e901b29-79e7-4b11-be3c-5f5cd0dbfbf9</div>
+    <input type="hidden" name="hfIsFavorite" id="hfIsFavorite" value="0">
+    <input type="hidden" name="hidTitle" id="hidTitle" value="2020数字营销业务经营指南全国线上春耕">
+    <input type="hidden" name="hidUserName" id="hidUserName" value="0000064858">
+    <input type="hidden" name="hidUserName1" id="hidUserName1">  
+    <input type="hidden" name="hidIsShowStar" id="hidIsShowStar" value="1">  
+    <input type="hidden" name="hidUserPhoto" id="hidUserPhoto" value="https://picobd.yunxuetang.cn/media/userfiles/userphotos/default/118.png">  
+    <input type="hidden" name="hidAvgStar" id="hidAvgStar">   
+    <input type="hidden" name="hfSourceId" id="hfSourceId" value="5b464b8d-28dd-43f3-9b20-090b541409b6">
+    <input type="hidden" name="hidIsNeedPoint" id="hidIsNeedPoint">  
+    <input type="hidden" name="hidKnowledgeID" id="hidKnowledgeID" value="f21189b5-d380-427f-bee3-ec98fdaf1bf1">  
+    <input type="hidden" name="hidSourceID" id="hidSourceID" value="5b464b8d-28dd-43f3-9b20-090b541409b6">    
+    <input type="hidden" name="hidIsExpire" id="hidIsExpire">
+    <input type="hidden" name="hidRelateCourseKey" id="hidRelateCourseKey"> 
+    <input type="hidden" name="hidIsGroup" id="hidIsGroup">   
+    <input type="hidden" name="hidCheckComments" id="hidCheckComments" value="0">
     </div>
 
       
@@ -2071,10 +2941,10 @@ var objectId=getQueryString("objectId");
         <div class="chaos-bg-color text-center">
             <div class="clearfix ph30">
                 <div class="no-phone-img"></div>
-                <div class="font-size-18 text-center"><span data-localize="sys_msg_needphone"></span></div>
-                <div class="font-szie-14 text-grey text-center mv10"><span data-localize="sys_msg_bindingmobile"></span></div>
+                <div class="font-size-18 text-center"><span data-localize="sys_msg_needphone">您还未绑定手机号</span></div>
+                <div class="font-szie-14 text-grey text-center mv10"><span data-localize="sys_msg_bindingmobile">绑定手机号后方可学习该知识噢！</span></div>
                 <div class="text-center">
-                    <input type="button" class="btn btn-primary mt15 binding-phone" data-localize="mine_lbl_bindimmediately" onclick="openBindPhone();" />
+                    <input type="button" class="btn btn-primary mt15 binding-phone" data-localize="mine_lbl_bindimmediately" onclick="openBindPhone();" value="立即绑定">
                 </div>
             </div>
         </div>
@@ -2335,11 +3205,11 @@ var objectId=getQueryString("objectId");
     
 <div class="aspNetHidden">
 
-	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CF20FC0F" />
-	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="pUbkgWeNytcH463qmQg03ChHzfxuurbAI2rihR2qQfVz10DHlRXjIc14etvo5TgItPpW08QxHNDrrVbWVm2BrsMXpsMuzL3gO2nT0D2eyuImjrVtG8JoMlr29Eiww7NtCUBLSuHB8cFZmVBhhFBIYc8LWQyRgVujBXAU9Es+4Qrcr8dIupl/dopKfqoLnLH9ElHWnWtqqPafed8TVrY/4JAfDu+r9E3DfjowOAFKSuxx6vCuOxEDUXlIBJinZOq8Rh/9Ktuf4GGfzuPHEGMMaYl09yC2qwa8u+aTb7xRNv5tS2YFeQx8sEjK+vmyGBaP4lr/1LS4MbqKXEkLsxJ0+gDv/IiJ0B2tuMTyrc17Y5dl21Wxs4T1VCVZz6i8NK9LQ4aTN3UQ8EpeQaw8/5CglVFgcL6Ub6cEOaQb9yM//ww1bLACKboDyoTSbNxVDyZOU13x0e0u0/Uavth7BhBXNQSudKBVbm7HdYEln1gfBe7IIZiHI84Jb8mn/EA=" />
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="CF20FC0F">
+	<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="vsCI2xknQiZkrpdbo5rCFzbxTeNtYgH0Z+zjoHrSeOBzWPRws1LGYRnFBux41gWxJ7CCuPkSwuBwxA7WAlK4tL8jTCsL9BIWFP+MnzgRBncNKE2q1iJlV6LB9pOmP/7SQkTA4QTKD0VoxSFgYARVJw8lqvPdoLT8nnvz3WgY4Y5eZtI6dhb1hV6nos/X0yZ46teI+WMOybGJuGPiEVXSiGeBMQldDR8nvWpC1fGIqXKeoPGM+0PLiE9b23IzBUunHxL633v4E65nTwwK284qzn+yxXWJ0OAFe2ORYKxh8q3yC2nOkvPPw8mjQptMTT77wIJ+WtM8hs34Zc004R2TU/Inbwyi+dlMRsJ7oXLyuG91btSntQZjdolwzx17mYS0bpGNAHsrsWwkusUybejMVOlRKA+VCZsxQqXlOwfl1EKz63c/NRACUXTn62hICoiiAFuzfVrW+jk8l26R//XrPShqZ3kfAHktQKFqrhSBJ1GA8iqc+FNid7bFOd8=">
 </div>
-<script language='javascript'>try {loadProperties('zh','kng');  }catch (e) {}</script></form>
+<script language="javascript">try {loadProperties('zh','kng');  }catch (e) {}</script></form>
  </div>
 
  
@@ -2348,7 +3218,7 @@ var objectId=getQueryString("objectId");
  
 <div style="margin:10px auto; text-align:center; color:#666666; line-height:24px;">
    <div>
- &copy; 2019 All Rights Reserved&nbsp;&nbsp;爱乐学 <span data-localize="home_lbl_copyright"></span>
+ © 2019 All Rights Reserved&nbsp;&nbsp;爱乐学 <span data-localize="home_lbl_copyright">版权所有</span>
 </div>
  <!--<div>-->
  <!--<a href="https://www.yonyoucloud.com/" target="_blank" data-localize="home_lbl_yunxuetang"></a> <span data-localize="home_lbl_technicalsupport"></span>-->
@@ -2364,5 +3234,5 @@ var objectId=getQueryString("objectId");
 
  
  
-</body>
-</html>
+
+</body></html>
