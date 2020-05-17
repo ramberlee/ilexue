@@ -234,7 +234,6 @@ class IlexueClient(object):
         for course in self.courses:
             self.learnCourse(
                 courseinfo=course)
-            self.cleanCsv(coursesReader)
 
     def cleanCsv(self, coursesReader):
         # 清理url.csv
