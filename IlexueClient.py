@@ -12,6 +12,7 @@ import demjson
 import execjs
 import requests
 from PyEvalJS import Runtime
+from bs4 import BeautifulSoup
 
 from Ilexue.settings import CSVDIR, USER_NAME, PASS_WORD
 
@@ -144,8 +145,10 @@ class IlexueClient(object):
                                     + ids0[16:20] + "-" + ids0[20:]
         try:
             print(courseinfo)
-            print(requests.get(courseinfo['siteURL'], headers=header,
-                               cookies=self.ilexueInfo['Cookie']))
+            pagehtml = requests.get(courseinfo['siteURL'], headers=header,
+                               cookies=self.ilexueInfo['Cookie'])
+            print(pagehtml.text)
+            soup = BeautifulSoup(pagehtml.text, "lxml")
             progress = self.updateprogress(course, header, self.ilexueInfo['Cookie'])
             print(progress)
             if progress.__contains__('error') and progress['error']['key'] == 'global.token.invalid':
@@ -157,11 +160,12 @@ class IlexueClient(object):
                 if progress['knowledgetype'] == 'DocumentKnowledge' else progress['viewSchedule']
             createactionLogJson = {
                 'kngId': course['knowledgeId'],
-                'bachNo': "",
+                'bachNo': soup.find('input',id='hidBachNo').get('value'),
                 'type': 'play',
                 'context': "开始播放时间：0，用户开始播放事件，(vediolength)视频总时长：" + str(progress['standardstudyhours'])
             }
-            self.createActionLog(createactionLogJson, header)
+            if progress['knowledgetype'] != 'DocumentKnowledge':
+                self.createActionLog(createactionLogJson, header)
             gap = 2
             count = int(standardStudyHours / gap) + 1
             for i in range(1, count):
