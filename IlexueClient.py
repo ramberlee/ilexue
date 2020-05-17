@@ -24,7 +24,7 @@ class IlexueClient(object):
     _instance_lock = threading.Lock()
 
     def __init__(self, *args, **kwargs):
-        pass
+        self.pool = ThreadPoolExecutor(max_workers=3)
 
     def __new__(cls, *args, **kwargs):
         if not hasattr(cls, '_instance'):
@@ -46,16 +46,18 @@ class IlexueClient(object):
     ilexueInfo = {}
     uniQueue = Queue()
     mysession = requests.session()
+    studyingCouses = set()
+    studyedCouses = set()
+    courses = []
 
     def startLearning(self):
         # pool = Pool(3)  # 创建拥有3个进程数量的进程池
-        pool = ThreadPoolExecutor(max_workers=1)
         # testFL:要处理的数据列表，run：处理testFL列表中数据的函数
         # client.ssoLogin(USER_NAME, PASS_WORD)
         while 1:
             if not self.uniQueue.empty():
                 item = self.uniQueue.get_nowait()
-                pool.submit(learnCourse, item)
+                self.pool.submit(learnCourse, item)
             time.sleep(3)
 
     def ssoLogin(self, username, password):
@@ -63,6 +65,7 @@ class IlexueClient(object):
             'Content-Type': 'application/x-www-form-urlencoded'
         }
         res = requests.post(self.casURL, data=self.getSsoRaw(username, password), headers=header)
+        print("casURL-info:" + str(res.text))
         try:
             info = res.json()
         except  Exception as e:
@@ -70,11 +73,13 @@ class IlexueClient(object):
         pattern = re.compile(r'[a-zA-z]+://[^\s]*[\w]', re.S)
         ssoLoginurl = re.search(pattern, info['data']).group(0)
         res = requests.get(ssoLoginurl, headers=header)
+        print("ssoLoginurl-info:" + str(res.text))
         yht_access_token = res.cookies['yht_access_token']
         header['Content-Type'] = r'application/x-www-form-urlencoded;charset=UTF-8'
         header['Cookie'] = r'yht_access_token=' + yht_access_token
         res = requests.get(self.getServiceInfoWithDetailURL + str(int(time.time())), headers=header,
                            cookies=res.cookies)
+        print("getServiceInfoWithDetailURL-info:" + str(res.text))
         try:
             ilexueSsoInfo = res.json()
         except  Exception as e:
@@ -115,7 +120,8 @@ class IlexueClient(object):
             "pageSize": 1,
             "studySize": 1,
             "studyTime": 120,
-            "type": 0 if courseinfo['siteURL'].find('video') > 0 else 1 if courseinfo['siteURL'].find('video') > 0 else '',
+            "type": 0 if courseinfo['siteURL'].find('video') > 0 else 1 if courseinfo['siteURL'].find(
+                'video') > 0 else '',
             "offLine": False,
             "end": False,
             "care": True,
@@ -142,7 +148,6 @@ class IlexueClient(object):
                                cookies=self.ilexueInfo['Cookie']))
             progress = self.updateprogress(course, header, self.ilexueInfo['Cookie'])
             print(progress)
-            progress = {'error': {'key': 'global.token.invalid', 'message': 'Token is invalid.'}}
             if progress.__contains__('error') and progress['error']['key'] == 'global.token.invalid':
                 self.ssoLogin(USER_NAME, PASS_WORD)
             standardStudyHours = int(progress["standardstudyhours"]) - int(progress["actualstudyhours"])
@@ -176,25 +181,30 @@ class IlexueClient(object):
                     print(result)
             print("结束:" + time.ctime(time.time()) + "++++" + str(standardStudyHours) + "-knowledgeId:" + course[
                 "knowledgeId"])
+            self.studyedCouses.add(courseinfo['id'])
         except Exception as e:
             print(e)
 
     def updateprogress(self, data, header, cookie):
         header['Content-Type'] = 'application/json'
+        print("updateprogress:"+self.updateprogressURL+"<>data:"+json.dumps(data))
         res = requests.post(self.updateprogressURL, data=json.dumps(data), headers=header, cookies=cookie)
         try:
             info = res.json()
         except Exception as e:
             info = {'data': res.text}
+        print("updateprogress-info:" + str(info))
         return info
 
     def createActionLog(self, data, header):
         header['Content-Type'] = 'application/json'
+        print("createActionLog:" + self.createActionLogURL + "<>data:" + json.dumps(data))
         res = requests.post(self.createActionLogURL, data=json.dumps(data), headers=header)
         try:
             info = res.json()
         except Exception as e:
             info = {'data': res.text}
+        print("createActionLog-info:" + str(info))
         return info
 
     def getEncryptRequest(self, id, data):
@@ -214,21 +224,38 @@ class IlexueClient(object):
             info = {'data': res.text}
         if isinstance(info, str):
             info = demjson.decode(info)
+        print("getEncryptRequest-info:" + str(info))
         return info['Data']
 
     def study(self):
         self.ssoLogin(USER_NAME, PASS_WORD)
-        courses = self.importCsv(CSVDIR)
-        next(courses)
-        for course in courses:
-            if len(course) < 3:
-                course.append('')
+        coursesReader = self.importCsv(CSVDIR)
+        self.pool.submit(self.cleanCsv, coursesReader)
+        for course in self.courses:
             self.learnCourse(
-                courseinfo={'id': course[0], 'siteURL': course[1], 'mastertype': str(course[2]).capitalize()})
+                courseinfo=course)
+            self.cleanCsv(coursesReader)
+
+    def cleanCsv(self, coursesReader):
+        # 清理url.csv
+        while len(self.studyedCouses) < len(self.studyingCouses):
+            csvdata = open(os.path.dirname(__file__) + CSVDIR, 'w', encoding='utf8')
+            csvWriter = csv.DictWriter(csvdata, fieldnames=coursesReader.fieldnames)
+            csvWriter.writeheader()
+            for courseTmp in self.courses:
+                if not self.studyedCouses.__contains__(courseTmp['id']):
+                    csvWriter.writerow(courseTmp)
+            csvdata.close()
+            time.sleep(60*10)
 
     def importCsv(self, CSVDIR):
         csvdata = open(os.path.dirname(__file__) + CSVDIR, 'r', encoding='utf8')
-        csvReader = csv.reader(csvdata)
+        csvReader = csv.DictReader(csvdata)
+        for course in csvReader:
+            if not self.studyingCouses.__contains__(course.get('id')):
+                self.courses.append(course)
+            self.studyingCouses.add(course.get('id'))
+        csvdata.close()
         return csvReader
 
 

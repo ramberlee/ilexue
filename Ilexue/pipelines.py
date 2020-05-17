@@ -21,7 +21,7 @@ class IlexuePipeline(object):
         IlexueClient().uniQueue.put(item)
         if not os.path.isfile(path):
             f = open(path, 'ab')
-            f.write(bytes('id,siteUrl,mastertype\n','utf-8'))
+            f.write(bytes('id,siteURL,mastertype\n','utf-8'))
         else:
             f = open(path, 'ab')
         mastertype = 'Plan' if item['siteURL'].find('plan/video') > -1 else ''

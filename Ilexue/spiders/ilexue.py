@@ -37,7 +37,6 @@ class Myspider(scrapy.Spider):
         # yield Request('http://ilexue.yonyou.com/Services/CommonService.svc/GetKnowledgeRecommendsList',
         #               callback=self.parseJson,
         #               meta={'header': {'Content-Type': 'text/json', 'Referer': 'http://ilexue.yonyou.com/'},'body':'{"limitp":100}'})
-        url = 'http://ilexue.yonyou.com/plan/c588a8f03db5429c89d180941b227a71.html'
         yield Request(url, callback=self.parse)
 
     def parseJson(self, response):
