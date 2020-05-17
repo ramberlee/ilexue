@@ -21,11 +21,12 @@ class IlexuePipeline(object):
         IlexueClient().uniQueue.put(item)
         if not os.path.isfile(path):
             f = open(path, 'ab')
-            f.write(bytes('id,siteUrl\n','utf-8'))
+            f.write(bytes('id,siteUrl,mastertype\n','utf-8'))
         else:
             f = open(path, 'ab')
-        str = '\n' + id + ','+item['siteURL']
-        f.write(bytes(str, 'utf-8'))
+        mastertype = 'Plan' if item['siteURL'].find('plan/video') > -1 else ''
+        strs = '\n' + id + ','+item['siteURL'] + ','+mastertype
+        f.write(bytes(strs, encoding='utf-8'))
         f.close()
         print(str)
         return item

@@ -6,6 +6,9 @@
 import scrapy
 import os
 
+from Ilexue.settings import CSVDIR
+
+
 class IlexueItem(scrapy.Item):
     # define the fields for your item here like:
     id = scrapy.Field()
@@ -22,5 +25,5 @@ class IlexueVideoItem(IlexueItem):
     # define the fields for your item here like:
     # name = scrapy.Field()
     path = scrapy.Field()
-    path = r'C:/Users/Administrator/Desktop/ilexue_scrapy/Ilexue/videourl/url.csv'
+    path = os.path.abspath('.')+CSVDIR
     id = scrapy.Field()

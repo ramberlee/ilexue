@@ -1,1 +1,10 @@
-Date: Fri, 06 Mar 2020 19:25:11 GMT
+Connection: close
+Transfer-Encoding: chunked
+Cache-Control: no-cache
+Content-Type: text/html; charset=utf-8
+Date: Sat, 16 May 2020 16:38:08 GMT
+Expires: -1
+Pragma: no-cache
+Server: Tengine
+Set-Cookie: XXTOWN_COOKIE_00018=35a1eb12-7592-48a2-9688-1563ccb6d2f5; expires=Tue, 16-Jun-2020 16:38:08 GMT; path=/; HttpOnly, XXTOWN_COOKIE_00018=35a1eb12-7592-48a2-9688-1563ccb6d2f5; expires=Tue, 16-Jun-2020 16:38:08 GMT; path=/; HttpOnly, XXTOWN_COOKIE_00018=35a1eb12-7592-48a2-9688-1563ccb6d2f5; expires=Tue, 16-Jun-2020 16:38:08 GMT; path=/; HttpOnly, XXTOWN_COOKIE_00018=35a1eb12-7592-48a2-9688-1563ccb6d2f5; expires=Tue, 16-Jun-2020 16:38:08 GMT; path=/; HttpOnly, XXTOWN_COOKIE_00018=35a1eb12-7592-48a2-9688-1563ccb6d2f5; expires=Tue, 16-Jun-2020 16:38:08 GMT; path=/; HttpOnly, route=3b9c823bca080c5dd563d92030f893ec; Path=/kng/
+X-Powered-By: ASP.NET

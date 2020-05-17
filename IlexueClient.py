@@ -115,13 +115,13 @@ class IlexueClient(object):
             "pageSize": 1,
             "studySize": 1,
             "studyTime": 120,
-            "type": 0,
+            "type": 0 if courseinfo['siteURL'].find('video') > 0 else 1 if courseinfo['siteURL'].find('video') > 0 else '',
             "offLine": False,
             "end": False,
             "care": True,
             "deviceId": "",
             "studyChapterIds": "",
-            "viewSchedule": 121.105073
+            "viewSchedule": 121.105073 if courseinfo['siteURL'].find('video') > 0 else 1,
         }
         ids = id.split('_')
         ids0 = ids[0]
@@ -139,10 +139,14 @@ class IlexueClient(object):
         try:
             print(courseinfo)
             print(requests.get(courseinfo['siteURL'], headers=header,
-                         cookies=self.ilexueInfo['Cookie']))
+                               cookies=self.ilexueInfo['Cookie']))
             progress = self.updateprogress(course, header, self.ilexueInfo['Cookie'])
             print(progress)
             standardStudyHours = int(progress["standardstudyhours"]) - int(progress["actualstudyhours"])
+            course['pageSize'] = progress['studypagesize']
+            course['studySize'] = progress['studypagesize']
+            course['viewSchedule'] = int(progress['viewSchedule']) \
+                if progress['knowledgetype'] == 'DocumentKnowledge' else progress['viewSchedule']
             createactionLogJson = {
                 'kngId': course['knowledgeId'],
                 'bachNo': "",
