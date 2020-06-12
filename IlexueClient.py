@@ -65,7 +65,8 @@ class IlexueClient(object):
         header = {
             'Content-Type': 'application/x-www-form-urlencoded'
         }
-        res = requests.post(self.casURL, data=self.getSsoRaw(username, password), headers=header)
+        # res = requests.post(self.casURL, data=self.getSsoRaw(username, password), headers=header)
+        res = self.mysession.post(self.casURL, data=self.getSsoRaw(username, password), headers=header)
         print("casURL-info:" + str(res.text))
         try:
             info = res.json()
@@ -73,13 +74,15 @@ class IlexueClient(object):
             info = {'data': res.text}
         pattern = re.compile(r'[a-zA-z]+://[^\s]*[\w]', re.S)
         ssoLoginurl = re.search(pattern, info['data']).group(0)
-        res = requests.get(ssoLoginurl, headers=header)
+        # res = requests.get(ssoLoginurl, headers=header)
+        res = self.mysession.get(ssoLoginurl, headers=header)
         print("ssoLoginurl-info:" + str(res.text))
         yht_access_token = res.cookies['yht_access_token']
         header['Content-Type'] = r'application/x-www-form-urlencoded;charset=UTF-8'
         header['Cookie'] = r'yht_access_token=' + yht_access_token
-        res = requests.get(self.getServiceInfoWithDetailURL + str(int(time.time())), headers=header,
-                           cookies=res.cookies)
+        # res = requests.get(self.getServiceInfoWithDetailURL + str(int(time.time())), headers=header,
+        #                    cookies=res.cookies)
+        res = self.mysession.get(self.getServiceInfoWithDetailURL + str(int(time.time())), headers=header)
         print("getServiceInfoWithDetailURL-info:" + str(res.text))
         try:
             ilexueSsoInfo = res.json()
@@ -87,8 +90,8 @@ class IlexueClient(object):
             ilexueSsoInfo = {'data': res.text}
         ilexuetokenURL = ilexueSsoInfo['data']['url']
         print(ilexuetokenURL)
-        res = requests.get(ilexuetokenURL)
-        self.mysession.get(ilexuetokenURL)
+        # res = requests.get(ilexuetokenURL)
+        res = self.mysession.get(ilexuetokenURL)
         try:
             ilexueInfo = res.json()
         except  Exception as e:
@@ -104,8 +107,8 @@ class IlexueClient(object):
     def getSsoRaw(self, username, password):
         data1 = open(os.path.dirname(__file__) + '/Ilexue/js/security.min.js', 'r', encoding='utf8').read()
         data2 = open(os.path.dirname(__file__) + '/Ilexue/js/interface.js', 'r', encoding='utf8').read()
-        runtime = Runtime()
-        runtime.compile(data1 + '\n' + data2)
+        # runtime = Runtime()
+        runtime = execjs.compile(data1 + '\n' + data2)
         return runtime.call('getraw', username, password)
 
     def learnCourse(self, courseinfo):
@@ -122,7 +125,7 @@ class IlexueClient(object):
             "studySize": 1,
             "studyTime": 120,
             "type": 0 if courseinfo['siteURL'].find('video') > 0 else 1 if courseinfo['siteURL'].find(
-                'video') > 0 else '',
+                'document') > 0 else '',
             "offLine": False,
             "end": False,
             "care": True,
@@ -145,37 +148,81 @@ class IlexueClient(object):
                                     + ids0[16:20] + "-" + ids0[20:]
         try:
             print(courseinfo)
-            pagehtml = requests.get(courseinfo['siteURL'], headers=header,
-                               cookies=self.ilexueInfo['Cookie'])
-            print(pagehtml.text)
+            # pagehtml = requests.get(courseinfo['siteURL'], headers=header,
+            #                    cookies=self.ilexueInfo['Cookie'])
+            pagehtml = self.mysession.get(courseinfo['siteURL'], headers=header)
+            # print(pagehtml.text)
+            print(courseinfo['siteURL'])
             soup = BeautifulSoup(pagehtml.text, "lxml")
             progress = self.updateprogress(course, header, self.ilexueInfo['Cookie'])
             print(progress)
             if progress.__contains__('error') and progress['error']['key'] == 'global.token.invalid':
                 self.ssoLogin(USER_NAME, PASS_WORD)
             standardStudyHours = int(progress["standardstudyhours"]) - int(progress["actualstudyhours"])
-            course['pageSize'] = progress['studypagesize']
-            course['studySize'] = progress['studypagesize']
-            course['viewSchedule'] = int(progress['viewSchedule']) \
-                if progress['knowledgetype'] == 'DocumentKnowledge' else progress['viewSchedule']
-            createactionLogJson = {
-                'kngId': course['knowledgeId'],
-                'bachNo': soup.find('input',id='hidBachNo').get('value'),
-                'type': 'play',
-                'context': "开始播放时间：0，用户开始播放事件，(vediolength)视频总时长：" + str(progress['standardstudyhours'])
-            }
-            if progress['knowledgetype'] != 'DocumentKnowledge':
-                self.createActionLog(createactionLogJson, header)
+            course['pageSize'] = progress['studypagesize'] if progress['studypagesize'] != 0 else course['pageSize']
+            course['studySize'] = progress['studypagesize'] if progress['studypagesize'] != 0 else course['studySize']
+            course['viewSchedule'] = int(course['viewSchedule']) \
+                if progress['knowledgetype'] == 'DocumentKnowledge' else course['viewSchedule']
+            # if progress['knowledgetype'] != 'DocumentKnowledge':
+            #     createactionLogJson = {
+            #         'kngId': course['knowledgeId'],
+            #         'bachNo': soup.find('input',id='hidBachNo').get('value') if soup.find('input',id='hidBachNo') != None else '',
+            #         'type': 'play',
+            #         'context': "开始播放时间：0，用户开始播放事件，(vediolength)视频总时长：" + str(progress['standardstudyhours'])
+            #     }
+            #     knows = re.findall(re.compile(r'"fileFullUrl":"(\S*?)".*?,"videoKeyId":"(\S*?)"', re.S), pagehtml.text)
+            #     knowfile = knows[0][0]
+            #     knowfilekey = knows[0][1]
+            #     print("knowfile:"+knowfile+"<>knowfilekey:"+knowfilekey)
+            #     self.createActionLog(createactionLogJson, header)
+            #     print(self.mysession.get(
+            #         "https://drm.media.baidubce.com:8888/v1/sdk-player/user/web/play?videoUrl="+knowfile+"&videoHeight=undefined&videoWidth"
+            #                                                                                              "=undefined&playerHeight=100%25&playerWidth=100%25&duration=&size=&startPosition=0&service=vod"
+            #                                                                                              "&time="+str.replace(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())),' ','%20')+'18'+"&sessionTime="+str(int(time.time()))+"&env=%7B%22flashVersion%22%3A0%2C"
+            #                                                                                                                                                                                                                                         "%22cyberPlayerVersion%22%3A%223.4.0%22%2C%22ak%22%3A%22b57e71d512c64ac39543b585ea3f32b1%22%2C"
+            #                                                                                                                                                                                                                                         "%22provider%22%3A%22videojs%22%2C%22config%22%3A%22%22%7D&sendTime="+str.replace(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())),' ','%20')))
+            #     print(self.mysession.get("http://api-component.yxt.com/v1/authex/bce/valid?f="+knowfile+"&m="+knowfilekey+"&e"
+            #                                                                                                               "="+str(int(time.time()))+"&k=abc"))
             gap = 2
             count = int(standardStudyHours / gap) + 1
+            startsec = time.time()
             for i in range(1, count):
                 time.sleep(60 * gap)
+                if progress['knowledgetype'] != 'DocumentKnowledge':
+                    createactionLogJson = {
+                        'kngId': course['knowledgeId'],
+                        'bachNo': soup.find('input', id='hidBachNo').get('value') if soup.find('input', id='hidBachNo') is not None else '',
+                        'type': 'play',
+                        'context': "开始播放时间：0，用户开始播放事件，(vediolength)视频总时长：" + str(progress['standardstudyhours'])
+                    }
+                    knows = re.findall(re.compile(r'"fileFullUrl":"(\S*?)".*?,"videoKeyId":"(\S*?)"', re.S),
+                                       pagehtml.text)
+                    knowfile = knows[0][0]
+                    knowfilekey = knows[0][1]
+                    print("knowfile:" + knowfile + "<>knowfilekey:" + knowfilekey)
+                    self.createActionLog(createactionLogJson, header)
+                    print(self.mysession.get(
+                        "https://drm.media.baidubce.com:8888/v1/sdk-player/user/web/play?videoUrl=" + knowfile + "&videoHeight=undefined&videoWidth"
+                                                                                                                 "=undefined&playerHeight=100%25&playerWidth=100%25&duration=&size=&startPosition=0&service=vod"
+                                                                                                                 "&time=" + str.replace(
+                            time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())), ' ',
+                            '%20') + '18' + "&sessionTime=" + str(
+                            int(time.time())) + "&env=%7B%22flashVersion%22%3A0%2C"
+                                                "%22cyberPlayerVersion%22%3A%223.4.0%22%2C%22ak%22%3A%22b57e71d512c64ac39543b585ea3f32b1%22%2C"
+                                                "%22provider%22%3A%22videojs%22%2C%22config%22%3A%22%22%7D&sendTime=" + str.replace(
+                            time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())), ' ', '%20')))
+                    print(self.mysession.get(
+                        "http://api-component.yxt.com/v1/authex/bce/valid?f=" + knowfile + "&m=" + knowfilekey + "&e"
+                                                                    "=" + str(int(time.time())) + "&k=abc"))
+                    course['viewSchedule'] = round(course['viewSchedule'] + time.time()-startsec,6)
                 result = {"X-Application-Context": ''}
                 while result["X-Application-Context"] == '' or (
                         "qidaapi:prod:10000" != result["X-Application-Context"]):
-                    res = requests.post(self.studySubmitURL + self.getEncryptRequest(id, course),
-                                        data=json.dumps(course),
-                                        headers=header)
+                    encrypt = self.getEncryptRequest(id, course)
+                    res = self.mysession.post(self.studySubmitURL + encrypt,
+                                              data=json.dumps(course),
+                                              headers=header)
+                    print(self.studySubmitURL + encrypt + "<>" + json.dumps(course))
                     try:
                         result['X-Application-Context'] = res.headers['X-Application-Context']
                     except Exception as e:
@@ -192,7 +239,8 @@ class IlexueClient(object):
     def updateprogress(self, data, header, cookie):
         header['Content-Type'] = 'application/json'
         print("updateprogress:"+self.updateprogressURL+"<>data:"+json.dumps(data))
-        res = requests.post(self.updateprogressURL, data=json.dumps(data), headers=header, cookies=cookie)
+        # res = requests.post(self.updateprogressURL, data=json.dumps(data), headers=header, cookies=cookie)
+        res = self.mysession.post(self.updateprogressURL, data=json.dumps(data), headers=header)
         try:
             info = res.json()
         except Exception as e:
@@ -203,7 +251,7 @@ class IlexueClient(object):
     def createActionLog(self, data, header):
         header['Content-Type'] = 'application/json'
         print("createActionLog:" + self.createActionLogURL + "<>data:" + json.dumps(data))
-        res = requests.post(self.createActionLogURL, data=json.dumps(data), headers=header)
+        res = self.mysession.post(self.createActionLogURL, data=json.dumps(data), headers=header)
         try:
             info = res.json()
         except Exception as e:
@@ -221,7 +269,7 @@ class IlexueClient(object):
         bodyjson = {
             'body': json.dumps(data, separators=(',', ':'))
         }
-        res = requests.post(self.getEncryptRequestURL, data=json.dumps(bodyjson, separators=(',', ':')), headers=header)
+        res = self.mysession.post(self.getEncryptRequestURL, data=json.dumps(bodyjson, separators=(',', ':')), headers=header)
         try:
             info = res.json()
         except Exception as e:
@@ -256,6 +304,9 @@ class IlexueClient(object):
                 if not self.studyedCouses.__contains__(courseTmp['id']):
                     csvWriter.writerow(courseTmp)
             csvdata.close()
+            # 1点退出
+            if int("01") == int(time.strftime('%H',time.localtime(time.time()))):
+                os._exit(0)
             time.sleep(60*10)
 
     def importCsv(self, CSVDIR):

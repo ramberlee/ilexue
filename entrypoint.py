@@ -1,10 +1,10 @@
-import _thread
 import time
 
 from scrapy.cmdline import execute
 
 # 为线程定义一个函数
 from IlexueClient import IlexueClient
+
 
 #execute(['scrapy', 'crawl', 'Ilexue'])
 
