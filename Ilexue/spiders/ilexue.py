@@ -19,24 +19,24 @@ importlib.reload(sys)
 
 class Myspider(scrapy.Spider):
     name = 'Ilexue'
-    # allowed_domains=['ilexue.yonyou.com']
+    # allowed_domains=['youlexue.yonyou.com']
     base = 'Ilexue/info/'
-    host = 'ilexue.yonyou.com'
+    host = 'youlexue.yonyou.com'
     ilexueSession = {}
 
     def start_requests(self):
         self.ilexueSession = requests.session()
         client = IlexueClient();
         token = client.ssoLogin(username=USER_NAME, password=PASS_WORD)['token']
-        url = 'http://ilexue.yonyou.com/ilexuehome.htm'
+        url = 'http://youlexue.yonyou.com/ilexuehome.htm'
         cookies = requests.utils.dict_from_cookiejar(self.ilexueSession.get(url + '?token=' + token).cookies)
         cookie_str = "; ".join([str(x) + "=" + str(y) for x, y in cookies.items()])
         # for cookie in cookies:
         #     cookie_str +=cookie.getValue()getKey()+'='+cookie.getValue()+'; '
         DEFAULT_REQUEST_HEADERS['Cookie'] = cookie_str
-        # yield Request('http://ilexue.yonyou.com/Services/CommonService.svc/GetKnowledgeRecommendsList',
+        # yield Request('http://youlexue.yonyou.com/Services/CommonService.svc/GetKnowledgeRecommendsList',
         #               callback=self.parseJson,
-        #               meta={'header': {'Content-Type': 'text/json', 'Referer': 'http://ilexue.yonyou.com/'},'body':'{"limitp":100}'})
+        #               meta={'header': {'Content-Type': 'text/json', 'Referer': 'http://youlexue.yonyou.com/'},'body':'{"limitp":100}'})
         yield Request(url, callback=self.parse)
 
     def parseJson(self, response):

@@ -7,6 +7,7 @@ NEWSPIDER_MODULE = 'Ilexue.spiders'
 MIDDLEWARES_MODULES = ['Ilexue.middlewares']
 
 SELENIUM_TIMEOUT=3
+CHROMEDRIVER_PATH='D:/chromedriver/chromedriver.exe'
 enabledMethod = ['GetDateForMap','displayMore','openURL','displayData','window.open']
 
 USER_NAME = 'lihrd@yonyou.com'

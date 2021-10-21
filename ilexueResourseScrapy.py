@@ -12,7 +12,7 @@ class IlexueSpider(object):
         self.username = username
         self.driver = webdriver.Firefox()
         self.set_cookie()
-        self.driver.get(url='http://ilexue.yonyou.com/ilexuehome.htm')
+        self.driver.get(url='http://youlexue.yonyou.com/ilexuehome.htm')
         self.is_login()
     def is_login(self):
         '''判断当前是否登陆'''
@@ -51,7 +51,7 @@ class IlexueSpider(object):
         n = self.driver.window_handles # 获取当前页句柄
         self.driver.switch_to.window (n[1])
         #print(self.driver.get_cookies())
-        self.driver.get(url='http://ilexue.yonyou.com/ilexuehome.htm')
+        self.driver.get(url='http://youlexue.yonyou.com/ilexuehome.htm')
         #WebDriverWait(self.driver,60,1).until(EC.presence_of_element_located((By.ID,'hylIndex0')))
         #time.sleep(5)
         self.save_cookie()

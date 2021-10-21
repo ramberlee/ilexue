@@ -13,6 +13,7 @@ import execjs
 import requests
 from PyEvalJS import Runtime
 from bs4 import BeautifulSoup
+import re
 
 from Ilexue.settings import CSVDIR, USER_NAME, PASS_WORD
 
@@ -42,8 +43,8 @@ class IlexueClient(object):
                                   '-1f9e-4adc-944d-a95d438334f9&serviceType=0&tm='
     studySubmitURL = "https://api-qidatestin.yunxuetang.cn/v1/study/submit?encryption="
     updateprogressURL = 'https://api-qidatestin.yunxuetang.cn/v1/study/updateprogress'
-    createActionLogURL = 'http://ilexue.yonyou.com/kng/services/KngComService.svc/CreateActionLog'
-    getEncryptRequestURL = 'http://ilexue.yonyou.com/kng/services/KngComService.svc/GetEncryptRequest'
+    createActionLogURL = 'http://youlexue.yonyou.com/kng/services/KngComService.svc/CreateActionLog'
+    getEncryptRequestURL = 'http://youlexue.yonyou.com/kng/services/KngComService.svc/GetEncryptRequest'
     ilexueInfo = {}
     uniQueue = Queue()
     mysession = requests.session()
@@ -115,11 +116,12 @@ class IlexueClient(object):
         header = {
             'token': self.ilexueInfo['token']
         }
-        id = courseinfo['id']
+        matchObj  = re.match('.*\\/([\\S]+).html', courseinfo['siteURL'])
+        id = matchObj.group(1)
         course = {
             "knowledgeId": '',
             "masterId": "",
-            "masterType": courseinfo["mastertype"],
+            "masterType": 'Plan' if courseinfo['siteURL'].find('/plan/') > 0 else '',
             "packageId": '',
             "pageSize": 1,
             "studySize": 1,
@@ -262,8 +264,8 @@ class IlexueClient(object):
     def getEncryptRequest(self, id, data):
         header = {
             'Content-Type': 'application/json',
-            'Referer': "http://ilexue.yonyou.com/kng/course/package/video/" + id + ".html" if id.find(
-                '_') > -1 else "http://ilexue.yonyou.com/kng/view/video/" + id + ".html"
+            'Referer': "http://youlexue.yonyou.com/kng/course/package/video/" + id + ".html" if id.find(
+                '_') > -1 else "http://youlexue.yonyou.com/kng/view/video/" + id + ".html"
 
         }
         bodyjson = {

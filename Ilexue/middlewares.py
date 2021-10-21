@@ -10,7 +10,7 @@ from scrapy.http import TextResponse
 from selenium.webdriver.support.ui import WebDriverWait
 from seleniumwire import webdriver
 
-from Ilexue.settings import DEFAULT_REQUEST_HEADERS, enabledMethod
+from Ilexue.settings import DEFAULT_REQUEST_HEADERS, CHROMEDRIVER_PATH, enabledMethod
 
 
 def synchronized(func):
@@ -104,7 +104,7 @@ class ScrapySeleniumDownloaderMiddleware(object):
 
         self.timeout = timeout
         self.options = options
-        self.browser = webdriver.Chrome(options=self.options)
+        self.browser = webdriver.Chrome(CHROMEDRIVER_PATH, options=self.options)
         self.wait = WebDriverWait(self.browser, self.timeout)
         # 初始化一些基本的变量
 
